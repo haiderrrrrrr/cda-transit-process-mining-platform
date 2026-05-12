@@ -1,0 +1,22 @@
+source_pdf,page,line,issue,raw_text,status,details
+FR-01_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 17 trips and 289 stop events.
+FR-03A_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 97 trips and 1261 stop events.
+FR-04_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 97 trips and 2425 stop events.
+FR-04A_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 33 trips and 231 stop events.
+FR-05_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 193 trips and 2702 stop events.
+FR-06_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 17 trips and 442 stop events.
+FR-07_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 97 trips and 2231 stop events.
+FR-08A_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 209 trips and 4807 stop events.
+FR-08C_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 48 trips and 1104 stop events.
+FR-09_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 65 trips and 1755 stop events.
+FR-10_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 19 trips and 475 stop events.
+FR-11_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 19 trips and 190 stop events.
+FR-12_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 12 trips and 300 stop events.
+FR-13_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 13 trips and 377 stop events.
+FR-14_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 65 trips and 1235 stop events.
+FR-14A_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 65 trips and 910 stop events.
+FR-15_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 33 trips and 528 stop events.
+FRB-01_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 196 trips and 2940 stop events.
+FRG-1_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 196 trips and 1960 stop events.
+ST-01_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 9 trips and 117 stop events.
+ST-02_Forward.pdf,,,none,,PASS,No extraction issues detected. Extracted 9 trips and 171 stop events.

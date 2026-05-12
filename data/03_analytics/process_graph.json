@@ -1,0 +1,6190 @@
+{
+  "nodes": [
+    {
+      "id": "a k bari road",
+      "label": "A.K Bari Road",
+      "routes": [
+        "FR-07",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "abpara",
+      "label": "Abpara",
+      "routes": [
+        "FR-08A",
+        "FRG-1",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "abpara market",
+      "label": "Abpara Market",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "afridi bagh",
+      "label": "Afridi Bagh",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "ahmad nagar",
+      "label": "Ahmad Nagar",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "airport enclave",
+      "label": "Airport Enclave",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "aiwan e sadar colony",
+      "label": "Aiwan e Sadar Colony",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "akbar niazi hospital",
+      "label": "Akbar Niazi Hospital",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "akram city",
+      "label": "Akram City",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "al wadi colony",
+      "label": "Al Wadi Colony",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "askari cement factory road",
+      "label": "Askari Cement Factory Road",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "athal chowk",
+      "label": "Athal Chowk",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "b 17 gate no 1",
+      "label": "B-17 Gate no. 1",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "b 17 gate no 2",
+      "label": "B-17 Gate no. 2",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "babul quaid",
+      "label": "Babul Quaid",
+      "routes": [
+        "FR-04A"
+      ]
+    },
+    {
+      "id": "bahria university",
+      "label": "Bahria University",
+      "routes": [
+        "FR-03A",
+        "ST-01"
+      ]
+    },
+    {
+      "id": "bahtar morh",
+      "label": "Bahtar Morh",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "bangu chowk",
+      "label": "Bangu Chowk",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "bank colony",
+      "label": "Bank Colony",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "bar council",
+      "label": "Bar Council",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "barakahu",
+      "label": "Barakahu",
+      "routes": [
+        "FR-14",
+        "FRG-1"
+      ]
+    },
+    {
+      "id": "barakahu bazar",
+      "label": "Barakahu Bazar",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "barakahu terminal",
+      "label": "Barakahu Terminal",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "bari imam",
+      "label": "Bari Imam",
+      "routes": [
+        "FR-04",
+        "FR-04A"
+      ]
+    },
+    {
+      "id": "basti",
+      "label": "Basti",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "bhera pull",
+      "label": "Bhera Pull",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "british homes",
+      "label": "British Homes",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "c type quaid e azam colony",
+      "label": "C-Type Quaid-e-Azam Colony",
+      "routes": [
+        "FR-04A"
+      ]
+    },
+    {
+      "id": "cda",
+      "label": "CDA",
+      "routes": [
+        "FR-08A",
+        "FRG-1",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "cda complain center",
+      "label": "CDA Complain Center",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "cda stop",
+      "label": "CDA Stop",
+      "routes": [
+        "FR-09",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "comsats university",
+      "label": "COMSATS University",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "ctti",
+      "label": "CTTI",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "capt naeem tufail shaheed chow",
+      "label": "Capt. Naeem Tufail Shaheed Chow",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "carriage factory",
+      "label": "Carriage Factory",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "chaman metro station",
+      "label": "Chaman Metro Station",
+      "routes": [
+        "FR-06",
+        "FR-07"
+      ]
+    },
+    {
+      "id": "chatta bakhtawar",
+      "label": "Chatta Bakhtawar",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "children hospital",
+      "label": "Children Hospital",
+      "routes": [
+        "FR-04",
+        "FR-07",
+        "FR-08A",
+        "FR-08C",
+        "FRB-01",
+        "FRG-1"
+      ]
+    },
+    {
+      "id": "chishtiabad",
+      "label": "Chishtiabad",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "civil ct road",
+      "label": "Civil CT Road",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "col ammanullah road",
+      "label": "Col. Ammanullah Road",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "college morh",
+      "label": "College Morh",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "commmunity health center",
+      "label": "Commmunity Health Center",
+      "routes": [
+        "FR-04A"
+      ]
+    },
+    {
+      "id": "d 12",
+      "label": "D-12",
+      "routes": [
+        "FR-05"
+      ]
+    },
+    {
+      "id": "d 12 markaz",
+      "label": "D-12 Markaz",
+      "routes": [
+        "FR-05",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "d 12 service road",
+      "label": "D-12 Service Road",
+      "routes": [
+        "FR-05",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "d type quaid e azam colony",
+      "label": "D-Type Quaid e Azam Colony",
+      "routes": [
+        "FR-04A"
+      ]
+    },
+    {
+      "id": "dha gate 07",
+      "label": "DHA Gate 07",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "dha gate 08",
+      "label": "DHA Gate 08",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "daman e koh",
+      "label": "Daman e Koh",
+      "routes": [
+        "ST-01"
+      ]
+    },
+    {
+      "id": "dental hospital",
+      "label": "Dental Hospital",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "development park",
+      "label": "Development Park",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "dhok badam",
+      "label": "Dhok Badam",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "dhok dhollian",
+      "label": "Dhok Dhollian",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "dhok kala khan",
+      "label": "Dhok Kala Khan",
+      "routes": [
+        "FR-09",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "dhok miskeen",
+      "label": "Dhok Miskeen",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "dhokri stop",
+      "label": "Dhokri Stop",
+      "routes": [
+        "FR-14"
+      ]
+    },
+    {
+      "id": "dhuma",
+      "label": "Dhuma",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "diplomatic enclave gate 4",
+      "label": "Diplomatic Enclave Gate 4",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "doiyan",
+      "label": "Doiyan",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "e 11 2 fechs islamabad international hospita",
+      "label": "E-11/2 / FECHS / Islamabad International Hospita",
+      "routes": [
+        "FR-05"
+      ]
+    },
+    {
+      "id": "f 10 markaz",
+      "label": "F-10 Markaz",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "f 10 f 11 chowk",
+      "label": "F-10/F-11 Chowk",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "f 11 markaz",
+      "label": "F-11 Markaz",
+      "routes": [
+        "FR-06",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "f 7 markaz",
+      "label": "F-7 Markaz",
+      "routes": [
+        "FR-03A"
+      ]
+    },
+    {
+      "id": "f 8 markaz",
+      "label": "F-8 Markaz",
+      "routes": [
+        "FR-03A",
+        "ST-01"
+      ]
+    },
+    {
+      "id": "f 9 park",
+      "label": "F-9 Park",
+      "routes": [
+        "FR-03A",
+        "FR-06",
+        "ST-01"
+      ]
+    },
+    {
+      "id": "fast university",
+      "label": "FAST University",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "faisal masjid",
+      "label": "Faisal Masjid",
+      "routes": [
+        "FR-03A",
+        "ST-01"
+      ]
+    },
+    {
+      "id": "faisal morh f 7 f 8",
+      "label": "Faisal Morh F-7/F-8",
+      "routes": [
+        "ST-01"
+      ]
+    },
+    {
+      "id": "faizabad",
+      "label": "Faizabad",
+      "routes": [
+        "FR-08C"
+      ]
+    },
+    {
+      "id": "faizabad metro station",
+      "label": "Faizabad Metro Station",
+      "routes": [
+        "FR-09",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "fateh jang",
+      "label": "Fateh Jang",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "fauji colony",
+      "label": "Fauji Colony",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "fazaia",
+      "label": "Fazaia",
+      "routes": [
+        "FR-15",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "fazaia housing scheme",
+      "label": "Fazaia Housing Scheme",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "federal government college",
+      "label": "Federal Government College",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "flower market",
+      "label": "Flower Market",
+      "routes": [
+        "FR-03A"
+      ]
+    },
+    {
+      "id": "foreign affairs office",
+      "label": "Foreign Affairs Office",
+      "routes": [
+        "FR-08A",
+        "FRG-1"
+      ]
+    },
+    {
+      "id": "g 10 markaz",
+      "label": "G-10 Markaz",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "g 10 metro station",
+      "label": "G-10 Metro Station",
+      "routes": [
+        "FR-05"
+      ]
+    },
+    {
+      "id": "g 10 g 11",
+      "label": "G-10/G-11",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "g 11 markaz",
+      "label": "G-11 Markaz",
+      "routes": [
+        "FR-07",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "g 13 metro station",
+      "label": "G-13 Metro Station",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "g 15 h 15",
+      "label": "G-15/H-15",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "g 16 1",
+      "label": "G-16/1",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "g 16 h 16",
+      "label": "G-16/H-16",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "g 6 1 2",
+      "label": "G-6/1.2",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "g 8 markaz",
+      "label": "G-8 Markaz",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "g 9 markaz",
+      "label": "G-9 Markaz",
+      "routes": [
+        "FR-06",
+        "FR-07"
+      ]
+    },
+    {
+      "id": "g 9 1 and g 9 4",
+      "label": "G-9/1 and G-9/4",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "g 9 3",
+      "label": "G-9/3",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "g 9 4",
+      "label": "G-9/4",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "g 9 4 park",
+      "label": "G-9/4 Park",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "g10 g11",
+      "label": "G10/G11",
+      "routes": [
+        "FR-05"
+      ]
+    },
+    {
+      "id": "gangal",
+      "label": "Gangal",
+      "routes": [
+        "FR-15",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "garden avenue",
+      "label": "Garden Avenue",
+      "routes": [
+        "FR-08C",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "garhi hasu khan",
+      "label": "Garhi Hasu Khan",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "golra morh",
+      "label": "Golra Morh",
+      "routes": [
+        "FR-09",
+        "FR-10",
+        "FR-11"
+      ]
+    },
+    {
+      "id": "golra morh metro station",
+      "label": "Golra Morh Metro Station",
+      "routes": [
+        "FR-09",
+        "FR-11",
+        "FR-13"
+      ]
+    },
+    {
+      "id": "golra sharif f 11 3",
+      "label": "Golra Sharif F-11/3",
+      "routes": [
+        "FR-06",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "golra sharif",
+      "label": "Golra sharif",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "graceland housing society",
+      "label": "Graceland Housing Society",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "green avenue",
+      "label": "Green Avenue",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "gulberg",
+      "label": "Gulberg",
+      "routes": [
+        "FR-15",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "gulshan al huda community",
+      "label": "Gulshan Al Huda Community",
+      "routes": [
+        "FR-08A",
+        "FR-08C"
+      ]
+    },
+    {
+      "id": "gulshan e anwar",
+      "label": "Gulshan e Anwar",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "h 8",
+      "label": "H-8",
+      "routes": [
+        "FR-08C",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "hammad uddin road",
+      "label": "Hammad Uddin Road",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "hassan abdal",
+      "label": "Hassan Abdal",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "hattar",
+      "label": "Hattar",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "home of military transport",
+      "label": "Home of Military Transport",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "hostel city",
+      "label": "Hostel City",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "i 14 markaz",
+      "label": "I-14 Markaz",
+      "routes": [
+        "FR-11"
+      ]
+    },
+    {
+      "id": "i 14 1 park",
+      "label": "I-14/1 Park",
+      "routes": [
+        "FR-11"
+      ]
+    },
+    {
+      "id": "icb college",
+      "label": "ICB College",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "iesco",
+      "label": "IESCO",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "iesco d 12",
+      "label": "IESCO D-12",
+      "routes": [
+        "FR-05",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "ijp metro station",
+      "label": "IJP Metro Station",
+      "routes": [
+        "FR-09",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "imc hospital",
+      "label": "IMC Hospital",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "imcb f10 4",
+      "label": "IMCB F10/4",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "imcg f 10 2",
+      "label": "IMCG F-10/2",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "imcg i 14 3",
+      "label": "IMCG I-14/3",
+      "routes": [
+        "FR-11"
+      ]
+    },
+    {
+      "id": "itp driving license centre",
+      "label": "ITP Driving License Centre",
+      "routes": [
+        "FR-08C",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "ibn e sina metro station",
+      "label": "Ibn-e-Sina Metro Station",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "institute of modern studies",
+      "label": "Institute of Modern Studies",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "iqbal hall",
+      "label": "Iqbal Hall",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "iqbal town",
+      "label": "Iqbal Town",
+      "routes": [
+        "FR-09",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "islamabad international hospital",
+      "label": "Islamabad International Hospital",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "islamic university",
+      "label": "Islamic University",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "jinnah colony",
+      "label": "Jinnah Colony",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "kaak pul",
+      "label": "Kaak Pul",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "kach naar park i 8",
+      "label": "Kach Naar Park I-8",
+      "routes": [
+        "FR-08C",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "karachi company",
+      "label": "Karachi Company",
+      "routes": [
+        "FR-06",
+        "FR-07"
+      ]
+    },
+    {
+      "id": "kashmir chowk",
+      "label": "Kashmir Chowk",
+      "routes": [
+        "FR-08A",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "katarian chungi",
+      "label": "Katarian Chungi",
+      "routes": [
+        "FR-09",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "katarian pull",
+      "label": "Katarian Pull",
+      "routes": [
+        "FR-09",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "katchery",
+      "label": "Katchery",
+      "routes": [
+        "FR-03A",
+        "ST-01"
+      ]
+    },
+    {
+      "id": "khanna pul",
+      "label": "Khanna Pul",
+      "routes": [
+        "FR-09",
+        "FR-15",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "khayaban e iqbal",
+      "label": "Khayaban e Iqbal",
+      "routes": [
+        "FR-05"
+      ]
+    },
+    {
+      "id": "kohinoor mill",
+      "label": "Kohinoor Mill",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "kohinoor mill colony",
+      "label": "Kohinoor Mill Colony",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "kohsar road",
+      "label": "Kohsar Road",
+      "routes": [
+        "FR-03A"
+      ]
+    },
+    {
+      "id": "kohsar road f 7 marka",
+      "label": "Kohsar Road/F-7 Marka",
+      "routes": [
+        "ST-01"
+      ]
+    },
+    {
+      "id": "koral town",
+      "label": "Koral Town",
+      "routes": [
+        "FR-15",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "kurang road stop",
+      "label": "Kurang Road Stop",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "kuri road",
+      "label": "Kuri Road",
+      "routes": [
+        "FR-09",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "lake view park",
+      "label": "Lake View Park",
+      "routes": [
+        "FR-14",
+        "FRG-1"
+      ]
+    },
+    {
+      "id": "lodges park",
+      "label": "Lodges Park",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "losar sharfoo",
+      "label": "Losar Sharfoo",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "mci model school",
+      "label": "MCI Model School",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "madni chowk",
+      "label": "Madni Chowk",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "major road",
+      "label": "Major Road",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "malakand stop",
+      "label": "Malakand Stop",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "malpur",
+      "label": "Malpur",
+      "routes": [
+        "FR-14",
+        "FRG-1"
+      ]
+    },
+    {
+      "id": "mandi morh",
+      "label": "Mandi Morh",
+      "routes": [
+        "FR-01",
+        "FR-09",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "mangial link road 1",
+      "label": "Mangial Link Road 1",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "mangial link road 2",
+      "label": "Mangial Link Road 2",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "mangial main stop",
+      "label": "Mangial Main Stop",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "mangu town",
+      "label": "Mangu Town",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "margalla",
+      "label": "Margalla",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "margalla town",
+      "label": "Margalla Town",
+      "routes": [
+        "FR-08C",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "maroof international hospital",
+      "label": "Maroof International Hospital",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "masjid abu al qasim",
+      "label": "Masjid Abu Al Qasim",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "mehrabad",
+      "label": "Mehrabad",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "melody market",
+      "label": "Melody Market",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "metro cnc",
+      "label": "Metro CNC",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "metropolitan corporation",
+      "label": "Metropolitan Corporation",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "ministry of foreign affairs",
+      "label": "Ministry of Foreign Affairs",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "mohri patak",
+      "label": "Mohri Patak",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "motorway chowk",
+      "label": "Motorway Chowk",
+      "routes": [
+        "FR-11"
+      ]
+    },
+    {
+      "id": "muhallah noori bagh",
+      "label": "Muhallah Noori Bagh",
+      "routes": [
+        "FR-04A"
+      ]
+    },
+    {
+      "id": "multy stop",
+      "label": "Multy Stop",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "multy stop islamabad gardens",
+      "label": "Multy Stop/Islamabad Gardens",
+      "routes": [
+        "FR-05"
+      ]
+    },
+    {
+      "id": "mumtaz city",
+      "label": "Mumtaz City",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "murghzar zoo",
+      "label": "Murghzar Zoo",
+      "routes": [
+        "ST-01"
+      ]
+    },
+    {
+      "id": "muslim colony",
+      "label": "Muslim Colony",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "n 5 metro station",
+      "label": "N-5 Metro Station",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "n a r c colony",
+      "label": "N.A.R.C Colony",
+      "routes": [
+        "FR-08C"
+      ]
+    },
+    {
+      "id": "n i h allergy center",
+      "label": "N.I.H Allergy Center",
+      "routes": [
+        "FR-08C"
+      ]
+    },
+    {
+      "id": "n5 metro station",
+      "label": "N5 Metro Station",
+      "routes": [
+        "FR-11"
+      ]
+    },
+    {
+      "id": "nadra chowk",
+      "label": "NADRA Chowk",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "narc colony",
+      "label": "NARC Colony",
+      "routes": [
+        "FR-08A",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "nih allergy center",
+      "label": "NIH Allergy Center",
+      "routes": [
+        "FR-08A",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "nori hospital",
+      "label": "NORI Hospital",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "npa stop",
+      "label": "NPA Stop",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "npf housing society",
+      "label": "NPF Housing Society",
+      "routes": [
+        "FR-05",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "nust eme college",
+      "label": "NUST EME College",
+      "routes": [
+        "FR-11"
+      ]
+    },
+    {
+      "id": "nust metro station",
+      "label": "NUST Metro Station",
+      "routes": [
+        "FR-01",
+        "FR-05",
+        "FR-07",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "nai abadi",
+      "label": "Nai Abadi",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "national library",
+      "label": "National Library",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "naval complex",
+      "label": "Naval Complex",
+      "routes": [
+        "FR-03A",
+        "ST-01"
+      ]
+    },
+    {
+      "id": "nawab abad",
+      "label": "Nawab Abad",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "new city phase 01",
+      "label": "New City Phase 01",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "new city phase 02",
+      "label": "New City Phase 02",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "ogti stop",
+      "label": "OGTI Stop",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "opf girls college",
+      "label": "OPF Girls College",
+      "routes": [
+        "FR-06",
+        "FR-10"
+      ]
+    },
+    {
+      "id": "paec general hospital",
+      "label": "PAEC General Hospital",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "paf hospital",
+      "label": "PAF Hospital",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "pechs",
+      "label": "PECHS",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "pha flats",
+      "label": "PHA Flats",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "pims",
+      "label": "PIMS",
+      "routes": [
+        "FRB-01",
+        "FRG-1",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "pims hospital",
+      "label": "PIMS Hospital",
+      "routes": [
+        "FR-03A",
+        "FR-04",
+        "FR-07",
+        "FR-08A",
+        "FR-08C",
+        "ST-01"
+      ]
+    },
+    {
+      "id": "pims metro station",
+      "label": "PIMS Metro Station",
+      "routes": [
+        "FR-03A"
+      ]
+    },
+    {
+      "id": "ptcl f 11",
+      "label": "PTCL F-11",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "ptcl i 10",
+      "label": "PTCL I-10",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "pwd housing society",
+      "label": "PWD Housing Society",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "pagh chowk",
+      "label": "Pagh Chowk",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "pakistan gate",
+      "label": "Pakistan gate",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "park view city",
+      "label": "Park View City",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "parveen shakir road",
+      "label": "Parveen Shakir Road",
+      "routes": [
+        "FR-03A",
+        "ST-01"
+      ]
+    },
+    {
+      "id": "phulgran",
+      "label": "Phulgran",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "pims metro station",
+      "label": "Pims Metro Station",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "pindora chungi",
+      "label": "Pindora Chungi",
+      "routes": [
+        "FR-09",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "pir wadhai morh",
+      "label": "Pir Wadhai Morh",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "police flats",
+      "label": "Police Flats",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "police foundation",
+      "label": "Police Foundation",
+      "routes": [
+        "FR-05"
+      ]
+    },
+    {
+      "id": "police foundation metro station",
+      "label": "Police Foundation Metro Station",
+      "routes": [
+        "FR-01",
+        "FR-07"
+      ]
+    },
+    {
+      "id": "prem nagar faqeeran",
+      "label": "Prem Nagar Faqeeran",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "pully stop",
+      "label": "Pully Stop",
+      "routes": [
+        "FR-04",
+        "FR-09",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "punjab college",
+      "label": "Punjab College",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "quaid azam university",
+      "label": "Quaid Azam University",
+      "routes": [
+        "FR-04A"
+      ]
+    },
+    {
+      "id": "qutbal",
+      "label": "Qutbal",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "riphah international university",
+      "label": "RIPHAH International University",
+      "routes": [
+        "FR-11"
+      ]
+    },
+    {
+      "id": "radio pakistan",
+      "label": "Radio Pakistan",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "rafiullah shaheed chowk",
+      "label": "Rafiullah Shaheed Chowk",
+      "routes": [
+        "FR-11"
+      ]
+    },
+    {
+      "id": "rawal dam chowk",
+      "label": "Rawal Dam Chowk",
+      "routes": [
+        "FR-08A",
+        "FR-14"
+      ]
+    },
+    {
+      "id": "rawal dam colony",
+      "label": "Rawal Dam Colony",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "rawal town",
+      "label": "Rawal Town",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "rescue 15",
+      "label": "Rescue 15",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "river gardens",
+      "label": "River Gardens",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "suparco",
+      "label": "SUPARCO",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "sabri gali",
+      "label": "Sabri Gali",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "sabzi mandi",
+      "label": "Sabzi Mandi",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "salai centre",
+      "label": "Salai Centre",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "sangjani",
+      "label": "Sangjani",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "satra meel",
+      "label": "Satra Meel",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "school board stop",
+      "label": "School Board Stop",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "secretariate police station",
+      "label": "Secretariate Police Station",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "shah allah ditta",
+      "label": "Shah Allah Ditta",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "shah wali colony road",
+      "label": "Shah Wali Colony Road",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "shahdara",
+      "label": "Shahdara",
+      "routes": [
+        "FR-14",
+        "FRG-1"
+      ]
+    },
+    {
+      "id": "shaheen chowk",
+      "label": "Shaheen Chowk",
+      "routes": [
+        "FR-03A",
+        "FR-06",
+        "ST-01"
+      ]
+    },
+    {
+      "id": "shahzad town",
+      "label": "Shahzad Town",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "shakarparian park",
+      "label": "Shakarparian Park",
+      "routes": [
+        "ST-02"
+      ]
+    },
+    {
+      "id": "sitara market",
+      "label": "Sitara Market",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "soan gardens e block",
+      "label": "Soan Gardens E Block",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "soan gardens g block",
+      "label": "Soan Gardens G Block",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "soan gardens h block",
+      "label": "Soan Gardens H Block",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "social security hospital",
+      "label": "Social Security Hospital",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "sohan",
+      "label": "Sohan",
+      "routes": [
+        "FR-09",
+        "FR-14",
+        "FRB-01"
+      ]
+    },
+    {
+      "id": "sui gas stop",
+      "label": "Sui Gas Stop",
+      "routes": [
+        "FR-01"
+      ]
+    },
+    {
+      "id": "sukh chayn park",
+      "label": "Sukh Chayn Park",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "sumbal road",
+      "label": "Sumbal Road",
+      "routes": [
+        "FR-05"
+      ]
+    },
+    {
+      "id": "sunday bazar",
+      "label": "Sunday Bazar",
+      "routes": [
+        "FR-05"
+      ]
+    },
+    {
+      "id": "swedish college",
+      "label": "Swedish College",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "t chowk",
+      "label": "T- Chowk",
+      "routes": [
+        "FR-15"
+      ]
+    },
+    {
+      "id": "tnt",
+      "label": "TNT",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "FRB-01",
+        "FRG-1",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "tamma stop",
+      "label": "Tamma Stop",
+      "routes": [
+        "FR-08A",
+        "FR-08C",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "tanki stop",
+      "label": "Tanki Stop",
+      "routes": [
+        "FR-07"
+      ]
+    },
+    {
+      "id": "taqwa market",
+      "label": "Taqwa Market",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "taxila",
+      "label": "Taxila",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "taxila bypass",
+      "label": "Taxila Bypass",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "taxila chowk",
+      "label": "Taxila Chowk",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "the avanue 03",
+      "label": "The Avanue 03",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "timber market",
+      "label": "Timber Market",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "tipu market g 8",
+      "label": "Tipu Market G-8",
+      "routes": [
+        "FR-06"
+      ]
+    },
+    {
+      "id": "tipu sultan shaheed chowk",
+      "label": "Tipu Sultan Shaheed Chowk",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "top city",
+      "label": "Top City",
+      "routes": [
+        "FR-13"
+      ]
+    },
+    {
+      "id": "traders colony",
+      "label": "Traders Colony",
+      "routes": [
+        "FR-14A"
+      ]
+    },
+    {
+      "id": "university of wah",
+      "label": "University of Wah",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "wapda colony",
+      "label": "WAPDA Colony",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "wah cantt barrier 03",
+      "label": "Wah Cantt Barrier 03",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "wah cantt barrier no 2",
+      "label": "Wah Cantt Barrier No 2",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "wah gardens",
+      "label": "Wah Gardens",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "wah model town phase 01",
+      "label": "Wah Model Town Phase 01",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "wah model town phase 02",
+      "label": "Wah Model Town Phase 02",
+      "routes": [
+        "FR-12"
+      ]
+    },
+    {
+      "id": "wahdat colony",
+      "label": "Wahdat Colony",
+      "routes": [
+        "FR-10"
+      ]
+    },
+    {
+      "id": "westridge",
+      "label": "Westridge",
+      "routes": [
+        "FR-09"
+      ]
+    },
+    {
+      "id": "youth hostel",
+      "label": "Youth Hostel",
+      "routes": [
+        "FR-04"
+      ]
+    },
+    {
+      "id": "zero point",
+      "label": "Zero Point",
+      "routes": [
+        "FR-08A",
+        "ST-02"
+      ]
+    },
+    {
+      "id": "zia masjid",
+      "label": "Zia Masjid",
+      "routes": [
+        "FR-09",
+        "FRB-01"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "FR-01:cda complain center->mci model school",
+      "route_id": "FR-01",
+      "source": "cda complain center",
+      "target": "mci model school",
+      "from_stop": "CDA Complain Center",
+      "to_stop": "MCI Model School",
+      "case_frequency": 17,
+      "avg_duration_seconds": 305.0,
+      "avg_duration_label": "5 min 5 sec"
+    },
+    {
+      "id": "FR-01:fast university->paec general hospital",
+      "route_id": "FR-01",
+      "source": "fast university",
+      "target": "paec general hospital",
+      "from_stop": "FAST University",
+      "to_stop": "PAEC General Hospital",
+      "case_frequency": 17,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-01:iesco->ptcl i 10",
+      "route_id": "FR-01",
+      "source": "iesco",
+      "target": "ptcl i 10",
+      "from_stop": "IESCO",
+      "to_stop": "PTCL I-10",
+      "case_frequency": 17,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-01:imc hospital->metro cnc",
+      "route_id": "FR-01",
+      "source": "imc hospital",
+      "target": "metro cnc",
+      "from_stop": "IMC Hospital",
+      "to_stop": "Metro CNC",
+      "case_frequency": 17,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-01:islamic university->fast university",
+      "route_id": "FR-01",
+      "source": "islamic university",
+      "target": "fast university",
+      "from_stop": "Islamic University",
+      "to_stop": "FAST University",
+      "case_frequency": 17,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-01:kurang road stop->iesco",
+      "route_id": "FR-01",
+      "source": "kurang road stop",
+      "target": "iesco",
+      "from_stop": "Kurang Road Stop",
+      "to_stop": "IESCO",
+      "case_frequency": 17,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-01:mandi morh->kurang road stop",
+      "route_id": "FR-01",
+      "source": "mandi morh",
+      "target": "kurang road stop",
+      "from_stop": "Mandi Morh",
+      "to_stop": "Kurang Road Stop",
+      "case_frequency": 17,
+      "avg_duration_seconds": 85.0,
+      "avg_duration_label": "1 min 25 sec"
+    },
+    {
+      "id": "FR-01:metro cnc->sabzi mandi",
+      "route_id": "FR-01",
+      "source": "metro cnc",
+      "target": "sabzi mandi",
+      "from_stop": "Metro CNC",
+      "to_stop": "Sabzi Mandi",
+      "case_frequency": 17,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-01:npa stop->islamic university",
+      "route_id": "FR-01",
+      "source": "npa stop",
+      "target": "islamic university",
+      "from_stop": "NPA Stop",
+      "to_stop": "Islamic University",
+      "case_frequency": 17,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-01:nust metro station->police foundation metro station",
+      "route_id": "FR-01",
+      "source": "nust metro station",
+      "target": "police foundation metro station",
+      "from_stop": "NUST Metro Station",
+      "to_stop": "Police Foundation Metro Station",
+      "case_frequency": 17,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-01:ogti stop->cda complain center",
+      "route_id": "FR-01",
+      "source": "ogti stop",
+      "target": "cda complain center",
+      "from_stop": "OGTI Stop",
+      "to_stop": "CDA Complain Center",
+      "case_frequency": 17,
+      "avg_duration_seconds": 230.0,
+      "avg_duration_label": "3 min 50 sec"
+    },
+    {
+      "id": "FR-01:paec general hospital->imc hospital",
+      "route_id": "FR-01",
+      "source": "paec general hospital",
+      "target": "imc hospital",
+      "from_stop": "PAEC General Hospital",
+      "to_stop": "IMC Hospital",
+      "case_frequency": 17,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-01:ptcl i 10->sui gas stop",
+      "route_id": "FR-01",
+      "source": "ptcl i 10",
+      "target": "sui gas stop",
+      "from_stop": "PTCL I-10",
+      "to_stop": "Sui Gas Stop",
+      "case_frequency": 17,
+      "avg_duration_seconds": 85.0,
+      "avg_duration_label": "1 min 25 sec"
+    },
+    {
+      "id": "FR-01:police foundation metro station->npa stop",
+      "route_id": "FR-01",
+      "source": "police foundation metro station",
+      "target": "npa stop",
+      "from_stop": "Police Foundation Metro Station",
+      "to_stop": "NPA Stop",
+      "case_frequency": 17,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FR-01:sabzi mandi->mandi morh",
+      "route_id": "FR-01",
+      "source": "sabzi mandi",
+      "target": "mandi morh",
+      "from_stop": "Sabzi Mandi",
+      "to_stop": "Mandi Morh",
+      "case_frequency": 17,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FR-01:sui gas stop->ogti stop",
+      "route_id": "FR-01",
+      "source": "sui gas stop",
+      "target": "ogti stop",
+      "from_stop": "Sui Gas Stop",
+      "to_stop": "OGTI Stop",
+      "case_frequency": 17,
+      "avg_duration_seconds": 330.0,
+      "avg_duration_label": "5 min 30 sec"
+    },
+    {
+      "id": "FR-03A:bahria university->naval complex",
+      "route_id": "FR-03A",
+      "source": "bahria university",
+      "target": "naval complex",
+      "from_stop": "Bahria University",
+      "to_stop": "Naval Complex",
+      "case_frequency": 97,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-03A:f 7 markaz->flower market",
+      "route_id": "FR-03A",
+      "source": "f 7 markaz",
+      "target": "flower market",
+      "from_stop": "F-7 Markaz",
+      "to_stop": "Flower Market",
+      "case_frequency": 97,
+      "avg_duration_seconds": 73.0,
+      "avg_duration_label": "1 min 13 sec"
+    },
+    {
+      "id": "FR-03A:f 8 markaz->f 9 park",
+      "route_id": "FR-03A",
+      "source": "f 8 markaz",
+      "target": "f 9 park",
+      "from_stop": "F-8 Markaz",
+      "to_stop": "F-9 Park",
+      "case_frequency": 97,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-03A:f 9 park->shaheen chowk",
+      "route_id": "FR-03A",
+      "source": "f 9 park",
+      "target": "shaheen chowk",
+      "from_stop": "F-9 Park",
+      "to_stop": "Shaheen Chowk",
+      "case_frequency": 97,
+      "avg_duration_seconds": 85.0,
+      "avg_duration_label": "1 min 25 sec"
+    },
+    {
+      "id": "FR-03A:faisal masjid->parveen shakir road",
+      "route_id": "FR-03A",
+      "source": "faisal masjid",
+      "target": "parveen shakir road",
+      "from_stop": "Faisal Masjid",
+      "to_stop": "Parveen Shakir Road",
+      "case_frequency": 97,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-03A:katchery->f 8 markaz",
+      "route_id": "FR-03A",
+      "source": "katchery",
+      "target": "f 8 markaz",
+      "from_stop": "Katchery",
+      "to_stop": "F-8 Markaz",
+      "case_frequency": 97,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-03A:kohsar road->f 7 markaz",
+      "route_id": "FR-03A",
+      "source": "kohsar road",
+      "target": "f 7 markaz",
+      "from_stop": "Kohsar Road",
+      "to_stop": "F-7 Markaz",
+      "case_frequency": 97,
+      "avg_duration_seconds": 117.0,
+      "avg_duration_label": "1 min 57 sec"
+    },
+    {
+      "id": "FR-03A:naval complex->faisal masjid",
+      "route_id": "FR-03A",
+      "source": "naval complex",
+      "target": "faisal masjid",
+      "from_stop": "Naval Complex",
+      "to_stop": "Faisal Masjid",
+      "case_frequency": 97,
+      "avg_duration_seconds": 175.0,
+      "avg_duration_label": "2 min 55 sec"
+    },
+    {
+      "id": "FR-03A:pims hospital->pims metro station",
+      "route_id": "FR-03A",
+      "source": "pims hospital",
+      "target": "pims metro station",
+      "from_stop": "PIMS Hospital",
+      "to_stop": "PIMS Metro Station",
+      "case_frequency": 97,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-03A:pims metro station->katchery",
+      "route_id": "FR-03A",
+      "source": "pims metro station",
+      "target": "katchery",
+      "from_stop": "PIMS Metro Station",
+      "to_stop": "Katchery",
+      "case_frequency": 97,
+      "avg_duration_seconds": 220.0,
+      "avg_duration_label": "3 min 40 sec"
+    },
+    {
+      "id": "FR-03A:parveen shakir road->kohsar road",
+      "route_id": "FR-03A",
+      "source": "parveen shakir road",
+      "target": "kohsar road",
+      "from_stop": "Parveen Shakir Road",
+      "to_stop": "Kohsar Road",
+      "case_frequency": 97,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-03A:shaheen chowk->bahria university",
+      "route_id": "FR-03A",
+      "source": "shaheen chowk",
+      "target": "bahria university",
+      "from_stop": "Shaheen Chowk",
+      "to_stop": "Bahria University",
+      "case_frequency": 97,
+      "avg_duration_seconds": 180.0,
+      "avg_duration_label": "3 min 0 sec"
+    },
+    {
+      "id": "FR-04:abpara market->youth hostel",
+      "route_id": "FR-04",
+      "source": "abpara market",
+      "target": "youth hostel",
+      "from_stop": "Abpara Market",
+      "to_stop": "Youth Hostel",
+      "case_frequency": 97,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-04:aiwan e sadar colony->muslim colony",
+      "route_id": "FR-04",
+      "source": "aiwan e sadar colony",
+      "target": "muslim colony",
+      "from_stop": "Aiwan e Sadar Colony",
+      "to_stop": "Muslim Colony",
+      "case_frequency": 97,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-04:bank colony->salai centre",
+      "route_id": "FR-04",
+      "source": "bank colony",
+      "target": "salai centre",
+      "from_stop": "Bank Colony",
+      "to_stop": "Salai Centre",
+      "case_frequency": 97,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-04:children hospital->rescue 15",
+      "route_id": "FR-04",
+      "source": "children hospital",
+      "target": "rescue 15",
+      "from_stop": "Children Hospital",
+      "to_stop": "Rescue 15",
+      "case_frequency": 97,
+      "avg_duration_seconds": 108.0,
+      "avg_duration_label": "1 min 48 sec"
+    },
+    {
+      "id": "FR-04:diplomatic enclave gate 4->aiwan e sadar colony",
+      "route_id": "FR-04",
+      "source": "diplomatic enclave gate 4",
+      "target": "aiwan e sadar colony",
+      "from_stop": "Diplomatic Enclave Gate 4",
+      "to_stop": "Aiwan e Sadar Colony",
+      "case_frequency": 97,
+      "avg_duration_seconds": 102.0,
+      "avg_duration_label": "1 min 42 sec"
+    },
+    {
+      "id": "FR-04:g 6 1 2->melody market",
+      "route_id": "FR-04",
+      "source": "g 6 1 2",
+      "target": "melody market",
+      "from_stop": "G-6/1.2",
+      "to_stop": "Melody Market",
+      "case_frequency": 97,
+      "avg_duration_seconds": 108.0,
+      "avg_duration_label": "1 min 48 sec"
+    },
+    {
+      "id": "FR-04:icb college->nadra chowk",
+      "route_id": "FR-04",
+      "source": "icb college",
+      "target": "nadra chowk",
+      "from_stop": "ICB College",
+      "to_stop": "NADRA Chowk",
+      "case_frequency": 97,
+      "avg_duration_seconds": 30.0,
+      "avg_duration_label": "0 min 30 sec"
+    },
+    {
+      "id": "FR-04:iqbal hall->g 6 1 2",
+      "route_id": "FR-04",
+      "source": "iqbal hall",
+      "target": "g 6 1 2",
+      "from_stop": "Iqbal Hall",
+      "to_stop": "G-6/1.2",
+      "case_frequency": 97,
+      "avg_duration_seconds": 194.0,
+      "avg_duration_label": "3 min 14 sec"
+    },
+    {
+      "id": "FR-04:lodges park->sukh chayn park",
+      "route_id": "FR-04",
+      "source": "lodges park",
+      "target": "sukh chayn park",
+      "from_stop": "Lodges Park",
+      "to_stop": "Sukh Chayn Park",
+      "case_frequency": 97,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-04:melody market->abpara market",
+      "route_id": "FR-04",
+      "source": "melody market",
+      "target": "abpara market",
+      "from_stop": "Melody Market",
+      "to_stop": "Abpara Market",
+      "case_frequency": 97,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FR-04:metropolitan corporation->icb college",
+      "route_id": "FR-04",
+      "source": "metropolitan corporation",
+      "target": "icb college",
+      "from_stop": "Metropolitan Corporation",
+      "to_stop": "ICB College",
+      "case_frequency": 97,
+      "avg_duration_seconds": 99.0,
+      "avg_duration_label": "1 min 39 sec"
+    },
+    {
+      "id": "FR-04:ministry of foreign affairs->radio pakistan",
+      "route_id": "FR-04",
+      "source": "ministry of foreign affairs",
+      "target": "radio pakistan",
+      "from_stop": "Ministry of Foreign Affairs",
+      "to_stop": "Radio Pakistan",
+      "case_frequency": 97,
+      "avg_duration_seconds": 82.0,
+      "avg_duration_label": "1 min 22 sec"
+    },
+    {
+      "id": "FR-04:muslim colony->bari imam",
+      "route_id": "FR-04",
+      "source": "muslim colony",
+      "target": "bari imam",
+      "from_stop": "Muslim Colony",
+      "to_stop": "Bari Imam",
+      "case_frequency": 97,
+      "avg_duration_seconds": 248.0,
+      "avg_duration_label": "4 min 8 sec"
+    },
+    {
+      "id": "FR-04:nadra chowk->lodges park",
+      "route_id": "FR-04",
+      "source": "nadra chowk",
+      "target": "lodges park",
+      "from_stop": "NADRA Chowk",
+      "to_stop": "Lodges Park",
+      "case_frequency": 97,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-04:national library->secretariate police station",
+      "route_id": "FR-04",
+      "source": "national library",
+      "target": "secretariate police station",
+      "from_stop": "National Library",
+      "to_stop": "Secretariate Police Station",
+      "case_frequency": 97,
+      "avg_duration_seconds": 35.0,
+      "avg_duration_label": "0 min 35 sec"
+    },
+    {
+      "id": "FR-04:pims hospital->children hospital",
+      "route_id": "FR-04",
+      "source": "pims hospital",
+      "target": "children hospital",
+      "from_stop": "PIMS Hospital",
+      "to_stop": "Children Hospital",
+      "case_frequency": 97,
+      "avg_duration_seconds": 124.0,
+      "avg_duration_label": "2 min 4 sec"
+    },
+    {
+      "id": "FR-04:pully stop->iqbal hall",
+      "route_id": "FR-04",
+      "source": "pully stop",
+      "target": "iqbal hall",
+      "from_stop": "Pully Stop",
+      "to_stop": "Iqbal Hall",
+      "case_frequency": 97,
+      "avg_duration_seconds": 108.0,
+      "avg_duration_label": "1 min 48 sec"
+    },
+    {
+      "id": "FR-04:radio pakistan->national library",
+      "route_id": "FR-04",
+      "source": "radio pakistan",
+      "target": "national library",
+      "from_stop": "Radio Pakistan",
+      "to_stop": "National Library",
+      "case_frequency": 97,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-04:rescue 15->bank colony",
+      "route_id": "FR-04",
+      "source": "rescue 15",
+      "target": "bank colony",
+      "from_stop": "Rescue 15",
+      "to_stop": "Bank Colony",
+      "case_frequency": 97,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-04:salai centre->sitara market",
+      "route_id": "FR-04",
+      "source": "salai centre",
+      "target": "sitara market",
+      "from_stop": "Salai Centre",
+      "to_stop": "Sitara Market",
+      "case_frequency": 97,
+      "avg_duration_seconds": 108.0,
+      "avg_duration_label": "1 min 48 sec"
+    },
+    {
+      "id": "FR-04:secretariate police station->diplomatic enclave gate 4",
+      "route_id": "FR-04",
+      "source": "secretariate police station",
+      "target": "diplomatic enclave gate 4",
+      "from_stop": "Secretariate Police Station",
+      "to_stop": "Diplomatic Enclave Gate 4",
+      "case_frequency": 97,
+      "avg_duration_seconds": 134.0,
+      "avg_duration_label": "2 min 14 sec"
+    },
+    {
+      "id": "FR-04:sitara market->pully stop",
+      "route_id": "FR-04",
+      "source": "sitara market",
+      "target": "pully stop",
+      "from_stop": "Sitara Market",
+      "to_stop": "Pully Stop",
+      "case_frequency": 97,
+      "avg_duration_seconds": 152.0,
+      "avg_duration_label": "2 min 32 sec"
+    },
+    {
+      "id": "FR-04:sukh chayn park->ministry of foreign affairs",
+      "route_id": "FR-04",
+      "source": "sukh chayn park",
+      "target": "ministry of foreign affairs",
+      "from_stop": "Sukh Chayn Park",
+      "to_stop": "Ministry of Foreign Affairs",
+      "case_frequency": 97,
+      "avg_duration_seconds": 238.0,
+      "avg_duration_label": "3 min 58 sec"
+    },
+    {
+      "id": "FR-04:youth hostel->metropolitan corporation",
+      "route_id": "FR-04",
+      "source": "youth hostel",
+      "target": "metropolitan corporation",
+      "from_stop": "Youth Hostel",
+      "to_stop": "Metropolitan Corporation",
+      "case_frequency": 97,
+      "avg_duration_seconds": 260.0,
+      "avg_duration_label": "4 min 20 sec"
+    },
+    {
+      "id": "FR-04A:babul quaid->quaid azam university",
+      "route_id": "FR-04A",
+      "source": "babul quaid",
+      "target": "quaid azam university",
+      "from_stop": "Babul Quaid",
+      "to_stop": "Quaid Azam University",
+      "case_frequency": 33,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-04A:bari imam->muhallah noori bagh",
+      "route_id": "FR-04A",
+      "source": "bari imam",
+      "target": "muhallah noori bagh",
+      "from_stop": "Bari Imam",
+      "to_stop": "Muhallah Noori Bagh",
+      "case_frequency": 33,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-04A:c type quaid e azam colony->babul quaid",
+      "route_id": "FR-04A",
+      "source": "c type quaid e azam colony",
+      "target": "babul quaid",
+      "from_stop": "C-Type Quaid-e-Azam Colony",
+      "to_stop": "Babul Quaid",
+      "case_frequency": 33,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-04A:commmunity health center->d type quaid e azam colony",
+      "route_id": "FR-04A",
+      "source": "commmunity health center",
+      "target": "d type quaid e azam colony",
+      "from_stop": "Commmunity Health Center",
+      "to_stop": "D-Type Quaid e Azam Colony",
+      "case_frequency": 33,
+      "avg_duration_seconds": 95.0,
+      "avg_duration_label": "1 min 35 sec"
+    },
+    {
+      "id": "FR-04A:d type quaid e azam colony->c type quaid e azam colony",
+      "route_id": "FR-04A",
+      "source": "d type quaid e azam colony",
+      "target": "c type quaid e azam colony",
+      "from_stop": "D-Type Quaid e Azam Colony",
+      "to_stop": "C-Type Quaid-e-Azam Colony",
+      "case_frequency": 33,
+      "avg_duration_seconds": 75.0,
+      "avg_duration_label": "1 min 15 sec"
+    },
+    {
+      "id": "FR-04A:muhallah noori bagh->commmunity health center",
+      "route_id": "FR-04A",
+      "source": "muhallah noori bagh",
+      "target": "commmunity health center",
+      "from_stop": "Muhallah Noori Bagh",
+      "to_stop": "Commmunity Health Center",
+      "case_frequency": 33,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-05:d 12 markaz->d 12",
+      "route_id": "FR-05",
+      "source": "d 12 markaz",
+      "target": "d 12",
+      "from_stop": "D-12 Markaz",
+      "to_stop": "D-12",
+      "case_frequency": 193,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-05:d 12 service road->iesco d 12",
+      "route_id": "FR-05",
+      "source": "d 12 service road",
+      "target": "iesco d 12",
+      "from_stop": "D-12 Service Road",
+      "to_stop": "IESCO D-12",
+      "case_frequency": 193,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-05:e 11 2 fechs islamabad international hospita->d 12 service road",
+      "route_id": "FR-05",
+      "source": "e 11 2 fechs islamabad international hospita",
+      "target": "d 12 service road",
+      "from_stop": "E-11/2 / FECHS / Islamabad International Hospita",
+      "to_stop": "D-12 Service Road",
+      "case_frequency": 193,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-05:g 10 metro station->sunday bazar",
+      "route_id": "FR-05",
+      "source": "g 10 metro station",
+      "target": "sunday bazar",
+      "from_stop": "G-10 Metro Station",
+      "to_stop": "Sunday Bazar",
+      "case_frequency": 193,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-05:g10 g11->sumbal road",
+      "route_id": "FR-05",
+      "source": "g10 g11",
+      "target": "sumbal road",
+      "from_stop": "G10/G11",
+      "to_stop": "Sumbal Road",
+      "case_frequency": 193,
+      "avg_duration_seconds": 145.0,
+      "avg_duration_label": "2 min 25 sec"
+    },
+    {
+      "id": "FR-05:iesco d 12->d 12 markaz",
+      "route_id": "FR-05",
+      "source": "iesco d 12",
+      "target": "d 12 markaz",
+      "from_stop": "IESCO D-12",
+      "to_stop": "D-12 Markaz",
+      "case_frequency": 193,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-05:khayaban e iqbal->npf housing society",
+      "route_id": "FR-05",
+      "source": "khayaban e iqbal",
+      "target": "npf housing society",
+      "from_stop": "Khayaban e Iqbal",
+      "to_stop": "NPF Housing Society",
+      "case_frequency": 193,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-05:multy stop islamabad gardens->e 11 2 fechs islamabad international hospita",
+      "route_id": "FR-05",
+      "source": "multy stop islamabad gardens",
+      "target": "e 11 2 fechs islamabad international hospita",
+      "from_stop": "Multy Stop/Islamabad Gardens",
+      "to_stop": "E-11/2 / FECHS / Islamabad International Hospita",
+      "case_frequency": 193,
+      "avg_duration_seconds": 170.0,
+      "avg_duration_label": "2 min 50 sec"
+    },
+    {
+      "id": "FR-05:npf housing society->multy stop islamabad gardens",
+      "route_id": "FR-05",
+      "source": "npf housing society",
+      "target": "multy stop islamabad gardens",
+      "from_stop": "NPF Housing Society",
+      "to_stop": "Multy Stop/Islamabad Gardens",
+      "case_frequency": 193,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-05:nust metro station->police foundation",
+      "route_id": "FR-05",
+      "source": "nust metro station",
+      "target": "police foundation",
+      "from_stop": "NUST Metro Station",
+      "to_stop": "Police Foundation",
+      "case_frequency": 193,
+      "avg_duration_seconds": 200.0,
+      "avg_duration_label": "3 min 20 sec"
+    },
+    {
+      "id": "FR-05:police foundation->g 10 metro station",
+      "route_id": "FR-05",
+      "source": "police foundation",
+      "target": "g 10 metro station",
+      "from_stop": "Police Foundation",
+      "to_stop": "G-10 Metro Station",
+      "case_frequency": 193,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-05:sumbal road->khayaban e iqbal",
+      "route_id": "FR-05",
+      "source": "sumbal road",
+      "target": "khayaban e iqbal",
+      "from_stop": "Sumbal Road",
+      "to_stop": "Khayaban e Iqbal",
+      "case_frequency": 193,
+      "avg_duration_seconds": 125.0,
+      "avg_duration_label": "2 min 5 sec"
+    },
+    {
+      "id": "FR-05:sunday bazar->g10 g11",
+      "route_id": "FR-05",
+      "source": "sunday bazar",
+      "target": "g10 g11",
+      "from_stop": "Sunday Bazar",
+      "to_stop": "G10/G11",
+      "case_frequency": 193,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-06:chaman metro station->taqwa market",
+      "route_id": "FR-06",
+      "source": "chaman metro station",
+      "target": "taqwa market",
+      "from_stop": "Chaman Metro Station",
+      "to_stop": "Taqwa Market",
+      "case_frequency": 17,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-06:f 10 markaz->imcb f10 4",
+      "route_id": "FR-06",
+      "source": "f 10 markaz",
+      "target": "imcb f10 4",
+      "from_stop": "F-10 Markaz",
+      "to_stop": "IMCB F10/4",
+      "case_frequency": 17,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-06:f 10 f 11 chowk->major road",
+      "route_id": "FR-06",
+      "source": "f 10 f 11 chowk",
+      "target": "major road",
+      "from_stop": "F-10/F-11 Chowk",
+      "to_stop": "Major Road",
+      "case_frequency": 17,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-06:f 11 markaz->opf girls college",
+      "route_id": "FR-06",
+      "source": "f 11 markaz",
+      "target": "opf girls college",
+      "from_stop": "F-11 Markaz",
+      "to_stop": "OPF Girls College",
+      "case_frequency": 17,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-06:f 9 park->shaheen chowk",
+      "route_id": "FR-06",
+      "source": "f 9 park",
+      "target": "shaheen chowk",
+      "from_stop": "F-9 Park",
+      "to_stop": "Shaheen Chowk",
+      "case_frequency": 17,
+      "avg_duration_seconds": 55.0,
+      "avg_duration_label": "0 min 55 sec"
+    },
+    {
+      "id": "FR-06:fazaia housing scheme->paf hospital",
+      "route_id": "FR-06",
+      "source": "fazaia housing scheme",
+      "target": "paf hospital",
+      "from_stop": "Fazaia Housing Scheme",
+      "to_stop": "PAF Hospital",
+      "case_frequency": 17,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-06:g 9 markaz->g 9 3",
+      "route_id": "FR-06",
+      "source": "g 9 markaz",
+      "target": "g 9 3",
+      "from_stop": "G-9 Markaz",
+      "to_stop": "G-9/3",
+      "case_frequency": 17,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-06:g 9 1 and g 9 4->g 9 markaz",
+      "route_id": "FR-06",
+      "source": "g 9 1 and g 9 4",
+      "target": "g 9 markaz",
+      "from_stop": "G-9/1 and G-9/4",
+      "to_stop": "G-9 Markaz",
+      "case_frequency": 17,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-06:g 9 3->f 9 park",
+      "route_id": "FR-06",
+      "source": "g 9 3",
+      "target": "f 9 park",
+      "from_stop": "G-9/3",
+      "to_stop": "F-9 Park",
+      "case_frequency": 17,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-06:g 9 4 park->karachi company",
+      "route_id": "FR-06",
+      "source": "g 9 4 park",
+      "target": "karachi company",
+      "from_stop": "G-9/4 Park",
+      "to_stop": "Karachi Company",
+      "case_frequency": 17,
+      "avg_duration_seconds": 40.0,
+      "avg_duration_label": "0 min 40 sec"
+    },
+    {
+      "id": "FR-06:golra sharif f 11 3->golra sharif",
+      "route_id": "FR-06",
+      "source": "golra sharif f 11 3",
+      "target": "golra sharif",
+      "from_stop": "Golra Sharif F-11/3",
+      "to_stop": "Golra sharif",
+      "case_frequency": 17,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-06:imcb f10 4->imcg f 10 2",
+      "route_id": "FR-06",
+      "source": "imcb f10 4",
+      "target": "imcg f 10 2",
+      "from_stop": "IMCB F10/4",
+      "to_stop": "IMCG F-10/2",
+      "case_frequency": 17,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-06:imcg f 10 2->f 10 f 11 chowk",
+      "route_id": "FR-06",
+      "source": "imcg f 10 2",
+      "target": "f 10 f 11 chowk",
+      "from_stop": "IMCG F-10/2",
+      "to_stop": "F-10/F-11 Chowk",
+      "case_frequency": 17,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-06:ibn e sina metro station->chaman metro station",
+      "route_id": "FR-06",
+      "source": "ibn e sina metro station",
+      "target": "chaman metro station",
+      "from_stop": "Ibn-e-Sina Metro Station",
+      "to_stop": "Chaman Metro Station",
+      "case_frequency": 17,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-06:karachi company->g 9 1 and g 9 4",
+      "route_id": "FR-06",
+      "source": "karachi company",
+      "target": "g 9 1 and g 9 4",
+      "from_stop": "Karachi Company",
+      "to_stop": "G-9/1 and G-9/4",
+      "case_frequency": 17,
+      "avg_duration_seconds": 65.0,
+      "avg_duration_label": "1 min 5 sec"
+    },
+    {
+      "id": "FR-06:major road->ptcl f 11",
+      "route_id": "FR-06",
+      "source": "major road",
+      "target": "ptcl f 11",
+      "from_stop": "Major Road",
+      "to_stop": "PTCL F-11",
+      "case_frequency": 17,
+      "avg_duration_seconds": 40.0,
+      "avg_duration_label": "0 min 40 sec"
+    },
+    {
+      "id": "FR-06:maroof international hospital->f 10 markaz",
+      "route_id": "FR-06",
+      "source": "maroof international hospital",
+      "target": "f 10 markaz",
+      "from_stop": "Maroof International Hospital",
+      "to_stop": "F-10 Markaz",
+      "case_frequency": 17,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-06:opf girls college->golra sharif f 11 3",
+      "route_id": "FR-06",
+      "source": "opf girls college",
+      "target": "golra sharif f 11 3",
+      "from_stop": "OPF Girls College",
+      "to_stop": "Golra Sharif F-11/3",
+      "case_frequency": 17,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-06:paf hospital->pakistan gate",
+      "route_id": "FR-06",
+      "source": "paf hospital",
+      "target": "pakistan gate",
+      "from_stop": "PAF Hospital",
+      "to_stop": "Pakistan gate",
+      "case_frequency": 17,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-06:ptcl f 11->f 11 markaz",
+      "route_id": "FR-06",
+      "source": "ptcl f 11",
+      "target": "f 11 markaz",
+      "from_stop": "PTCL F-11",
+      "to_stop": "F-11 Markaz",
+      "case_frequency": 17,
+      "avg_duration_seconds": 45.0,
+      "avg_duration_label": "0 min 45 sec"
+    },
+    {
+      "id": "FR-06:pakistan gate->maroof international hospital",
+      "route_id": "FR-06",
+      "source": "pakistan gate",
+      "target": "maroof international hospital",
+      "from_stop": "Pakistan gate",
+      "to_stop": "Maroof International Hospital",
+      "case_frequency": 17,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-06:pims metro station->tipu market g 8",
+      "route_id": "FR-06",
+      "source": "pims metro station",
+      "target": "tipu market g 8",
+      "from_stop": "Pims Metro Station",
+      "to_stop": "Tipu Market G-8",
+      "case_frequency": 17,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-06:shaheen chowk->fazaia housing scheme",
+      "route_id": "FR-06",
+      "source": "shaheen chowk",
+      "target": "fazaia housing scheme",
+      "from_stop": "Shaheen Chowk",
+      "to_stop": "Fazaia Housing Scheme",
+      "case_frequency": 17,
+      "avg_duration_seconds": 55.0,
+      "avg_duration_label": "0 min 55 sec"
+    },
+    {
+      "id": "FR-06:taqwa market->g 9 4 park",
+      "route_id": "FR-06",
+      "source": "taqwa market",
+      "target": "g 9 4 park",
+      "from_stop": "Taqwa Market",
+      "to_stop": "G-9/4 Park",
+      "case_frequency": 17,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-06:tipu market g 8->ibn e sina metro station",
+      "route_id": "FR-06",
+      "source": "tipu market g 8",
+      "target": "ibn e sina metro station",
+      "from_stop": "Tipu Market G-8",
+      "to_stop": "Ibn-e-Sina Metro Station",
+      "case_frequency": 17,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-07:a k bari road->police foundation metro station",
+      "route_id": "FR-07",
+      "source": "a k bari road",
+      "target": "police foundation metro station",
+      "from_stop": "A.K Bari Road",
+      "to_stop": "Police Foundation Metro Station",
+      "case_frequency": 97,
+      "avg_duration_seconds": 190.0,
+      "avg_duration_label": "3 min 10 sec"
+    },
+    {
+      "id": "FR-07:bar council->a k bari road",
+      "route_id": "FR-07",
+      "source": "bar council",
+      "target": "a k bari road",
+      "from_stop": "Bar Council",
+      "to_stop": "A.K Bari Road",
+      "case_frequency": 97,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-07:chaman metro station->g 9 4",
+      "route_id": "FR-07",
+      "source": "chaman metro station",
+      "target": "g 9 4",
+      "from_stop": "Chaman Metro Station",
+      "to_stop": "G-9/4",
+      "case_frequency": 97,
+      "avg_duration_seconds": 96.0,
+      "avg_duration_label": "1 min 36 sec"
+    },
+    {
+      "id": "FR-07:children hospital->nori hospital",
+      "route_id": "FR-07",
+      "source": "children hospital",
+      "target": "nori hospital",
+      "from_stop": "Children Hospital",
+      "to_stop": "NORI Hospital",
+      "case_frequency": 97,
+      "avg_duration_seconds": 159.0,
+      "avg_duration_label": "2 min 39 sec"
+    },
+    {
+      "id": "FR-07:college morh->g 10 markaz",
+      "route_id": "FR-07",
+      "source": "college morh",
+      "target": "g 10 markaz",
+      "from_stop": "College Morh",
+      "to_stop": "G-10 Markaz",
+      "case_frequency": 97,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FR-07:dental hospital->g 8 markaz",
+      "route_id": "FR-07",
+      "source": "dental hospital",
+      "target": "g 8 markaz",
+      "from_stop": "Dental Hospital",
+      "to_stop": "G-8 Markaz",
+      "case_frequency": 97,
+      "avg_duration_seconds": 10.0,
+      "avg_duration_label": "0 min 10 sec"
+    },
+    {
+      "id": "FR-07:development park->chaman metro station",
+      "route_id": "FR-07",
+      "source": "development park",
+      "target": "chaman metro station",
+      "from_stop": "Development Park",
+      "to_stop": "Chaman Metro Station",
+      "case_frequency": 97,
+      "avg_duration_seconds": 109.0,
+      "avg_duration_label": "1 min 49 sec"
+    },
+    {
+      "id": "FR-07:g 10 markaz->pha flats",
+      "route_id": "FR-07",
+      "source": "g 10 markaz",
+      "target": "pha flats",
+      "from_stop": "G-10 Markaz",
+      "to_stop": "PHA Flats",
+      "case_frequency": 97,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FR-07:g 10 g 11->institute of modern studies",
+      "route_id": "FR-07",
+      "source": "g 10 g 11",
+      "target": "institute of modern studies",
+      "from_stop": "G-10/G-11",
+      "to_stop": "Institute of Modern Studies",
+      "case_frequency": 97,
+      "avg_duration_seconds": 55.0,
+      "avg_duration_label": "0 min 55 sec"
+    },
+    {
+      "id": "FR-07:g 11 markaz->mehrabad",
+      "route_id": "FR-07",
+      "source": "g 11 markaz",
+      "target": "mehrabad",
+      "from_stop": "G-11 Markaz",
+      "to_stop": "Mehrabad",
+      "case_frequency": 97,
+      "avg_duration_seconds": 222.0,
+      "avg_duration_label": "3 min 42 sec"
+    },
+    {
+      "id": "FR-07:g 8 markaz->development park",
+      "route_id": "FR-07",
+      "source": "g 8 markaz",
+      "target": "development park",
+      "from_stop": "G-8 Markaz",
+      "to_stop": "Development Park",
+      "case_frequency": 97,
+      "avg_duration_seconds": 20.0,
+      "avg_duration_label": "0 min 20 sec"
+    },
+    {
+      "id": "FR-07:g 9 markaz->police flats",
+      "route_id": "FR-07",
+      "source": "g 9 markaz",
+      "target": "police flats",
+      "from_stop": "G-9 Markaz",
+      "to_stop": "Police Flats",
+      "case_frequency": 97,
+      "avg_duration_seconds": 95.0,
+      "avg_duration_label": "1 min 35 sec"
+    },
+    {
+      "id": "FR-07:g 9 4->karachi company",
+      "route_id": "FR-07",
+      "source": "g 9 4",
+      "target": "karachi company",
+      "from_stop": "G-9/4",
+      "to_stop": "Karachi Company",
+      "case_frequency": 97,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-07:institute of modern studies->g 11 markaz",
+      "route_id": "FR-07",
+      "source": "institute of modern studies",
+      "target": "g 11 markaz",
+      "from_stop": "Institute of Modern Studies",
+      "to_stop": "G-11 Markaz",
+      "case_frequency": 97,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-07:karachi company->g 9 markaz",
+      "route_id": "FR-07",
+      "source": "karachi company",
+      "target": "g 9 markaz",
+      "from_stop": "Karachi Company",
+      "to_stop": "G-9 Markaz",
+      "case_frequency": 97,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-07:mehrabad->nust metro station",
+      "route_id": "FR-07",
+      "source": "mehrabad",
+      "target": "nust metro station",
+      "from_stop": "Mehrabad",
+      "to_stop": "NUST Metro Station",
+      "case_frequency": 97,
+      "avg_duration_seconds": 324.0,
+      "avg_duration_label": "5 min 24 sec"
+    },
+    {
+      "id": "FR-07:nori hospital->dental hospital",
+      "route_id": "FR-07",
+      "source": "nori hospital",
+      "target": "dental hospital",
+      "from_stop": "NORI Hospital",
+      "to_stop": "Dental Hospital",
+      "case_frequency": 97,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-07:nust metro station->bar council",
+      "route_id": "FR-07",
+      "source": "nust metro station",
+      "target": "bar council",
+      "from_stop": "NUST Metro Station",
+      "to_stop": "Bar Council",
+      "case_frequency": 97,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-07:pha flats->tanki stop",
+      "route_id": "FR-07",
+      "source": "pha flats",
+      "target": "tanki stop",
+      "from_stop": "PHA Flats",
+      "to_stop": "Tanki Stop",
+      "case_frequency": 97,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-07:pims hospital->children hospital",
+      "route_id": "FR-07",
+      "source": "pims hospital",
+      "target": "children hospital",
+      "from_stop": "PIMS Hospital",
+      "to_stop": "Children Hospital",
+      "case_frequency": 97,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-07:police flats->college morh",
+      "route_id": "FR-07",
+      "source": "police flats",
+      "target": "college morh",
+      "from_stop": "Police Flats",
+      "to_stop": "College Morh",
+      "case_frequency": 97,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FR-07:tanki stop->g 10 g 11",
+      "route_id": "FR-07",
+      "source": "tanki stop",
+      "target": "g 10 g 11",
+      "from_stop": "Tanki Stop",
+      "to_stop": "G-10/G-11",
+      "case_frequency": 97,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-08A:abpara->foreign affairs office",
+      "route_id": "FR-08A",
+      "source": "abpara",
+      "target": "foreign affairs office",
+      "from_stop": "Abpara",
+      "to_stop": "Foreign Affairs Office",
+      "case_frequency": 209,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-08A:cda->abpara",
+      "route_id": "FR-08A",
+      "source": "cda",
+      "target": "abpara",
+      "from_stop": "CDA",
+      "to_stop": "Abpara",
+      "case_frequency": 209,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-08A:comsats university->tamma stop",
+      "route_id": "FR-08A",
+      "source": "comsats university",
+      "target": "tamma stop",
+      "from_stop": "COMSATS University",
+      "to_stop": "Tamma Stop",
+      "case_frequency": 209,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-08A:chatta bakhtawar->gulshan al huda community",
+      "route_id": "FR-08A",
+      "source": "chatta bakhtawar",
+      "target": "gulshan al huda community",
+      "from_stop": "Chatta Bakhtawar",
+      "to_stop": "Gulshan Al Huda Community",
+      "case_frequency": 209,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-08A:children hospital->tnt",
+      "route_id": "FR-08A",
+      "source": "children hospital",
+      "target": "tnt",
+      "from_stop": "Children Hospital",
+      "to_stop": "TNT",
+      "case_frequency": 209,
+      "avg_duration_seconds": 240.0,
+      "avg_duration_label": "4 min 0 sec"
+    },
+    {
+      "id": "FR-08A:foreign affairs office->kashmir chowk",
+      "route_id": "FR-08A",
+      "source": "foreign affairs office",
+      "target": "kashmir chowk",
+      "from_stop": "Foreign Affairs Office",
+      "to_stop": "Kashmir Chowk",
+      "case_frequency": 209,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-08A:green avenue->chatta bakhtawar",
+      "route_id": "FR-08A",
+      "source": "green avenue",
+      "target": "chatta bakhtawar",
+      "from_stop": "Green Avenue",
+      "to_stop": "Chatta Bakhtawar",
+      "case_frequency": 209,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-08A:gulshan al huda community->hostel city",
+      "route_id": "FR-08A",
+      "source": "gulshan al huda community",
+      "target": "hostel city",
+      "from_stop": "Gulshan Al Huda Community",
+      "to_stop": "Hostel City",
+      "case_frequency": 209,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-08A:hostel city->comsats university",
+      "route_id": "FR-08A",
+      "source": "hostel city",
+      "target": "comsats university",
+      "from_stop": "Hostel City",
+      "to_stop": "COMSATS University",
+      "case_frequency": 209,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-08A:kashmir chowk->rawal dam chowk",
+      "route_id": "FR-08A",
+      "source": "kashmir chowk",
+      "target": "rawal dam chowk",
+      "from_stop": "Kashmir Chowk",
+      "to_stop": "Rawal Dam Chowk",
+      "case_frequency": 209,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FR-08A:narc colony->nih allergy center",
+      "route_id": "FR-08A",
+      "source": "narc colony",
+      "target": "nih allergy center",
+      "from_stop": "NARC Colony",
+      "to_stop": "NIH Allergy Center",
+      "case_frequency": 209,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-08A:nih allergy center->shahzad town",
+      "route_id": "FR-08A",
+      "source": "nih allergy center",
+      "target": "shahzad town",
+      "from_stop": "NIH Allergy Center",
+      "to_stop": "Shahzad Town",
+      "case_frequency": 209,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-08A:pims hospital->children hospital",
+      "route_id": "FR-08A",
+      "source": "pims hospital",
+      "target": "children hospital",
+      "from_stop": "PIMS Hospital",
+      "to_stop": "Children Hospital",
+      "case_frequency": 209,
+      "avg_duration_seconds": 20.0,
+      "avg_duration_label": "0 min 20 sec"
+    },
+    {
+      "id": "FR-08A:park view city->green avenue",
+      "route_id": "FR-08A",
+      "source": "park view city",
+      "target": "green avenue",
+      "from_stop": "Park View City",
+      "to_stop": "Green Avenue",
+      "case_frequency": 209,
+      "avg_duration_seconds": 127.0,
+      "avg_duration_label": "2 min 7 sec"
+    },
+    {
+      "id": "FR-08A:rawal dam chowk->rawal town",
+      "route_id": "FR-08A",
+      "source": "rawal dam chowk",
+      "target": "rawal town",
+      "from_stop": "Rawal Dam Chowk",
+      "to_stop": "Rawal Town",
+      "case_frequency": 209,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-08A:rawal dam colony->narc colony",
+      "route_id": "FR-08A",
+      "source": "rawal dam colony",
+      "target": "narc colony",
+      "from_stop": "Rawal Dam Colony",
+      "to_stop": "NARC Colony",
+      "case_frequency": 209,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-08A:rawal town->school board stop",
+      "route_id": "FR-08A",
+      "source": "rawal town",
+      "target": "school board stop",
+      "from_stop": "Rawal Town",
+      "to_stop": "School Board Stop",
+      "case_frequency": 209,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-08A:school board stop->rawal dam colony",
+      "route_id": "FR-08A",
+      "source": "school board stop",
+      "target": "rawal dam colony",
+      "from_stop": "School Board Stop",
+      "to_stop": "Rawal Dam Colony",
+      "case_frequency": 209,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-08A:shahzad town->park view city",
+      "route_id": "FR-08A",
+      "source": "shahzad town",
+      "target": "park view city",
+      "from_stop": "Shahzad Town",
+      "to_stop": "Park View City",
+      "case_frequency": 209,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-08A:tnt->zero point",
+      "route_id": "FR-08A",
+      "source": "tnt",
+      "target": "zero point",
+      "from_stop": "TNT",
+      "to_stop": "Zero Point",
+      "case_frequency": 209,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-08A:tamma stop->capt naeem tufail shaheed chow",
+      "route_id": "FR-08A",
+      "source": "tamma stop",
+      "target": "capt naeem tufail shaheed chow",
+      "from_stop": "Tamma Stop",
+      "to_stop": "Capt. Naeem Tufail Shaheed Chow",
+      "case_frequency": 209,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-08A:zero point->cda",
+      "route_id": "FR-08A",
+      "source": "zero point",
+      "target": "cda",
+      "from_stop": "Zero Point",
+      "to_stop": "CDA",
+      "case_frequency": 209,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-08C:comsats university->tamma stop",
+      "route_id": "FR-08C",
+      "source": "comsats university",
+      "target": "tamma stop",
+      "from_stop": "COMSATS University",
+      "to_stop": "Tamma Stop",
+      "case_frequency": 48,
+      "avg_duration_seconds": 5.0,
+      "avg_duration_label": "0 min 5 sec"
+    },
+    {
+      "id": "FR-08C:chatta bakhtawar->gulshan al huda community",
+      "route_id": "FR-08C",
+      "source": "chatta bakhtawar",
+      "target": "gulshan al huda community",
+      "from_stop": "Chatta Bakhtawar",
+      "to_stop": "Gulshan Al Huda Community",
+      "case_frequency": 48,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-08C:children hospital->tnt",
+      "route_id": "FR-08C",
+      "source": "children hospital",
+      "target": "tnt",
+      "from_stop": "Children Hospital",
+      "to_stop": "TNT",
+      "case_frequency": 48,
+      "avg_duration_seconds": 170.0,
+      "avg_duration_label": "2 min 50 sec"
+    },
+    {
+      "id": "FR-08C:faizabad->itp driving license centre",
+      "route_id": "FR-08C",
+      "source": "faizabad",
+      "target": "itp driving license centre",
+      "from_stop": "Faizabad",
+      "to_stop": "ITP Driving License Centre",
+      "case_frequency": 48,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FR-08C:garden avenue->rawal town",
+      "route_id": "FR-08C",
+      "source": "garden avenue",
+      "target": "rawal town",
+      "from_stop": "Garden Avenue",
+      "to_stop": "Rawal Town",
+      "case_frequency": 48,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-08C:green avenue->chatta bakhtawar",
+      "route_id": "FR-08C",
+      "source": "green avenue",
+      "target": "chatta bakhtawar",
+      "from_stop": "Green Avenue",
+      "to_stop": "Chatta Bakhtawar",
+      "case_frequency": 48,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-08C:gulshan al huda community->hostel city",
+      "route_id": "FR-08C",
+      "source": "gulshan al huda community",
+      "target": "hostel city",
+      "from_stop": "Gulshan Al Huda Community",
+      "to_stop": "Hostel City",
+      "case_frequency": 48,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-08C:h 8->kach naar park i 8",
+      "route_id": "FR-08C",
+      "source": "h 8",
+      "target": "kach naar park i 8",
+      "from_stop": "H-8",
+      "to_stop": "Kach Naar Park I-8",
+      "case_frequency": 48,
+      "avg_duration_seconds": 135.0,
+      "avg_duration_label": "2 min 15 sec"
+    },
+    {
+      "id": "FR-08C:hostel city->comsats university",
+      "route_id": "FR-08C",
+      "source": "hostel city",
+      "target": "comsats university",
+      "from_stop": "Hostel City",
+      "to_stop": "COMSATS University",
+      "case_frequency": 48,
+      "avg_duration_seconds": 55.0,
+      "avg_duration_label": "0 min 55 sec"
+    },
+    {
+      "id": "FR-08C:itp driving license centre->margalla town",
+      "route_id": "FR-08C",
+      "source": "itp driving license centre",
+      "target": "margalla town",
+      "from_stop": "ITP Driving License Centre",
+      "to_stop": "Margalla Town",
+      "case_frequency": 48,
+      "avg_duration_seconds": 135.0,
+      "avg_duration_label": "2 min 15 sec"
+    },
+    {
+      "id": "FR-08C:kach naar park i 8->faizabad",
+      "route_id": "FR-08C",
+      "source": "kach naar park i 8",
+      "target": "faizabad",
+      "from_stop": "Kach Naar Park I-8",
+      "to_stop": "Faizabad",
+      "case_frequency": 48,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-08C:margalla town->garden avenue",
+      "route_id": "FR-08C",
+      "source": "margalla town",
+      "target": "garden avenue",
+      "from_stop": "Margalla Town",
+      "to_stop": "Garden Avenue",
+      "case_frequency": 48,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-08C:n a r c colony->n i h allergy center",
+      "route_id": "FR-08C",
+      "source": "n a r c colony",
+      "target": "n i h allergy center",
+      "from_stop": "N.A.R.C Colony",
+      "to_stop": "N.I.H Allergy Center",
+      "case_frequency": 48,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-08C:n i h allergy center->shahzad town",
+      "route_id": "FR-08C",
+      "source": "n i h allergy center",
+      "target": "shahzad town",
+      "from_stop": "N.I.H Allergy Center",
+      "to_stop": "Shahzad Town",
+      "case_frequency": 48,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-08C:pims hospital->children hospital",
+      "route_id": "FR-08C",
+      "source": "pims hospital",
+      "target": "children hospital",
+      "from_stop": "PIMS Hospital",
+      "to_stop": "Children Hospital",
+      "case_frequency": 48,
+      "avg_duration_seconds": 220.0,
+      "avg_duration_label": "3 min 40 sec"
+    },
+    {
+      "id": "FR-08C:park view city->green avenue",
+      "route_id": "FR-08C",
+      "source": "park view city",
+      "target": "green avenue",
+      "from_stop": "Park View City",
+      "to_stop": "Green Avenue",
+      "case_frequency": 48,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-08C:rawal dam colony->n a r c colony",
+      "route_id": "FR-08C",
+      "source": "rawal dam colony",
+      "target": "n a r c colony",
+      "from_stop": "Rawal Dam Colony",
+      "to_stop": "N.A.R.C Colony",
+      "case_frequency": 48,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-08C:rawal town->school board stop",
+      "route_id": "FR-08C",
+      "source": "rawal town",
+      "target": "school board stop",
+      "from_stop": "Rawal Town",
+      "to_stop": "School Board Stop",
+      "case_frequency": 48,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-08C:school board stop->rawal dam colony",
+      "route_id": "FR-08C",
+      "source": "school board stop",
+      "target": "rawal dam colony",
+      "from_stop": "School Board Stop",
+      "to_stop": "Rawal Dam Colony",
+      "case_frequency": 48,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-08C:shahzad town->park view city",
+      "route_id": "FR-08C",
+      "source": "shahzad town",
+      "target": "park view city",
+      "from_stop": "Shahzad Town",
+      "to_stop": "Park View City",
+      "case_frequency": 48,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-08C:tnt->h 8",
+      "route_id": "FR-08C",
+      "source": "tnt",
+      "target": "h 8",
+      "from_stop": "TNT",
+      "to_stop": "H-8",
+      "case_frequency": 48,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-08C:tamma stop->capt naeem tufail shaheed chow",
+      "route_id": "FR-08C",
+      "source": "tamma stop",
+      "target": "capt naeem tufail shaheed chow",
+      "from_stop": "Tamma Stop",
+      "to_stop": "Capt. Naeem Tufail Shaheed Chow",
+      "case_frequency": 48,
+      "avg_duration_seconds": 55.0,
+      "avg_duration_label": "0 min 55 sec"
+    },
+    {
+      "id": "FR-09:british homes->pir wadhai morh",
+      "route_id": "FR-09",
+      "source": "british homes",
+      "target": "pir wadhai morh",
+      "from_stop": "British Homes",
+      "to_stop": "Pir Wadhai Morh",
+      "case_frequency": 65,
+      "avg_duration_seconds": 76.0,
+      "avg_duration_label": "1 min 16 sec"
+    },
+    {
+      "id": "FR-09:cda stop->pully stop",
+      "route_id": "FR-09",
+      "source": "cda stop",
+      "target": "pully stop",
+      "from_stop": "CDA Stop",
+      "to_stop": "Pully Stop",
+      "case_frequency": 65,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-09:ctti->social security hospital",
+      "route_id": "FR-09",
+      "source": "ctti",
+      "target": "social security hospital",
+      "from_stop": "CTTI",
+      "to_stop": "Social Security Hospital",
+      "case_frequency": 65,
+      "avg_duration_seconds": 98.0,
+      "avg_duration_label": "1 min 38 sec"
+    },
+    {
+      "id": "FR-09:carriage factory->westridge",
+      "route_id": "FR-09",
+      "source": "carriage factory",
+      "target": "westridge",
+      "from_stop": "Carriage Factory",
+      "to_stop": "Westridge",
+      "case_frequency": 65,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-09:chishtiabad->golra morh",
+      "route_id": "FR-09",
+      "source": "chishtiabad",
+      "target": "golra morh",
+      "from_stop": "Chishtiabad",
+      "to_stop": "Golra Morh",
+      "case_frequency": 65,
+      "avg_duration_seconds": 125.0,
+      "avg_duration_label": "2 min 5 sec"
+    },
+    {
+      "id": "FR-09:dhok kala khan->sohan",
+      "route_id": "FR-09",
+      "source": "dhok kala khan",
+      "target": "sohan",
+      "from_stop": "Dhok Kala Khan",
+      "to_stop": "Sohan",
+      "case_frequency": 65,
+      "avg_duration_seconds": 170.0,
+      "avg_duration_label": "2 min 50 sec"
+    },
+    {
+      "id": "FR-09:faizabad metro station->ijp metro station",
+      "route_id": "FR-09",
+      "source": "faizabad metro station",
+      "target": "ijp metro station",
+      "from_stop": "Faizabad Metro Station",
+      "to_stop": "IJP Metro Station",
+      "case_frequency": 65,
+      "avg_duration_seconds": 240.0,
+      "avg_duration_label": "4 min 0 sec"
+    },
+    {
+      "id": "FR-09:fauji colony->carriage factory",
+      "route_id": "FR-09",
+      "source": "fauji colony",
+      "target": "carriage factory",
+      "from_stop": "Fauji Colony",
+      "to_stop": "Carriage Factory",
+      "case_frequency": 65,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-09:golra morh->home of military transport",
+      "route_id": "FR-09",
+      "source": "golra morh",
+      "target": "home of military transport",
+      "from_stop": "Golra Morh",
+      "to_stop": "Home of Military Transport",
+      "case_frequency": 65,
+      "avg_duration_seconds": 170.0,
+      "avg_duration_label": "2 min 50 sec"
+    },
+    {
+      "id": "FR-09:home of military transport->golra morh metro station",
+      "route_id": "FR-09",
+      "source": "home of military transport",
+      "target": "golra morh metro station",
+      "from_stop": "Home of Military Transport",
+      "to_stop": "Golra Morh Metro Station",
+      "case_frequency": 65,
+      "avg_duration_seconds": 180.0,
+      "avg_duration_label": "3 min 0 sec"
+    },
+    {
+      "id": "FR-09:ijp metro station->pindora chungi",
+      "route_id": "FR-09",
+      "source": "ijp metro station",
+      "target": "pindora chungi",
+      "from_stop": "IJP Metro Station",
+      "to_stop": "Pindora Chungi",
+      "case_frequency": 65,
+      "avg_duration_seconds": 230.0,
+      "avg_duration_label": "3 min 50 sec"
+    },
+    {
+      "id": "FR-09:iqbal town->dhok kala khan",
+      "route_id": "FR-09",
+      "source": "iqbal town",
+      "target": "dhok kala khan",
+      "from_stop": "Iqbal Town",
+      "to_stop": "Dhok Kala Khan",
+      "case_frequency": 65,
+      "avg_duration_seconds": 95.0,
+      "avg_duration_label": "1 min 35 sec"
+    },
+    {
+      "id": "FR-09:katarian chungi->katarian pull",
+      "route_id": "FR-09",
+      "source": "katarian chungi",
+      "target": "katarian pull",
+      "from_stop": "Katarian Chungi",
+      "to_stop": "Katarian Pull",
+      "case_frequency": 65,
+      "avg_duration_seconds": 76.0,
+      "avg_duration_label": "1 min 16 sec"
+    },
+    {
+      "id": "FR-09:katarian pull->cda stop",
+      "route_id": "FR-09",
+      "source": "katarian pull",
+      "target": "cda stop",
+      "from_stop": "Katarian Pull",
+      "to_stop": "CDA Stop",
+      "case_frequency": 65,
+      "avg_duration_seconds": 113.0,
+      "avg_duration_label": "1 min 53 sec"
+    },
+    {
+      "id": "FR-09:khanna pul->zia masjid",
+      "route_id": "FR-09",
+      "source": "khanna pul",
+      "target": "zia masjid",
+      "from_stop": "Khanna Pul",
+      "to_stop": "Zia Masjid",
+      "case_frequency": 65,
+      "avg_duration_seconds": 290.0,
+      "avg_duration_label": "4 min 50 sec"
+    },
+    {
+      "id": "FR-09:kohinoor mill->chishtiabad",
+      "route_id": "FR-09",
+      "source": "kohinoor mill",
+      "target": "chishtiabad",
+      "from_stop": "Kohinoor Mill",
+      "to_stop": "Chishtiabad",
+      "case_frequency": 65,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-09:kohinoor mill colony->kohinoor mill",
+      "route_id": "FR-09",
+      "source": "kohinoor mill colony",
+      "target": "kohinoor mill",
+      "from_stop": "Kohinoor Mill Colony",
+      "to_stop": "Kohinoor Mill",
+      "case_frequency": 65,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-09:kuri road->iqbal town",
+      "route_id": "FR-09",
+      "source": "kuri road",
+      "target": "iqbal town",
+      "from_stop": "Kuri Road",
+      "to_stop": "Iqbal Town",
+      "case_frequency": 65,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-09:mandi morh->fauji colony",
+      "route_id": "FR-09",
+      "source": "mandi morh",
+      "target": "fauji colony",
+      "from_stop": "Mandi Morh",
+      "to_stop": "Fauji Colony",
+      "case_frequency": 65,
+      "avg_duration_seconds": 95.0,
+      "avg_duration_label": "1 min 35 sec"
+    },
+    {
+      "id": "FR-09:pindora chungi->katarian chungi",
+      "route_id": "FR-09",
+      "source": "pindora chungi",
+      "target": "katarian chungi",
+      "from_stop": "Pindora Chungi",
+      "to_stop": "Katarian Chungi",
+      "case_frequency": 65,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-09:pir wadhai morh->kohinoor mill colony",
+      "route_id": "FR-09",
+      "source": "pir wadhai morh",
+      "target": "kohinoor mill colony",
+      "from_stop": "Pir Wadhai Morh",
+      "to_stop": "Kohinoor Mill Colony",
+      "case_frequency": 65,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-09:pully stop->mandi morh",
+      "route_id": "FR-09",
+      "source": "pully stop",
+      "target": "mandi morh",
+      "from_stop": "Pully Stop",
+      "to_stop": "Mandi Morh",
+      "case_frequency": 65,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-09:social security hospital->british homes",
+      "route_id": "FR-09",
+      "source": "social security hospital",
+      "target": "british homes",
+      "from_stop": "Social Security Hospital",
+      "to_stop": "British Homes",
+      "case_frequency": 65,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FR-09:sohan->faizabad metro station",
+      "route_id": "FR-09",
+      "source": "sohan",
+      "target": "faizabad metro station",
+      "from_stop": "Sohan",
+      "to_stop": "Faizabad Metro Station",
+      "case_frequency": 65,
+      "avg_duration_seconds": 220.0,
+      "avg_duration_label": "3 min 40 sec"
+    },
+    {
+      "id": "FR-09:westridge->ctti",
+      "route_id": "FR-09",
+      "source": "westridge",
+      "target": "ctti",
+      "from_stop": "Westridge",
+      "to_stop": "CTTI",
+      "case_frequency": 65,
+      "avg_duration_seconds": 77.0,
+      "avg_duration_label": "1 min 17 sec"
+    },
+    {
+      "id": "FR-09:zia masjid->kuri road",
+      "route_id": "FR-09",
+      "source": "zia masjid",
+      "target": "kuri road",
+      "from_stop": "Zia Masjid",
+      "to_stop": "Kuri Road",
+      "case_frequency": 65,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-10:a k bari road->g 11 markaz",
+      "route_id": "FR-10",
+      "source": "a k bari road",
+      "target": "g 11 markaz",
+      "from_stop": "A.K Bari Road",
+      "to_stop": "G-11 Markaz",
+      "case_frequency": 19,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-10:b 17 gate no 1->b 17 gate no 2",
+      "route_id": "FR-10",
+      "source": "b 17 gate no 1",
+      "target": "b 17 gate no 2",
+      "from_stop": "B-17 Gate no. 1",
+      "to_stop": "B-17 Gate no. 2",
+      "case_frequency": 19,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-10:b 17 gate no 2->margalla",
+      "route_id": "FR-10",
+      "source": "b 17 gate no 2",
+      "target": "margalla",
+      "from_stop": "B-17 Gate no. 2",
+      "to_stop": "Margalla",
+      "case_frequency": 19,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-10:d 12 markaz->shah allah ditta",
+      "route_id": "FR-10",
+      "source": "d 12 markaz",
+      "target": "shah allah ditta",
+      "from_stop": "D-12 Markaz",
+      "to_stop": "Shah Allah Ditta",
+      "case_frequency": 19,
+      "avg_duration_seconds": 235.0,
+      "avg_duration_label": "3 min 55 sec"
+    },
+    {
+      "id": "FR-10:d 12 service road->iesco d 12",
+      "route_id": "FR-10",
+      "source": "d 12 service road",
+      "target": "iesco d 12",
+      "from_stop": "D-12 Service Road",
+      "to_stop": "IESCO D-12",
+      "case_frequency": 19,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-10:f 11 markaz->opf girls college",
+      "route_id": "FR-10",
+      "source": "f 11 markaz",
+      "target": "opf girls college",
+      "from_stop": "F-11 Markaz",
+      "to_stop": "OPF Girls College",
+      "case_frequency": 19,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-10:federal government college->f 11 markaz",
+      "route_id": "FR-10",
+      "source": "federal government college",
+      "target": "f 11 markaz",
+      "from_stop": "Federal Government College",
+      "to_stop": "F-11 Markaz",
+      "case_frequency": 19,
+      "avg_duration_seconds": 170.0,
+      "avg_duration_label": "2 min 50 sec"
+    },
+    {
+      "id": "FR-10:g 11 markaz->hammad uddin road",
+      "route_id": "FR-10",
+      "source": "g 11 markaz",
+      "target": "hammad uddin road",
+      "from_stop": "G-11 Markaz",
+      "to_stop": "Hammad Uddin Road",
+      "case_frequency": 19,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-10:g 13 metro station->nust metro station",
+      "route_id": "FR-10",
+      "source": "g 13 metro station",
+      "target": "nust metro station",
+      "from_stop": "G-13 Metro Station",
+      "to_stop": "NUST Metro Station",
+      "case_frequency": 19,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-10:golra morh->g 13 metro station",
+      "route_id": "FR-10",
+      "source": "golra morh",
+      "target": "g 13 metro station",
+      "from_stop": "Golra Morh",
+      "to_stop": "G-13 Metro Station",
+      "case_frequency": 19,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-10:golra sharif f 11 3->npf housing society",
+      "route_id": "FR-10",
+      "source": "golra sharif f 11 3",
+      "target": "npf housing society",
+      "from_stop": "Golra Sharif F-11/3",
+      "to_stop": "NPF Housing Society",
+      "case_frequency": 19,
+      "avg_duration_seconds": 290.0,
+      "avg_duration_label": "4 min 50 sec"
+    },
+    {
+      "id": "FR-10:hammad uddin road->federal government college",
+      "route_id": "FR-10",
+      "source": "hammad uddin road",
+      "target": "federal government college",
+      "from_stop": "Hammad Uddin Road",
+      "to_stop": "Federal Government College",
+      "case_frequency": 19,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-10:iesco d 12->d 12 markaz",
+      "route_id": "FR-10",
+      "source": "iesco d 12",
+      "target": "d 12 markaz",
+      "from_stop": "IESCO D-12",
+      "to_stop": "D-12 Markaz",
+      "case_frequency": 19,
+      "avg_duration_seconds": 125.0,
+      "avg_duration_label": "2 min 5 sec"
+    },
+    {
+      "id": "FR-10:islamabad international hospital->d 12 service road",
+      "route_id": "FR-10",
+      "source": "islamabad international hospital",
+      "target": "d 12 service road",
+      "from_stop": "Islamabad International Hospital",
+      "to_stop": "D-12 Service Road",
+      "case_frequency": 19,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-10:margalla->taxila bypass",
+      "route_id": "FR-10",
+      "source": "margalla",
+      "target": "taxila bypass",
+      "from_stop": "Margalla",
+      "to_stop": "Taxila Bypass",
+      "case_frequency": 19,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-10:multy stop->islamabad international hospital",
+      "route_id": "FR-10",
+      "source": "multy stop",
+      "target": "islamabad international hospital",
+      "from_stop": "Multy Stop",
+      "to_stop": "Islamabad International Hospital",
+      "case_frequency": 19,
+      "avg_duration_seconds": 220.0,
+      "avg_duration_label": "3 min 40 sec"
+    },
+    {
+      "id": "FR-10:npf housing society->multy stop",
+      "route_id": "FR-10",
+      "source": "npf housing society",
+      "target": "multy stop",
+      "from_stop": "NPF Housing Society",
+      "to_stop": "Multy Stop",
+      "case_frequency": 19,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-10:nust metro station->a k bari road",
+      "route_id": "FR-10",
+      "source": "nust metro station",
+      "target": "a k bari road",
+      "from_stop": "NUST Metro Station",
+      "to_stop": "A.K Bari Road",
+      "case_frequency": 19,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-10:opf girls college->golra sharif f 11 3",
+      "route_id": "FR-10",
+      "source": "opf girls college",
+      "target": "golra sharif f 11 3",
+      "from_stop": "OPF Girls College",
+      "to_stop": "Golra Sharif F-11/3",
+      "case_frequency": 19,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-10:sangjani->b 17 gate no 1",
+      "route_id": "FR-10",
+      "source": "sangjani",
+      "target": "b 17 gate no 1",
+      "from_stop": "Sangjani",
+      "to_stop": "B-17 Gate no. 1",
+      "case_frequency": 19,
+      "avg_duration_seconds": 170.0,
+      "avg_duration_label": "2 min 50 sec"
+    },
+    {
+      "id": "FR-10:shah allah ditta->sangjani",
+      "route_id": "FR-10",
+      "source": "shah allah ditta",
+      "target": "sangjani",
+      "from_stop": "Shah Allah Ditta",
+      "to_stop": "Sangjani",
+      "case_frequency": 19,
+      "avg_duration_seconds": 690.0,
+      "avg_duration_label": "11 min 30 sec"
+    },
+    {
+      "id": "FR-10:taxila bypass->wahdat colony",
+      "route_id": "FR-10",
+      "source": "taxila bypass",
+      "target": "wahdat colony",
+      "from_stop": "Taxila Bypass",
+      "to_stop": "Wahdat Colony",
+      "case_frequency": 19,
+      "avg_duration_seconds": 190.0,
+      "avg_duration_label": "3 min 10 sec"
+    },
+    {
+      "id": "FR-10:timber market->taxila",
+      "route_id": "FR-10",
+      "source": "timber market",
+      "target": "taxila",
+      "from_stop": "Timber Market",
+      "to_stop": "Taxila",
+      "case_frequency": 19,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-10:wahdat colony->timber market",
+      "route_id": "FR-10",
+      "source": "wahdat colony",
+      "target": "timber market",
+      "from_stop": "Wahdat Colony",
+      "to_stop": "Timber Market",
+      "case_frequency": 19,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-11:golra morh->imcg i 14 3",
+      "route_id": "FR-11",
+      "source": "golra morh",
+      "target": "imcg i 14 3",
+      "from_stop": "Golra Morh",
+      "to_stop": "IMCG I-14/3",
+      "case_frequency": 19,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-11:golra morh metro station->n5 metro station",
+      "route_id": "FR-11",
+      "source": "golra morh metro station",
+      "target": "n5 metro station",
+      "from_stop": "Golra Morh Metro Station",
+      "to_stop": "N5 Metro Station",
+      "case_frequency": 19,
+      "avg_duration_seconds": 290.0,
+      "avg_duration_label": "4 min 50 sec"
+    },
+    {
+      "id": "FR-11:i 14 markaz->i 14 1 park",
+      "route_id": "FR-11",
+      "source": "i 14 markaz",
+      "target": "i 14 1 park",
+      "from_stop": "I-14 Markaz",
+      "to_stop": "I-14/1 Park",
+      "case_frequency": 19,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-11:i 14 1 park->rafiullah shaheed chowk",
+      "route_id": "FR-11",
+      "source": "i 14 1 park",
+      "target": "rafiullah shaheed chowk",
+      "from_stop": "I-14/1 Park",
+      "to_stop": "Rafiullah Shaheed Chowk",
+      "case_frequency": 19,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-11:imcg i 14 3->riphah international university",
+      "route_id": "FR-11",
+      "source": "imcg i 14 3",
+      "target": "riphah international university",
+      "from_stop": "IMCG I-14/3",
+      "to_stop": "RIPHAH International University",
+      "case_frequency": 19,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-11:motorway chowk->nust eme college",
+      "route_id": "FR-11",
+      "source": "motorway chowk",
+      "target": "nust eme college",
+      "from_stop": "Motorway Chowk",
+      "to_stop": "NUST EME College",
+      "case_frequency": 19,
+      "avg_duration_seconds": 125.0,
+      "avg_duration_label": "2 min 5 sec"
+    },
+    {
+      "id": "FR-11:n5 metro station->motorway chowk",
+      "route_id": "FR-11",
+      "source": "n5 metro station",
+      "target": "motorway chowk",
+      "from_stop": "N5 Metro Station",
+      "to_stop": "Motorway Chowk",
+      "case_frequency": 19,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-11:nust eme college->golra morh",
+      "route_id": "FR-11",
+      "source": "nust eme college",
+      "target": "golra morh",
+      "from_stop": "NUST EME College",
+      "to_stop": "Golra Morh",
+      "case_frequency": 19,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-11:riphah international university->i 14 markaz",
+      "route_id": "FR-11",
+      "source": "riphah international university",
+      "target": "i 14 markaz",
+      "from_stop": "RIPHAH International University",
+      "to_stop": "I-14 Markaz",
+      "case_frequency": 19,
+      "avg_duration_seconds": 75.0,
+      "avg_duration_label": "1 min 15 sec"
+    },
+    {
+      "id": "FR-12:ahmad nagar->shah wali colony road",
+      "route_id": "FR-12",
+      "source": "ahmad nagar",
+      "target": "shah wali colony road",
+      "from_stop": "Ahmad Nagar",
+      "to_stop": "Shah Wali Colony Road",
+      "case_frequency": 12,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-12:askari cement factory road->dhok dhollian",
+      "route_id": "FR-12",
+      "source": "askari cement factory road",
+      "target": "dhok dhollian",
+      "from_stop": "Askari Cement Factory Road",
+      "to_stop": "Dhok Dhollian",
+      "case_frequency": 12,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-12:bahtar morh->wah model town phase 01",
+      "route_id": "FR-12",
+      "source": "bahtar morh",
+      "target": "wah model town phase 01",
+      "from_stop": "Bahtar Morh",
+      "to_stop": "Wah Model Town Phase 01",
+      "case_frequency": 12,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-12:basti->sabri gali",
+      "route_id": "FR-12",
+      "source": "basti",
+      "target": "sabri gali",
+      "from_stop": "Basti",
+      "to_stop": "Sabri Gali",
+      "case_frequency": 12,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-12:dhok dhollian->wapda colony",
+      "route_id": "FR-12",
+      "source": "dhok dhollian",
+      "target": "wapda colony",
+      "from_stop": "Dhok Dhollian",
+      "to_stop": "WAPDA Colony",
+      "case_frequency": 12,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-12:gulshan e anwar->jinnah colony",
+      "route_id": "FR-12",
+      "source": "gulshan e anwar",
+      "target": "jinnah colony",
+      "from_stop": "Gulshan e Anwar",
+      "to_stop": "Jinnah Colony",
+      "case_frequency": 12,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-12:hassan abdal->tipu sultan shaheed chowk",
+      "route_id": "FR-12",
+      "source": "hassan abdal",
+      "target": "tipu sultan shaheed chowk",
+      "from_stop": "Hassan Abdal",
+      "to_stop": "Tipu Sultan Shaheed Chowk",
+      "case_frequency": 12,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-12:jinnah colony->new city phase 01",
+      "route_id": "FR-12",
+      "source": "jinnah colony",
+      "target": "new city phase 01",
+      "from_stop": "Jinnah Colony",
+      "to_stop": "New City Phase 01",
+      "case_frequency": 12,
+      "avg_duration_seconds": 95.0,
+      "avg_duration_label": "1 min 35 sec"
+    },
+    {
+      "id": "FR-12:losar sharfoo->new city phase 02",
+      "route_id": "FR-12",
+      "source": "losar sharfoo",
+      "target": "new city phase 02",
+      "from_stop": "Losar Sharfoo",
+      "to_stop": "New City Phase 02",
+      "case_frequency": 12,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-12:malakand stop->basti",
+      "route_id": "FR-12",
+      "source": "malakand stop",
+      "target": "basti",
+      "from_stop": "Malakand Stop",
+      "to_stop": "Basti",
+      "case_frequency": 12,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-12:nawab abad->wah cantt barrier no 2",
+      "route_id": "FR-12",
+      "source": "nawab abad",
+      "target": "wah cantt barrier no 2",
+      "from_stop": "Nawab Abad",
+      "to_stop": "Wah Cantt Barrier No 2",
+      "case_frequency": 12,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-12:new city phase 01->losar sharfoo",
+      "route_id": "FR-12",
+      "source": "new city phase 01",
+      "target": "losar sharfoo",
+      "from_stop": "New City Phase 01",
+      "to_stop": "Losar Sharfoo",
+      "case_frequency": 12,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-12:new city phase 02->bahtar morh",
+      "route_id": "FR-12",
+      "source": "new city phase 02",
+      "target": "bahtar morh",
+      "from_stop": "New City Phase 02",
+      "to_stop": "Bahtar Morh",
+      "case_frequency": 12,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-12:sabri gali->wah cantt barrier 03",
+      "route_id": "FR-12",
+      "source": "sabri gali",
+      "target": "wah cantt barrier 03",
+      "from_stop": "Sabri Gali",
+      "to_stop": "Wah Cantt Barrier 03",
+      "case_frequency": 12,
+      "avg_duration_seconds": 40.0,
+      "avg_duration_label": "0 min 40 sec"
+    },
+    {
+      "id": "FR-12:shah wali colony road->wah gardens",
+      "route_id": "FR-12",
+      "source": "shah wali colony road",
+      "target": "wah gardens",
+      "from_stop": "Shah Wali Colony Road",
+      "to_stop": "Wah Gardens",
+      "case_frequency": 12,
+      "avg_duration_seconds": 65.0,
+      "avg_duration_label": "1 min 5 sec"
+    },
+    {
+      "id": "FR-12:swedish college->malakand stop",
+      "route_id": "FR-12",
+      "source": "swedish college",
+      "target": "malakand stop",
+      "from_stop": "Swedish College",
+      "to_stop": "Malakand Stop",
+      "case_frequency": 12,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-12:taxila chowk->university of wah",
+      "route_id": "FR-12",
+      "source": "taxila chowk",
+      "target": "university of wah",
+      "from_stop": "Taxila Chowk",
+      "to_stop": "University of Wah",
+      "case_frequency": 12,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-12:university of wah->nawab abad",
+      "route_id": "FR-12",
+      "source": "university of wah",
+      "target": "nawab abad",
+      "from_stop": "University of Wah",
+      "to_stop": "Nawab Abad",
+      "case_frequency": 12,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-12:wapda colony->hassan abdal",
+      "route_id": "FR-12",
+      "source": "wapda colony",
+      "target": "hassan abdal",
+      "from_stop": "WAPDA Colony",
+      "to_stop": "Hassan Abdal",
+      "case_frequency": 12,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-12:wah cantt barrier 03->ahmad nagar",
+      "route_id": "FR-12",
+      "source": "wah cantt barrier 03",
+      "target": "ahmad nagar",
+      "from_stop": "Wah Cantt Barrier 03",
+      "to_stop": "Ahmad Nagar",
+      "case_frequency": 12,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-12:wah cantt barrier no 2->gulshan e anwar",
+      "route_id": "FR-12",
+      "source": "wah cantt barrier no 2",
+      "target": "gulshan e anwar",
+      "from_stop": "Wah Cantt Barrier No 2",
+      "to_stop": "Gulshan e Anwar",
+      "case_frequency": 12,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-12:wah gardens->askari cement factory road",
+      "route_id": "FR-12",
+      "source": "wah gardens",
+      "target": "askari cement factory road",
+      "from_stop": "Wah Gardens",
+      "to_stop": "Askari Cement Factory Road",
+      "case_frequency": 12,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-12:wah model town phase 01->wah model town phase 02",
+      "route_id": "FR-12",
+      "source": "wah model town phase 01",
+      "target": "wah model town phase 02",
+      "from_stop": "Wah Model Town Phase 01",
+      "to_stop": "Wah Model Town Phase 02",
+      "case_frequency": 12,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-12:wah model town phase 02->swedish college",
+      "route_id": "FR-12",
+      "source": "wah model town phase 02",
+      "target": "swedish college",
+      "from_stop": "Wah Model Town Phase 02",
+      "to_stop": "Swedish College",
+      "case_frequency": 12,
+      "avg_duration_seconds": 55.0,
+      "avg_duration_label": "0 min 55 sec"
+    },
+    {
+      "id": "FR-13:afridi bagh->hattar",
+      "route_id": "FR-13",
+      "source": "afridi bagh",
+      "target": "hattar",
+      "from_stop": "Afridi Bagh",
+      "to_stop": "Hattar",
+      "case_frequency": 13,
+      "avg_duration_seconds": 75.0,
+      "avg_duration_label": "1 min 15 sec"
+    },
+    {
+      "id": "FR-13:airport enclave->madni chowk",
+      "route_id": "FR-13",
+      "source": "airport enclave",
+      "target": "madni chowk",
+      "from_stop": "Airport Enclave",
+      "to_stop": "Madni Chowk",
+      "case_frequency": 13,
+      "avg_duration_seconds": 230.0,
+      "avg_duration_label": "3 min 50 sec"
+    },
+    {
+      "id": "FR-13:akram city->civil ct road",
+      "route_id": "FR-13",
+      "source": "akram city",
+      "target": "civil ct road",
+      "from_stop": "Akram City",
+      "to_stop": "Civil CT Road",
+      "case_frequency": 13,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-13:bangu chowk->afridi bagh",
+      "route_id": "FR-13",
+      "source": "bangu chowk",
+      "target": "afridi bagh",
+      "from_stop": "Bangu Chowk",
+      "to_stop": "Afridi Bagh",
+      "case_frequency": 13,
+      "avg_duration_seconds": 95.0,
+      "avg_duration_label": "1 min 35 sec"
+    },
+    {
+      "id": "FR-13:civil ct road->fateh jang",
+      "route_id": "FR-13",
+      "source": "civil ct road",
+      "target": "fateh jang",
+      "from_stop": "Civil CT Road",
+      "to_stop": "Fateh Jang",
+      "case_frequency": 13,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-13:dhok miskeen->mangial link road 1",
+      "route_id": "FR-13",
+      "source": "dhok miskeen",
+      "target": "mangial link road 1",
+      "from_stop": "Dhok Miskeen",
+      "to_stop": "Mangial Link Road 1",
+      "case_frequency": 13,
+      "avg_duration_seconds": 195.0,
+      "avg_duration_label": "3 min 15 sec"
+    },
+    {
+      "id": "FR-13:dhuma->pechs",
+      "route_id": "FR-13",
+      "source": "dhuma",
+      "target": "pechs",
+      "from_stop": "Dhuma",
+      "to_stop": "PECHS",
+      "case_frequency": 13,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-13:doiyan->qutbal",
+      "route_id": "FR-13",
+      "source": "doiyan",
+      "target": "qutbal",
+      "from_stop": "Doiyan",
+      "to_stop": "Qutbal",
+      "case_frequency": 13,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FR-13:g 15 h 15->g 16 h 16",
+      "route_id": "FR-13",
+      "source": "g 15 h 15",
+      "target": "g 16 h 16",
+      "from_stop": "G-15/H-15",
+      "to_stop": "G-16/H-16",
+      "case_frequency": 13,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-13:g 16 1->masjid abu al qasim",
+      "route_id": "FR-13",
+      "source": "g 16 1",
+      "target": "masjid abu al qasim",
+      "from_stop": "G-16/1",
+      "to_stop": "Masjid Abu Al Qasim",
+      "case_frequency": 13,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-13:g 16 h 16->g 16 1",
+      "route_id": "FR-13",
+      "source": "g 16 h 16",
+      "target": "g 16 1",
+      "from_stop": "G-16/H-16",
+      "to_stop": "G-16/1",
+      "case_frequency": 13,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-13:garhi hasu khan->the avanue 03",
+      "route_id": "FR-13",
+      "source": "garhi hasu khan",
+      "target": "the avanue 03",
+      "from_stop": "Garhi Hasu Khan",
+      "to_stop": "The Avanue 03",
+      "case_frequency": 13,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-13:golra morh metro station->n 5 metro station",
+      "route_id": "FR-13",
+      "source": "golra morh metro station",
+      "target": "n 5 metro station",
+      "from_stop": "Golra Morh Metro Station",
+      "to_stop": "N-5 Metro Station",
+      "case_frequency": 13,
+      "avg_duration_seconds": 135.0,
+      "avg_duration_label": "2 min 15 sec"
+    },
+    {
+      "id": "FR-13:graceland housing society->mangial link road 2",
+      "route_id": "FR-13",
+      "source": "graceland housing society",
+      "target": "mangial link road 2",
+      "from_stop": "Graceland Housing Society",
+      "to_stop": "Mangial Link Road 2",
+      "case_frequency": 13,
+      "avg_duration_seconds": 145.0,
+      "avg_duration_label": "2 min 25 sec"
+    },
+    {
+      "id": "FR-13:hattar->prem nagar faqeeran",
+      "route_id": "FR-13",
+      "source": "hattar",
+      "target": "prem nagar faqeeran",
+      "from_stop": "Hattar",
+      "to_stop": "Prem Nagar Faqeeran",
+      "case_frequency": 13,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-13:madni chowk->dhuma",
+      "route_id": "FR-13",
+      "source": "madni chowk",
+      "target": "dhuma",
+      "from_stop": "Madni Chowk",
+      "to_stop": "Dhuma",
+      "case_frequency": 13,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-13:mangial link road 1->graceland housing society",
+      "route_id": "FR-13",
+      "source": "mangial link road 1",
+      "target": "graceland housing society",
+      "from_stop": "Mangial Link Road 1",
+      "to_stop": "Graceland Housing Society",
+      "case_frequency": 13,
+      "avg_duration_seconds": 190.0,
+      "avg_duration_label": "3 min 10 sec"
+    },
+    {
+      "id": "FR-13:mangial link road 2->mangial main stop",
+      "route_id": "FR-13",
+      "source": "mangial link road 2",
+      "target": "mangial main stop",
+      "from_stop": "Mangial Link Road 2",
+      "to_stop": "Mangial Main Stop",
+      "case_frequency": 13,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-13:mangial main stop->doiyan",
+      "route_id": "FR-13",
+      "source": "mangial main stop",
+      "target": "doiyan",
+      "from_stop": "Mangial Main Stop",
+      "to_stop": "Doiyan",
+      "case_frequency": 13,
+      "avg_duration_seconds": 75.0,
+      "avg_duration_label": "1 min 15 sec"
+    },
+    {
+      "id": "FR-13:masjid abu al qasim->top city",
+      "route_id": "FR-13",
+      "source": "masjid abu al qasim",
+      "target": "top city",
+      "from_stop": "Masjid Abu Al Qasim",
+      "to_stop": "Top City",
+      "case_frequency": 13,
+      "avg_duration_seconds": 190.0,
+      "avg_duration_label": "3 min 10 sec"
+    },
+    {
+      "id": "FR-13:mohri patak->dhok miskeen",
+      "route_id": "FR-13",
+      "source": "mohri patak",
+      "target": "dhok miskeen",
+      "from_stop": "Mohri Patak",
+      "to_stop": "Dhok Miskeen",
+      "case_frequency": 13,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-13:mumtaz city->airport enclave",
+      "route_id": "FR-13",
+      "source": "mumtaz city",
+      "target": "airport enclave",
+      "from_stop": "Mumtaz City",
+      "to_stop": "Airport Enclave",
+      "case_frequency": 13,
+      "avg_duration_seconds": 135.0,
+      "avg_duration_label": "2 min 15 sec"
+    },
+    {
+      "id": "FR-13:n 5 metro station->g 15 h 15",
+      "route_id": "FR-13",
+      "source": "n 5 metro station",
+      "target": "g 15 h 15",
+      "from_stop": "N-5 Metro Station",
+      "to_stop": "G-15/H-15",
+      "case_frequency": 13,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-13:pechs->mohri patak",
+      "route_id": "FR-13",
+      "source": "pechs",
+      "target": "mohri patak",
+      "from_stop": "PECHS",
+      "to_stop": "Mohri Patak",
+      "case_frequency": 13,
+      "avg_duration_seconds": 180.0,
+      "avg_duration_label": "3 min 0 sec"
+    },
+    {
+      "id": "FR-13:prem nagar faqeeran->garhi hasu khan",
+      "route_id": "FR-13",
+      "source": "prem nagar faqeeran",
+      "target": "garhi hasu khan",
+      "from_stop": "Prem Nagar Faqeeran",
+      "to_stop": "Garhi Hasu Khan",
+      "case_frequency": 13,
+      "avg_duration_seconds": 55.0,
+      "avg_duration_label": "0 min 55 sec"
+    },
+    {
+      "id": "FR-13:qutbal->bangu chowk",
+      "route_id": "FR-13",
+      "source": "qutbal",
+      "target": "bangu chowk",
+      "from_stop": "Qutbal",
+      "to_stop": "Bangu Chowk",
+      "case_frequency": 13,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "FR-13:the avanue 03->akram city",
+      "route_id": "FR-13",
+      "source": "the avanue 03",
+      "target": "akram city",
+      "from_stop": "The Avanue 03",
+      "to_stop": "Akram City",
+      "case_frequency": 13,
+      "avg_duration_seconds": 190.0,
+      "avg_duration_label": "3 min 10 sec"
+    },
+    {
+      "id": "FR-13:top city->mumtaz city",
+      "route_id": "FR-13",
+      "source": "top city",
+      "target": "mumtaz city",
+      "from_stop": "Top City",
+      "to_stop": "Mumtaz City",
+      "case_frequency": 13,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-14:barakahu->shahdara",
+      "route_id": "FR-14",
+      "source": "barakahu",
+      "target": "shahdara",
+      "from_stop": "Barakahu",
+      "to_stop": "Shahdara",
+      "case_frequency": 65,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-14:cda stop->pully stop",
+      "route_id": "FR-14",
+      "source": "cda stop",
+      "target": "pully stop",
+      "from_stop": "CDA Stop",
+      "to_stop": "Pully Stop",
+      "case_frequency": 65,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-14:dhokri stop->kashmir chowk",
+      "route_id": "FR-14",
+      "source": "dhokri stop",
+      "target": "kashmir chowk",
+      "from_stop": "Dhokri Stop",
+      "to_stop": "Kashmir Chowk",
+      "case_frequency": 65,
+      "avg_duration_seconds": 71.0,
+      "avg_duration_label": "1 min 11 sec"
+    },
+    {
+      "id": "FR-14:faizabad metro station->ijp metro station",
+      "route_id": "FR-14",
+      "source": "faizabad metro station",
+      "target": "ijp metro station",
+      "from_stop": "Faizabad Metro Station",
+      "to_stop": "IJP Metro Station",
+      "case_frequency": 65,
+      "avg_duration_seconds": 240.0,
+      "avg_duration_label": "4 min 0 sec"
+    },
+    {
+      "id": "FR-14:garden avenue->margalla town",
+      "route_id": "FR-14",
+      "source": "garden avenue",
+      "target": "margalla town",
+      "from_stop": "Garden Avenue",
+      "to_stop": "Margalla Town",
+      "case_frequency": 65,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-14:ijp metro station->pindora chungi",
+      "route_id": "FR-14",
+      "source": "ijp metro station",
+      "target": "pindora chungi",
+      "from_stop": "IJP Metro Station",
+      "to_stop": "Pindora Chungi",
+      "case_frequency": 65,
+      "avg_duration_seconds": 230.0,
+      "avg_duration_label": "3 min 50 sec"
+    },
+    {
+      "id": "FR-14:itp driving license centre->sohan",
+      "route_id": "FR-14",
+      "source": "itp driving license centre",
+      "target": "sohan",
+      "from_stop": "ITP Driving License Centre",
+      "to_stop": "Sohan",
+      "case_frequency": 65,
+      "avg_duration_seconds": 400.0,
+      "avg_duration_label": "6 min 40 sec"
+    },
+    {
+      "id": "FR-14:kashmir chowk->rawal dam chowk",
+      "route_id": "FR-14",
+      "source": "kashmir chowk",
+      "target": "rawal dam chowk",
+      "from_stop": "Kashmir Chowk",
+      "to_stop": "Rawal Dam Chowk",
+      "case_frequency": 65,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-14:katarian chungi->katarian pull",
+      "route_id": "FR-14",
+      "source": "katarian chungi",
+      "target": "katarian pull",
+      "from_stop": "Katarian Chungi",
+      "to_stop": "Katarian Pull",
+      "case_frequency": 65,
+      "avg_duration_seconds": 76.0,
+      "avg_duration_label": "1 min 16 sec"
+    },
+    {
+      "id": "FR-14:katarian pull->cda stop",
+      "route_id": "FR-14",
+      "source": "katarian pull",
+      "target": "cda stop",
+      "from_stop": "Katarian Pull",
+      "to_stop": "CDA Stop",
+      "case_frequency": 65,
+      "avg_duration_seconds": 113.0,
+      "avg_duration_label": "1 min 53 sec"
+    },
+    {
+      "id": "FR-14:lake view park->dhokri stop",
+      "route_id": "FR-14",
+      "source": "lake view park",
+      "target": "dhokri stop",
+      "from_stop": "Lake View Park",
+      "to_stop": "Dhokri Stop",
+      "case_frequency": 65,
+      "avg_duration_seconds": 220.0,
+      "avg_duration_label": "3 min 40 sec"
+    },
+    {
+      "id": "FR-14:malpur->lake view park",
+      "route_id": "FR-14",
+      "source": "malpur",
+      "target": "lake view park",
+      "from_stop": "Malpur",
+      "to_stop": "Lake View Park",
+      "case_frequency": 65,
+      "avg_duration_seconds": 125.0,
+      "avg_duration_label": "2 min 5 sec"
+    },
+    {
+      "id": "FR-14:margalla town->itp driving license centre",
+      "route_id": "FR-14",
+      "source": "margalla town",
+      "target": "itp driving license centre",
+      "from_stop": "Margalla Town",
+      "to_stop": "ITP Driving License Centre",
+      "case_frequency": 65,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-14:pindora chungi->katarian chungi",
+      "route_id": "FR-14",
+      "source": "pindora chungi",
+      "target": "katarian chungi",
+      "from_stop": "Pindora Chungi",
+      "to_stop": "Katarian Chungi",
+      "case_frequency": 65,
+      "avg_duration_seconds": 69.0,
+      "avg_duration_label": "1 min 9 sec"
+    },
+    {
+      "id": "FR-14:pully stop->mandi morh",
+      "route_id": "FR-14",
+      "source": "pully stop",
+      "target": "mandi morh",
+      "from_stop": "Pully Stop",
+      "to_stop": "Mandi Morh",
+      "case_frequency": 65,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-14:rawal dam chowk->garden avenue",
+      "route_id": "FR-14",
+      "source": "rawal dam chowk",
+      "target": "garden avenue",
+      "from_stop": "Rawal Dam Chowk",
+      "to_stop": "Garden Avenue",
+      "case_frequency": 65,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-14:shahdara->malpur",
+      "route_id": "FR-14",
+      "source": "shahdara",
+      "target": "malpur",
+      "from_stop": "Shahdara",
+      "to_stop": "Malpur",
+      "case_frequency": 65,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "FR-14:sohan->faizabad metro station",
+      "route_id": "FR-14",
+      "source": "sohan",
+      "target": "faizabad metro station",
+      "from_stop": "Sohan",
+      "to_stop": "Faizabad Metro Station",
+      "case_frequency": 65,
+      "avg_duration_seconds": 220.0,
+      "avg_duration_label": "3 min 40 sec"
+    },
+    {
+      "id": "FR-14A:akbar niazi hospital->phulgran",
+      "route_id": "FR-14A",
+      "source": "akbar niazi hospital",
+      "target": "phulgran",
+      "from_stop": "Akbar Niazi Hospital",
+      "to_stop": "Phulgran",
+      "case_frequency": 65,
+      "avg_duration_seconds": 40.0,
+      "avg_duration_label": "0 min 40 sec"
+    },
+    {
+      "id": "FR-14A:al wadi colony->satra meel",
+      "route_id": "FR-14A",
+      "source": "al wadi colony",
+      "target": "satra meel",
+      "from_stop": "Al Wadi Colony",
+      "to_stop": "Satra Meel",
+      "case_frequency": 65,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-14A:athal chowk->barakahu bazar",
+      "route_id": "FR-14A",
+      "source": "athal chowk",
+      "target": "barakahu bazar",
+      "from_stop": "Athal Chowk",
+      "to_stop": "Barakahu Bazar",
+      "case_frequency": 65,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FR-14A:barakahu bazar->bhera pull",
+      "route_id": "FR-14A",
+      "source": "barakahu bazar",
+      "target": "bhera pull",
+      "from_stop": "Barakahu Bazar",
+      "to_stop": "Bhera Pull",
+      "case_frequency": 65,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-14A:barakahu terminal->mangu town",
+      "route_id": "FR-14A",
+      "source": "barakahu terminal",
+      "target": "mangu town",
+      "from_stop": "Barakahu Terminal",
+      "to_stop": "Mangu Town",
+      "case_frequency": 65,
+      "avg_duration_seconds": 50.0,
+      "avg_duration_label": "0 min 50 sec"
+    },
+    {
+      "id": "FR-14A:bhera pull->nai abadi",
+      "route_id": "FR-14A",
+      "source": "bhera pull",
+      "target": "nai abadi",
+      "from_stop": "Bhera Pull",
+      "to_stop": "Nai Abadi",
+      "case_frequency": 65,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FR-14A:col ammanullah road->athal chowk",
+      "route_id": "FR-14A",
+      "source": "col ammanullah road",
+      "target": "athal chowk",
+      "from_stop": "Col. Ammanullah Road",
+      "to_stop": "Athal Chowk",
+      "case_frequency": 65,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FR-14A:dhok badam->punjab college",
+      "route_id": "FR-14A",
+      "source": "dhok badam",
+      "target": "punjab college",
+      "from_stop": "Dhok Badam",
+      "to_stop": "Punjab College",
+      "case_frequency": 65,
+      "avg_duration_seconds": 40.0,
+      "avg_duration_label": "0 min 40 sec"
+    },
+    {
+      "id": "FR-14A:mangu town->col ammanullah road",
+      "route_id": "FR-14A",
+      "source": "mangu town",
+      "target": "col ammanullah road",
+      "from_stop": "Mangu Town",
+      "to_stop": "Col. Ammanullah Road",
+      "case_frequency": 65,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "FR-14A:nai abadi->traders colony",
+      "route_id": "FR-14A",
+      "source": "nai abadi",
+      "target": "traders colony",
+      "from_stop": "Nai Abadi",
+      "to_stop": "Traders Colony",
+      "case_frequency": 65,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "FR-14A:phulgran->dhok badam",
+      "route_id": "FR-14A",
+      "source": "phulgran",
+      "target": "dhok badam",
+      "from_stop": "Phulgran",
+      "to_stop": "Dhok Badam",
+      "case_frequency": 65,
+      "avg_duration_seconds": 40.0,
+      "avg_duration_label": "0 min 40 sec"
+    },
+    {
+      "id": "FR-14A:punjab college->al wadi colony",
+      "route_id": "FR-14A",
+      "source": "punjab college",
+      "target": "al wadi colony",
+      "from_stop": "Punjab College",
+      "to_stop": "Al Wadi Colony",
+      "case_frequency": 65,
+      "avg_duration_seconds": 10.0,
+      "avg_duration_label": "0 min 10 sec"
+    },
+    {
+      "id": "FR-14A:traders colony->akbar niazi hospital",
+      "route_id": "FR-14A",
+      "source": "traders colony",
+      "target": "akbar niazi hospital",
+      "from_stop": "Traders Colony",
+      "to_stop": "Akbar Niazi Hospital",
+      "case_frequency": 65,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FR-15:dha gate 07->suparco",
+      "route_id": "FR-15",
+      "source": "dha gate 07",
+      "target": "suparco",
+      "from_stop": "DHA Gate 07",
+      "to_stop": "SUPARCO",
+      "case_frequency": 33,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-15:dha gate 08->dha gate 07",
+      "route_id": "FR-15",
+      "source": "dha gate 08",
+      "target": "dha gate 07",
+      "from_stop": "DHA Gate 08",
+      "to_stop": "DHA Gate 07",
+      "case_frequency": 33,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-15:fazaia->gangal",
+      "route_id": "FR-15",
+      "source": "fazaia",
+      "target": "gangal",
+      "from_stop": "Fazaia",
+      "to_stop": "Gangal",
+      "case_frequency": 33,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-15:gangal->koral town",
+      "route_id": "FR-15",
+      "source": "gangal",
+      "target": "koral town",
+      "from_stop": "Gangal",
+      "to_stop": "Koral Town",
+      "case_frequency": 33,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-15:gulberg->pagh chowk",
+      "route_id": "FR-15",
+      "source": "gulberg",
+      "target": "pagh chowk",
+      "from_stop": "Gulberg",
+      "to_stop": "Pagh Chowk",
+      "case_frequency": 33,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-15:kaak pul->dha gate 08",
+      "route_id": "FR-15",
+      "source": "kaak pul",
+      "target": "dha gate 08",
+      "from_stop": "Kaak Pul",
+      "to_stop": "DHA Gate 08",
+      "case_frequency": 33,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-15:khanna pul->fazaia",
+      "route_id": "FR-15",
+      "source": "khanna pul",
+      "target": "fazaia",
+      "from_stop": "Khanna Pul",
+      "to_stop": "Fazaia",
+      "case_frequency": 33,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-15:koral town->gulberg",
+      "route_id": "FR-15",
+      "source": "koral town",
+      "target": "gulberg",
+      "from_stop": "Koral Town",
+      "to_stop": "Gulberg",
+      "case_frequency": 33,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-15:pwd housing society->soan gardens e block",
+      "route_id": "FR-15",
+      "source": "pwd housing society",
+      "target": "soan gardens e block",
+      "from_stop": "PWD Housing Society",
+      "to_stop": "Soan Gardens E Block",
+      "case_frequency": 33,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FR-15:pagh chowk->pwd housing society",
+      "route_id": "FR-15",
+      "source": "pagh chowk",
+      "target": "pwd housing society",
+      "from_stop": "Pagh Chowk",
+      "to_stop": "PWD Housing Society",
+      "case_frequency": 33,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-15:river gardens->kaak pul",
+      "route_id": "FR-15",
+      "source": "river gardens",
+      "target": "kaak pul",
+      "from_stop": "River Gardens",
+      "to_stop": "Kaak Pul",
+      "case_frequency": 33,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-15:suparco->t chowk",
+      "route_id": "FR-15",
+      "source": "suparco",
+      "target": "t chowk",
+      "from_stop": "SUPARCO",
+      "to_stop": "T- Chowk",
+      "case_frequency": 33,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-15:soan gardens e block->soan gardens g block",
+      "route_id": "FR-15",
+      "source": "soan gardens e block",
+      "target": "soan gardens g block",
+      "from_stop": "Soan Gardens E Block",
+      "to_stop": "Soan Gardens G Block",
+      "case_frequency": 33,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "FR-15:soan gardens g block->soan gardens h block",
+      "route_id": "FR-15",
+      "source": "soan gardens g block",
+      "target": "soan gardens h block",
+      "from_stop": "Soan Gardens G Block",
+      "to_stop": "Soan Gardens H Block",
+      "case_frequency": 33,
+      "avg_duration_seconds": 115.0,
+      "avg_duration_label": "1 min 55 sec"
+    },
+    {
+      "id": "FR-15:soan gardens h block->river gardens",
+      "route_id": "FR-15",
+      "source": "soan gardens h block",
+      "target": "river gardens",
+      "from_stop": "Soan Gardens H Block",
+      "to_stop": "River Gardens",
+      "case_frequency": 33,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FRB-01:children hospital->tnt",
+      "route_id": "FRB-01",
+      "source": "children hospital",
+      "target": "tnt",
+      "from_stop": "Children Hospital",
+      "to_stop": "TNT",
+      "case_frequency": 196,
+      "avg_duration_seconds": 190.0,
+      "avg_duration_label": "3 min 10 sec"
+    },
+    {
+      "id": "FRB-01:dhok kala khan->iqbal town",
+      "route_id": "FRB-01",
+      "source": "dhok kala khan",
+      "target": "iqbal town",
+      "from_stop": "Dhok Kala Khan",
+      "to_stop": "Iqbal Town",
+      "case_frequency": 196,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FRB-01:fazaia->gangal",
+      "route_id": "FRB-01",
+      "source": "fazaia",
+      "target": "gangal",
+      "from_stop": "Fazaia",
+      "to_stop": "Gangal",
+      "case_frequency": 196,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FRB-01:gangal->koral town",
+      "route_id": "FRB-01",
+      "source": "gangal",
+      "target": "koral town",
+      "from_stop": "Gangal",
+      "to_stop": "Koral Town",
+      "case_frequency": 196,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FRB-01:h 8->kach naar park i 8",
+      "route_id": "FRB-01",
+      "source": "h 8",
+      "target": "kach naar park i 8",
+      "from_stop": "H-8",
+      "to_stop": "Kach Naar Park I-8",
+      "case_frequency": 196,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FRB-01:iqbal town->kuri road",
+      "route_id": "FRB-01",
+      "source": "iqbal town",
+      "target": "kuri road",
+      "from_stop": "Iqbal Town",
+      "to_stop": "Kuri Road",
+      "case_frequency": 196,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "FRB-01:kach naar park i 8->sohan",
+      "route_id": "FRB-01",
+      "source": "kach naar park i 8",
+      "target": "sohan",
+      "from_stop": "Kach Naar Park I-8",
+      "to_stop": "Sohan",
+      "case_frequency": 196,
+      "avg_duration_seconds": 220.0,
+      "avg_duration_label": "3 min 40 sec"
+    },
+    {
+      "id": "FRB-01:khanna pul->fazaia",
+      "route_id": "FRB-01",
+      "source": "khanna pul",
+      "target": "fazaia",
+      "from_stop": "Khanna Pul",
+      "to_stop": "Fazaia",
+      "case_frequency": 196,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FRB-01:koral town->gulberg",
+      "route_id": "FRB-01",
+      "source": "koral town",
+      "target": "gulberg",
+      "from_stop": "Koral Town",
+      "to_stop": "Gulberg",
+      "case_frequency": 196,
+      "avg_duration_seconds": 170.0,
+      "avg_duration_label": "2 min 50 sec"
+    },
+    {
+      "id": "FRB-01:kuri road->zia masjid",
+      "route_id": "FRB-01",
+      "source": "kuri road",
+      "target": "zia masjid",
+      "from_stop": "Kuri Road",
+      "to_stop": "Zia Masjid",
+      "case_frequency": 196,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "FRB-01:pims->children hospital",
+      "route_id": "FRB-01",
+      "source": "pims",
+      "target": "children hospital",
+      "from_stop": "PIMS",
+      "to_stop": "Children Hospital",
+      "case_frequency": 196,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FRB-01:sohan->dhok kala khan",
+      "route_id": "FRB-01",
+      "source": "sohan",
+      "target": "dhok kala khan",
+      "from_stop": "Sohan",
+      "to_stop": "Dhok Kala Khan",
+      "case_frequency": 196,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "FRB-01:tnt->h 8",
+      "route_id": "FRB-01",
+      "source": "tnt",
+      "target": "h 8",
+      "from_stop": "TNT",
+      "to_stop": "H-8",
+      "case_frequency": 196,
+      "avg_duration_seconds": 340.0,
+      "avg_duration_label": "5 min 40 sec"
+    },
+    {
+      "id": "FRB-01:zia masjid->khanna pul",
+      "route_id": "FRB-01",
+      "source": "zia masjid",
+      "target": "khanna pul",
+      "from_stop": "Zia Masjid",
+      "to_stop": "Khanna Pul",
+      "case_frequency": 196,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FRG-1:abpara->foreign affairs office",
+      "route_id": "FRG-1",
+      "source": "abpara",
+      "target": "foreign affairs office",
+      "from_stop": "Abpara",
+      "to_stop": "Foreign Affairs Office",
+      "case_frequency": 196,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "FRG-1:cda->abpara",
+      "route_id": "FRG-1",
+      "source": "cda",
+      "target": "abpara",
+      "from_stop": "CDA",
+      "to_stop": "Abpara",
+      "case_frequency": 196,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FRG-1:children hospital->tnt",
+      "route_id": "FRG-1",
+      "source": "children hospital",
+      "target": "tnt",
+      "from_stop": "Children Hospital",
+      "to_stop": "TNT",
+      "case_frequency": 196,
+      "avg_duration_seconds": 190.0,
+      "avg_duration_label": "3 min 10 sec"
+    },
+    {
+      "id": "FRG-1:foreign affairs office->lake view park",
+      "route_id": "FRG-1",
+      "source": "foreign affairs office",
+      "target": "lake view park",
+      "from_stop": "Foreign Affairs Office",
+      "to_stop": "Lake View Park",
+      "case_frequency": 196,
+      "avg_duration_seconds": 300.0,
+      "avg_duration_label": "5 min 0 sec"
+    },
+    {
+      "id": "FRG-1:lake view park->malpur",
+      "route_id": "FRG-1",
+      "source": "lake view park",
+      "target": "malpur",
+      "from_stop": "Lake View Park",
+      "to_stop": "Malpur",
+      "case_frequency": 196,
+      "avg_duration_seconds": 150.0,
+      "avg_duration_label": "2 min 30 sec"
+    },
+    {
+      "id": "FRG-1:malpur->shahdara",
+      "route_id": "FRG-1",
+      "source": "malpur",
+      "target": "shahdara",
+      "from_stop": "Malpur",
+      "to_stop": "Shahdara",
+      "case_frequency": 196,
+      "avg_duration_seconds": 170.0,
+      "avg_duration_label": "2 min 50 sec"
+    },
+    {
+      "id": "FRG-1:pims->children hospital",
+      "route_id": "FRG-1",
+      "source": "pims",
+      "target": "children hospital",
+      "from_stop": "PIMS",
+      "to_stop": "Children Hospital",
+      "case_frequency": 196,
+      "avg_duration_seconds": 90.0,
+      "avg_duration_label": "1 min 30 sec"
+    },
+    {
+      "id": "FRG-1:shahdara->barakahu",
+      "route_id": "FRG-1",
+      "source": "shahdara",
+      "target": "barakahu",
+      "from_stop": "Shahdara",
+      "to_stop": "Barakahu",
+      "case_frequency": 196,
+      "avg_duration_seconds": 110.0,
+      "avg_duration_label": "1 min 50 sec"
+    },
+    {
+      "id": "FRG-1:tnt->cda",
+      "route_id": "FRG-1",
+      "source": "tnt",
+      "target": "cda",
+      "from_stop": "TNT",
+      "to_stop": "CDA",
+      "case_frequency": 196,
+      "avg_duration_seconds": 320.0,
+      "avg_duration_label": "5 min 20 sec"
+    },
+    {
+      "id": "ST-01:bahria university->naval complex",
+      "route_id": "ST-01",
+      "source": "bahria university",
+      "target": "naval complex",
+      "from_stop": "Bahria University",
+      "to_stop": "Naval Complex",
+      "case_frequency": 9,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "ST-01:f 8 markaz->f 9 park",
+      "route_id": "ST-01",
+      "source": "f 8 markaz",
+      "target": "f 9 park",
+      "from_stop": "F-8 Markaz",
+      "to_stop": "F-9 Park",
+      "case_frequency": 9,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "ST-01:f 9 park->shaheen chowk",
+      "route_id": "ST-01",
+      "source": "f 9 park",
+      "target": "shaheen chowk",
+      "from_stop": "F-9 Park",
+      "to_stop": "Shaheen Chowk",
+      "case_frequency": 9,
+      "avg_duration_seconds": 85.0,
+      "avg_duration_label": "1 min 25 sec"
+    },
+    {
+      "id": "ST-01:faisal masjid->parveen shakir road",
+      "route_id": "ST-01",
+      "source": "faisal masjid",
+      "target": "parveen shakir road",
+      "from_stop": "Faisal Masjid",
+      "to_stop": "Parveen Shakir Road",
+      "case_frequency": 9,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "ST-01:faisal morh f 7 f 8->katchery",
+      "route_id": "ST-01",
+      "source": "faisal morh f 7 f 8",
+      "target": "katchery",
+      "from_stop": "Faisal Morh F-7/F-8",
+      "to_stop": "Katchery",
+      "case_frequency": 9,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "ST-01:katchery->f 8 markaz",
+      "route_id": "ST-01",
+      "source": "katchery",
+      "target": "f 8 markaz",
+      "from_stop": "Katchery",
+      "to_stop": "F-8 Markaz",
+      "case_frequency": 9,
+      "avg_duration_seconds": 105.0,
+      "avg_duration_label": "1 min 45 sec"
+    },
+    {
+      "id": "ST-01:kohsar road f 7 marka->murghzar zoo",
+      "route_id": "ST-01",
+      "source": "kohsar road f 7 marka",
+      "target": "murghzar zoo",
+      "from_stop": "Kohsar Road/F-7 Marka",
+      "to_stop": "Murghzar Zoo",
+      "case_frequency": 9,
+      "avg_duration_seconds": 160.0,
+      "avg_duration_label": "2 min 40 sec"
+    },
+    {
+      "id": "ST-01:murghzar zoo->daman e koh",
+      "route_id": "ST-01",
+      "source": "murghzar zoo",
+      "target": "daman e koh",
+      "from_stop": "Murghzar Zoo",
+      "to_stop": "Daman e Koh",
+      "case_frequency": 9,
+      "avg_duration_seconds": 570.0,
+      "avg_duration_label": "9 min 30 sec"
+    },
+    {
+      "id": "ST-01:naval complex->faisal masjid",
+      "route_id": "ST-01",
+      "source": "naval complex",
+      "target": "faisal masjid",
+      "from_stop": "Naval Complex",
+      "to_stop": "Faisal Masjid",
+      "case_frequency": 9,
+      "avg_duration_seconds": 175.0,
+      "avg_duration_label": "2 min 55 sec"
+    },
+    {
+      "id": "ST-01:pims hospital->faisal morh f 7 f 8",
+      "route_id": "ST-01",
+      "source": "pims hospital",
+      "target": "faisal morh f 7 f 8",
+      "from_stop": "PIMS Hospital",
+      "to_stop": "Faisal Morh F-7/F-8",
+      "case_frequency": 9,
+      "avg_duration_seconds": 220.0,
+      "avg_duration_label": "3 min 40 sec"
+    },
+    {
+      "id": "ST-01:parveen shakir road->kohsar road f 7 marka",
+      "route_id": "ST-01",
+      "source": "parveen shakir road",
+      "target": "kohsar road f 7 marka",
+      "from_stop": "Parveen Shakir Road",
+      "to_stop": "Kohsar Road/F-7 Marka",
+      "case_frequency": 9,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    },
+    {
+      "id": "ST-01:shaheen chowk->bahria university",
+      "route_id": "ST-01",
+      "source": "shaheen chowk",
+      "target": "bahria university",
+      "from_stop": "Shaheen Chowk",
+      "to_stop": "Bahria University",
+      "case_frequency": 9,
+      "avg_duration_seconds": 180.0,
+      "avg_duration_label": "3 min 0 sec"
+    },
+    {
+      "id": "ST-02:abpara->shakarparian park",
+      "route_id": "ST-02",
+      "source": "abpara",
+      "target": "shakarparian park",
+      "from_stop": "Abpara",
+      "to_stop": "Shakarparian Park",
+      "case_frequency": 9,
+      "avg_duration_seconds": 370.0,
+      "avg_duration_label": "6 min 10 sec"
+    },
+    {
+      "id": "ST-02:cda->abpara",
+      "route_id": "ST-02",
+      "source": "cda",
+      "target": "abpara",
+      "from_stop": "CDA",
+      "to_stop": "Abpara",
+      "case_frequency": 9,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "ST-02:comsats university->tamma stop",
+      "route_id": "ST-02",
+      "source": "comsats university",
+      "target": "tamma stop",
+      "from_stop": "COMSATS University",
+      "to_stop": "Tamma Stop",
+      "case_frequency": 9,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "ST-02:chatta bakhtawar->hostel city",
+      "route_id": "ST-02",
+      "source": "chatta bakhtawar",
+      "target": "hostel city",
+      "from_stop": "Chatta Bakhtawar",
+      "to_stop": "Hostel City",
+      "case_frequency": 9,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "ST-02:green avenue->chatta bakhtawar",
+      "route_id": "ST-02",
+      "source": "green avenue",
+      "target": "chatta bakhtawar",
+      "from_stop": "Green Avenue",
+      "to_stop": "Chatta Bakhtawar",
+      "case_frequency": 9,
+      "avg_duration_seconds": 60.0,
+      "avg_duration_label": "1 min 0 sec"
+    },
+    {
+      "id": "ST-02:hostel city->comsats university",
+      "route_id": "ST-02",
+      "source": "hostel city",
+      "target": "comsats university",
+      "from_stop": "Hostel City",
+      "to_stop": "COMSATS University",
+      "case_frequency": 9,
+      "avg_duration_seconds": 100.0,
+      "avg_duration_label": "1 min 40 sec"
+    },
+    {
+      "id": "ST-02:narc colony->nih allergy center",
+      "route_id": "ST-02",
+      "source": "narc colony",
+      "target": "nih allergy center",
+      "from_stop": "NARC Colony",
+      "to_stop": "NIH Allergy Center",
+      "case_frequency": 9,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "ST-02:nih allergy center->shahzad town",
+      "route_id": "ST-02",
+      "source": "nih allergy center",
+      "target": "shahzad town",
+      "from_stop": "NIH Allergy Center",
+      "to_stop": "Shahzad Town",
+      "case_frequency": 9,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "ST-02:pims->tnt",
+      "route_id": "ST-02",
+      "source": "pims",
+      "target": "tnt",
+      "from_stop": "PIMS",
+      "to_stop": "TNT",
+      "case_frequency": 9,
+      "avg_duration_seconds": 220.0,
+      "avg_duration_label": "3 min 40 sec"
+    },
+    {
+      "id": "ST-02:park view city->green avenue",
+      "route_id": "ST-02",
+      "source": "park view city",
+      "target": "green avenue",
+      "from_stop": "Park View City",
+      "to_stop": "Green Avenue",
+      "case_frequency": 9,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "ST-02:rawal dam colony->narc colony",
+      "route_id": "ST-02",
+      "source": "rawal dam colony",
+      "target": "narc colony",
+      "from_stop": "Rawal Dam Colony",
+      "to_stop": "NARC Colony",
+      "case_frequency": 9,
+      "avg_duration_seconds": 130.0,
+      "avg_duration_label": "2 min 10 sec"
+    },
+    {
+      "id": "ST-02:rawal town->school board stop",
+      "route_id": "ST-02",
+      "source": "rawal town",
+      "target": "school board stop",
+      "from_stop": "Rawal Town",
+      "to_stop": "School Board Stop",
+      "case_frequency": 9,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "ST-02:school board stop->rawal dam colony",
+      "route_id": "ST-02",
+      "source": "school board stop",
+      "target": "rawal dam colony",
+      "from_stop": "School Board Stop",
+      "to_stop": "Rawal Dam Colony",
+      "case_frequency": 9,
+      "avg_duration_seconds": 70.0,
+      "avg_duration_label": "1 min 10 sec"
+    },
+    {
+      "id": "ST-02:shahzad town->park view city",
+      "route_id": "ST-02",
+      "source": "shahzad town",
+      "target": "park view city",
+      "from_stop": "Shahzad Town",
+      "to_stop": "Park View City",
+      "case_frequency": 9,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "ST-02:shakarparian park->rawal town",
+      "route_id": "ST-02",
+      "source": "shakarparian park",
+      "target": "rawal town",
+      "from_stop": "Shakarparian Park",
+      "to_stop": "Rawal Town",
+      "case_frequency": 9,
+      "avg_duration_seconds": 790.0,
+      "avg_duration_label": "13 min 10 sec"
+    },
+    {
+      "id": "ST-02:tnt->zero point",
+      "route_id": "ST-02",
+      "source": "tnt",
+      "target": "zero point",
+      "from_stop": "TNT",
+      "to_stop": "Zero Point",
+      "case_frequency": 9,
+      "avg_duration_seconds": 120.0,
+      "avg_duration_label": "2 min 0 sec"
+    },
+    {
+      "id": "ST-02:tamma stop->capt naeem tufail shaheed chow",
+      "route_id": "ST-02",
+      "source": "tamma stop",
+      "target": "capt naeem tufail shaheed chow",
+      "from_stop": "Tamma Stop",
+      "to_stop": "Capt. Naeem Tufail Shaheed Chow",
+      "case_frequency": 9,
+      "avg_duration_seconds": 80.0,
+      "avg_duration_label": "1 min 20 sec"
+    },
+    {
+      "id": "ST-02:zero point->cda",
+      "route_id": "ST-02",
+      "source": "zero point",
+      "target": "cda",
+      "from_stop": "Zero Point",
+      "to_stop": "CDA",
+      "case_frequency": 9,
+      "avg_duration_seconds": 140.0,
+      "avg_duration_label": "2 min 20 sec"
+    }
+  ],
+  "summary": {
+    "routes": 21,
+    "stops": 281,
+    "cases": 1509,
+    "events": 26450,
+    "transitions": 372
+  }
+}

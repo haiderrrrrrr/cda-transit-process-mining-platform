@@ -1,0 +1,1789 @@
+--- PAGE 1 ---
+Field
+Value
+Route ID
+10015
+Short Name
+FR-15
+Long Name
+ Khanna Pul- T- Chowk
+Direction
+Forward
+Total Trips
+33
+Average Headway (min 30
+Trip ID
+Start Time
+175504-0
+06:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+06:00:00
+06:00:00
+Fazaia
+06:01:30
+06:01:50
+Gangal
+06:03:35
+06:03:55
+Koral Town
+06:05:50
+06:06:10
+Gulberg
+06:07:40
+06:08:00
+Pagh Chowk
+06:09:45
+06:10:05
+PWD Housing Society
+06:12:00
+06:12:20
+Soan Gardens E Block
+06:13:50
+06:14:10
+Soan Gardens G Block 06:15:55
+06:16:15
+Soan Gardens H Block 06:18:10
+06:18:30
+River Gardens
+06:20:00
+06:20:20
+Kaak Pul
+06:22:05
+06:22:25
+DHA Gate 08
+06:24:20
+06:24:40
+DHA Gate 07
+06:26:10
+06:26:30
+SUPARCO
+06:28:15
+06:28:35
+T- Chowk
+06:30:30
+06:30:30
+Trip ID
+Start Time
+175506-0
+06:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+06:30:00
+06:30:00
+Fazaia
+06:31:30
+06:31:50
+Gangal
+06:33:35
+06:33:55
+Koral Town
+06:35:50
+06:36:10
+Gulberg
+06:37:40
+06:38:00
+Pagh Chowk
+06:39:45
+06:40:05
+PWD Housing Society
+06:42:00
+06:42:20
+Soan Gardens E Block
+06:43:50
+06:44:10
+Soan Gardens G Block 06:45:55
+06:46:15
+Soan Gardens H Block 06:48:10
+06:48:30
+River Gardens
+06:50:00
+06:50:20
+Kaak Pul
+06:52:05
+06:52:25
+DHA Gate 08
+06:54:20
+06:54:40
+DHA Gate 07
+06:56:10
+06:56:30
+SUPARCO
+06:58:15
+06:58:35
+T- Chowk
+07:00:30
+07:00:30
+Trip ID
+Start Time
+175508-0
+07:00:00
+
+--- PAGE 2 ---
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+07:00:00
+07:00:00
+Fazaia
+07:01:30
+07:01:50
+Gangal
+07:03:35
+07:03:55
+Koral Town
+07:05:50
+07:06:10
+Gulberg
+07:07:40
+07:08:00
+Pagh Chowk
+07:09:45
+07:10:05
+PWD Housing Society
+07:12:00
+07:12:20
+Soan Gardens E Block
+07:13:50
+07:14:10
+Soan Gardens G Block 07:15:55
+07:16:15
+Soan Gardens H Block 07:18:10
+07:18:30
+River Gardens
+07:20:00
+07:20:20
+Kaak Pul
+07:22:05
+07:22:25
+DHA Gate 08
+07:24:20
+07:24:40
+DHA Gate 07
+07:26:10
+07:26:30
+SUPARCO
+07:28:15
+07:28:35
+T- Chowk
+07:30:30
+07:30:30
+Trip ID
+Start Time
+175510-0
+07:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+07:30:00
+07:30:00
+Fazaia
+07:31:30
+07:31:50
+Gangal
+07:33:35
+07:33:55
+Koral Town
+07:35:50
+07:36:10
+Gulberg
+07:37:40
+07:38:00
+Pagh Chowk
+07:39:45
+07:40:05
+PWD Housing Society
+07:42:00
+07:42:20
+Soan Gardens E Block
+07:43:50
+07:44:10
+Soan Gardens G Block 07:45:55
+07:46:15
+Soan Gardens H Block 07:48:10
+07:48:30
+River Gardens
+07:50:00
+07:50:20
+Kaak Pul
+07:52:05
+07:52:25
+DHA Gate 08
+07:54:20
+07:54:40
+DHA Gate 07
+07:56:10
+07:56:30
+SUPARCO
+07:58:15
+07:58:35
+T- Chowk
+08:00:30
+08:00:30
+Trip ID
+Start Time
+175512-0
+08:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+08:00:00
+08:00:00
+Fazaia
+08:01:30
+08:01:50
+Gangal
+08:03:35
+08:03:55
+Koral Town
+08:05:50
+08:06:10
+Gulberg
+08:07:40
+08:08:00
+Pagh Chowk
+08:09:45
+08:10:05
+PWD Housing Society
+08:12:00
+08:12:20
+Soan Gardens E Block
+08:13:50
+08:14:10
+Soan Gardens G Block 08:15:55
+08:16:15
+
+--- PAGE 3 ---
+Soan Gardens H Block 08:18:10
+08:18:30
+River Gardens
+08:20:00
+08:20:20
+Kaak Pul
+08:22:05
+08:22:25
+DHA Gate 08
+08:24:20
+08:24:40
+DHA Gate 07
+08:26:10
+08:26:30
+SUPARCO
+08:28:15
+08:28:35
+T- Chowk
+08:30:30
+08:30:30
+Trip ID
+Start Time
+175514-0
+08:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+08:30:00
+08:30:00
+Fazaia
+08:31:30
+08:31:50
+Gangal
+08:33:35
+08:33:55
+Koral Town
+08:35:50
+08:36:10
+Gulberg
+08:37:40
+08:38:00
+Pagh Chowk
+08:39:45
+08:40:05
+PWD Housing Society
+08:42:00
+08:42:20
+Soan Gardens E Block
+08:43:50
+08:44:10
+Soan Gardens G Block 08:45:55
+08:46:15
+Soan Gardens H Block 08:48:10
+08:48:30
+River Gardens
+08:50:00
+08:50:20
+Kaak Pul
+08:52:05
+08:52:25
+DHA Gate 08
+08:54:20
+08:54:40
+DHA Gate 07
+08:56:10
+08:56:30
+SUPARCO
+08:58:15
+08:58:35
+T- Chowk
+09:00:30
+09:00:30
+Trip ID
+Start Time
+175516-0
+09:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+09:00:00
+09:00:00
+Fazaia
+09:01:30
+09:01:50
+Gangal
+09:03:35
+09:03:55
+Koral Town
+09:05:50
+09:06:10
+Gulberg
+09:07:40
+09:08:00
+Pagh Chowk
+09:09:45
+09:10:05
+PWD Housing Society
+09:12:00
+09:12:20
+Soan Gardens E Block
+09:13:50
+09:14:10
+Soan Gardens G Block 09:15:55
+09:16:15
+Soan Gardens H Block 09:18:10
+09:18:30
+River Gardens
+09:20:00
+09:20:20
+Kaak Pul
+09:22:05
+09:22:25
+DHA Gate 08
+09:24:20
+09:24:40
+DHA Gate 07
+09:26:10
+09:26:30
+SUPARCO
+09:28:15
+09:28:35
+T- Chowk
+09:30:30
+09:30:30
+Trip ID
+Start Time
+175518-0
+09:30:00
+
+--- PAGE 4 ---
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+09:30:00
+09:30:00
+Fazaia
+09:31:30
+09:31:50
+Gangal
+09:33:35
+09:33:55
+Koral Town
+09:35:50
+09:36:10
+Gulberg
+09:37:40
+09:38:00
+Pagh Chowk
+09:39:45
+09:40:05
+PWD Housing Society
+09:42:00
+09:42:20
+Soan Gardens E Block
+09:43:50
+09:44:10
+Soan Gardens G Block 09:45:55
+09:46:15
+Soan Gardens H Block 09:48:10
+09:48:30
+River Gardens
+09:50:00
+09:50:20
+Kaak Pul
+09:52:05
+09:52:25
+DHA Gate 08
+09:54:20
+09:54:40
+DHA Gate 07
+09:56:10
+09:56:30
+SUPARCO
+09:58:15
+09:58:35
+T- Chowk
+10:00:30
+10:00:30
+Trip ID
+Start Time
+175520-0
+10:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+10:00:00
+10:00:00
+Fazaia
+10:01:30
+10:01:50
+Gangal
+10:03:35
+10:03:55
+Koral Town
+10:05:50
+10:06:10
+Gulberg
+10:07:40
+10:08:00
+Pagh Chowk
+10:09:45
+10:10:05
+PWD Housing Society
+10:12:00
+10:12:20
+Soan Gardens E Block
+10:13:50
+10:14:10
+Soan Gardens G Block 10:15:55
+10:16:15
+Soan Gardens H Block 10:18:10
+10:18:30
+River Gardens
+10:20:00
+10:20:20
+Kaak Pul
+10:22:05
+10:22:25
+DHA Gate 08
+10:24:20
+10:24:40
+DHA Gate 07
+10:26:10
+10:26:30
+SUPARCO
+10:28:15
+10:28:35
+T- Chowk
+10:30:30
+10:30:30
+Trip ID
+Start Time
+175521-0
+10:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+10:30:00
+10:30:00
+Fazaia
+10:31:30
+10:31:50
+Gangal
+10:33:35
+10:33:55
+Koral Town
+10:35:50
+10:36:10
+Gulberg
+10:37:40
+10:38:00
+Pagh Chowk
+10:39:45
+10:40:05
+PWD Housing Society
+10:42:00
+10:42:20
+Soan Gardens E Block
+10:43:50
+10:44:10
+Soan Gardens G Block 10:45:55
+10:46:15
+
+--- PAGE 5 ---
+Soan Gardens H Block 10:48:10
+10:48:30
+River Gardens
+10:50:00
+10:50:20
+Kaak Pul
+10:52:05
+10:52:25
+DHA Gate 08
+10:54:20
+10:54:40
+DHA Gate 07
+10:56:10
+10:56:30
+SUPARCO
+10:58:15
+10:58:35
+T- Chowk
+11:00:30
+11:00:30
+Trip ID
+Start Time
+175522-0
+11:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+11:00:00
+11:00:00
+Fazaia
+11:01:30
+11:01:50
+Gangal
+11:03:35
+11:03:55
+Koral Town
+11:05:50
+11:06:10
+Gulberg
+11:07:40
+11:08:00
+Pagh Chowk
+11:09:45
+11:10:05
+PWD Housing Society
+11:12:00
+11:12:20
+Soan Gardens E Block
+11:13:50
+11:14:10
+Soan Gardens G Block 11:15:55
+11:16:15
+Soan Gardens H Block 11:18:10
+11:18:30
+River Gardens
+11:20:00
+11:20:20
+Kaak Pul
+11:22:05
+11:22:25
+DHA Gate 08
+11:24:20
+11:24:40
+DHA Gate 07
+11:26:10
+11:26:30
+SUPARCO
+11:28:15
+11:28:35
+T- Chowk
+11:30:30
+11:30:30
+Trip ID
+Start Time
+175523-0
+11:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+11:30:00
+11:30:00
+Fazaia
+11:31:30
+11:31:50
+Gangal
+11:33:35
+11:33:55
+Koral Town
+11:35:50
+11:36:10
+Gulberg
+11:37:40
+11:38:00
+Pagh Chowk
+11:39:45
+11:40:05
+PWD Housing Society
+11:42:00
+11:42:20
+Soan Gardens E Block
+11:43:50
+11:44:10
+Soan Gardens G Block 11:45:55
+11:46:15
+Soan Gardens H Block 11:48:10
+11:48:30
+River Gardens
+11:50:00
+11:50:20
+Kaak Pul
+11:52:05
+11:52:25
+DHA Gate 08
+11:54:20
+11:54:40
+DHA Gate 07
+11:56:10
+11:56:30
+SUPARCO
+11:58:15
+11:58:35
+T- Chowk
+12:00:30
+12:00:30
+Trip ID
+Start Time
+175524-0
+12:00:00
+
+--- PAGE 6 ---
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+12:00:00
+12:00:00
+Fazaia
+12:01:30
+12:01:50
+Gangal
+12:03:35
+12:03:55
+Koral Town
+12:05:50
+12:06:10
+Gulberg
+12:07:40
+12:08:00
+Pagh Chowk
+12:09:45
+12:10:05
+PWD Housing Society
+12:12:00
+12:12:20
+Soan Gardens E Block
+12:13:50
+12:14:10
+Soan Gardens G Block 12:15:55
+12:16:15
+Soan Gardens H Block 12:18:10
+12:18:30
+River Gardens
+12:20:00
+12:20:20
+Kaak Pul
+12:22:05
+12:22:25
+DHA Gate 08
+12:24:20
+12:24:40
+DHA Gate 07
+12:26:10
+12:26:30
+SUPARCO
+12:28:15
+12:28:35
+T- Chowk
+12:30:30
+12:30:30
+Trip ID
+Start Time
+175525-0
+12:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+12:30:00
+12:30:00
+Fazaia
+12:31:30
+12:31:50
+Gangal
+12:33:35
+12:33:55
+Koral Town
+12:35:50
+12:36:10
+Gulberg
+12:37:40
+12:38:00
+Pagh Chowk
+12:39:45
+12:40:05
+PWD Housing Society
+12:42:00
+12:42:20
+Soan Gardens E Block
+12:43:50
+12:44:10
+Soan Gardens G Block 12:45:55
+12:46:15
+Soan Gardens H Block 12:48:10
+12:48:30
+River Gardens
+12:50:00
+12:50:20
+Kaak Pul
+12:52:05
+12:52:25
+DHA Gate 08
+12:54:20
+12:54:40
+DHA Gate 07
+12:56:10
+12:56:30
+SUPARCO
+12:58:15
+12:58:35
+T- Chowk
+13:00:30
+13:00:30
+Trip ID
+Start Time
+175526-0
+13:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+13:00:00
+13:00:00
+Fazaia
+13:01:30
+13:01:50
+Gangal
+13:03:35
+13:03:55
+Koral Town
+13:05:50
+13:06:10
+Gulberg
+13:07:40
+13:08:00
+Pagh Chowk
+13:09:45
+13:10:05
+PWD Housing Society
+13:12:00
+13:12:20
+Soan Gardens E Block
+13:13:50
+13:14:10
+Soan Gardens G Block 13:15:55
+13:16:15
+
+--- PAGE 7 ---
+Soan Gardens H Block 13:18:10
+13:18:30
+River Gardens
+13:20:00
+13:20:20
+Kaak Pul
+13:22:05
+13:22:25
+DHA Gate 08
+13:24:20
+13:24:40
+DHA Gate 07
+13:26:10
+13:26:30
+SUPARCO
+13:28:15
+13:28:35
+T- Chowk
+13:30:30
+13:30:30
+Trip ID
+Start Time
+175527-0
+13:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+13:30:00
+13:30:00
+Fazaia
+13:31:30
+13:31:50
+Gangal
+13:33:35
+13:33:55
+Koral Town
+13:35:50
+13:36:10
+Gulberg
+13:37:40
+13:38:00
+Pagh Chowk
+13:39:45
+13:40:05
+PWD Housing Society
+13:42:00
+13:42:20
+Soan Gardens E Block
+13:43:50
+13:44:10
+Soan Gardens G Block 13:45:55
+13:46:15
+Soan Gardens H Block 13:48:10
+13:48:30
+River Gardens
+13:50:00
+13:50:20
+Kaak Pul
+13:52:05
+13:52:25
+DHA Gate 08
+13:54:20
+13:54:40
+DHA Gate 07
+13:56:10
+13:56:30
+SUPARCO
+13:58:15
+13:58:35
+T- Chowk
+14:00:30
+14:00:30
+Trip ID
+Start Time
+175528-0
+14:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+14:00:00
+14:00:00
+Fazaia
+14:01:30
+14:01:50
+Gangal
+14:03:35
+14:03:55
+Koral Town
+14:05:50
+14:06:10
+Gulberg
+14:07:40
+14:08:00
+Pagh Chowk
+14:09:45
+14:10:05
+PWD Housing Society
+14:12:00
+14:12:20
+Soan Gardens E Block
+14:13:50
+14:14:10
+Soan Gardens G Block 14:15:55
+14:16:15
+Soan Gardens H Block 14:18:10
+14:18:30
+River Gardens
+14:20:00
+14:20:20
+Kaak Pul
+14:22:05
+14:22:25
+DHA Gate 08
+14:24:20
+14:24:40
+DHA Gate 07
+14:26:10
+14:26:30
+SUPARCO
+14:28:15
+14:28:35
+T- Chowk
+14:30:30
+14:30:30
+Trip ID
+Start Time
+175529-0
+14:30:00
+
+--- PAGE 8 ---
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+14:30:00
+14:30:00
+Fazaia
+14:31:30
+14:31:50
+Gangal
+14:33:35
+14:33:55
+Koral Town
+14:35:50
+14:36:10
+Gulberg
+14:37:40
+14:38:00
+Pagh Chowk
+14:39:45
+14:40:05
+PWD Housing Society
+14:42:00
+14:42:20
+Soan Gardens E Block
+14:43:50
+14:44:10
+Soan Gardens G Block 14:45:55
+14:46:15
+Soan Gardens H Block 14:48:10
+14:48:30
+River Gardens
+14:50:00
+14:50:20
+Kaak Pul
+14:52:05
+14:52:25
+DHA Gate 08
+14:54:20
+14:54:40
+DHA Gate 07
+14:56:10
+14:56:30
+SUPARCO
+14:58:15
+14:58:35
+T- Chowk
+15:00:30
+15:00:30
+Trip ID
+Start Time
+175530-0
+15:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+15:00:00
+15:00:00
+Fazaia
+15:01:30
+15:01:50
+Gangal
+15:03:35
+15:03:55
+Koral Town
+15:05:50
+15:06:10
+Gulberg
+15:07:40
+15:08:00
+Pagh Chowk
+15:09:45
+15:10:05
+PWD Housing Society
+15:12:00
+15:12:20
+Soan Gardens E Block
+15:13:50
+15:14:10
+Soan Gardens G Block 15:15:55
+15:16:15
+Soan Gardens H Block 15:18:10
+15:18:30
+River Gardens
+15:20:00
+15:20:20
+Kaak Pul
+15:22:05
+15:22:25
+DHA Gate 08
+15:24:20
+15:24:40
+DHA Gate 07
+15:26:10
+15:26:30
+SUPARCO
+15:28:15
+15:28:35
+T- Chowk
+15:30:30
+15:30:30
+Trip ID
+Start Time
+175531-0
+15:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+15:30:00
+15:30:00
+Fazaia
+15:31:30
+15:31:50
+Gangal
+15:33:35
+15:33:55
+Koral Town
+15:35:50
+15:36:10
+Gulberg
+15:37:40
+15:38:00
+Pagh Chowk
+15:39:45
+15:40:05
+PWD Housing Society
+15:42:00
+15:42:20
+Soan Gardens E Block
+15:43:50
+15:44:10
+Soan Gardens G Block 15:45:55
+15:46:15
+
+--- PAGE 9 ---
+Soan Gardens H Block 15:48:10
+15:48:30
+River Gardens
+15:50:00
+15:50:20
+Kaak Pul
+15:52:05
+15:52:25
+DHA Gate 08
+15:54:20
+15:54:40
+DHA Gate 07
+15:56:10
+15:56:30
+SUPARCO
+15:58:15
+15:58:35
+T- Chowk
+16:00:30
+16:00:30
+Trip ID
+Start Time
+175532-0
+16:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+16:00:00
+16:00:00
+Fazaia
+16:01:30
+16:01:50
+Gangal
+16:03:35
+16:03:55
+Koral Town
+16:05:50
+16:06:10
+Gulberg
+16:07:40
+16:08:00
+Pagh Chowk
+16:09:45
+16:10:05
+PWD Housing Society
+16:12:00
+16:12:20
+Soan Gardens E Block
+16:13:50
+16:14:10
+Soan Gardens G Block 16:15:55
+16:16:15
+Soan Gardens H Block 16:18:10
+16:18:30
+River Gardens
+16:20:00
+16:20:20
+Kaak Pul
+16:22:05
+16:22:25
+DHA Gate 08
+16:24:20
+16:24:40
+DHA Gate 07
+16:26:10
+16:26:30
+SUPARCO
+16:28:15
+16:28:35
+T- Chowk
+16:30:30
+16:30:30
+Trip ID
+Start Time
+175533-0
+16:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+16:30:00
+16:30:00
+Fazaia
+16:31:30
+16:31:50
+Gangal
+16:33:35
+16:33:55
+Koral Town
+16:35:50
+16:36:10
+Gulberg
+16:37:40
+16:38:00
+Pagh Chowk
+16:39:45
+16:40:05
+PWD Housing Society
+16:42:00
+16:42:20
+Soan Gardens E Block
+16:43:50
+16:44:10
+Soan Gardens G Block 16:45:55
+16:46:15
+Soan Gardens H Block 16:48:10
+16:48:30
+River Gardens
+16:50:00
+16:50:20
+Kaak Pul
+16:52:05
+16:52:25
+DHA Gate 08
+16:54:20
+16:54:40
+DHA Gate 07
+16:56:10
+16:56:30
+SUPARCO
+16:58:15
+16:58:35
+T- Chowk
+17:00:30
+17:00:30
+Trip ID
+Start Time
+175534-0
+17:00:00
+
+--- PAGE 10 ---
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+17:00:00
+17:00:00
+Fazaia
+17:01:30
+17:01:50
+Gangal
+17:03:35
+17:03:55
+Koral Town
+17:05:50
+17:06:10
+Gulberg
+17:07:40
+17:08:00
+Pagh Chowk
+17:09:45
+17:10:05
+PWD Housing Society
+17:12:00
+17:12:20
+Soan Gardens E Block
+17:13:50
+17:14:10
+Soan Gardens G Block 17:15:55
+17:16:15
+Soan Gardens H Block 17:18:10
+17:18:30
+River Gardens
+17:20:00
+17:20:20
+Kaak Pul
+17:22:05
+17:22:25
+DHA Gate 08
+17:24:20
+17:24:40
+DHA Gate 07
+17:26:10
+17:26:30
+SUPARCO
+17:28:15
+17:28:35
+T- Chowk
+17:30:30
+17:30:30
+Trip ID
+Start Time
+175535-0
+17:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+17:30:00
+17:30:00
+Fazaia
+17:31:30
+17:31:50
+Gangal
+17:33:35
+17:33:55
+Koral Town
+17:35:50
+17:36:10
+Gulberg
+17:37:40
+17:38:00
+Pagh Chowk
+17:39:45
+17:40:05
+PWD Housing Society
+17:42:00
+17:42:20
+Soan Gardens E Block
+17:43:50
+17:44:10
+Soan Gardens G Block 17:45:55
+17:46:15
+Soan Gardens H Block 17:48:10
+17:48:30
+River Gardens
+17:50:00
+17:50:20
+Kaak Pul
+17:52:05
+17:52:25
+DHA Gate 08
+17:54:20
+17:54:40
+DHA Gate 07
+17:56:10
+17:56:30
+SUPARCO
+17:58:15
+17:58:35
+T- Chowk
+18:00:30
+18:00:30
+Trip ID
+Start Time
+175536-0
+18:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+18:00:00
+18:00:00
+Fazaia
+18:01:30
+18:01:50
+Gangal
+18:03:35
+18:03:55
+Koral Town
+18:05:50
+18:06:10
+Gulberg
+18:07:40
+18:08:00
+Pagh Chowk
+18:09:45
+18:10:05
+PWD Housing Society
+18:12:00
+18:12:20
+Soan Gardens E Block
+18:13:50
+18:14:10
+Soan Gardens G Block 18:15:55
+18:16:15
+
+--- PAGE 11 ---
+Soan Gardens H Block 18:18:10
+18:18:30
+River Gardens
+18:20:00
+18:20:20
+Kaak Pul
+18:22:05
+18:22:25
+DHA Gate 08
+18:24:20
+18:24:40
+DHA Gate 07
+18:26:10
+18:26:30
+SUPARCO
+18:28:15
+18:28:35
+T- Chowk
+18:30:30
+18:30:30
+Trip ID
+Start Time
+175505-0
+18:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+18:30:00
+18:30:00
+Fazaia
+18:31:30
+18:31:50
+Gangal
+18:33:35
+18:33:55
+Koral Town
+18:35:50
+18:36:10
+Gulberg
+18:37:40
+18:38:00
+Pagh Chowk
+18:39:45
+18:40:05
+PWD Housing Society
+18:42:00
+18:42:20
+Soan Gardens E Block
+18:43:50
+18:44:10
+Soan Gardens G Block 18:45:55
+18:46:15
+Soan Gardens H Block 18:48:10
+18:48:30
+River Gardens
+18:50:00
+18:50:20
+Kaak Pul
+18:52:05
+18:52:25
+DHA Gate 08
+18:54:20
+18:54:40
+DHA Gate 07
+18:56:10
+18:56:30
+SUPARCO
+18:58:15
+18:58:35
+T- Chowk
+19:00:30
+19:00:30
+Trip ID
+Start Time
+175507-0
+19:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+19:00:00
+19:00:00
+Fazaia
+19:01:30
+19:01:50
+Gangal
+19:03:35
+19:03:55
+Koral Town
+19:05:50
+19:06:10
+Gulberg
+19:07:40
+19:08:00
+Pagh Chowk
+19:09:45
+19:10:05
+PWD Housing Society
+19:12:00
+19:12:20
+Soan Gardens E Block
+19:13:50
+19:14:10
+Soan Gardens G Block 19:15:55
+19:16:15
+Soan Gardens H Block 19:18:10
+19:18:30
+River Gardens
+19:20:00
+19:20:20
+Kaak Pul
+19:22:05
+19:22:25
+DHA Gate 08
+19:24:20
+19:24:40
+DHA Gate 07
+19:26:10
+19:26:30
+SUPARCO
+19:28:15
+19:28:35
+T- Chowk
+19:30:30
+19:30:30
+Trip ID
+Start Time
+175509-0
+19:30:00
+
+--- PAGE 12 ---
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+19:30:00
+19:30:00
+Fazaia
+19:31:30
+19:31:50
+Gangal
+19:33:35
+19:33:55
+Koral Town
+19:35:50
+19:36:10
+Gulberg
+19:37:40
+19:38:00
+Pagh Chowk
+19:39:45
+19:40:05
+PWD Housing Society
+19:42:00
+19:42:20
+Soan Gardens E Block
+19:43:50
+19:44:10
+Soan Gardens G Block 19:45:55
+19:46:15
+Soan Gardens H Block 19:48:10
+19:48:30
+River Gardens
+19:50:00
+19:50:20
+Kaak Pul
+19:52:05
+19:52:25
+DHA Gate 08
+19:54:20
+19:54:40
+DHA Gate 07
+19:56:10
+19:56:30
+SUPARCO
+19:58:15
+19:58:35
+T- Chowk
+20:00:30
+20:00:30
+Trip ID
+Start Time
+175511-0
+20:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+20:00:00
+20:00:00
+Fazaia
+20:01:30
+20:01:50
+Gangal
+20:03:35
+20:03:55
+Koral Town
+20:05:50
+20:06:10
+Gulberg
+20:07:40
+20:08:00
+Pagh Chowk
+20:09:45
+20:10:05
+PWD Housing Society
+20:12:00
+20:12:20
+Soan Gardens E Block
+20:13:50
+20:14:10
+Soan Gardens G Block 20:15:55
+20:16:15
+Soan Gardens H Block 20:18:10
+20:18:30
+River Gardens
+20:20:00
+20:20:20
+Kaak Pul
+20:22:05
+20:22:25
+DHA Gate 08
+20:24:20
+20:24:40
+DHA Gate 07
+20:26:10
+20:26:30
+SUPARCO
+20:28:15
+20:28:35
+T- Chowk
+20:30:30
+20:30:30
+Trip ID
+Start Time
+175513-0
+20:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+20:30:00
+20:30:00
+Fazaia
+20:31:30
+20:31:50
+Gangal
+20:33:35
+20:33:55
+Koral Town
+20:35:50
+20:36:10
+Gulberg
+20:37:40
+20:38:00
+Pagh Chowk
+20:39:45
+20:40:05
+PWD Housing Society
+20:42:00
+20:42:20
+Soan Gardens E Block
+20:43:50
+20:44:10
+Soan Gardens G Block 20:45:55
+20:46:15
+
+--- PAGE 13 ---
+Soan Gardens H Block 20:48:10
+20:48:30
+River Gardens
+20:50:00
+20:50:20
+Kaak Pul
+20:52:05
+20:52:25
+DHA Gate 08
+20:54:20
+20:54:40
+DHA Gate 07
+20:56:10
+20:56:30
+SUPARCO
+20:58:15
+20:58:35
+T- Chowk
+21:00:30
+21:00:30
+Trip ID
+Start Time
+175515-0
+21:00:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+21:00:00
+21:00:00
+Fazaia
+21:01:30
+21:01:50
+Gangal
+21:03:35
+21:03:55
+Koral Town
+21:05:50
+21:06:10
+Gulberg
+21:07:40
+21:08:00
+Pagh Chowk
+21:09:45
+21:10:05
+PWD Housing Society
+21:12:00
+21:12:20
+Soan Gardens E Block
+21:13:50
+21:14:10
+Soan Gardens G Block 21:15:55
+21:16:15
+Soan Gardens H Block 21:18:10
+21:18:30
+River Gardens
+21:20:00
+21:20:20
+Kaak Pul
+21:22:05
+21:22:25
+DHA Gate 08
+21:24:20
+21:24:40
+DHA Gate 07
+21:26:10
+21:26:30
+SUPARCO
+21:28:15
+21:28:35
+T- Chowk
+21:30:30
+21:30:30
+Trip ID
+Start Time
+175517-0
+21:30:00
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+21:30:00
+21:30:00
+Fazaia
+21:31:30
+21:31:50
+Gangal
+21:33:35
+21:33:55
+Koral Town
+21:35:50
+21:36:10
+Gulberg
+21:37:40
+21:38:00
+Pagh Chowk
+21:39:45
+21:40:05
+PWD Housing Society
+21:42:00
+21:42:20
+Soan Gardens E Block
+21:43:50
+21:44:10
+Soan Gardens G Block 21:45:55
+21:46:15
+Soan Gardens H Block 21:48:10
+21:48:30
+River Gardens
+21:50:00
+21:50:20
+Kaak Pul
+21:52:05
+21:52:25
+DHA Gate 08
+21:54:20
+21:54:40
+DHA Gate 07
+21:56:10
+21:56:30
+SUPARCO
+21:58:15
+21:58:35
+T- Chowk
+22:00:30
+22:00:30
+Trip ID
+Start Time
+175519-0
+22:00:00
+
+--- PAGE 14 ---
+stop_name
+arrival_time
+departure_time
+Khanna Pul
+22:00:00
+22:00:00
+Fazaia
+22:01:30
+22:01:50
+Gangal
+22:03:35
+22:03:55
+Koral Town
+22:05:50
+22:06:10
+Gulberg
+22:07:40
+22:08:00
+Pagh Chowk
+22:09:45
+22:10:05
+PWD Housing Society
+22:12:00
+22:12:20
+Soan Gardens E Block
+22:13:50
+22:14:10
+Soan Gardens G Block 22:15:55
+22:16:15
+Soan Gardens H Block 22:18:10
+22:18:30
+River Gardens
+22:20:00
+22:20:20
+Kaak Pul
+22:22:05
+22:22:25
+DHA Gate 08
+22:24:20
+22:24:40
+DHA Gate 07
+22:26:10
+22:26:30
+SUPARCO
+22:28:15
+22:28:35
+T- Chowk
+22:30:30
+22:30:30

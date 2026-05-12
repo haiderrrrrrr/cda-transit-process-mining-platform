@@ -1,0 +1,26 @@
+from_stop,to_stop,from_stop_normalized,to_stop_normalized,case_frequency,avg_duration_seconds,min_duration_seconds,max_duration_seconds,routes,avg_duration_label
+Shakarparian Park,Rawal Town,shakarparian park,rawal town,9,790.0,790,790,ST-02,13 min 10 sec
+Shah Allah Ditta,Sangjani,shah allah ditta,sangjani,19,690.0,690,690,FR-10,11 min 30 sec
+Murghzar Zoo,Daman e Koh,murghzar zoo,daman e koh,9,570.0,570,570,ST-01,9 min 30 sec
+ITP Driving License Centre,Sohan,itp driving license centre,sohan,65,400.0,400,400,FR-14,6 min 40 sec
+Abpara,Shakarparian Park,abpara,shakarparian park,9,370.0,370,370,ST-02,6 min 10 sec
+Sui Gas Stop,OGTI Stop,sui gas stop,ogti stop,17,330.0,330,330,FR-01,5 min 30 sec
+Mehrabad,NUST Metro Station,mehrabad,nust metro station,97,324.0,324,324,FR-07,5 min 24 sec
+TNT,CDA,tnt,cda,196,320.0,320,320,FRG-1,5 min 20 sec
+CDA Complain Center,MCI Model School,cda complain center,mci model school,17,305.0,305,305,FR-01,5 min 5 sec
+TNT,H-8,tnt,h 8,244,300.655737704918,140,340,"FR-08C, FRB-01",5 min 1 sec
+Foreign Affairs Office,Lake View Park,foreign affairs office,lake view park,196,300.0,300,300,FRG-1,5 min 0 sec
+Golra Morh Metro Station,N5 Metro Station,golra morh metro station,n5 metro station,19,290.0,290,290,FR-11,4 min 50 sec
+Golra Sharif F-11/3,NPF Housing Society,golra sharif f 11 3,npf housing society,19,290.0,290,290,FR-10,4 min 50 sec
+Khanna Pul,Zia Masjid,khanna pul,zia masjid,65,290.0,290,290,FR-09,4 min 50 sec
+Youth Hostel,Metropolitan Corporation,youth hostel,metropolitan corporation,97,260.0,260,260,FR-04,4 min 20 sec
+Muslim Colony,Bari Imam,muslim colony,bari imam,97,248.0,248,248,FR-04,4 min 8 sec
+Faizabad Metro Station,IJP Metro Station,faizabad metro station,ijp metro station,130,240.0,240,240,"FR-09, FR-14",4 min 0 sec
+Sukh Chayn Park,Ministry of Foreign Affairs,sukh chayn park,ministry of foreign affairs,97,238.0,238,238,FR-04,3 min 58 sec
+D-12 Markaz,Shah Allah Ditta,d 12 markaz,shah allah ditta,19,235.0,235,235,FR-10,3 min 55 sec
+OGTI Stop,CDA Complain Center,ogti stop,cda complain center,17,230.0,230,230,FR-01,3 min 50 sec
+Airport Enclave,Madni Chowk,airport enclave,madni chowk,13,230.0,230,230,FR-13,3 min 50 sec
+IJP Metro Station,Pindora Chungi,ijp metro station,pindora chungi,130,230.0,230,230,"FR-09, FR-14",3 min 50 sec
+G-11 Markaz,Mehrabad,g 11 markaz,mehrabad,97,222.0,222,222,FR-07,3 min 42 sec
+Sohan,Faizabad Metro Station,sohan,faizabad metro station,130,220.0,220,220,"FR-09, FR-14",3 min 40 sec
+PIMS,TNT,pims,tnt,9,220.0,220,220,ST-02,3 min 40 sec

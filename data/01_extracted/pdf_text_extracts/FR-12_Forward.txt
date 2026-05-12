@@ -1,0 +1,965 @@
+--- PAGE 1 ---
+Field
+Value
+Route ID
+10012
+Short Name
+FR-12
+Long Name
+ Taxila Chowk- Tipu Sultan Shaheed Chowk
+Direction
+Forward
+Total Trips
+12
+Average Headway (min)
+60
+Trip ID
+Start Time
+175831-0
+07:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+07:00:00
+07:00:00
+University of Wah
+07:02:20
+07:02:40
+Nawab Abad
+07:04:30
+07:04:50
+Wah Cantt Barrier No 2
+07:06:40
+07:07:00
+Gulshan e Anwar
+07:08:20
+07:08:40
+Jinnah Colony
+07:10:00
+07:10:20
+New City Phase 01
+07:11:55
+07:12:15
+Losar Sharfoo
+07:13:35
+07:13:55
+New City Phase 02
+07:15:50
+07:16:10
+Bahtar Morh
+07:18:05
+07:18:25
+Wah Model Town Phase 01 07:19:15
+07:19:35
+Wah Model Town Phase 02 07:21:15
+07:21:35
+Swedish College
+07:22:30
+07:22:50
+Malakand Stop
+07:24:20
+07:24:40
+Basti
+07:25:50
+07:26:10
+Sabri Gali
+07:27:40
+07:28:00
+Wah Cantt Barrier 03
+07:28:40
+07:29:00
+Ahmad Nagar
+07:29:50
+07:30:10
+Shah Wali Colony Road
+07:31:00
+07:31:20
+Wah Gardens
+07:32:25
+07:32:45
+Askari Cement Factory Road07:34:40
+07:35:00
+Dhok Dhollian
+07:36:20
+07:36:40
+WAPDA Colony
+07:38:00
+07:38:20
+Hassan Abdal
+07:39:50
+07:40:10
+Tipu Sultan Shaheed Chowk07:41:00
+07:41:30
+Trip ID
+Start Time
+175832-0
+08:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+08:00:00
+08:00:00
+University of Wah
+08:02:20
+08:02:40
+Nawab Abad
+08:04:30
+08:04:50
+Wah Cantt Barrier No 2
+08:06:40
+08:07:00
+Gulshan e Anwar
+08:08:20
+08:08:40
+Jinnah Colony
+08:10:00
+08:10:20
+New City Phase 01
+08:11:55
+08:12:15
+Losar Sharfoo
+08:13:35
+08:13:55
+New City Phase 02
+08:15:50
+08:16:10
+Bahtar Morh
+08:18:05
+08:18:25
+
+--- PAGE 2 ---
+Wah Model Town Phase 01 08:19:15
+08:19:35
+Wah Model Town Phase 02 08:21:15
+08:21:35
+Swedish College
+08:22:30
+08:22:50
+Malakand Stop
+08:24:20
+08:24:40
+Basti
+08:25:50
+08:26:10
+Sabri Gali
+08:27:40
+08:28:00
+Wah Cantt Barrier 03
+08:28:40
+08:29:00
+Ahmad Nagar
+08:29:50
+08:30:10
+Shah Wali Colony Road
+08:31:00
+08:31:20
+Wah Gardens
+08:32:25
+08:32:45
+Askari Cement Factory Road08:34:40
+08:35:00
+Dhok Dhollian
+08:36:20
+08:36:40
+WAPDA Colony
+08:38:00
+08:38:20
+Hassan Abdal
+08:39:50
+08:40:10
+Tipu Sultan Shaheed Chowk08:41:00
+08:41:30
+Trip ID
+Start Time
+175833-0
+09:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+09:00:00
+09:00:00
+University of Wah
+09:02:20
+09:02:40
+Nawab Abad
+09:04:30
+09:04:50
+Wah Cantt Barrier No 2
+09:06:40
+09:07:00
+Gulshan e Anwar
+09:08:20
+09:08:40
+Jinnah Colony
+09:10:00
+09:10:20
+New City Phase 01
+09:11:55
+09:12:15
+Losar Sharfoo
+09:13:35
+09:13:55
+New City Phase 02
+09:15:50
+09:16:10
+Bahtar Morh
+09:18:05
+09:18:25
+Wah Model Town Phase 01 09:19:15
+09:19:35
+Wah Model Town Phase 02 09:21:15
+09:21:35
+Swedish College
+09:22:30
+09:22:50
+Malakand Stop
+09:24:20
+09:24:40
+Basti
+09:25:50
+09:26:10
+Sabri Gali
+09:27:40
+09:28:00
+Wah Cantt Barrier 03
+09:28:40
+09:29:00
+Ahmad Nagar
+09:29:50
+09:30:10
+Shah Wali Colony Road
+09:31:00
+09:31:20
+Wah Gardens
+09:32:25
+09:32:45
+Askari Cement Factory Road09:34:40
+09:35:00
+Dhok Dhollian
+09:36:20
+09:36:40
+WAPDA Colony
+09:38:00
+09:38:20
+Hassan Abdal
+09:39:50
+09:40:10
+Tipu Sultan Shaheed Chowk09:41:00
+09:41:30
+Trip ID
+Start Time
+175834-0
+10:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+10:00:00
+10:00:00
+University of Wah
+10:02:20
+10:02:40
+
+--- PAGE 3 ---
+Nawab Abad
+10:04:30
+10:04:50
+Wah Cantt Barrier No 2
+10:06:40
+10:07:00
+Gulshan e Anwar
+10:08:20
+10:08:40
+Jinnah Colony
+10:10:00
+10:10:20
+New City Phase 01
+10:11:55
+10:12:15
+Losar Sharfoo
+10:13:35
+10:13:55
+New City Phase 02
+10:15:50
+10:16:10
+Bahtar Morh
+10:18:05
+10:18:25
+Wah Model Town Phase 01 10:19:15
+10:19:35
+Wah Model Town Phase 02 10:21:15
+10:21:35
+Swedish College
+10:22:30
+10:22:50
+Malakand Stop
+10:24:20
+10:24:40
+Basti
+10:25:50
+10:26:10
+Sabri Gali
+10:27:40
+10:28:00
+Wah Cantt Barrier 03
+10:28:40
+10:29:00
+Ahmad Nagar
+10:29:50
+10:30:10
+Shah Wali Colony Road
+10:31:00
+10:31:20
+Wah Gardens
+10:32:25
+10:32:45
+Askari Cement Factory Road10:34:40
+10:35:00
+Dhok Dhollian
+10:36:20
+10:36:40
+WAPDA Colony
+10:38:00
+10:38:20
+Hassan Abdal
+10:39:50
+10:40:10
+Tipu Sultan Shaheed Chowk10:41:00
+10:41:30
+Trip ID
+Start Time
+175835-0
+11:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+11:00:00
+11:00:00
+University of Wah
+11:02:20
+11:02:40
+Nawab Abad
+11:04:30
+11:04:50
+Wah Cantt Barrier No 2
+11:06:40
+11:07:00
+Gulshan e Anwar
+11:08:20
+11:08:40
+Jinnah Colony
+11:10:00
+11:10:20
+New City Phase 01
+11:11:55
+11:12:15
+Losar Sharfoo
+11:13:35
+11:13:55
+New City Phase 02
+11:15:50
+11:16:10
+Bahtar Morh
+11:18:05
+11:18:25
+Wah Model Town Phase 01 11:19:15
+11:19:35
+Wah Model Town Phase 02 11:21:15
+11:21:35
+Swedish College
+11:22:30
+11:22:50
+Malakand Stop
+11:24:20
+11:24:40
+Basti
+11:25:50
+11:26:10
+Sabri Gali
+11:27:40
+11:28:00
+Wah Cantt Barrier 03
+11:28:40
+11:29:00
+Ahmad Nagar
+11:29:50
+11:30:10
+Shah Wali Colony Road
+11:31:00
+11:31:20
+Wah Gardens
+11:32:25
+11:32:45
+Askari Cement Factory Road11:34:40
+11:35:00
+Dhok Dhollian
+11:36:20
+11:36:40
+WAPDA Colony
+11:38:00
+11:38:20
+
+--- PAGE 4 ---
+Hassan Abdal
+11:39:50
+11:40:10
+Tipu Sultan Shaheed Chowk11:41:00
+11:41:30
+Trip ID
+Start Time
+175836-0
+12:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+12:00:00
+12:00:00
+University of Wah
+12:02:20
+12:02:40
+Nawab Abad
+12:04:30
+12:04:50
+Wah Cantt Barrier No 2
+12:06:40
+12:07:00
+Gulshan e Anwar
+12:08:20
+12:08:40
+Jinnah Colony
+12:10:00
+12:10:20
+New City Phase 01
+12:11:55
+12:12:15
+Losar Sharfoo
+12:13:35
+12:13:55
+New City Phase 02
+12:15:50
+12:16:10
+Bahtar Morh
+12:18:05
+12:18:25
+Wah Model Town Phase 01 12:19:15
+12:19:35
+Wah Model Town Phase 02 12:21:15
+12:21:35
+Swedish College
+12:22:30
+12:22:50
+Malakand Stop
+12:24:20
+12:24:40
+Basti
+12:25:50
+12:26:10
+Sabri Gali
+12:27:40
+12:28:00
+Wah Cantt Barrier 03
+12:28:40
+12:29:00
+Ahmad Nagar
+12:29:50
+12:30:10
+Shah Wali Colony Road
+12:31:00
+12:31:20
+Wah Gardens
+12:32:25
+12:32:45
+Askari Cement Factory Road12:34:40
+12:35:00
+Dhok Dhollian
+12:36:20
+12:36:40
+WAPDA Colony
+12:38:00
+12:38:20
+Hassan Abdal
+12:39:50
+12:40:10
+Tipu Sultan Shaheed Chowk12:41:00
+12:41:30
+Trip ID
+Start Time
+175837-0
+13:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+13:00:00
+13:00:00
+University of Wah
+13:02:20
+13:02:40
+Nawab Abad
+13:04:30
+13:04:50
+Wah Cantt Barrier No 2
+13:06:40
+13:07:00
+Gulshan e Anwar
+13:08:20
+13:08:40
+Jinnah Colony
+13:10:00
+13:10:20
+New City Phase 01
+13:11:55
+13:12:15
+Losar Sharfoo
+13:13:35
+13:13:55
+New City Phase 02
+13:15:50
+13:16:10
+Bahtar Morh
+13:18:05
+13:18:25
+Wah Model Town Phase 01 13:19:15
+13:19:35
+Wah Model Town Phase 02 13:21:15
+13:21:35
+Swedish College
+13:22:30
+13:22:50
+Malakand Stop
+13:24:20
+13:24:40
+Basti
+13:25:50
+13:26:10
+
+--- PAGE 5 ---
+Sabri Gali
+13:27:40
+13:28:00
+Wah Cantt Barrier 03
+13:28:40
+13:29:00
+Ahmad Nagar
+13:29:50
+13:30:10
+Shah Wali Colony Road
+13:31:00
+13:31:20
+Wah Gardens
+13:32:25
+13:32:45
+Askari Cement Factory Road13:34:40
+13:35:00
+Dhok Dhollian
+13:36:20
+13:36:40
+WAPDA Colony
+13:38:00
+13:38:20
+Hassan Abdal
+13:39:50
+13:40:10
+Tipu Sultan Shaheed Chowk13:41:00
+13:41:30
+Trip ID
+Start Time
+175838-0
+14:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+14:00:00
+14:00:00
+University of Wah
+14:02:20
+14:02:40
+Nawab Abad
+14:04:30
+14:04:50
+Wah Cantt Barrier No 2
+14:06:40
+14:07:00
+Gulshan e Anwar
+14:08:20
+14:08:40
+Jinnah Colony
+14:10:00
+14:10:20
+New City Phase 01
+14:11:55
+14:12:15
+Losar Sharfoo
+14:13:35
+14:13:55
+New City Phase 02
+14:15:50
+14:16:10
+Bahtar Morh
+14:18:05
+14:18:25
+Wah Model Town Phase 01 14:19:15
+14:19:35
+Wah Model Town Phase 02 14:21:15
+14:21:35
+Swedish College
+14:22:30
+14:22:50
+Malakand Stop
+14:24:20
+14:24:40
+Basti
+14:25:50
+14:26:10
+Sabri Gali
+14:27:40
+14:28:00
+Wah Cantt Barrier 03
+14:28:40
+14:29:00
+Ahmad Nagar
+14:29:50
+14:30:10
+Shah Wali Colony Road
+14:31:00
+14:31:20
+Wah Gardens
+14:32:25
+14:32:45
+Askari Cement Factory Road14:34:40
+14:35:00
+Dhok Dhollian
+14:36:20
+14:36:40
+WAPDA Colony
+14:38:00
+14:38:20
+Hassan Abdal
+14:39:50
+14:40:10
+Tipu Sultan Shaheed Chowk14:41:00
+14:41:30
+Trip ID
+Start Time
+175839-0
+15:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+15:00:00
+15:00:00
+University of Wah
+15:02:20
+15:02:40
+Nawab Abad
+15:04:30
+15:04:50
+Wah Cantt Barrier No 2
+15:06:40
+15:07:00
+Gulshan e Anwar
+15:08:20
+15:08:40
+Jinnah Colony
+15:10:00
+15:10:20
+New City Phase 01
+15:11:55
+15:12:15
+
+--- PAGE 6 ---
+Losar Sharfoo
+15:13:35
+15:13:55
+New City Phase 02
+15:15:50
+15:16:10
+Bahtar Morh
+15:18:05
+15:18:25
+Wah Model Town Phase 01 15:19:15
+15:19:35
+Wah Model Town Phase 02 15:21:15
+15:21:35
+Swedish College
+15:22:30
+15:22:50
+Malakand Stop
+15:24:20
+15:24:40
+Basti
+15:25:50
+15:26:10
+Sabri Gali
+15:27:40
+15:28:00
+Wah Cantt Barrier 03
+15:28:40
+15:29:00
+Ahmad Nagar
+15:29:50
+15:30:10
+Shah Wali Colony Road
+15:31:00
+15:31:20
+Wah Gardens
+15:32:25
+15:32:45
+Askari Cement Factory Road15:34:40
+15:35:00
+Dhok Dhollian
+15:36:20
+15:36:40
+WAPDA Colony
+15:38:00
+15:38:20
+Hassan Abdal
+15:39:50
+15:40:10
+Tipu Sultan Shaheed Chowk15:41:00
+15:41:30
+Trip ID
+Start Time
+175840-0
+16:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+16:00:00
+16:00:00
+University of Wah
+16:02:20
+16:02:40
+Nawab Abad
+16:04:30
+16:04:50
+Wah Cantt Barrier No 2
+16:06:40
+16:07:00
+Gulshan e Anwar
+16:08:20
+16:08:40
+Jinnah Colony
+16:10:00
+16:10:20
+New City Phase 01
+16:11:55
+16:12:15
+Losar Sharfoo
+16:13:35
+16:13:55
+New City Phase 02
+16:15:50
+16:16:10
+Bahtar Morh
+16:18:05
+16:18:25
+Wah Model Town Phase 01 16:19:15
+16:19:35
+Wah Model Town Phase 02 16:21:15
+16:21:35
+Swedish College
+16:22:30
+16:22:50
+Malakand Stop
+16:24:20
+16:24:40
+Basti
+16:25:50
+16:26:10
+Sabri Gali
+16:27:40
+16:28:00
+Wah Cantt Barrier 03
+16:28:40
+16:29:00
+Ahmad Nagar
+16:29:50
+16:30:10
+Shah Wali Colony Road
+16:31:00
+16:31:20
+Wah Gardens
+16:32:25
+16:32:45
+Askari Cement Factory Road16:34:40
+16:35:00
+Dhok Dhollian
+16:36:20
+16:36:40
+WAPDA Colony
+16:38:00
+16:38:20
+Hassan Abdal
+16:39:50
+16:40:10
+Tipu Sultan Shaheed Chowk16:41:00
+16:41:30
+Trip ID
+Start Time
+175841-0
+17:00:00
+
+--- PAGE 7 ---
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+17:00:00
+17:00:00
+University of Wah
+17:02:20
+17:02:40
+Nawab Abad
+17:04:30
+17:04:50
+Wah Cantt Barrier No 2
+17:06:40
+17:07:00
+Gulshan e Anwar
+17:08:20
+17:08:40
+Jinnah Colony
+17:10:00
+17:10:20
+New City Phase 01
+17:11:55
+17:12:15
+Losar Sharfoo
+17:13:35
+17:13:55
+New City Phase 02
+17:15:50
+17:16:10
+Bahtar Morh
+17:18:05
+17:18:25
+Wah Model Town Phase 01 17:19:15
+17:19:35
+Wah Model Town Phase 02 17:21:15
+17:21:35
+Swedish College
+17:22:30
+17:22:50
+Malakand Stop
+17:24:20
+17:24:40
+Basti
+17:25:50
+17:26:10
+Sabri Gali
+17:27:40
+17:28:00
+Wah Cantt Barrier 03
+17:28:40
+17:29:00
+Ahmad Nagar
+17:29:50
+17:30:10
+Shah Wali Colony Road
+17:31:00
+17:31:20
+Wah Gardens
+17:32:25
+17:32:45
+Askari Cement Factory Road17:34:40
+17:35:00
+Dhok Dhollian
+17:36:20
+17:36:40
+WAPDA Colony
+17:38:00
+17:38:20
+Hassan Abdal
+17:39:50
+17:40:10
+Tipu Sultan Shaheed Chowk17:41:00
+17:41:30
+Trip ID
+Start Time
+175842-0
+18:00:00
+stop_name
+arrival_time
+departure_time
+Taxila Chowk
+18:00:00
+18:00:00
+University of Wah
+18:02:20
+18:02:40
+Nawab Abad
+18:04:30
+18:04:50
+Wah Cantt Barrier No 2
+18:06:40
+18:07:00
+Gulshan e Anwar
+18:08:20
+18:08:40
+Jinnah Colony
+18:10:00
+18:10:20
+New City Phase 01
+18:11:55
+18:12:15
+Losar Sharfoo
+18:13:35
+18:13:55
+New City Phase 02
+18:15:50
+18:16:10
+Bahtar Morh
+18:18:05
+18:18:25
+Wah Model Town Phase 01 18:19:15
+18:19:35
+Wah Model Town Phase 02 18:21:15
+18:21:35
+Swedish College
+18:22:30
+18:22:50
+Malakand Stop
+18:24:20
+18:24:40
+Basti
+18:25:50
+18:26:10
+Sabri Gali
+18:27:40
+18:28:00
+Wah Cantt Barrier 03
+18:28:40
+18:29:00
+Ahmad Nagar
+18:29:50
+18:30:10
+Shah Wali Colony Road
+18:31:00
+18:31:20
+Wah Gardens
+18:32:25
+18:32:45
+
+--- PAGE 8 ---
+Askari Cement Factory Road18:34:40
+18:35:00
+Dhok Dhollian
+18:36:20
+18:36:40
+WAPDA Colony
+18:38:00
+18:38:20
+Hassan Abdal
+18:39:50
+18:40:10
+Tipu Sultan Shaheed Chowk18:41:00
+18:41:30

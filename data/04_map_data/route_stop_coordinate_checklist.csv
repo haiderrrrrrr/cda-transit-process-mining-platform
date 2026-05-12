@@ -1,0 +1,394 @@
+route_id,long_name,stop_sequence,stop_name,stop_name_normalized,latitude,longitude,coordinate_quality
+FR-01,Khana Pul to NUST,1,NUST Metro Station,nust metro station,33.644,72.991,verified
+FR-01,Khana Pul to NUST,2,Police Foundation Metro Station,police foundation metro station,33.6457,72.9662,verified
+FR-01,Khana Pul to NUST,3,NPA Stop,npa stop,33.6441,73.0012,verified
+FR-01,Khana Pul to NUST,4,Islamic University,islamic university,33.6593,73.0242,verified
+FR-01,Khana Pul to NUST,5,FAST University,fast university,33.6425,73.0232,verified
+FR-01,Khana Pul to NUST,6,PAEC General Hospital,paec general hospital,33.6305,73.0633,verified
+FR-01,Khana Pul to NUST,7,IMC Hospital,imc hospital,33.6669,72.9961,verified
+FR-01,Khana Pul to NUST,8,Metro CNC,metro cnc,33.6644,73.052,verified
+FR-01,Khana Pul to NUST,9,Sabzi Mandi,sabzi mandi,33.6455,73.0336,verified
+FR-01,Khana Pul to NUST,10,Mandi Morh,mandi morh,33.6517,73.0392,verified
+FR-01,Khana Pul to NUST,11,Kurang Road Stop,kurang road stop,33.642,73.134,verified
+FR-01,Khana Pul to NUST,12,IESCO,iesco,33.6932,73.0648,verified
+FR-01,Khana Pul to NUST,13,PTCL I-10,ptcl i 10,33.6445,73.0415,verified
+FR-01,Khana Pul to NUST,14,Sui Gas Stop,sui gas stop,33.6545,73.056,verified
+FR-01,Khana Pul to NUST,15,OGTI Stop,ogti stop,33.6455,73.0285,verified
+FR-01,Khana Pul to NUST,16,CDA Complain Center,cda complain center,33.7025,73.061,verified
+FR-01,Khana Pul to NUST,17,MCI Model School,mci model school,33.7045,73.0815,verified
+FR-03A,PIMS Hospital to Faisal Masjid,1,PIMS Hospital,pims hospital,33.705,73.048,verified
+FR-03A,PIMS Hospital to Faisal Masjid,2,PIMS Metro Station,pims metro station,33.705,73.048,verified
+FR-03A,PIMS Hospital to Faisal Masjid,3,Katchery,katchery,33.704,73.042,verified
+FR-03A,PIMS Hospital to Faisal Masjid,4,F-8 Markaz,f 8 markaz,33.7125,73.039,verified
+FR-03A,PIMS Hospital to Faisal Masjid,5,F-9 Park,f 9 park,33.702,73.0169,verified
+FR-03A,PIMS Hospital to Faisal Masjid,6,Shaheen Chowk,shaheen chowk,33.7126,73.0185,verified
+FR-03A,PIMS Hospital to Faisal Masjid,7,Bahria University,bahria university,33.7144,73.036,verified
+FR-03A,PIMS Hospital to Faisal Masjid,8,Naval Complex,naval complex,33.715,73.041,verified
+FR-03A,PIMS Hospital to Faisal Masjid,9,Faisal Masjid,faisal masjid,33.7299,73.0372,verified
+FR-03A,PIMS Hospital to Faisal Masjid,10,Parveen Shakir Road,parveen shakir road,33.6845,73.0385,verified
+FR-03A,PIMS Hospital to Faisal Masjid,11,Kohsar Road,kohsar road,33.718,73.056,verified
+FR-03A,PIMS Hospital to Faisal Masjid,12,F-7 Markaz,f 7 markaz,33.7125,73.039,verified
+FR-03A,PIMS Hospital to Faisal Masjid,13,Flower Market,flower market,33.7085,73.0385,verified
+FR-04,PIMS Hospital to Bari Amam,1,PIMS Hospital,pims hospital,33.705,73.048,verified
+FR-04,PIMS Hospital to Bari Amam,2,Children Hospital,children hospital,33.7042,73.0475,verified
+FR-04,PIMS Hospital to Bari Amam,3,Rescue 15,rescue 15,33.7055,73.0615,verified
+FR-04,PIMS Hospital to Bari Amam,4,Bank Colony,bank colony,33.6335,73.101,verified
+FR-04,PIMS Hospital to Bari Amam,5,Salai Centre,salai centre,33.7125,73.0885,verified
+FR-04,PIMS Hospital to Bari Amam,6,Sitara Market,sitara market,33.7055,73.0685,verified
+FR-04,PIMS Hospital to Bari Amam,7,Pully Stop,pully stop,33.6418,73.0375,verified
+FR-04,PIMS Hospital to Bari Amam,8,Iqbal Hall,iqbal hall,33.658,73.024,verified
+FR-04,PIMS Hospital to Bari Amam,9,G-6/1.2,g 6 1 2,33.7195,73.0815,verified
+FR-04,PIMS Hospital to Bari Amam,10,Melody Market,melody market,33.7088,73.0782,verified
+FR-04,PIMS Hospital to Bari Amam,11,Abpara Market,abpara market,33.7118,73.0906,verified
+FR-04,PIMS Hospital to Bari Amam,12,Youth Hostel,youth hostel,33.7225,73.0855,verified
+FR-04,PIMS Hospital to Bari Amam,13,Metropolitan Corporation,metropolitan corporation,33.721,73.0945,verified
+FR-04,PIMS Hospital to Bari Amam,14,ICB College,icb college,33.712,73.064,verified
+FR-04,PIMS Hospital to Bari Amam,15,NADRA Chowk,nadra chowk,33.7265,73.0985,verified
+FR-04,PIMS Hospital to Bari Amam,16,Lodges Park,lodges park,33.722,73.085,verified
+FR-04,PIMS Hospital to Bari Amam,17,Sukh Chayn Park,sukh chayn park,33.7122,73.0425,verified
+FR-04,PIMS Hospital to Bari Amam,18,Ministry of Foreign Affairs,ministry of foreign affairs,33.7295,73.0935,verified
+FR-04,PIMS Hospital to Bari Amam,19,Radio Pakistan,radio pakistan,33.7295,73.0915,verified
+FR-04,PIMS Hospital to Bari Amam,20,National Library,national library,33.7315,73.1015,verified
+FR-04,PIMS Hospital to Bari Amam,21,Secretariate Police Station,secretariate police station,33.7385,73.1045,verified
+FR-04,PIMS Hospital to Bari Amam,22,Diplomatic Enclave Gate 4,diplomatic enclave gate 4,33.719,73.111,verified
+FR-04,PIMS Hospital to Bari Amam,23,Aiwan e Sadar Colony,aiwan e sadar colony,33.731,73.1025,verified
+FR-04,PIMS Hospital to Bari Amam,24,Muslim Colony,muslim colony,33.7435,73.1045,verified
+FR-04,PIMS Hospital to Bari Amam,25,Bari Imam,bari imam,33.7455,73.088,verified
+FR-04A,Bari Imam to Quaid e Azam University,1,Bari Imam,bari imam,33.7455,73.088,verified
+FR-04A,Bari Imam to Quaid e Azam University,2,Muhallah Noori Bagh,muhallah noori bagh,33.748,73.2015,verified
+FR-04A,Bari Imam to Quaid e Azam University,3,Commmunity Health Center,commmunity health center,33.682,73.0515,verified
+FR-04A,Bari Imam to Quaid e Azam University,4,D-Type Quaid e Azam Colony,d type quaid e azam colony,33.6415,73.0845,verified
+FR-04A,Bari Imam to Quaid e Azam University,5,C-Type Quaid-e-Azam Colony,c type quaid e azam colony,33.644,73.0815,verified
+FR-04A,Bari Imam to Quaid e Azam University,6,Babul Quaid,babul quaid,33.642,72.981,verified
+FR-04A,Bari Imam to Quaid e Azam University,7,Quaid Azam University,quaid azam university,33.7485,73.139,verified
+FR-05,Golara Morh to Taxila,1,NUST Metro Station,nust metro station,33.644,72.991,verified
+FR-05,Golara Morh to Taxila,2,Police Foundation,police foundation,33.5835,73.1445,verified
+FR-05,Golara Morh to Taxila,3,G-10 Metro Station,g 10 metro station,33.673,73.0335,verified
+FR-05,Golara Morh to Taxila,4,Sunday Bazar,sunday bazar,33.6785,73.0295,verified
+FR-05,Golara Morh to Taxila,5,G10/G11,g10 g11,33.671,73.0035,verified
+FR-05,Golara Morh to Taxila,6,Sumbal Road,sumbal road,33.6907,73.0057,verified
+FR-05,Golara Morh to Taxila,7,Khayaban e Iqbal,khayaban e iqbal,33.725,73.005,verified
+FR-05,Golara Morh to Taxila,8,NPF Housing Society,npf housing society,33.5685,73.1515,verified
+FR-05,Golara Morh to Taxila,9,Multy Stop/Islamabad Gardens,multy stop islamabad gardens,33.633,72.9465,verified
+FR-05,Golara Morh to Taxila,10,E-11/2 / FECHS / Islamabad International Hospita,e 11 2 fechs islamabad international hospita,33.6965,72.9755,verified
+FR-05,Golara Morh to Taxila,11,D-12 Service Road,d 12 service road,33.7105,72.959,verified
+FR-05,Golara Morh to Taxila,12,IESCO D-12,iesco d 12,33.698,72.946,verified
+FR-05,Golara Morh to Taxila,13,D-12 Markaz,d 12 markaz,33.7145,72.9525,verified
+FR-05,Golara Morh to Taxila,14,D-12,d 12,33.7145,72.9525,verified
+FR-06,PIMS Hospital to Golara Shareef,1,Pims Metro Station,pims metro station,33.705,73.048,verified
+FR-06,PIMS Hospital to Golara Shareef,2,Tipu Market G-8,tipu market g 8,33.6965,73.0485,verified
+FR-06,PIMS Hospital to Golara Shareef,3,Ibn-e-Sina Metro Station,ibn e sina metro station,33.678,73.038,verified
+FR-06,PIMS Hospital to Golara Shareef,4,Chaman Metro Station,chaman metro station,33.6655,73.0185,verified
+FR-06,PIMS Hospital to Golara Shareef,5,Taqwa Market,taqwa market,33.6485,73.042,verified
+FR-06,PIMS Hospital to Golara Shareef,6,G-9/4 Park,g 9 4 park,33.6825,73.0265,verified
+FR-06,PIMS Hospital to Golara Shareef,7,Karachi Company,karachi company,33.6905,73.0285,verified
+FR-06,PIMS Hospital to Golara Shareef,8,G-9/1 and G-9/4,g 9 1 and g 9 4,33.6855,73.0215,verified
+FR-06,PIMS Hospital to Golara Shareef,9,G-9 Markaz,g 9 markaz,33.6903,73.0287,verified
+FR-06,PIMS Hospital to Golara Shareef,10,G-9/3,g 9 3,33.6853,73.0338,verified
+FR-06,PIMS Hospital to Golara Shareef,11,F-9 Park,f 9 park,33.702,73.0169,verified
+FR-06,PIMS Hospital to Golara Shareef,12,Shaheen Chowk,shaheen chowk,33.7126,73.0185,verified
+FR-06,PIMS Hospital to Golara Shareef,13,Fazaia Housing Scheme,fazaia housing scheme,33.6288,73.1315,verified
+FR-06,PIMS Hospital to Golara Shareef,14,PAF Hospital,paf hospital,33.7125,73.0145,verified
+FR-06,PIMS Hospital to Golara Shareef,15,Pakistan gate,pakistan gate,33.4995,73.2435,verified
+FR-06,PIMS Hospital to Golara Shareef,16,Maroof International Hospital,maroof international hospital,33.696,73.018,verified
+FR-06,PIMS Hospital to Golara Shareef,17,F-10 Markaz,f 10 markaz,33.6931,72.9865,manual
+FR-06,PIMS Hospital to Golara Shareef,18,IMCB F10/4,imcb f10 4,33.696,73.008,verified
+FR-06,PIMS Hospital to Golara Shareef,19,IMCG F-10/2,imcg f 10 2,33.702,73.004,verified
+FR-06,PIMS Hospital to Golara Shareef,20,F-10/F-11 Chowk,f 10 f 11 chowk,33.6945,72.9985,verified
+FR-06,PIMS Hospital to Golara Shareef,21,Major Road,major road,33.6555,73.0765,verified
+FR-06,PIMS Hospital to Golara Shareef,22,PTCL F-11,ptcl f 11,33.684,72.9825,verified
+FR-06,PIMS Hospital to Golara Shareef,23,F-11 Markaz,f 11 markaz,33.6845,72.9875,verified
+FR-06,PIMS Hospital to Golara Shareef,24,OPF Girls College,opf girls college,33.716,73.0325,verified
+FR-06,PIMS Hospital to Golara Shareef,25,Golra Sharif F-11/3,golra sharif f 11 3,33.693,72.99,verified
+FR-06,PIMS Hospital to Golara Shareef,26,Golra sharif,golra sharif,33.6912,72.9734,verified
+FR-07,PIMS Hospital-Police Foundation,1,PIMS Hospital,pims hospital,33.705,73.048,verified
+FR-07,PIMS Hospital-Police Foundation,2,Children Hospital,children hospital,33.7042,73.0475,verified
+FR-07,PIMS Hospital-Police Foundation,3,NORI Hospital,nori hospital,33.693,73.0615,verified
+FR-07,PIMS Hospital-Police Foundation,4,Dental Hospital,dental hospital,33.7165,73.0835,verified
+FR-07,PIMS Hospital-Police Foundation,5,G-8 Markaz,g 8 markaz,33.699,73.0475,verified
+FR-07,PIMS Hospital-Police Foundation,6,Development Park,development park,33.7055,73.0725,verified
+FR-07,PIMS Hospital-Police Foundation,7,Chaman Metro Station,chaman metro station,33.6655,73.0185,verified
+FR-07,PIMS Hospital-Police Foundation,8,G-9/4,g 9 4,33.6825,73.0265,verified
+FR-07,PIMS Hospital-Police Foundation,9,Karachi Company,karachi company,33.6905,73.0285,verified
+FR-07,PIMS Hospital-Police Foundation,10,G-9 Markaz,g 9 markaz,33.6903,73.0287,verified
+FR-07,PIMS Hospital-Police Foundation,11,Police Flats,police flats,33.6811,73.0244,verified
+FR-07,PIMS Hospital-Police Foundation,12,College Morh,college morh,33.6812,73.0125,verified
+FR-07,PIMS Hospital-Police Foundation,13,G-10 Markaz,g 10 markaz,33.6775,73.011,verified
+FR-07,PIMS Hospital-Police Foundation,14,PHA Flats,pha flats,33.6612,72.9912,verified
+FR-07,PIMS Hospital-Police Foundation,15,Tanki Stop,tanki stop,33.6745,73.0078,verified
+FR-07,PIMS Hospital-Police Foundation,16,G-10/G-11,g 10 g 11,33.671,73.0035,verified
+FR-07,PIMS Hospital-Police Foundation,17,Institute of Modern Studies,institute of modern studies,33.6738,72.9985,verified
+FR-07,PIMS Hospital-Police Foundation,18,G-11 Markaz,g 11 markaz,33.6685,72.9982,verified
+FR-07,PIMS Hospital-Police Foundation,19,Mehrabad,mehrabad,33.674,72.9915,verified
+FR-07,PIMS Hospital-Police Foundation,20,NUST Metro Station,nust metro station,33.644,72.991,verified
+FR-07,PIMS Hospital-Police Foundation,21,Bar Council,bar council,33.7115,73.0428,verified
+FR-07,PIMS Hospital-Police Foundation,22,A.K Bari Road,a k bari road,33.6625,72.9928,verified
+FR-07,PIMS Hospital-Police Foundation,23,Police Foundation Metro Station,police foundation metro station,33.6457,72.9662,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,1,PIMS Hospital,pims hospital,33.705,73.048,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,2,Children Hospital,children hospital,33.7042,73.0475,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,3,TNT,tnt,33.6955,73.052,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,4,Zero Point,zero point,33.693,73.065,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,5,CDA,cda,33.7025,73.061,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,6,Abpara,abpara,33.7118,73.0906,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,7,Foreign Affairs Office,foreign affairs office,33.7295,73.0935,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,8,Kashmir Chowk,kashmir chowk,33.708,73.088,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,9,Rawal Dam Chowk,rawal dam chowk,33.7085,73.0985,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,10,Rawal Town,rawal town,33.6815,73.1165,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,11,School Board Stop,school board stop,33.6555,73.0535,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,12,Rawal Dam Colony,rawal dam colony,33.6965,73.1145,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,13,NARC Colony,narc colony,33.6765,73.1255,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,14,NIH Allergy Center,nih allergy center,33.678,73.1415,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,15,Shahzad Town,shahzad town,33.6735,73.1615,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,16,Park View City,park view city,33.702,73.1915,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,17,Green Avenue,green avenue,33.672,73.151,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,18,Chatta Bakhtawar,chatta bakhtawar,33.671,73.136,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,19,Gulshan Al Huda Community,gulshan al huda community,33.664,73.153,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,20,Hostel City,hostel city,33.665,73.164,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,21,COMSATS University,comsats university,33.6515,73.1565,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,22,Tamma Stop,tamma stop,33.6515,73.1612,verified
+FR-08A,Capt. Naeem T. Shaheed Chowk to PIMS,23,Capt. Naeem Tufail Shaheed Chow,capt naeem tufail shaheed chow,33.618,73.1415,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,1,PIMS Hospital,pims hospital,33.705,73.048,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,2,Children Hospital,children hospital,33.7042,73.0475,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,3,TNT,tnt,33.6955,73.052,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,4,H-8,h 8,33.668,73.058,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,5,Kach Naar Park I-8,kach naar park i 8,33.672,73.078,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,6,Faizabad,faizabad,33.6642,73.0833,manual
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,7,ITP Driving License Centre,itp driving license centre,33.684,73.018,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,8,Margalla Town,margalla town,33.6738,73.1165,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,9,Garden Avenue,garden avenue,33.6915,73.0665,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,10,Rawal Town,rawal town,33.6815,73.1165,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,11,School Board Stop,school board stop,33.6555,73.0535,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,12,Rawal Dam Colony,rawal dam colony,33.6965,73.1145,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,13,N.A.R.C Colony,n a r c colony,33.6765,73.1255,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,14,N.I.H Allergy Center,n i h allergy center,33.678,73.1415,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,15,Shahzad Town,shahzad town,33.6735,73.1615,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,16,Park View City,park view city,33.702,73.1915,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,17,Green Avenue,green avenue,33.672,73.151,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,18,Chatta Bakhtawar,chatta bakhtawar,33.671,73.136,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,19,Gulshan Al Huda Community,gulshan al huda community,33.664,73.153,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,20,Hostel City,hostel city,33.665,73.164,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,21,COMSATS University,comsats university,33.6515,73.1565,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,22,Tamma Stop,tamma stop,33.6515,73.1612,verified
+FR-08C,Capt. Naeem T. Shaheed Chowk to PIMS,23,Capt. Naeem Tufail Shaheed Chow,capt naeem tufail shaheed chow,33.618,73.1415,verified
+FR-09,Golara Mor to Khanna Pul,1,Khanna Pul,khanna pul,33.6375,73.1235,verified
+FR-09,Golara Mor to Khanna Pul,2,Zia Masjid,zia masjid,33.6402,73.1189,verified
+FR-09,Golara Mor to Khanna Pul,3,Kuri Road,kuri road,33.6448,73.1145,verified
+FR-09,Golara Mor to Khanna Pul,4,Iqbal Town,iqbal town,33.6455,73.1022,verified
+FR-09,Golara Mor to Khanna Pul,5,Dhok Kala Khan,dhok kala khan,33.6533,73.0906,verified
+FR-09,Golara Mor to Khanna Pul,6,Sohan,sohan,33.648,73.109,verified
+FR-09,Golara Mor to Khanna Pul,7,Faizabad Metro Station,faizabad metro station,33.6636,73.0841,verified
+FR-09,Golara Mor to Khanna Pul,8,IJP Metro Station,ijp metro station,33.6548,73.0734,verified
+FR-09,Golara Mor to Khanna Pul,9,Pindora Chungi,pindora chungi,33.6465,73.0594,verified
+FR-09,Golara Mor to Khanna Pul,10,Katarian Chungi,katarian chungi,33.6461,73.0531,verified
+FR-09,Golara Mor to Khanna Pul,11,Katarian Pull,katarian pull,33.6453,73.0538,verified
+FR-09,Golara Mor to Khanna Pul,12,CDA Stop,cda stop,33.6582,73.0645,verified
+FR-09,Golara Mor to Khanna Pul,13,Pully Stop,pully stop,33.6418,73.0375,verified
+FR-09,Golara Mor to Khanna Pul,14,Mandi Morh,mandi morh,33.6517,73.0392,verified
+FR-09,Golara Mor to Khanna Pul,15,Fauji Colony,fauji colony,33.6345,73.0325,verified
+FR-09,Golara Mor to Khanna Pul,16,Carriage Factory,carriage factory,33.6415,73.0485,verified
+FR-09,Golara Mor to Khanna Pul,17,Westridge,westridge,33.6085,73.0285,verified
+FR-09,Golara Mor to Khanna Pul,18,CTTI,ctti,33.631,72.982,verified
+FR-09,Golara Mor to Khanna Pul,19,Social Security Hospital,social security hospital,33.6212,73.0035,verified
+FR-09,Golara Mor to Khanna Pul,20,British Homes,british homes,33.6468,73.0645,verified
+FR-09,Golara Mor to Khanna Pul,21,Pir Wadhai Morh,pir wadhai morh,33.645,73.0255,verified
+FR-09,Golara Mor to Khanna Pul,22,Kohinoor Mill Colony,kohinoor mill colony,33.6295,73.0165,verified
+FR-09,Golara Mor to Khanna Pul,23,Kohinoor Mill,kohinoor mill,33.628,73.015,verified
+FR-09,Golara Mor to Khanna Pul,24,Chishtiabad,chishtiabad,33.621,73.0645,verified
+FR-09,Golara Mor to Khanna Pul,25,Golra Morh,golra morh,33.6475,73.0115,verified
+FR-09,Golara Mor to Khanna Pul,26,Home of Military Transport,home of military transport,33.634,72.972,verified
+FR-09,Golara Mor to Khanna Pul,27,Golra Morh Metro Station,golra morh metro station,33.6475,73.0115,verified
+FR-10,Golara Morh to Taxila,1,Golra Morh,golra morh,33.6475,73.0115,verified
+FR-10,Golara Morh to Taxila,2,G-13 Metro Station,g 13 metro station,33.6555,72.9715,verified
+FR-10,Golara Morh to Taxila,3,NUST Metro Station,nust metro station,33.644,72.991,verified
+FR-10,Golara Morh to Taxila,4,A.K Bari Road,a k bari road,33.6625,72.9928,verified
+FR-10,Golara Morh to Taxila,5,G-11 Markaz,g 11 markaz,33.6685,72.9982,verified
+FR-10,Golara Morh to Taxila,6,Hammad Uddin Road,hammad uddin road,33.624,73.089,verified
+FR-10,Golara Morh to Taxila,7,Federal Government College,federal government college,33.7015,73.0685,verified
+FR-10,Golara Morh to Taxila,8,F-11 Markaz,f 11 markaz,33.6845,72.9875,verified
+FR-10,Golara Morh to Taxila,9,OPF Girls College,opf girls college,33.716,73.0325,verified
+FR-10,Golara Morh to Taxila,10,Golra Sharif F-11/3,golra sharif f 11 3,33.693,72.99,verified
+FR-10,Golara Morh to Taxila,11,NPF Housing Society,npf housing society,33.5685,73.1515,verified
+FR-10,Golara Morh to Taxila,12,Multy Stop,multy stop,33.633,72.9465,verified
+FR-10,Golara Morh to Taxila,13,Islamabad International Hospital,islamabad international hospital,33.625,73.056,verified
+FR-10,Golara Morh to Taxila,14,D-12 Service Road,d 12 service road,33.7105,72.959,verified
+FR-10,Golara Morh to Taxila,15,IESCO D-12,iesco d 12,33.698,72.946,verified
+FR-10,Golara Morh to Taxila,16,D-12 Markaz,d 12 markaz,33.7145,72.9525,verified
+FR-10,Golara Morh to Taxila,17,Shah Allah Ditta,shah allah ditta,33.7255,72.915,verified
+FR-10,Golara Morh to Taxila,18,Sangjani,sangjani,33.669,72.839,verified
+FR-10,Golara Morh to Taxila,19,B-17 Gate no. 1,b 17 gate no 1,33.6935,72.7985,verified
+FR-10,Golara Morh to Taxila,20,B-17 Gate no. 2,b 17 gate no 2,33.675,72.822,verified
+FR-10,Golara Morh to Taxila,21,Margalla,margalla,33.7435,73.023,verified
+FR-10,Golara Morh to Taxila,22,Taxila Bypass,taxila bypass,33.7125,72.8145,verified
+FR-10,Golara Morh to Taxila,23,Wahdat Colony,wahdat colony,33.7655,72.7985,verified
+FR-10,Golara Morh to Taxila,24,Timber Market,timber market,33.6425,73.0475,verified
+FR-10,Golara Morh to Taxila,25,Taxila,taxila,33.7465,72.8115,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,1,Golra Morh Metro Station,golra morh metro station,33.6475,73.0115,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,2,N5 Metro Station,n5 metro station,33.6265,72.9155,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,3,Motorway Chowk,motorway chowk,33.6412,72.934,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,4,NUST EME College,nust eme college,33.611,72.9245,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,5,Golra Morh,golra morh,33.6475,73.0115,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,6,IMCG I-14/3,imcg i 14 3,33.608,72.965,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,7,RIPHAH International University,riphah international university,33.6505,73.1255,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,8,I-14 Markaz,i 14 markaz,33.614,72.972,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,9,I-14/1 Park,i 14 1 park,33.612,72.968,verified
+FR-11,Golra Morh Metro Station- Rafiullah Shaheed Chowk,10,Rafiullah Shaheed Chowk,rafiullah shaheed chowk,33.6025,73.1115,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,1,Taxila Chowk,taxila chowk,33.7435,72.812,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,2,University of Wah,university of wah,33.7785,72.7215,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,3,Nawab Abad,nawab abad,33.7555,72.7845,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,4,Wah Cantt Barrier No 2,wah cantt barrier no 2,33.7845,72.7315,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,5,Gulshan e Anwar,gulshan e anwar,33.752,72.776,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,6,Jinnah Colony,jinnah colony,33.622,73.094,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,7,New City Phase 01,new city phase 01,33.7485,72.7635,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,8,Losar Sharfoo,losar sharfoo,33.7515,72.7835,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,9,New City Phase 02,new city phase 02,33.738,72.7485,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,10,Bahtar Morh,bahtar morh,33.648,72.671,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,11,Wah Model Town Phase 01,wah model town phase 01,33.7545,72.7145,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,12,Wah Model Town Phase 02,wah model town phase 02,33.7435,72.6985,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,13,Swedish College,swedish college,33.7715,72.7245,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,14,Malakand Stop,malakand stop,33.7842,72.7215,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,15,Basti,basti,33.7432,73.0905,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,16,Sabri Gali,sabri gali,33.6415,73.0845,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,17,Wah Cantt Barrier 03,wah cantt barrier 03,33.7735,72.721,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,18,Ahmad Nagar,ahmad nagar,33.6552,72.9345,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,19,Shah Wali Colony Road,shah wali colony road,33.7555,72.8245,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,20,Wah Gardens,wah gardens,33.8115,72.7015,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,21,Askari Cement Factory Road,askari cement factory road,33.742,72.7215,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,22,Dhok Dhollian,dhok dhollian,33.6485,73.0615,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,23,WAPDA Colony,wapda colony,33.6685,73.0645,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,24,Hassan Abdal,hassan abdal,33.82,72.689,verified
+FR-12,Taxila Chowk- Tipu Sultan Shaheed Chowk,25,Tipu Sultan Shaheed Chowk,tipu sultan shaheed chowk,33.6335,73.0715,verified
+FR-13,Golara Morh Station to Fateh Jang,1,Golra Morh Metro Station,golra morh metro station,33.6475,73.0115,verified
+FR-13,Golara Morh Station to Fateh Jang,2,N-5 Metro Station,n 5 metro station,33.6265,72.9155,verified
+FR-13,Golara Morh Station to Fateh Jang,3,G-15/H-15,g 15 h 15,33.6335,72.9245,verified
+FR-13,Golara Morh Station to Fateh Jang,4,G-16/H-16,g 16 h 16,33.6215,72.9115,verified
+FR-13,Golara Morh Station to Fateh Jang,5,G-16/1,g 16 1,33.6265,72.9035,verified
+FR-13,Golara Morh Station to Fateh Jang,6,Masjid Abu Al Qasim,masjid abu al qasim,33.605,72.902,verified
+FR-13,Golara Morh Station to Fateh Jang,7,Top City,top city,33.556,72.848,verified
+FR-13,Golara Morh Station to Fateh Jang,8,Mumtaz City,mumtaz city,33.5855,72.8425,verified
+FR-13,Golara Morh Station to Fateh Jang,9,Airport Enclave,airport enclave,33.6042,72.853,verified
+FR-13,Golara Morh Station to Fateh Jang,10,Madni Chowk,madni chowk,33.641,73.053,verified
+FR-13,Golara Morh Station to Fateh Jang,11,Dhuma,dhuma,33.7715,73.2285,verified
+FR-13,Golara Morh Station to Fateh Jang,12,PECHS,pechs,33.6065,72.8435,verified
+FR-13,Golara Morh Station to Fateh Jang,13,Mohri Patak,mohri patak,33.621,73.0845,verified
+FR-13,Golara Morh Station to Fateh Jang,14,Dhok Miskeen,dhok miskeen,33.7385,73.1845,verified
+FR-13,Golara Morh Station to Fateh Jang,15,Mangial Link Road 1,mangial link road 1,33.6012,72.7935,verified
+FR-13,Golara Morh Station to Fateh Jang,16,Graceland Housing Society,graceland housing society,33.601,72.795,verified
+FR-13,Golara Morh Station to Fateh Jang,17,Mangial Link Road 2,mangial link road 2,33.6045,72.788,verified
+FR-13,Golara Morh Station to Fateh Jang,18,Mangial Main Stop,mangial main stop,33.6005,72.782,verified
+FR-13,Golara Morh Station to Fateh Jang,19,Doiyan,doiyan,33.7655,73.1945,verified
+FR-13,Golara Morh Station to Fateh Jang,20,Qutbal,qutbal,33.5855,72.6935,verified
+FR-13,Golara Morh Station to Fateh Jang,21,Bangu Chowk,bangu chowk,33.7052,72.9658,verified
+FR-13,Golara Morh Station to Fateh Jang,22,Afridi Bagh,afridi bagh,33.6065,72.7314,verified
+FR-13,Golara Morh Station to Fateh Jang,23,Hattar,hattar,33.865,72.855,verified
+FR-13,Golara Morh Station to Fateh Jang,24,Prem Nagar Faqeeran,prem nagar faqeeran,33.6495,73.0785,verified
+FR-13,Golara Morh Station to Fateh Jang,25,Garhi Hasu Khan,garhi hasu khan,33.7545,73.1215,verified
+FR-13,Golara Morh Station to Fateh Jang,26,The Avanue 03,the avanue 03,33.6735,72.9345,verified
+FR-13,Golara Morh Station to Fateh Jang,27,Akram City,akram city,33.6185,72.942,verified
+FR-13,Golara Morh Station to Fateh Jang,28,Civil CT Road,civil ct road,33.6085,73.0555,verified
+FR-13,Golara Morh Station to Fateh Jang,29,Fateh Jang,fateh jang,33.5665,72.642,verified
+FR-14,Bara Kahu to Mandi Morh,1,Barakahu,barakahu,33.742,73.193,verified
+FR-14,Bara Kahu to Mandi Morh,2,Shahdara,shahdara,33.7715,73.1255,verified
+FR-14,Bara Kahu to Mandi Morh,3,Malpur,malpur,33.7277,73.1497,verified
+FR-14,Bara Kahu to Mandi Morh,4,Lake View Park,lake view park,33.714,73.121,verified
+FR-14,Bara Kahu to Mandi Morh,5,Dhokri Stop,dhokri stop,33.7155,73.099,verified
+FR-14,Bara Kahu to Mandi Morh,6,Kashmir Chowk,kashmir chowk,33.708,73.088,verified
+FR-14,Bara Kahu to Mandi Morh,7,Rawal Dam Chowk,rawal dam chowk,33.7085,73.0985,verified
+FR-14,Bara Kahu to Mandi Morh,8,Garden Avenue,garden avenue,33.6915,73.0665,verified
+FR-14,Bara Kahu to Mandi Morh,9,Margalla Town,margalla town,33.6738,73.1165,verified
+FR-14,Bara Kahu to Mandi Morh,10,ITP Driving License Centre,itp driving license centre,33.684,73.018,verified
+FR-14,Bara Kahu to Mandi Morh,11,Sohan,sohan,33.648,73.109,verified
+FR-14,Bara Kahu to Mandi Morh,12,Faizabad Metro Station,faizabad metro station,33.6636,73.0841,verified
+FR-14,Bara Kahu to Mandi Morh,13,IJP Metro Station,ijp metro station,33.6548,73.0734,verified
+FR-14,Bara Kahu to Mandi Morh,14,Pindora Chungi,pindora chungi,33.6465,73.0594,verified
+FR-14,Bara Kahu to Mandi Morh,15,Katarian Chungi,katarian chungi,33.6461,73.0531,verified
+FR-14,Bara Kahu to Mandi Morh,16,Katarian Pull,katarian pull,33.6453,73.0538,verified
+FR-14,Bara Kahu to Mandi Morh,17,CDA Stop,cda stop,33.6582,73.0645,verified
+FR-14,Bara Kahu to Mandi Morh,18,Pully Stop,pully stop,33.6418,73.0375,verified
+FR-14,Bara Kahu to Mandi Morh,19,Mandi Morh,mandi morh,33.6517,73.0392,verified
+FR-14A,Bara Kahu to Satra Meel,1,Barakahu Terminal,barakahu terminal,33.7445,73.195,verified
+FR-14A,Bara Kahu to Satra Meel,2,Mangu Town,mangu town,33.741,73.175,verified
+FR-14A,Bara Kahu to Satra Meel,3,Col. Ammanullah Road,col ammanullah road,33.6645,73.0725,verified
+FR-14A,Bara Kahu to Satra Meel,4,Athal Chowk,athal chowk,33.746,73.2155,verified
+FR-14A,Bara Kahu to Satra Meel,5,Barakahu Bazar,barakahu bazar,33.742,73.193,verified
+FR-14A,Bara Kahu to Satra Meel,6,Bhera Pull,bhera pull,33.742,73.2085,verified
+FR-14A,Bara Kahu to Satra Meel,7,Nai Abadi,nai abadi,33.6365,73.0895,verified
+FR-14A,Bara Kahu to Satra Meel,8,Traders Colony,traders colony,33.6565,73.0785,verified
+FR-14A,Bara Kahu to Satra Meel,9,Akbar Niazi Hospital,akbar niazi hospital,33.765,73.2185,verified
+FR-14A,Bara Kahu to Satra Meel,10,Phulgran,phulgran,33.7545,73.2285,verified
+FR-14A,Bara Kahu to Satra Meel,11,Dhok Badam,dhok badam,33.6555,73.0445,verified
+FR-14A,Bara Kahu to Satra Meel,12,Punjab College,punjab college,33.6545,73.1365,verified
+FR-14A,Bara Kahu to Satra Meel,13,Al Wadi Colony,al wadi colony,33.7682,73.2214,verified
+FR-14A,Bara Kahu to Satra Meel,14,Satra Meel,satra meel,33.7855,73.2535,verified
+FR-15,Khanna Pul- T- Chowk,1,Khanna Pul,khanna pul,33.6375,73.1235,verified
+FR-15,Khanna Pul- T- Chowk,2,Fazaia,fazaia,33.6288,73.1315,verified
+FR-15,Khanna Pul- T- Chowk,3,Gangal,gangal,33.6215,73.1368,verified
+FR-15,Khanna Pul- T- Chowk,4,Koral Town,koral town,33.6062,73.1492,verified
+FR-15,Khanna Pul- T- Chowk,5,Gulberg,gulberg,33.5936,73.1652,verified
+FR-15,Khanna Pul- T- Chowk,6,Pagh Chowk,pagh chowk,33.5855,73.142,verified
+FR-15,Khanna Pul- T- Chowk,7,PWD Housing Society,pwd housing society,33.5786,73.1361,verified
+FR-15,Khanna Pul- T- Chowk,8,Soan Gardens E Block,soan gardens e block,33.5612,73.1655,verified
+FR-15,Khanna Pul- T- Chowk,9,Soan Gardens G Block,soan gardens g block,33.5645,73.163,verified
+FR-15,Khanna Pul- T- Chowk,10,Soan Gardens H Block,soan gardens h block,33.567,73.1585,verified
+FR-15,Khanna Pul- T- Chowk,11,River Gardens,river gardens,33.5583,73.1622,verified
+FR-15,Khanna Pul- T- Chowk,12,Kaak Pul,kaak pul,33.5434,73.1795,verified
+FR-15,Khanna Pul- T- Chowk,13,DHA Gate 08,dha gate 08,33.5298,73.1645,verified
+FR-15,Khanna Pul- T- Chowk,14,DHA Gate 07,dha gate 07,33.535,73.161,verified
+FR-15,Khanna Pul- T- Chowk,15,SUPARCO,suparco,33.7425,73.1345,verified
+FR-15,Khanna Pul- T- Chowk,16,T- Chowk,t chowk,33.497,73.238,verified
+FRB-01,PIMS- Gulberg,1,PIMS,pims,33.705,73.048,verified
+FRB-01,PIMS- Gulberg,2,Children Hospital,children hospital,33.7042,73.0475,verified
+FRB-01,PIMS- Gulberg,3,TNT,tnt,33.6955,73.052,verified
+FRB-01,PIMS- Gulberg,4,H-8,h 8,33.668,73.058,verified
+FRB-01,PIMS- Gulberg,5,Kach Naar Park I-8,kach naar park i 8,33.672,73.078,verified
+FRB-01,PIMS- Gulberg,6,Sohan,sohan,33.648,73.109,verified
+FRB-01,PIMS- Gulberg,7,Dhok Kala Khan,dhok kala khan,33.6533,73.0906,verified
+FRB-01,PIMS- Gulberg,8,Iqbal Town,iqbal town,33.6455,73.1022,verified
+FRB-01,PIMS- Gulberg,9,Kuri Road,kuri road,33.6448,73.1145,verified
+FRB-01,PIMS- Gulberg,10,Zia Masjid,zia masjid,33.6402,73.1189,verified
+FRB-01,PIMS- Gulberg,11,Khanna Pul,khanna pul,33.6375,73.1235,verified
+FRB-01,PIMS- Gulberg,12,Fazaia,fazaia,33.6288,73.1315,verified
+FRB-01,PIMS- Gulberg,13,Gangal,gangal,33.6215,73.1368,verified
+FRB-01,PIMS- Gulberg,14,Koral Town,koral town,33.6062,73.1492,verified
+FRB-01,PIMS- Gulberg,15,Gulberg,gulberg,33.5936,73.1652,verified
+FRG-1,PIMS - Barakahu,1,PIMS,pims,33.705,73.048,verified
+FRG-1,PIMS - Barakahu,2,Children Hospital,children hospital,33.7042,73.0475,verified
+FRG-1,PIMS - Barakahu,3,TNT,tnt,33.6955,73.052,verified
+FRG-1,PIMS - Barakahu,4,CDA,cda,33.7025,73.061,verified
+FRG-1,PIMS - Barakahu,5,Abpara,abpara,33.7118,73.0906,verified
+FRG-1,PIMS - Barakahu,6,Foreign Affairs Office,foreign affairs office,33.7295,73.0935,verified
+FRG-1,PIMS - Barakahu,7,Lake View Park,lake view park,33.714,73.121,verified
+FRG-1,PIMS - Barakahu,8,Malpur,malpur,33.7277,73.1497,verified
+FRG-1,PIMS - Barakahu,9,Shahdara,shahdara,33.7715,73.1255,verified
+FRG-1,PIMS - Barakahu,10,Barakahu,barakahu,33.742,73.193,verified
+ST-01,PIMS Hospital- Daman e Koh,1,PIMS Hospital,pims hospital,33.705,73.048,verified
+ST-01,PIMS Hospital- Daman e Koh,2,Faisal Morh F-7/F-8,faisal morh f 7 f 8,33.7145,73.0485,verified
+ST-01,PIMS Hospital- Daman e Koh,3,Katchery,katchery,33.704,73.042,verified
+ST-01,PIMS Hospital- Daman e Koh,4,F-8 Markaz,f 8 markaz,33.7125,73.039,verified
+ST-01,PIMS Hospital- Daman e Koh,5,F-9 Park,f 9 park,33.702,73.0169,verified
+ST-01,PIMS Hospital- Daman e Koh,6,Shaheen Chowk,shaheen chowk,33.7126,73.0185,verified
+ST-01,PIMS Hospital- Daman e Koh,7,Bahria University,bahria university,33.7144,73.036,verified
+ST-01,PIMS Hospital- Daman e Koh,8,Naval Complex,naval complex,33.715,73.041,verified
+ST-01,PIMS Hospital- Daman e Koh,9,Faisal Masjid,faisal masjid,33.7299,73.0372,verified
+ST-01,PIMS Hospital- Daman e Koh,10,Parveen Shakir Road,parveen shakir road,33.6845,73.0385,verified
+ST-01,PIMS Hospital- Daman e Koh,11,Kohsar Road/F-7 Marka,kohsar road f 7 marka,33.7255,73.0615,verified
+ST-01,PIMS Hospital- Daman e Koh,12,Murghzar Zoo,murghzar zoo,33.738,73.079,verified
+ST-01,PIMS Hospital- Daman e Koh,13,Daman e Koh,daman e koh,33.738,73.056,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,1,PIMS,pims,33.705,73.048,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,2,TNT,tnt,33.6955,73.052,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,3,Zero Point,zero point,33.693,73.065,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,4,CDA,cda,33.7025,73.061,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,5,Abpara,abpara,33.7118,73.0906,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,6,Shakarparian Park,shakarparian park,33.6915,73.0815,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,7,Rawal Town,rawal town,33.6815,73.1165,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,8,School Board Stop,school board stop,33.6555,73.0535,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,9,Rawal Dam Colony,rawal dam colony,33.6965,73.1145,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,10,NARC Colony,narc colony,33.6765,73.1255,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,11,NIH Allergy Center,nih allergy center,33.678,73.1415,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,12,Shahzad Town,shahzad town,33.6735,73.1615,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,13,Park View City,park view city,33.702,73.1915,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,14,Green Avenue,green avenue,33.672,73.151,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,15,Chatta Bakhtawar,chatta bakhtawar,33.671,73.136,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,16,Hostel City,hostel city,33.665,73.164,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,17,COMSATS University,comsats university,33.6515,73.1565,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,18,Tamma Stop,tamma stop,33.6515,73.1612,verified
+ST-02,10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk,19,Capt. Naeem Tufail Shaheed Chow,capt naeem tufail shaheed chow,33.618,73.1415,verified

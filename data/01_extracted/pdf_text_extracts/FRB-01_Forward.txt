@@ -1,0 +1,10158 @@
+--- PAGE 1 ---
+Field
+Value
+Route ID
+30001
+Short Name
+FRB-01
+Long Name
+ PIMS- Gulberg
+Direction
+Forward
+Total Trips
+196
+Average Headway (min 5
+Trip ID
+Start Time
+170363-0
+05:45:00
+stop_name
+arrival_time departure_time
+PIMS
+05:45:00
+05:45:00
+Children Hospital
+05:46:30
+05:46:50
+TNT
+05:50:00
+05:50:20
+H-8
+05:56:00
+05:56:20
+Kach Naar Park I-8
+05:59:00
+05:59:20
+Sohan
+06:03:00
+06:03:20
+Dhok Kala Khan
+06:05:30
+06:05:50
+Iqbal Town
+06:06:50
+06:07:10
+Kuri Road
+06:08:10
+06:08:30
+Zia Masjid
+06:09:50
+06:10:10
+Khanna Pul
+06:12:40
+06:13:00
+Fazaia
+06:14:20
+06:14:40
+Gangal
+06:16:50
+06:17:10
+Koral Town
+06:19:50
+06:20:10
+Gulberg
+06:23:00
+06:23:00
+Trip ID
+Start Time
+170364-0
+05:50:00
+stop_name
+arrival_time departure_time
+PIMS
+05:50:00
+05:50:00
+Children Hospital
+05:51:30
+05:51:50
+TNT
+05:55:00
+05:55:20
+H-8
+06:01:00
+06:01:20
+Kach Naar Park I-8
+06:04:00
+06:04:20
+Sohan
+06:08:00
+06:08:20
+Dhok Kala Khan
+06:10:30
+06:10:50
+Iqbal Town
+06:11:50
+06:12:10
+Kuri Road
+06:13:10
+06:13:30
+Zia Masjid
+06:14:50
+06:15:10
+Khanna Pul
+06:17:40
+06:18:00
+Fazaia
+06:19:20
+06:19:40
+Gangal
+06:21:50
+06:22:10
+Koral Town
+06:24:50
+06:25:10
+Gulberg
+06:28:00
+06:28:00
+Trip ID
+Start Time
+170365-0
+05:55:00
+stop_name
+arrival_time departure_time
+PIMS
+05:55:00
+05:55:00
+
+--- PAGE 2 ---
+Children Hospital
+05:56:30
+05:56:50
+TNT
+06:00:00
+06:00:20
+H-8
+06:06:00
+06:06:20
+Kach Naar Park I-8
+06:09:00
+06:09:20
+Sohan
+06:13:00
+06:13:20
+Dhok Kala Khan
+06:15:30
+06:15:50
+Iqbal Town
+06:16:50
+06:17:10
+Kuri Road
+06:18:10
+06:18:30
+Zia Masjid
+06:19:50
+06:20:10
+Khanna Pul
+06:22:40
+06:23:00
+Fazaia
+06:24:20
+06:24:40
+Gangal
+06:26:50
+06:27:10
+Koral Town
+06:29:50
+06:30:10
+Gulberg
+06:33:00
+06:33:00
+Trip ID
+Start Time
+170366-0
+06:00:00
+stop_name
+arrival_time departure_time
+PIMS
+06:00:00
+06:00:00
+Children Hospital
+06:01:30
+06:01:50
+TNT
+06:05:00
+06:05:20
+H-8
+06:11:00
+06:11:20
+Kach Naar Park I-8
+06:14:00
+06:14:20
+Sohan
+06:18:00
+06:18:20
+Dhok Kala Khan
+06:20:30
+06:20:50
+Iqbal Town
+06:21:50
+06:22:10
+Kuri Road
+06:23:10
+06:23:30
+Zia Masjid
+06:24:50
+06:25:10
+Khanna Pul
+06:27:40
+06:28:00
+Fazaia
+06:29:20
+06:29:40
+Gangal
+06:31:50
+06:32:10
+Koral Town
+06:34:50
+06:35:10
+Gulberg
+06:38:00
+06:38:00
+Trip ID
+Start Time
+170367-0
+06:05:00
+stop_name
+arrival_time departure_time
+PIMS
+06:05:00
+06:05:00
+Children Hospital
+06:06:30
+06:06:50
+TNT
+06:10:00
+06:10:20
+H-8
+06:16:00
+06:16:20
+Kach Naar Park I-8
+06:19:00
+06:19:20
+Sohan
+06:23:00
+06:23:20
+Dhok Kala Khan
+06:25:30
+06:25:50
+Iqbal Town
+06:26:50
+06:27:10
+Kuri Road
+06:28:10
+06:28:30
+Zia Masjid
+06:29:50
+06:30:10
+Khanna Pul
+06:32:40
+06:33:00
+Fazaia
+06:34:20
+06:34:40
+Gangal
+06:36:50
+06:37:10
+
+--- PAGE 3 ---
+Koral Town
+06:39:50
+06:40:10
+Gulberg
+06:43:00
+06:43:00
+Trip ID
+Start Time
+170368-0
+06:10:00
+stop_name
+arrival_time departure_time
+PIMS
+06:10:00
+06:10:00
+Children Hospital
+06:11:30
+06:11:50
+TNT
+06:15:00
+06:15:20
+H-8
+06:21:00
+06:21:20
+Kach Naar Park I-8
+06:24:00
+06:24:20
+Sohan
+06:28:00
+06:28:20
+Dhok Kala Khan
+06:30:30
+06:30:50
+Iqbal Town
+06:31:50
+06:32:10
+Kuri Road
+06:33:10
+06:33:30
+Zia Masjid
+06:34:50
+06:35:10
+Khanna Pul
+06:37:40
+06:38:00
+Fazaia
+06:39:20
+06:39:40
+Gangal
+06:41:50
+06:42:10
+Koral Town
+06:44:50
+06:45:10
+Gulberg
+06:48:00
+06:48:00
+Trip ID
+Start Time
+170369-0
+06:15:00
+stop_name
+arrival_time departure_time
+PIMS
+06:15:00
+06:15:00
+Children Hospital
+06:16:30
+06:16:50
+TNT
+06:20:00
+06:20:20
+H-8
+06:26:00
+06:26:20
+Kach Naar Park I-8
+06:29:00
+06:29:20
+Sohan
+06:33:00
+06:33:20
+Dhok Kala Khan
+06:35:30
+06:35:50
+Iqbal Town
+06:36:50
+06:37:10
+Kuri Road
+06:38:10
+06:38:30
+Zia Masjid
+06:39:50
+06:40:10
+Khanna Pul
+06:42:40
+06:43:00
+Fazaia
+06:44:20
+06:44:40
+Gangal
+06:46:50
+06:47:10
+Koral Town
+06:49:50
+06:50:10
+Gulberg
+06:53:00
+06:53:00
+Trip ID
+Start Time
+170370-0
+06:20:00
+stop_name
+arrival_time departure_time
+PIMS
+06:20:00
+06:20:00
+Children Hospital
+06:21:30
+06:21:50
+TNT
+06:25:00
+06:25:20
+H-8
+06:31:00
+06:31:20
+Kach Naar Park I-8
+06:34:00
+06:34:20
+Sohan
+06:38:00
+06:38:20
+
+--- PAGE 4 ---
+Dhok Kala Khan
+06:40:30
+06:40:50
+Iqbal Town
+06:41:50
+06:42:10
+Kuri Road
+06:43:10
+06:43:30
+Zia Masjid
+06:44:50
+06:45:10
+Khanna Pul
+06:47:40
+06:48:00
+Fazaia
+06:49:20
+06:49:40
+Gangal
+06:51:50
+06:52:10
+Koral Town
+06:54:50
+06:55:10
+Gulberg
+06:58:00
+06:58:00
+Trip ID
+Start Time
+170371-0
+06:25:00
+stop_name
+arrival_time departure_time
+PIMS
+06:25:00
+06:25:00
+Children Hospital
+06:26:30
+06:26:50
+TNT
+06:30:00
+06:30:20
+H-8
+06:36:00
+06:36:20
+Kach Naar Park I-8
+06:39:00
+06:39:20
+Sohan
+06:43:00
+06:43:20
+Dhok Kala Khan
+06:45:30
+06:45:50
+Iqbal Town
+06:46:50
+06:47:10
+Kuri Road
+06:48:10
+06:48:30
+Zia Masjid
+06:49:50
+06:50:10
+Khanna Pul
+06:52:40
+06:53:00
+Fazaia
+06:54:20
+06:54:40
+Gangal
+06:56:50
+06:57:10
+Koral Town
+06:59:50
+07:00:10
+Gulberg
+07:03:00
+07:03:00
+Trip ID
+Start Time
+170372-0
+06:30:00
+stop_name
+arrival_time departure_time
+PIMS
+06:30:00
+06:30:00
+Children Hospital
+06:31:30
+06:31:50
+TNT
+06:35:00
+06:35:20
+H-8
+06:41:00
+06:41:20
+Kach Naar Park I-8
+06:44:00
+06:44:20
+Sohan
+06:48:00
+06:48:20
+Dhok Kala Khan
+06:50:30
+06:50:50
+Iqbal Town
+06:51:50
+06:52:10
+Kuri Road
+06:53:10
+06:53:30
+Zia Masjid
+06:54:50
+06:55:10
+Khanna Pul
+06:57:40
+06:58:00
+Fazaia
+06:59:20
+06:59:40
+Gangal
+07:01:50
+07:02:10
+Koral Town
+07:04:50
+07:05:10
+Gulberg
+07:08:00
+07:08:00
+Trip ID
+Start Time
+170373-0
+06:35:00
+
+--- PAGE 5 ---
+stop_name
+arrival_time departure_time
+PIMS
+06:35:00
+06:35:00
+Children Hospital
+06:36:30
+06:36:50
+TNT
+06:40:00
+06:40:20
+H-8
+06:46:00
+06:46:20
+Kach Naar Park I-8
+06:49:00
+06:49:20
+Sohan
+06:53:00
+06:53:20
+Dhok Kala Khan
+06:55:30
+06:55:50
+Iqbal Town
+06:56:50
+06:57:10
+Kuri Road
+06:58:10
+06:58:30
+Zia Masjid
+06:59:50
+07:00:10
+Khanna Pul
+07:02:40
+07:03:00
+Fazaia
+07:04:20
+07:04:40
+Gangal
+07:06:50
+07:07:10
+Koral Town
+07:09:50
+07:10:10
+Gulberg
+07:13:00
+07:13:00
+Trip ID
+Start Time
+170374-0
+06:40:00
+stop_name
+arrival_time departure_time
+PIMS
+06:40:00
+06:40:00
+Children Hospital
+06:41:30
+06:41:50
+TNT
+06:45:00
+06:45:20
+H-8
+06:51:00
+06:51:20
+Kach Naar Park I-8
+06:54:00
+06:54:20
+Sohan
+06:58:00
+06:58:20
+Dhok Kala Khan
+07:00:30
+07:00:50
+Iqbal Town
+07:01:50
+07:02:10
+Kuri Road
+07:03:10
+07:03:30
+Zia Masjid
+07:04:50
+07:05:10
+Khanna Pul
+07:07:40
+07:08:00
+Fazaia
+07:09:20
+07:09:40
+Gangal
+07:11:50
+07:12:10
+Koral Town
+07:14:50
+07:15:10
+Gulberg
+07:18:00
+07:18:00
+Trip ID
+Start Time
+170375-0
+06:45:00
+stop_name
+arrival_time departure_time
+PIMS
+06:45:00
+06:45:00
+Children Hospital
+06:46:30
+06:46:50
+TNT
+06:50:00
+06:50:20
+H-8
+06:56:00
+06:56:20
+Kach Naar Park I-8
+06:59:00
+06:59:20
+Sohan
+07:03:00
+07:03:20
+Dhok Kala Khan
+07:05:30
+07:05:50
+Iqbal Town
+07:06:50
+07:07:10
+Kuri Road
+07:08:10
+07:08:30
+Zia Masjid
+07:09:50
+07:10:10
+Khanna Pul
+07:12:40
+07:13:00
+
+--- PAGE 6 ---
+Fazaia
+07:14:20
+07:14:40
+Gangal
+07:16:50
+07:17:10
+Koral Town
+07:19:50
+07:20:10
+Gulberg
+07:23:00
+07:23:00
+Trip ID
+Start Time
+170376-0
+06:50:00
+stop_name
+arrival_time departure_time
+PIMS
+06:50:00
+06:50:00
+Children Hospital
+06:51:30
+06:51:50
+TNT
+06:55:00
+06:55:20
+H-8
+07:01:00
+07:01:20
+Kach Naar Park I-8
+07:04:00
+07:04:20
+Sohan
+07:08:00
+07:08:20
+Dhok Kala Khan
+07:10:30
+07:10:50
+Iqbal Town
+07:11:50
+07:12:10
+Kuri Road
+07:13:10
+07:13:30
+Zia Masjid
+07:14:50
+07:15:10
+Khanna Pul
+07:17:40
+07:18:00
+Fazaia
+07:19:20
+07:19:40
+Gangal
+07:21:50
+07:22:10
+Koral Town
+07:24:50
+07:25:10
+Gulberg
+07:28:00
+07:28:00
+Trip ID
+Start Time
+170377-0
+06:55:00
+stop_name
+arrival_time departure_time
+PIMS
+06:55:00
+06:55:00
+Children Hospital
+06:56:30
+06:56:50
+TNT
+07:00:00
+07:00:20
+H-8
+07:06:00
+07:06:20
+Kach Naar Park I-8
+07:09:00
+07:09:20
+Sohan
+07:13:00
+07:13:20
+Dhok Kala Khan
+07:15:30
+07:15:50
+Iqbal Town
+07:16:50
+07:17:10
+Kuri Road
+07:18:10
+07:18:30
+Zia Masjid
+07:19:50
+07:20:10
+Khanna Pul
+07:22:40
+07:23:00
+Fazaia
+07:24:20
+07:24:40
+Gangal
+07:26:50
+07:27:10
+Koral Town
+07:29:50
+07:30:10
+Gulberg
+07:33:00
+07:33:00
+Trip ID
+Start Time
+170378-0
+07:00:00
+stop_name
+arrival_time departure_time
+PIMS
+07:00:00
+07:00:00
+Children Hospital
+07:01:30
+07:01:50
+TNT
+07:05:00
+07:05:20
+H-8
+07:11:00
+07:11:20
+
+--- PAGE 7 ---
+Kach Naar Park I-8
+07:14:00
+07:14:20
+Sohan
+07:18:00
+07:18:20
+Dhok Kala Khan
+07:20:30
+07:20:50
+Iqbal Town
+07:21:50
+07:22:10
+Kuri Road
+07:23:10
+07:23:30
+Zia Masjid
+07:24:50
+07:25:10
+Khanna Pul
+07:27:40
+07:28:00
+Fazaia
+07:29:20
+07:29:40
+Gangal
+07:31:50
+07:32:10
+Koral Town
+07:34:50
+07:35:10
+Gulberg
+07:38:00
+07:38:00
+Trip ID
+Start Time
+170379-0
+07:05:00
+stop_name
+arrival_time departure_time
+PIMS
+07:05:00
+07:05:00
+Children Hospital
+07:06:30
+07:06:50
+TNT
+07:10:00
+07:10:20
+H-8
+07:16:00
+07:16:20
+Kach Naar Park I-8
+07:19:00
+07:19:20
+Sohan
+07:23:00
+07:23:20
+Dhok Kala Khan
+07:25:30
+07:25:50
+Iqbal Town
+07:26:50
+07:27:10
+Kuri Road
+07:28:10
+07:28:30
+Zia Masjid
+07:29:50
+07:30:10
+Khanna Pul
+07:32:40
+07:33:00
+Fazaia
+07:34:20
+07:34:40
+Gangal
+07:36:50
+07:37:10
+Koral Town
+07:39:50
+07:40:10
+Gulberg
+07:43:00
+07:43:00
+Trip ID
+Start Time
+170380-0
+07:10:00
+stop_name
+arrival_time departure_time
+PIMS
+07:10:00
+07:10:00
+Children Hospital
+07:11:30
+07:11:50
+TNT
+07:15:00
+07:15:20
+H-8
+07:21:00
+07:21:20
+Kach Naar Park I-8
+07:24:00
+07:24:20
+Sohan
+07:28:00
+07:28:20
+Dhok Kala Khan
+07:30:30
+07:30:50
+Iqbal Town
+07:31:50
+07:32:10
+Kuri Road
+07:33:10
+07:33:30
+Zia Masjid
+07:34:50
+07:35:10
+Khanna Pul
+07:37:40
+07:38:00
+Fazaia
+07:39:20
+07:39:40
+Gangal
+07:41:50
+07:42:10
+Koral Town
+07:44:50
+07:45:10
+Gulberg
+07:48:00
+07:48:00
+
+--- PAGE 8 ---
+Trip ID
+Start Time
+170381-0
+07:15:00
+stop_name
+arrival_time departure_time
+PIMS
+07:15:00
+07:15:00
+Children Hospital
+07:16:30
+07:16:50
+TNT
+07:20:00
+07:20:20
+H-8
+07:26:00
+07:26:20
+Kach Naar Park I-8
+07:29:00
+07:29:20
+Sohan
+07:33:00
+07:33:20
+Dhok Kala Khan
+07:35:30
+07:35:50
+Iqbal Town
+07:36:50
+07:37:10
+Kuri Road
+07:38:10
+07:38:30
+Zia Masjid
+07:39:50
+07:40:10
+Khanna Pul
+07:42:40
+07:43:00
+Fazaia
+07:44:20
+07:44:40
+Gangal
+07:46:50
+07:47:10
+Koral Town
+07:49:50
+07:50:10
+Gulberg
+07:53:00
+07:53:00
+Trip ID
+Start Time
+170382-0
+07:20:00
+stop_name
+arrival_time departure_time
+PIMS
+07:20:00
+07:20:00
+Children Hospital
+07:21:30
+07:21:50
+TNT
+07:25:00
+07:25:20
+H-8
+07:31:00
+07:31:20
+Kach Naar Park I-8
+07:34:00
+07:34:20
+Sohan
+07:38:00
+07:38:20
+Dhok Kala Khan
+07:40:30
+07:40:50
+Iqbal Town
+07:41:50
+07:42:10
+Kuri Road
+07:43:10
+07:43:30
+Zia Masjid
+07:44:50
+07:45:10
+Khanna Pul
+07:47:40
+07:48:00
+Fazaia
+07:49:20
+07:49:40
+Gangal
+07:51:50
+07:52:10
+Koral Town
+07:54:50
+07:55:10
+Gulberg
+07:58:00
+07:58:00
+Trip ID
+Start Time
+170383-0
+07:25:00
+stop_name
+arrival_time departure_time
+PIMS
+07:25:00
+07:25:00
+Children Hospital
+07:26:30
+07:26:50
+TNT
+07:30:00
+07:30:20
+H-8
+07:36:00
+07:36:20
+Kach Naar Park I-8
+07:39:00
+07:39:20
+Sohan
+07:43:00
+07:43:20
+Dhok Kala Khan
+07:45:30
+07:45:50
+Iqbal Town
+07:46:50
+07:47:10
+Kuri Road
+07:48:10
+07:48:30
+
+--- PAGE 9 ---
+Zia Masjid
+07:49:50
+07:50:10
+Khanna Pul
+07:52:40
+07:53:00
+Fazaia
+07:54:20
+07:54:40
+Gangal
+07:56:50
+07:57:10
+Koral Town
+07:59:50
+08:00:10
+Gulberg
+08:03:00
+08:03:00
+Trip ID
+Start Time
+170384-0
+07:30:00
+stop_name
+arrival_time departure_time
+PIMS
+07:30:00
+07:30:00
+Children Hospital
+07:31:30
+07:31:50
+TNT
+07:35:00
+07:35:20
+H-8
+07:41:00
+07:41:20
+Kach Naar Park I-8
+07:44:00
+07:44:20
+Sohan
+07:48:00
+07:48:20
+Dhok Kala Khan
+07:50:30
+07:50:50
+Iqbal Town
+07:51:50
+07:52:10
+Kuri Road
+07:53:10
+07:53:30
+Zia Masjid
+07:54:50
+07:55:10
+Khanna Pul
+07:57:40
+07:58:00
+Fazaia
+07:59:20
+07:59:40
+Gangal
+08:01:50
+08:02:10
+Koral Town
+08:04:50
+08:05:10
+Gulberg
+08:08:00
+08:08:00
+Trip ID
+Start Time
+170385-0
+07:35:00
+stop_name
+arrival_time departure_time
+PIMS
+07:35:00
+07:35:00
+Children Hospital
+07:36:30
+07:36:50
+TNT
+07:40:00
+07:40:20
+H-8
+07:46:00
+07:46:20
+Kach Naar Park I-8
+07:49:00
+07:49:20
+Sohan
+07:53:00
+07:53:20
+Dhok Kala Khan
+07:55:30
+07:55:50
+Iqbal Town
+07:56:50
+07:57:10
+Kuri Road
+07:58:10
+07:58:30
+Zia Masjid
+07:59:50
+08:00:10
+Khanna Pul
+08:02:40
+08:03:00
+Fazaia
+08:04:20
+08:04:40
+Gangal
+08:06:50
+08:07:10
+Koral Town
+08:09:50
+08:10:10
+Gulberg
+08:13:00
+08:13:00
+Trip ID
+Start Time
+170386-0
+07:40:00
+stop_name
+arrival_time departure_time
+PIMS
+07:40:00
+07:40:00
+Children Hospital
+07:41:30
+07:41:50
+
+--- PAGE 10 ---
+TNT
+07:45:00
+07:45:20
+H-8
+07:51:00
+07:51:20
+Kach Naar Park I-8
+07:54:00
+07:54:20
+Sohan
+07:58:00
+07:58:20
+Dhok Kala Khan
+08:00:30
+08:00:50
+Iqbal Town
+08:01:50
+08:02:10
+Kuri Road
+08:03:10
+08:03:30
+Zia Masjid
+08:04:50
+08:05:10
+Khanna Pul
+08:07:40
+08:08:00
+Fazaia
+08:09:20
+08:09:40
+Gangal
+08:11:50
+08:12:10
+Koral Town
+08:14:50
+08:15:10
+Gulberg
+08:18:00
+08:18:00
+Trip ID
+Start Time
+170387-0
+07:45:00
+stop_name
+arrival_time departure_time
+PIMS
+07:45:00
+07:45:00
+Children Hospital
+07:46:30
+07:46:50
+TNT
+07:50:00
+07:50:20
+H-8
+07:56:00
+07:56:20
+Kach Naar Park I-8
+07:59:00
+07:59:20
+Sohan
+08:03:00
+08:03:20
+Dhok Kala Khan
+08:05:30
+08:05:50
+Iqbal Town
+08:06:50
+08:07:10
+Kuri Road
+08:08:10
+08:08:30
+Zia Masjid
+08:09:50
+08:10:10
+Khanna Pul
+08:12:40
+08:13:00
+Fazaia
+08:14:20
+08:14:40
+Gangal
+08:16:50
+08:17:10
+Koral Town
+08:19:50
+08:20:10
+Gulberg
+08:23:00
+08:23:00
+Trip ID
+Start Time
+170388-0
+07:50:00
+stop_name
+arrival_time departure_time
+PIMS
+07:50:00
+07:50:00
+Children Hospital
+07:51:30
+07:51:50
+TNT
+07:55:00
+07:55:20
+H-8
+08:01:00
+08:01:20
+Kach Naar Park I-8
+08:04:00
+08:04:20
+Sohan
+08:08:00
+08:08:20
+Dhok Kala Khan
+08:10:30
+08:10:50
+Iqbal Town
+08:11:50
+08:12:10
+Kuri Road
+08:13:10
+08:13:30
+Zia Masjid
+08:14:50
+08:15:10
+Khanna Pul
+08:17:40
+08:18:00
+Fazaia
+08:19:20
+08:19:40
+Gangal
+08:21:50
+08:22:10
+Koral Town
+08:24:50
+08:25:10
+
+--- PAGE 11 ---
+Gulberg
+08:28:00
+08:28:00
+Trip ID
+Start Time
+170389-0
+07:55:00
+stop_name
+arrival_time departure_time
+PIMS
+07:55:00
+07:55:00
+Children Hospital
+07:56:30
+07:56:50
+TNT
+08:00:00
+08:00:20
+H-8
+08:06:00
+08:06:20
+Kach Naar Park I-8
+08:09:00
+08:09:20
+Sohan
+08:13:00
+08:13:20
+Dhok Kala Khan
+08:15:30
+08:15:50
+Iqbal Town
+08:16:50
+08:17:10
+Kuri Road
+08:18:10
+08:18:30
+Zia Masjid
+08:19:50
+08:20:10
+Khanna Pul
+08:22:40
+08:23:00
+Fazaia
+08:24:20
+08:24:40
+Gangal
+08:26:50
+08:27:10
+Koral Town
+08:29:50
+08:30:10
+Gulberg
+08:33:00
+08:33:00
+Trip ID
+Start Time
+170390-0
+08:00:00
+stop_name
+arrival_time departure_time
+PIMS
+08:00:00
+08:00:00
+Children Hospital
+08:01:30
+08:01:50
+TNT
+08:05:00
+08:05:20
+H-8
+08:11:00
+08:11:20
+Kach Naar Park I-8
+08:14:00
+08:14:20
+Sohan
+08:18:00
+08:18:20
+Dhok Kala Khan
+08:20:30
+08:20:50
+Iqbal Town
+08:21:50
+08:22:10
+Kuri Road
+08:23:10
+08:23:30
+Zia Masjid
+08:24:50
+08:25:10
+Khanna Pul
+08:27:40
+08:28:00
+Fazaia
+08:29:20
+08:29:40
+Gangal
+08:31:50
+08:32:10
+Koral Town
+08:34:50
+08:35:10
+Gulberg
+08:38:00
+08:38:00
+Trip ID
+Start Time
+170391-0
+08:05:00
+stop_name
+arrival_time departure_time
+PIMS
+08:05:00
+08:05:00
+Children Hospital
+08:06:30
+08:06:50
+TNT
+08:10:00
+08:10:20
+H-8
+08:16:00
+08:16:20
+Kach Naar Park I-8
+08:19:00
+08:19:20
+Sohan
+08:23:00
+08:23:20
+Dhok Kala Khan
+08:25:30
+08:25:50
+
+--- PAGE 12 ---
+Iqbal Town
+08:26:50
+08:27:10
+Kuri Road
+08:28:10
+08:28:30
+Zia Masjid
+08:29:50
+08:30:10
+Khanna Pul
+08:32:40
+08:33:00
+Fazaia
+08:34:20
+08:34:40
+Gangal
+08:36:50
+08:37:10
+Koral Town
+08:39:50
+08:40:10
+Gulberg
+08:43:00
+08:43:00
+Trip ID
+Start Time
+170392-0
+08:10:00
+stop_name
+arrival_time departure_time
+PIMS
+08:10:00
+08:10:00
+Children Hospital
+08:11:30
+08:11:50
+TNT
+08:15:00
+08:15:20
+H-8
+08:21:00
+08:21:20
+Kach Naar Park I-8
+08:24:00
+08:24:20
+Sohan
+08:28:00
+08:28:20
+Dhok Kala Khan
+08:30:30
+08:30:50
+Iqbal Town
+08:31:50
+08:32:10
+Kuri Road
+08:33:10
+08:33:30
+Zia Masjid
+08:34:50
+08:35:10
+Khanna Pul
+08:37:40
+08:38:00
+Fazaia
+08:39:20
+08:39:40
+Gangal
+08:41:50
+08:42:10
+Koral Town
+08:44:50
+08:45:10
+Gulberg
+08:48:00
+08:48:00
+Trip ID
+Start Time
+170393-0
+08:15:00
+stop_name
+arrival_time departure_time
+PIMS
+08:15:00
+08:15:00
+Children Hospital
+08:16:30
+08:16:50
+TNT
+08:20:00
+08:20:20
+H-8
+08:26:00
+08:26:20
+Kach Naar Park I-8
+08:29:00
+08:29:20
+Sohan
+08:33:00
+08:33:20
+Dhok Kala Khan
+08:35:30
+08:35:50
+Iqbal Town
+08:36:50
+08:37:10
+Kuri Road
+08:38:10
+08:38:30
+Zia Masjid
+08:39:50
+08:40:10
+Khanna Pul
+08:42:40
+08:43:00
+Fazaia
+08:44:20
+08:44:40
+Gangal
+08:46:50
+08:47:10
+Koral Town
+08:49:50
+08:50:10
+Gulberg
+08:53:00
+08:53:00
+Trip ID
+Start Time
+170394-0
+08:20:00
+stop_name
+arrival_time departure_time
+
+--- PAGE 13 ---
+PIMS
+08:20:00
+08:20:00
+Children Hospital
+08:21:30
+08:21:50
+TNT
+08:25:00
+08:25:20
+H-8
+08:31:00
+08:31:20
+Kach Naar Park I-8
+08:34:00
+08:34:20
+Sohan
+08:38:00
+08:38:20
+Dhok Kala Khan
+08:40:30
+08:40:50
+Iqbal Town
+08:41:50
+08:42:10
+Kuri Road
+08:43:10
+08:43:30
+Zia Masjid
+08:44:50
+08:45:10
+Khanna Pul
+08:47:40
+08:48:00
+Fazaia
+08:49:20
+08:49:40
+Gangal
+08:51:50
+08:52:10
+Koral Town
+08:54:50
+08:55:10
+Gulberg
+08:58:00
+08:58:00
+Trip ID
+Start Time
+170395-0
+08:25:00
+stop_name
+arrival_time departure_time
+PIMS
+08:25:00
+08:25:00
+Children Hospital
+08:26:30
+08:26:50
+TNT
+08:30:00
+08:30:20
+H-8
+08:36:00
+08:36:20
+Kach Naar Park I-8
+08:39:00
+08:39:20
+Sohan
+08:43:00
+08:43:20
+Dhok Kala Khan
+08:45:30
+08:45:50
+Iqbal Town
+08:46:50
+08:47:10
+Kuri Road
+08:48:10
+08:48:30
+Zia Masjid
+08:49:50
+08:50:10
+Khanna Pul
+08:52:40
+08:53:00
+Fazaia
+08:54:20
+08:54:40
+Gangal
+08:56:50
+08:57:10
+Koral Town
+08:59:50
+09:00:10
+Gulberg
+09:03:00
+09:03:00
+Trip ID
+Start Time
+170396-0
+08:30:00
+stop_name
+arrival_time departure_time
+PIMS
+08:30:00
+08:30:00
+Children Hospital
+08:31:30
+08:31:50
+TNT
+08:35:00
+08:35:20
+H-8
+08:41:00
+08:41:20
+Kach Naar Park I-8
+08:44:00
+08:44:20
+Sohan
+08:48:00
+08:48:20
+Dhok Kala Khan
+08:50:30
+08:50:50
+Iqbal Town
+08:51:50
+08:52:10
+Kuri Road
+08:53:10
+08:53:30
+Zia Masjid
+08:54:50
+08:55:10
+Khanna Pul
+08:57:40
+08:58:00
+Fazaia
+08:59:20
+08:59:40
+
+--- PAGE 14 ---
+Gangal
+09:01:50
+09:02:10
+Koral Town
+09:04:50
+09:05:10
+Gulberg
+09:08:00
+09:08:00
+Trip ID
+Start Time
+170397-0
+08:35:00
+stop_name
+arrival_time departure_time
+PIMS
+08:35:00
+08:35:00
+Children Hospital
+08:36:30
+08:36:50
+TNT
+08:40:00
+08:40:20
+H-8
+08:46:00
+08:46:20
+Kach Naar Park I-8
+08:49:00
+08:49:20
+Sohan
+08:53:00
+08:53:20
+Dhok Kala Khan
+08:55:30
+08:55:50
+Iqbal Town
+08:56:50
+08:57:10
+Kuri Road
+08:58:10
+08:58:30
+Zia Masjid
+08:59:50
+09:00:10
+Khanna Pul
+09:02:40
+09:03:00
+Fazaia
+09:04:20
+09:04:40
+Gangal
+09:06:50
+09:07:10
+Koral Town
+09:09:50
+09:10:10
+Gulberg
+09:13:00
+09:13:00
+Trip ID
+Start Time
+170398-0
+08:40:00
+stop_name
+arrival_time departure_time
+PIMS
+08:40:00
+08:40:00
+Children Hospital
+08:41:30
+08:41:50
+TNT
+08:45:00
+08:45:20
+H-8
+08:51:00
+08:51:20
+Kach Naar Park I-8
+08:54:00
+08:54:20
+Sohan
+08:58:00
+08:58:20
+Dhok Kala Khan
+09:00:30
+09:00:50
+Iqbal Town
+09:01:50
+09:02:10
+Kuri Road
+09:03:10
+09:03:30
+Zia Masjid
+09:04:50
+09:05:10
+Khanna Pul
+09:07:40
+09:08:00
+Fazaia
+09:09:20
+09:09:40
+Gangal
+09:11:50
+09:12:10
+Koral Town
+09:14:50
+09:15:10
+Gulberg
+09:18:00
+09:18:00
+Trip ID
+Start Time
+170399-0
+08:45:00
+stop_name
+arrival_time departure_time
+PIMS
+08:45:00
+08:45:00
+Children Hospital
+08:46:30
+08:46:50
+TNT
+08:50:00
+08:50:20
+H-8
+08:56:00
+08:56:20
+Kach Naar Park I-8
+08:59:00
+08:59:20
+
+--- PAGE 15 ---
+Sohan
+09:03:00
+09:03:20
+Dhok Kala Khan
+09:05:30
+09:05:50
+Iqbal Town
+09:06:50
+09:07:10
+Kuri Road
+09:08:10
+09:08:30
+Zia Masjid
+09:09:50
+09:10:10
+Khanna Pul
+09:12:40
+09:13:00
+Fazaia
+09:14:20
+09:14:40
+Gangal
+09:16:50
+09:17:10
+Koral Town
+09:19:50
+09:20:10
+Gulberg
+09:23:00
+09:23:00
+Trip ID
+Start Time
+170400-0
+08:50:00
+stop_name
+arrival_time departure_time
+PIMS
+08:50:00
+08:50:00
+Children Hospital
+08:51:30
+08:51:50
+TNT
+08:55:00
+08:55:20
+H-8
+09:01:00
+09:01:20
+Kach Naar Park I-8
+09:04:00
+09:04:20
+Sohan
+09:08:00
+09:08:20
+Dhok Kala Khan
+09:10:30
+09:10:50
+Iqbal Town
+09:11:50
+09:12:10
+Kuri Road
+09:13:10
+09:13:30
+Zia Masjid
+09:14:50
+09:15:10
+Khanna Pul
+09:17:40
+09:18:00
+Fazaia
+09:19:20
+09:19:40
+Gangal
+09:21:50
+09:22:10
+Koral Town
+09:24:50
+09:25:10
+Gulberg
+09:28:00
+09:28:00
+Trip ID
+Start Time
+170401-0
+08:55:00
+stop_name
+arrival_time departure_time
+PIMS
+08:55:00
+08:55:00
+Children Hospital
+08:56:30
+08:56:50
+TNT
+09:00:00
+09:00:20
+H-8
+09:06:00
+09:06:20
+Kach Naar Park I-8
+09:09:00
+09:09:20
+Sohan
+09:13:00
+09:13:20
+Dhok Kala Khan
+09:15:30
+09:15:50
+Iqbal Town
+09:16:50
+09:17:10
+Kuri Road
+09:18:10
+09:18:30
+Zia Masjid
+09:19:50
+09:20:10
+Khanna Pul
+09:22:40
+09:23:00
+Fazaia
+09:24:20
+09:24:40
+Gangal
+09:26:50
+09:27:10
+Koral Town
+09:29:50
+09:30:10
+Gulberg
+09:33:00
+09:33:00
+Trip ID
+Start Time
+
+--- PAGE 16 ---
+170402-0
+09:00:00
+stop_name
+arrival_time departure_time
+PIMS
+09:00:00
+09:00:00
+Children Hospital
+09:01:30
+09:01:50
+TNT
+09:05:00
+09:05:20
+H-8
+09:11:00
+09:11:20
+Kach Naar Park I-8
+09:14:00
+09:14:20
+Sohan
+09:18:00
+09:18:20
+Dhok Kala Khan
+09:20:30
+09:20:50
+Iqbal Town
+09:21:50
+09:22:10
+Kuri Road
+09:23:10
+09:23:30
+Zia Masjid
+09:24:50
+09:25:10
+Khanna Pul
+09:27:40
+09:28:00
+Fazaia
+09:29:20
+09:29:40
+Gangal
+09:31:50
+09:32:10
+Koral Town
+09:34:50
+09:35:10
+Gulberg
+09:38:00
+09:38:00
+Trip ID
+Start Time
+170403-0
+09:05:00
+stop_name
+arrival_time departure_time
+PIMS
+09:05:00
+09:05:00
+Children Hospital
+09:06:30
+09:06:50
+TNT
+09:10:00
+09:10:20
+H-8
+09:16:00
+09:16:20
+Kach Naar Park I-8
+09:19:00
+09:19:20
+Sohan
+09:23:00
+09:23:20
+Dhok Kala Khan
+09:25:30
+09:25:50
+Iqbal Town
+09:26:50
+09:27:10
+Kuri Road
+09:28:10
+09:28:30
+Zia Masjid
+09:29:50
+09:30:10
+Khanna Pul
+09:32:40
+09:33:00
+Fazaia
+09:34:20
+09:34:40
+Gangal
+09:36:50
+09:37:10
+Koral Town
+09:39:50
+09:40:10
+Gulberg
+09:43:00
+09:43:00
+Trip ID
+Start Time
+170404-0
+09:10:00
+stop_name
+arrival_time departure_time
+PIMS
+09:10:00
+09:10:00
+Children Hospital
+09:11:30
+09:11:50
+TNT
+09:15:00
+09:15:20
+H-8
+09:21:00
+09:21:20
+Kach Naar Park I-8
+09:24:00
+09:24:20
+Sohan
+09:28:00
+09:28:20
+Dhok Kala Khan
+09:30:30
+09:30:50
+Iqbal Town
+09:31:50
+09:32:10
+Kuri Road
+09:33:10
+09:33:30
+Zia Masjid
+09:34:50
+09:35:10
+
+--- PAGE 17 ---
+Khanna Pul
+09:37:40
+09:38:00
+Fazaia
+09:39:20
+09:39:40
+Gangal
+09:41:50
+09:42:10
+Koral Town
+09:44:50
+09:45:10
+Gulberg
+09:48:00
+09:48:00
+Trip ID
+Start Time
+170405-0
+09:15:00
+stop_name
+arrival_time departure_time
+PIMS
+09:15:00
+09:15:00
+Children Hospital
+09:16:30
+09:16:50
+TNT
+09:20:00
+09:20:20
+H-8
+09:26:00
+09:26:20
+Kach Naar Park I-8
+09:29:00
+09:29:20
+Sohan
+09:33:00
+09:33:20
+Dhok Kala Khan
+09:35:30
+09:35:50
+Iqbal Town
+09:36:50
+09:37:10
+Kuri Road
+09:38:10
+09:38:30
+Zia Masjid
+09:39:50
+09:40:10
+Khanna Pul
+09:42:40
+09:43:00
+Fazaia
+09:44:20
+09:44:40
+Gangal
+09:46:50
+09:47:10
+Koral Town
+09:49:50
+09:50:10
+Gulberg
+09:53:00
+09:53:00
+Trip ID
+Start Time
+170406-0
+09:20:00
+stop_name
+arrival_time departure_time
+PIMS
+09:20:00
+09:20:00
+Children Hospital
+09:21:30
+09:21:50
+TNT
+09:25:00
+09:25:20
+H-8
+09:31:00
+09:31:20
+Kach Naar Park I-8
+09:34:00
+09:34:20
+Sohan
+09:38:00
+09:38:20
+Dhok Kala Khan
+09:40:30
+09:40:50
+Iqbal Town
+09:41:50
+09:42:10
+Kuri Road
+09:43:10
+09:43:30
+Zia Masjid
+09:44:50
+09:45:10
+Khanna Pul
+09:47:40
+09:48:00
+Fazaia
+09:49:20
+09:49:40
+Gangal
+09:51:50
+09:52:10
+Koral Town
+09:54:50
+09:55:10
+Gulberg
+09:58:00
+09:58:00
+Trip ID
+Start Time
+170407-0
+09:25:00
+stop_name
+arrival_time departure_time
+PIMS
+09:25:00
+09:25:00
+Children Hospital
+09:26:30
+09:26:50
+TNT
+09:30:00
+09:30:20
+
+--- PAGE 18 ---
+H-8
+09:36:00
+09:36:20
+Kach Naar Park I-8
+09:39:00
+09:39:20
+Sohan
+09:43:00
+09:43:20
+Dhok Kala Khan
+09:45:30
+09:45:50
+Iqbal Town
+09:46:50
+09:47:10
+Kuri Road
+09:48:10
+09:48:30
+Zia Masjid
+09:49:50
+09:50:10
+Khanna Pul
+09:52:40
+09:53:00
+Fazaia
+09:54:20
+09:54:40
+Gangal
+09:56:50
+09:57:10
+Koral Town
+09:59:50
+10:00:10
+Gulberg
+10:03:00
+10:03:00
+Trip ID
+Start Time
+170408-0
+09:30:00
+stop_name
+arrival_time departure_time
+PIMS
+09:30:00
+09:30:00
+Children Hospital
+09:31:30
+09:31:50
+TNT
+09:35:00
+09:35:20
+H-8
+09:41:00
+09:41:20
+Kach Naar Park I-8
+09:44:00
+09:44:20
+Sohan
+09:48:00
+09:48:20
+Dhok Kala Khan
+09:50:30
+09:50:50
+Iqbal Town
+09:51:50
+09:52:10
+Kuri Road
+09:53:10
+09:53:30
+Zia Masjid
+09:54:50
+09:55:10
+Khanna Pul
+09:57:40
+09:58:00
+Fazaia
+09:59:20
+09:59:40
+Gangal
+10:01:50
+10:02:10
+Koral Town
+10:04:50
+10:05:10
+Gulberg
+10:08:00
+10:08:00
+Trip ID
+Start Time
+170409-0
+09:35:00
+stop_name
+arrival_time departure_time
+PIMS
+09:35:00
+09:35:00
+Children Hospital
+09:36:30
+09:36:50
+TNT
+09:40:00
+09:40:20
+H-8
+09:46:00
+09:46:20
+Kach Naar Park I-8
+09:49:00
+09:49:20
+Sohan
+09:53:00
+09:53:20
+Dhok Kala Khan
+09:55:30
+09:55:50
+Iqbal Town
+09:56:50
+09:57:10
+Kuri Road
+09:58:10
+09:58:30
+Zia Masjid
+09:59:50
+10:00:10
+Khanna Pul
+10:02:40
+10:03:00
+Fazaia
+10:04:20
+10:04:40
+Gangal
+10:06:50
+10:07:10
+Koral Town
+10:09:50
+10:10:10
+Gulberg
+10:13:00
+10:13:00
+
+--- PAGE 19 ---
+Trip ID
+Start Time
+170410-0
+09:40:00
+stop_name
+arrival_time departure_time
+PIMS
+09:40:00
+09:40:00
+Children Hospital
+09:41:30
+09:41:50
+TNT
+09:45:00
+09:45:20
+H-8
+09:51:00
+09:51:20
+Kach Naar Park I-8
+09:54:00
+09:54:20
+Sohan
+09:58:00
+09:58:20
+Dhok Kala Khan
+10:00:30
+10:00:50
+Iqbal Town
+10:01:50
+10:02:10
+Kuri Road
+10:03:10
+10:03:30
+Zia Masjid
+10:04:50
+10:05:10
+Khanna Pul
+10:07:40
+10:08:00
+Fazaia
+10:09:20
+10:09:40
+Gangal
+10:11:50
+10:12:10
+Koral Town
+10:14:50
+10:15:10
+Gulberg
+10:18:00
+10:18:00
+Trip ID
+Start Time
+170411-0
+09:45:00
+stop_name
+arrival_time departure_time
+PIMS
+09:45:00
+09:45:00
+Children Hospital
+09:46:30
+09:46:50
+TNT
+09:50:00
+09:50:20
+H-8
+09:56:00
+09:56:20
+Kach Naar Park I-8
+09:59:00
+09:59:20
+Sohan
+10:03:00
+10:03:20
+Dhok Kala Khan
+10:05:30
+10:05:50
+Iqbal Town
+10:06:50
+10:07:10
+Kuri Road
+10:08:10
+10:08:30
+Zia Masjid
+10:09:50
+10:10:10
+Khanna Pul
+10:12:40
+10:13:00
+Fazaia
+10:14:20
+10:14:40
+Gangal
+10:16:50
+10:17:10
+Koral Town
+10:19:50
+10:20:10
+Gulberg
+10:23:00
+10:23:00
+Trip ID
+Start Time
+170412-0
+09:50:00
+stop_name
+arrival_time departure_time
+PIMS
+09:50:00
+09:50:00
+Children Hospital
+09:51:30
+09:51:50
+TNT
+09:55:00
+09:55:20
+H-8
+10:01:00
+10:01:20
+Kach Naar Park I-8
+10:04:00
+10:04:20
+Sohan
+10:08:00
+10:08:20
+Dhok Kala Khan
+10:10:30
+10:10:50
+Iqbal Town
+10:11:50
+10:12:10
+
+--- PAGE 20 ---
+Kuri Road
+10:13:10
+10:13:30
+Zia Masjid
+10:14:50
+10:15:10
+Khanna Pul
+10:17:40
+10:18:00
+Fazaia
+10:19:20
+10:19:40
+Gangal
+10:21:50
+10:22:10
+Koral Town
+10:24:50
+10:25:10
+Gulberg
+10:28:00
+10:28:00
+Trip ID
+Start Time
+170413-0
+09:55:00
+stop_name
+arrival_time departure_time
+PIMS
+09:55:00
+09:55:00
+Children Hospital
+09:56:30
+09:56:50
+TNT
+10:00:00
+10:00:20
+H-8
+10:06:00
+10:06:20
+Kach Naar Park I-8
+10:09:00
+10:09:20
+Sohan
+10:13:00
+10:13:20
+Dhok Kala Khan
+10:15:30
+10:15:50
+Iqbal Town
+10:16:50
+10:17:10
+Kuri Road
+10:18:10
+10:18:30
+Zia Masjid
+10:19:50
+10:20:10
+Khanna Pul
+10:22:40
+10:23:00
+Fazaia
+10:24:20
+10:24:40
+Gangal
+10:26:50
+10:27:10
+Koral Town
+10:29:50
+10:30:10
+Gulberg
+10:33:00
+10:33:00
+Trip ID
+Start Time
+170414-0
+10:00:00
+stop_name
+arrival_time departure_time
+PIMS
+10:00:00
+10:00:00
+Children Hospital
+10:01:30
+10:01:50
+TNT
+10:05:00
+10:05:20
+H-8
+10:11:00
+10:11:20
+Kach Naar Park I-8
+10:14:00
+10:14:20
+Sohan
+10:18:00
+10:18:20
+Dhok Kala Khan
+10:20:30
+10:20:50
+Iqbal Town
+10:21:50
+10:22:10
+Kuri Road
+10:23:10
+10:23:30
+Zia Masjid
+10:24:50
+10:25:10
+Khanna Pul
+10:27:40
+10:28:00
+Fazaia
+10:29:20
+10:29:40
+Gangal
+10:31:50
+10:32:10
+Koral Town
+10:34:50
+10:35:10
+Gulberg
+10:38:00
+10:38:00
+Trip ID
+Start Time
+170415-0
+10:05:00
+stop_name
+arrival_time departure_time
+PIMS
+10:05:00
+10:05:00
+
+--- PAGE 21 ---
+Children Hospital
+10:06:30
+10:06:50
+TNT
+10:10:00
+10:10:20
+H-8
+10:16:00
+10:16:20
+Kach Naar Park I-8
+10:19:00
+10:19:20
+Sohan
+10:23:00
+10:23:20
+Dhok Kala Khan
+10:25:30
+10:25:50
+Iqbal Town
+10:26:50
+10:27:10
+Kuri Road
+10:28:10
+10:28:30
+Zia Masjid
+10:29:50
+10:30:10
+Khanna Pul
+10:32:40
+10:33:00
+Fazaia
+10:34:20
+10:34:40
+Gangal
+10:36:50
+10:37:10
+Koral Town
+10:39:50
+10:40:10
+Gulberg
+10:43:00
+10:43:00
+Trip ID
+Start Time
+170416-0
+10:10:00
+stop_name
+arrival_time departure_time
+PIMS
+10:10:00
+10:10:00
+Children Hospital
+10:11:30
+10:11:50
+TNT
+10:15:00
+10:15:20
+H-8
+10:21:00
+10:21:20
+Kach Naar Park I-8
+10:24:00
+10:24:20
+Sohan
+10:28:00
+10:28:20
+Dhok Kala Khan
+10:30:30
+10:30:50
+Iqbal Town
+10:31:50
+10:32:10
+Kuri Road
+10:33:10
+10:33:30
+Zia Masjid
+10:34:50
+10:35:10
+Khanna Pul
+10:37:40
+10:38:00
+Fazaia
+10:39:20
+10:39:40
+Gangal
+10:41:50
+10:42:10
+Koral Town
+10:44:50
+10:45:10
+Gulberg
+10:48:00
+10:48:00
+Trip ID
+Start Time
+170417-0
+10:15:00
+stop_name
+arrival_time departure_time
+PIMS
+10:15:00
+10:15:00
+Children Hospital
+10:16:30
+10:16:50
+TNT
+10:20:00
+10:20:20
+H-8
+10:26:00
+10:26:20
+Kach Naar Park I-8
+10:29:00
+10:29:20
+Sohan
+10:33:00
+10:33:20
+Dhok Kala Khan
+10:35:30
+10:35:50
+Iqbal Town
+10:36:50
+10:37:10
+Kuri Road
+10:38:10
+10:38:30
+Zia Masjid
+10:39:50
+10:40:10
+Khanna Pul
+10:42:40
+10:43:00
+Fazaia
+10:44:20
+10:44:40
+Gangal
+10:46:50
+10:47:10
+
+--- PAGE 22 ---
+Koral Town
+10:49:50
+10:50:10
+Gulberg
+10:53:00
+10:53:00
+Trip ID
+Start Time
+170418-0
+10:20:00
+stop_name
+arrival_time departure_time
+PIMS
+10:20:00
+10:20:00
+Children Hospital
+10:21:30
+10:21:50
+TNT
+10:25:00
+10:25:20
+H-8
+10:31:00
+10:31:20
+Kach Naar Park I-8
+10:34:00
+10:34:20
+Sohan
+10:38:00
+10:38:20
+Dhok Kala Khan
+10:40:30
+10:40:50
+Iqbal Town
+10:41:50
+10:42:10
+Kuri Road
+10:43:10
+10:43:30
+Zia Masjid
+10:44:50
+10:45:10
+Khanna Pul
+10:47:40
+10:48:00
+Fazaia
+10:49:20
+10:49:40
+Gangal
+10:51:50
+10:52:10
+Koral Town
+10:54:50
+10:55:10
+Gulberg
+10:58:00
+10:58:00
+Trip ID
+Start Time
+170419-0
+10:25:00
+stop_name
+arrival_time departure_time
+PIMS
+10:25:00
+10:25:00
+Children Hospital
+10:26:30
+10:26:50
+TNT
+10:30:00
+10:30:20
+H-8
+10:36:00
+10:36:20
+Kach Naar Park I-8
+10:39:00
+10:39:20
+Sohan
+10:43:00
+10:43:20
+Dhok Kala Khan
+10:45:30
+10:45:50
+Iqbal Town
+10:46:50
+10:47:10
+Kuri Road
+10:48:10
+10:48:30
+Zia Masjid
+10:49:50
+10:50:10
+Khanna Pul
+10:52:40
+10:53:00
+Fazaia
+10:54:20
+10:54:40
+Gangal
+10:56:50
+10:57:10
+Koral Town
+10:59:50
+11:00:10
+Gulberg
+11:03:00
+11:03:00
+Trip ID
+Start Time
+170420-0
+10:30:00
+stop_name
+arrival_time departure_time
+PIMS
+10:30:00
+10:30:00
+Children Hospital
+10:31:30
+10:31:50
+TNT
+10:35:00
+10:35:20
+H-8
+10:41:00
+10:41:20
+Kach Naar Park I-8
+10:44:00
+10:44:20
+Sohan
+10:48:00
+10:48:20
+
+--- PAGE 23 ---
+Dhok Kala Khan
+10:50:30
+10:50:50
+Iqbal Town
+10:51:50
+10:52:10
+Kuri Road
+10:53:10
+10:53:30
+Zia Masjid
+10:54:50
+10:55:10
+Khanna Pul
+10:57:40
+10:58:00
+Fazaia
+10:59:20
+10:59:40
+Gangal
+11:01:50
+11:02:10
+Koral Town
+11:04:50
+11:05:10
+Gulberg
+11:08:00
+11:08:00
+Trip ID
+Start Time
+170421-0
+10:35:00
+stop_name
+arrival_time departure_time
+PIMS
+10:35:00
+10:35:00
+Children Hospital
+10:36:30
+10:36:50
+TNT
+10:40:00
+10:40:20
+H-8
+10:46:00
+10:46:20
+Kach Naar Park I-8
+10:49:00
+10:49:20
+Sohan
+10:53:00
+10:53:20
+Dhok Kala Khan
+10:55:30
+10:55:50
+Iqbal Town
+10:56:50
+10:57:10
+Kuri Road
+10:58:10
+10:58:30
+Zia Masjid
+10:59:50
+11:00:10
+Khanna Pul
+11:02:40
+11:03:00
+Fazaia
+11:04:20
+11:04:40
+Gangal
+11:06:50
+11:07:10
+Koral Town
+11:09:50
+11:10:10
+Gulberg
+11:13:00
+11:13:00
+Trip ID
+Start Time
+170422-0
+10:40:00
+stop_name
+arrival_time departure_time
+PIMS
+10:40:00
+10:40:00
+Children Hospital
+10:41:30
+10:41:50
+TNT
+10:45:00
+10:45:20
+H-8
+10:51:00
+10:51:20
+Kach Naar Park I-8
+10:54:00
+10:54:20
+Sohan
+10:58:00
+10:58:20
+Dhok Kala Khan
+11:00:30
+11:00:50
+Iqbal Town
+11:01:50
+11:02:10
+Kuri Road
+11:03:10
+11:03:30
+Zia Masjid
+11:04:50
+11:05:10
+Khanna Pul
+11:07:40
+11:08:00
+Fazaia
+11:09:20
+11:09:40
+Gangal
+11:11:50
+11:12:10
+Koral Town
+11:14:50
+11:15:10
+Gulberg
+11:18:00
+11:18:00
+Trip ID
+Start Time
+170423-0
+10:45:00
+
+--- PAGE 24 ---
+stop_name
+arrival_time departure_time
+PIMS
+10:45:00
+10:45:00
+Children Hospital
+10:46:30
+10:46:50
+TNT
+10:50:00
+10:50:20
+H-8
+10:56:00
+10:56:20
+Kach Naar Park I-8
+10:59:00
+10:59:20
+Sohan
+11:03:00
+11:03:20
+Dhok Kala Khan
+11:05:30
+11:05:50
+Iqbal Town
+11:06:50
+11:07:10
+Kuri Road
+11:08:10
+11:08:30
+Zia Masjid
+11:09:50
+11:10:10
+Khanna Pul
+11:12:40
+11:13:00
+Fazaia
+11:14:20
+11:14:40
+Gangal
+11:16:50
+11:17:10
+Koral Town
+11:19:50
+11:20:10
+Gulberg
+11:23:00
+11:23:00
+Trip ID
+Start Time
+170424-0
+10:50:00
+stop_name
+arrival_time departure_time
+PIMS
+10:50:00
+10:50:00
+Children Hospital
+10:51:30
+10:51:50
+TNT
+10:55:00
+10:55:20
+H-8
+11:01:00
+11:01:20
+Kach Naar Park I-8
+11:04:00
+11:04:20
+Sohan
+11:08:00
+11:08:20
+Dhok Kala Khan
+11:10:30
+11:10:50
+Iqbal Town
+11:11:50
+11:12:10
+Kuri Road
+11:13:10
+11:13:30
+Zia Masjid
+11:14:50
+11:15:10
+Khanna Pul
+11:17:40
+11:18:00
+Fazaia
+11:19:20
+11:19:40
+Gangal
+11:21:50
+11:22:10
+Koral Town
+11:24:50
+11:25:10
+Gulberg
+11:28:00
+11:28:00
+Trip ID
+Start Time
+170425-0
+10:55:00
+stop_name
+arrival_time departure_time
+PIMS
+10:55:00
+10:55:00
+Children Hospital
+10:56:30
+10:56:50
+TNT
+11:00:00
+11:00:20
+H-8
+11:06:00
+11:06:20
+Kach Naar Park I-8
+11:09:00
+11:09:20
+Sohan
+11:13:00
+11:13:20
+Dhok Kala Khan
+11:15:30
+11:15:50
+Iqbal Town
+11:16:50
+11:17:10
+Kuri Road
+11:18:10
+11:18:30
+Zia Masjid
+11:19:50
+11:20:10
+Khanna Pul
+11:22:40
+11:23:00
+
+--- PAGE 25 ---
+Fazaia
+11:24:20
+11:24:40
+Gangal
+11:26:50
+11:27:10
+Koral Town
+11:29:50
+11:30:10
+Gulberg
+11:33:00
+11:33:00
+Trip ID
+Start Time
+170426-0
+11:00:00
+stop_name
+arrival_time departure_time
+PIMS
+11:00:00
+11:00:00
+Children Hospital
+11:01:30
+11:01:50
+TNT
+11:05:00
+11:05:20
+H-8
+11:11:00
+11:11:20
+Kach Naar Park I-8
+11:14:00
+11:14:20
+Sohan
+11:18:00
+11:18:20
+Dhok Kala Khan
+11:20:30
+11:20:50
+Iqbal Town
+11:21:50
+11:22:10
+Kuri Road
+11:23:10
+11:23:30
+Zia Masjid
+11:24:50
+11:25:10
+Khanna Pul
+11:27:40
+11:28:00
+Fazaia
+11:29:20
+11:29:40
+Gangal
+11:31:50
+11:32:10
+Koral Town
+11:34:50
+11:35:10
+Gulberg
+11:38:00
+11:38:00
+Trip ID
+Start Time
+170427-0
+11:05:00
+stop_name
+arrival_time departure_time
+PIMS
+11:05:00
+11:05:00
+Children Hospital
+11:06:30
+11:06:50
+TNT
+11:10:00
+11:10:20
+H-8
+11:16:00
+11:16:20
+Kach Naar Park I-8
+11:19:00
+11:19:20
+Sohan
+11:23:00
+11:23:20
+Dhok Kala Khan
+11:25:30
+11:25:50
+Iqbal Town
+11:26:50
+11:27:10
+Kuri Road
+11:28:10
+11:28:30
+Zia Masjid
+11:29:50
+11:30:10
+Khanna Pul
+11:32:40
+11:33:00
+Fazaia
+11:34:20
+11:34:40
+Gangal
+11:36:50
+11:37:10
+Koral Town
+11:39:50
+11:40:10
+Gulberg
+11:43:00
+11:43:00
+Trip ID
+Start Time
+170428-0
+11:10:00
+stop_name
+arrival_time departure_time
+PIMS
+11:10:00
+11:10:00
+Children Hospital
+11:11:30
+11:11:50
+TNT
+11:15:00
+11:15:20
+H-8
+11:21:00
+11:21:20
+
+--- PAGE 26 ---
+Kach Naar Park I-8
+11:24:00
+11:24:20
+Sohan
+11:28:00
+11:28:20
+Dhok Kala Khan
+11:30:30
+11:30:50
+Iqbal Town
+11:31:50
+11:32:10
+Kuri Road
+11:33:10
+11:33:30
+Zia Masjid
+11:34:50
+11:35:10
+Khanna Pul
+11:37:40
+11:38:00
+Fazaia
+11:39:20
+11:39:40
+Gangal
+11:41:50
+11:42:10
+Koral Town
+11:44:50
+11:45:10
+Gulberg
+11:48:00
+11:48:00
+Trip ID
+Start Time
+170429-0
+11:15:00
+stop_name
+arrival_time departure_time
+PIMS
+11:15:00
+11:15:00
+Children Hospital
+11:16:30
+11:16:50
+TNT
+11:20:00
+11:20:20
+H-8
+11:26:00
+11:26:20
+Kach Naar Park I-8
+11:29:00
+11:29:20
+Sohan
+11:33:00
+11:33:20
+Dhok Kala Khan
+11:35:30
+11:35:50
+Iqbal Town
+11:36:50
+11:37:10
+Kuri Road
+11:38:10
+11:38:30
+Zia Masjid
+11:39:50
+11:40:10
+Khanna Pul
+11:42:40
+11:43:00
+Fazaia
+11:44:20
+11:44:40
+Gangal
+11:46:50
+11:47:10
+Koral Town
+11:49:50
+11:50:10
+Gulberg
+11:53:00
+11:53:00
+Trip ID
+Start Time
+170430-0
+11:20:00
+stop_name
+arrival_time departure_time
+PIMS
+11:20:00
+11:20:00
+Children Hospital
+11:21:30
+11:21:50
+TNT
+11:25:00
+11:25:20
+H-8
+11:31:00
+11:31:20
+Kach Naar Park I-8
+11:34:00
+11:34:20
+Sohan
+11:38:00
+11:38:20
+Dhok Kala Khan
+11:40:30
+11:40:50
+Iqbal Town
+11:41:50
+11:42:10
+Kuri Road
+11:43:10
+11:43:30
+Zia Masjid
+11:44:50
+11:45:10
+Khanna Pul
+11:47:40
+11:48:00
+Fazaia
+11:49:20
+11:49:40
+Gangal
+11:51:50
+11:52:10
+Koral Town
+11:54:50
+11:55:10
+Gulberg
+11:58:00
+11:58:00
+
+--- PAGE 27 ---
+Trip ID
+Start Time
+170431-0
+11:25:00
+stop_name
+arrival_time departure_time
+PIMS
+11:25:00
+11:25:00
+Children Hospital
+11:26:30
+11:26:50
+TNT
+11:30:00
+11:30:20
+H-8
+11:36:00
+11:36:20
+Kach Naar Park I-8
+11:39:00
+11:39:20
+Sohan
+11:43:00
+11:43:20
+Dhok Kala Khan
+11:45:30
+11:45:50
+Iqbal Town
+11:46:50
+11:47:10
+Kuri Road
+11:48:10
+11:48:30
+Zia Masjid
+11:49:50
+11:50:10
+Khanna Pul
+11:52:40
+11:53:00
+Fazaia
+11:54:20
+11:54:40
+Gangal
+11:56:50
+11:57:10
+Koral Town
+11:59:50
+12:00:10
+Gulberg
+12:03:00
+12:03:00
+Trip ID
+Start Time
+170432-0
+11:30:00
+stop_name
+arrival_time departure_time
+PIMS
+11:30:00
+11:30:00
+Children Hospital
+11:31:30
+11:31:50
+TNT
+11:35:00
+11:35:20
+H-8
+11:41:00
+11:41:20
+Kach Naar Park I-8
+11:44:00
+11:44:20
+Sohan
+11:48:00
+11:48:20
+Dhok Kala Khan
+11:50:30
+11:50:50
+Iqbal Town
+11:51:50
+11:52:10
+Kuri Road
+11:53:10
+11:53:30
+Zia Masjid
+11:54:50
+11:55:10
+Khanna Pul
+11:57:40
+11:58:00
+Fazaia
+11:59:20
+11:59:40
+Gangal
+12:01:50
+12:02:10
+Koral Town
+12:04:50
+12:05:10
+Gulberg
+12:08:00
+12:08:00
+Trip ID
+Start Time
+170433-0
+11:35:00
+stop_name
+arrival_time departure_time
+PIMS
+11:35:00
+11:35:00
+Children Hospital
+11:36:30
+11:36:50
+TNT
+11:40:00
+11:40:20
+H-8
+11:46:00
+11:46:20
+Kach Naar Park I-8
+11:49:00
+11:49:20
+Sohan
+11:53:00
+11:53:20
+Dhok Kala Khan
+11:55:30
+11:55:50
+Iqbal Town
+11:56:50
+11:57:10
+Kuri Road
+11:58:10
+11:58:30
+
+--- PAGE 28 ---
+Zia Masjid
+11:59:50
+12:00:10
+Khanna Pul
+12:02:40
+12:03:00
+Fazaia
+12:04:20
+12:04:40
+Gangal
+12:06:50
+12:07:10
+Koral Town
+12:09:50
+12:10:10
+Gulberg
+12:13:00
+12:13:00
+Trip ID
+Start Time
+170434-0
+11:40:00
+stop_name
+arrival_time departure_time
+PIMS
+11:40:00
+11:40:00
+Children Hospital
+11:41:30
+11:41:50
+TNT
+11:45:00
+11:45:20
+H-8
+11:51:00
+11:51:20
+Kach Naar Park I-8
+11:54:00
+11:54:20
+Sohan
+11:58:00
+11:58:20
+Dhok Kala Khan
+12:00:30
+12:00:50
+Iqbal Town
+12:01:50
+12:02:10
+Kuri Road
+12:03:10
+12:03:30
+Zia Masjid
+12:04:50
+12:05:10
+Khanna Pul
+12:07:40
+12:08:00
+Fazaia
+12:09:20
+12:09:40
+Gangal
+12:11:50
+12:12:10
+Koral Town
+12:14:50
+12:15:10
+Gulberg
+12:18:00
+12:18:00
+Trip ID
+Start Time
+170435-0
+11:45:00
+stop_name
+arrival_time departure_time
+PIMS
+11:45:00
+11:45:00
+Children Hospital
+11:46:30
+11:46:50
+TNT
+11:50:00
+11:50:20
+H-8
+11:56:00
+11:56:20
+Kach Naar Park I-8
+11:59:00
+11:59:20
+Sohan
+12:03:00
+12:03:20
+Dhok Kala Khan
+12:05:30
+12:05:50
+Iqbal Town
+12:06:50
+12:07:10
+Kuri Road
+12:08:10
+12:08:30
+Zia Masjid
+12:09:50
+12:10:10
+Khanna Pul
+12:12:40
+12:13:00
+Fazaia
+12:14:20
+12:14:40
+Gangal
+12:16:50
+12:17:10
+Koral Town
+12:19:50
+12:20:10
+Gulberg
+12:23:00
+12:23:00
+Trip ID
+Start Time
+170436-0
+11:50:00
+stop_name
+arrival_time departure_time
+PIMS
+11:50:00
+11:50:00
+Children Hospital
+11:51:30
+11:51:50
+
+--- PAGE 29 ---
+TNT
+11:55:00
+11:55:20
+H-8
+12:01:00
+12:01:20
+Kach Naar Park I-8
+12:04:00
+12:04:20
+Sohan
+12:08:00
+12:08:20
+Dhok Kala Khan
+12:10:30
+12:10:50
+Iqbal Town
+12:11:50
+12:12:10
+Kuri Road
+12:13:10
+12:13:30
+Zia Masjid
+12:14:50
+12:15:10
+Khanna Pul
+12:17:40
+12:18:00
+Fazaia
+12:19:20
+12:19:40
+Gangal
+12:21:50
+12:22:10
+Koral Town
+12:24:50
+12:25:10
+Gulberg
+12:28:00
+12:28:00
+Trip ID
+Start Time
+170437-0
+11:55:00
+stop_name
+arrival_time departure_time
+PIMS
+11:55:00
+11:55:00
+Children Hospital
+11:56:30
+11:56:50
+TNT
+12:00:00
+12:00:20
+H-8
+12:06:00
+12:06:20
+Kach Naar Park I-8
+12:09:00
+12:09:20
+Sohan
+12:13:00
+12:13:20
+Dhok Kala Khan
+12:15:30
+12:15:50
+Iqbal Town
+12:16:50
+12:17:10
+Kuri Road
+12:18:10
+12:18:30
+Zia Masjid
+12:19:50
+12:20:10
+Khanna Pul
+12:22:40
+12:23:00
+Fazaia
+12:24:20
+12:24:40
+Gangal
+12:26:50
+12:27:10
+Koral Town
+12:29:50
+12:30:10
+Gulberg
+12:33:00
+12:33:00
+Trip ID
+Start Time
+170438-0
+12:00:00
+stop_name
+arrival_time departure_time
+PIMS
+12:00:00
+12:00:00
+Children Hospital
+12:01:30
+12:01:50
+TNT
+12:05:00
+12:05:20
+H-8
+12:11:00
+12:11:20
+Kach Naar Park I-8
+12:14:00
+12:14:20
+Sohan
+12:18:00
+12:18:20
+Dhok Kala Khan
+12:20:30
+12:20:50
+Iqbal Town
+12:21:50
+12:22:10
+Kuri Road
+12:23:10
+12:23:30
+Zia Masjid
+12:24:50
+12:25:10
+Khanna Pul
+12:27:40
+12:28:00
+Fazaia
+12:29:20
+12:29:40
+Gangal
+12:31:50
+12:32:10
+Koral Town
+12:34:50
+12:35:10
+
+--- PAGE 30 ---
+Gulberg
+12:38:00
+12:38:00
+Trip ID
+Start Time
+170439-0
+12:05:00
+stop_name
+arrival_time departure_time
+PIMS
+12:05:00
+12:05:00
+Children Hospital
+12:06:30
+12:06:50
+TNT
+12:10:00
+12:10:20
+H-8
+12:16:00
+12:16:20
+Kach Naar Park I-8
+12:19:00
+12:19:20
+Sohan
+12:23:00
+12:23:20
+Dhok Kala Khan
+12:25:30
+12:25:50
+Iqbal Town
+12:26:50
+12:27:10
+Kuri Road
+12:28:10
+12:28:30
+Zia Masjid
+12:29:50
+12:30:10
+Khanna Pul
+12:32:40
+12:33:00
+Fazaia
+12:34:20
+12:34:40
+Gangal
+12:36:50
+12:37:10
+Koral Town
+12:39:50
+12:40:10
+Gulberg
+12:43:00
+12:43:00
+Trip ID
+Start Time
+170440-0
+12:10:00
+stop_name
+arrival_time departure_time
+PIMS
+12:10:00
+12:10:00
+Children Hospital
+12:11:30
+12:11:50
+TNT
+12:15:00
+12:15:20
+H-8
+12:21:00
+12:21:20
+Kach Naar Park I-8
+12:24:00
+12:24:20
+Sohan
+12:28:00
+12:28:20
+Dhok Kala Khan
+12:30:30
+12:30:50
+Iqbal Town
+12:31:50
+12:32:10
+Kuri Road
+12:33:10
+12:33:30
+Zia Masjid
+12:34:50
+12:35:10
+Khanna Pul
+12:37:40
+12:38:00
+Fazaia
+12:39:20
+12:39:40
+Gangal
+12:41:50
+12:42:10
+Koral Town
+12:44:50
+12:45:10
+Gulberg
+12:48:00
+12:48:00
+Trip ID
+Start Time
+170441-0
+12:15:00
+stop_name
+arrival_time departure_time
+PIMS
+12:15:00
+12:15:00
+Children Hospital
+12:16:30
+12:16:50
+TNT
+12:20:00
+12:20:20
+H-8
+12:26:00
+12:26:20
+Kach Naar Park I-8
+12:29:00
+12:29:20
+Sohan
+12:33:00
+12:33:20
+Dhok Kala Khan
+12:35:30
+12:35:50
+
+--- PAGE 31 ---
+Iqbal Town
+12:36:50
+12:37:10
+Kuri Road
+12:38:10
+12:38:30
+Zia Masjid
+12:39:50
+12:40:10
+Khanna Pul
+12:42:40
+12:43:00
+Fazaia
+12:44:20
+12:44:40
+Gangal
+12:46:50
+12:47:10
+Koral Town
+12:49:50
+12:50:10
+Gulberg
+12:53:00
+12:53:00
+Trip ID
+Start Time
+170442-0
+12:20:00
+stop_name
+arrival_time departure_time
+PIMS
+12:20:00
+12:20:00
+Children Hospital
+12:21:30
+12:21:50
+TNT
+12:25:00
+12:25:20
+H-8
+12:31:00
+12:31:20
+Kach Naar Park I-8
+12:34:00
+12:34:20
+Sohan
+12:38:00
+12:38:20
+Dhok Kala Khan
+12:40:30
+12:40:50
+Iqbal Town
+12:41:50
+12:42:10
+Kuri Road
+12:43:10
+12:43:30
+Zia Masjid
+12:44:50
+12:45:10
+Khanna Pul
+12:47:40
+12:48:00
+Fazaia
+12:49:20
+12:49:40
+Gangal
+12:51:50
+12:52:10
+Koral Town
+12:54:50
+12:55:10
+Gulberg
+12:58:00
+12:58:00
+Trip ID
+Start Time
+170443-0
+12:25:00
+stop_name
+arrival_time departure_time
+PIMS
+12:25:00
+12:25:00
+Children Hospital
+12:26:30
+12:26:50
+TNT
+12:30:00
+12:30:20
+H-8
+12:36:00
+12:36:20
+Kach Naar Park I-8
+12:39:00
+12:39:20
+Sohan
+12:43:00
+12:43:20
+Dhok Kala Khan
+12:45:30
+12:45:50
+Iqbal Town
+12:46:50
+12:47:10
+Kuri Road
+12:48:10
+12:48:30
+Zia Masjid
+12:49:50
+12:50:10
+Khanna Pul
+12:52:40
+12:53:00
+Fazaia
+12:54:20
+12:54:40
+Gangal
+12:56:50
+12:57:10
+Koral Town
+12:59:50
+13:00:10
+Gulberg
+13:03:00
+13:03:00
+Trip ID
+Start Time
+170444-0
+12:30:00
+stop_name
+arrival_time departure_time
+
+--- PAGE 32 ---
+PIMS
+12:30:00
+12:30:00
+Children Hospital
+12:31:30
+12:31:50
+TNT
+12:35:00
+12:35:20
+H-8
+12:41:00
+12:41:20
+Kach Naar Park I-8
+12:44:00
+12:44:20
+Sohan
+12:48:00
+12:48:20
+Dhok Kala Khan
+12:50:30
+12:50:50
+Iqbal Town
+12:51:50
+12:52:10
+Kuri Road
+12:53:10
+12:53:30
+Zia Masjid
+12:54:50
+12:55:10
+Khanna Pul
+12:57:40
+12:58:00
+Fazaia
+12:59:20
+12:59:40
+Gangal
+13:01:50
+13:02:10
+Koral Town
+13:04:50
+13:05:10
+Gulberg
+13:08:00
+13:08:00
+Trip ID
+Start Time
+170445-0
+12:35:00
+stop_name
+arrival_time departure_time
+PIMS
+12:35:00
+12:35:00
+Children Hospital
+12:36:30
+12:36:50
+TNT
+12:40:00
+12:40:20
+H-8
+12:46:00
+12:46:20
+Kach Naar Park I-8
+12:49:00
+12:49:20
+Sohan
+12:53:00
+12:53:20
+Dhok Kala Khan
+12:55:30
+12:55:50
+Iqbal Town
+12:56:50
+12:57:10
+Kuri Road
+12:58:10
+12:58:30
+Zia Masjid
+12:59:50
+13:00:10
+Khanna Pul
+13:02:40
+13:03:00
+Fazaia
+13:04:20
+13:04:40
+Gangal
+13:06:50
+13:07:10
+Koral Town
+13:09:50
+13:10:10
+Gulberg
+13:13:00
+13:13:00
+Trip ID
+Start Time
+170446-0
+12:40:00
+stop_name
+arrival_time departure_time
+PIMS
+12:40:00
+12:40:00
+Children Hospital
+12:41:30
+12:41:50
+TNT
+12:45:00
+12:45:20
+H-8
+12:51:00
+12:51:20
+Kach Naar Park I-8
+12:54:00
+12:54:20
+Sohan
+12:58:00
+12:58:20
+Dhok Kala Khan
+13:00:30
+13:00:50
+Iqbal Town
+13:01:50
+13:02:10
+Kuri Road
+13:03:10
+13:03:30
+Zia Masjid
+13:04:50
+13:05:10
+Khanna Pul
+13:07:40
+13:08:00
+Fazaia
+13:09:20
+13:09:40
+
+--- PAGE 33 ---
+Gangal
+13:11:50
+13:12:10
+Koral Town
+13:14:50
+13:15:10
+Gulberg
+13:18:00
+13:18:00
+Trip ID
+Start Time
+170447-0
+12:45:00
+stop_name
+arrival_time departure_time
+PIMS
+12:45:00
+12:45:00
+Children Hospital
+12:46:30
+12:46:50
+TNT
+12:50:00
+12:50:20
+H-8
+12:56:00
+12:56:20
+Kach Naar Park I-8
+12:59:00
+12:59:20
+Sohan
+13:03:00
+13:03:20
+Dhok Kala Khan
+13:05:30
+13:05:50
+Iqbal Town
+13:06:50
+13:07:10
+Kuri Road
+13:08:10
+13:08:30
+Zia Masjid
+13:09:50
+13:10:10
+Khanna Pul
+13:12:40
+13:13:00
+Fazaia
+13:14:20
+13:14:40
+Gangal
+13:16:50
+13:17:10
+Koral Town
+13:19:50
+13:20:10
+Gulberg
+13:23:00
+13:23:00
+Trip ID
+Start Time
+170448-0
+12:50:00
+stop_name
+arrival_time departure_time
+PIMS
+12:50:00
+12:50:00
+Children Hospital
+12:51:30
+12:51:50
+TNT
+12:55:00
+12:55:20
+H-8
+13:01:00
+13:01:20
+Kach Naar Park I-8
+13:04:00
+13:04:20
+Sohan
+13:08:00
+13:08:20
+Dhok Kala Khan
+13:10:30
+13:10:50
+Iqbal Town
+13:11:50
+13:12:10
+Kuri Road
+13:13:10
+13:13:30
+Zia Masjid
+13:14:50
+13:15:10
+Khanna Pul
+13:17:40
+13:18:00
+Fazaia
+13:19:20
+13:19:40
+Gangal
+13:21:50
+13:22:10
+Koral Town
+13:24:50
+13:25:10
+Gulberg
+13:28:00
+13:28:00
+Trip ID
+Start Time
+170449-0
+12:55:00
+stop_name
+arrival_time departure_time
+PIMS
+12:55:00
+12:55:00
+Children Hospital
+12:56:30
+12:56:50
+TNT
+13:00:00
+13:00:20
+H-8
+13:06:00
+13:06:20
+Kach Naar Park I-8
+13:09:00
+13:09:20
+
+--- PAGE 34 ---
+Sohan
+13:13:00
+13:13:20
+Dhok Kala Khan
+13:15:30
+13:15:50
+Iqbal Town
+13:16:50
+13:17:10
+Kuri Road
+13:18:10
+13:18:30
+Zia Masjid
+13:19:50
+13:20:10
+Khanna Pul
+13:22:40
+13:23:00
+Fazaia
+13:24:20
+13:24:40
+Gangal
+13:26:50
+13:27:10
+Koral Town
+13:29:50
+13:30:10
+Gulberg
+13:33:00
+13:33:00
+Trip ID
+Start Time
+170450-0
+13:00:00
+stop_name
+arrival_time departure_time
+PIMS
+13:00:00
+13:00:00
+Children Hospital
+13:01:30
+13:01:50
+TNT
+13:05:00
+13:05:20
+H-8
+13:11:00
+13:11:20
+Kach Naar Park I-8
+13:14:00
+13:14:20
+Sohan
+13:18:00
+13:18:20
+Dhok Kala Khan
+13:20:30
+13:20:50
+Iqbal Town
+13:21:50
+13:22:10
+Kuri Road
+13:23:10
+13:23:30
+Zia Masjid
+13:24:50
+13:25:10
+Khanna Pul
+13:27:40
+13:28:00
+Fazaia
+13:29:20
+13:29:40
+Gangal
+13:31:50
+13:32:10
+Koral Town
+13:34:50
+13:35:10
+Gulberg
+13:38:00
+13:38:00
+Trip ID
+Start Time
+170451-0
+13:05:00
+stop_name
+arrival_time departure_time
+PIMS
+13:05:00
+13:05:00
+Children Hospital
+13:06:30
+13:06:50
+TNT
+13:10:00
+13:10:20
+H-8
+13:16:00
+13:16:20
+Kach Naar Park I-8
+13:19:00
+13:19:20
+Sohan
+13:23:00
+13:23:20
+Dhok Kala Khan
+13:25:30
+13:25:50
+Iqbal Town
+13:26:50
+13:27:10
+Kuri Road
+13:28:10
+13:28:30
+Zia Masjid
+13:29:50
+13:30:10
+Khanna Pul
+13:32:40
+13:33:00
+Fazaia
+13:34:20
+13:34:40
+Gangal
+13:36:50
+13:37:10
+Koral Town
+13:39:50
+13:40:10
+Gulberg
+13:43:00
+13:43:00
+Trip ID
+Start Time
+
+--- PAGE 35 ---
+170452-0
+13:10:00
+stop_name
+arrival_time departure_time
+PIMS
+13:10:00
+13:10:00
+Children Hospital
+13:11:30
+13:11:50
+TNT
+13:15:00
+13:15:20
+H-8
+13:21:00
+13:21:20
+Kach Naar Park I-8
+13:24:00
+13:24:20
+Sohan
+13:28:00
+13:28:20
+Dhok Kala Khan
+13:30:30
+13:30:50
+Iqbal Town
+13:31:50
+13:32:10
+Kuri Road
+13:33:10
+13:33:30
+Zia Masjid
+13:34:50
+13:35:10
+Khanna Pul
+13:37:40
+13:38:00
+Fazaia
+13:39:20
+13:39:40
+Gangal
+13:41:50
+13:42:10
+Koral Town
+13:44:50
+13:45:10
+Gulberg
+13:48:00
+13:48:00
+Trip ID
+Start Time
+170453-0
+13:15:00
+stop_name
+arrival_time departure_time
+PIMS
+13:15:00
+13:15:00
+Children Hospital
+13:16:30
+13:16:50
+TNT
+13:20:00
+13:20:20
+H-8
+13:26:00
+13:26:20
+Kach Naar Park I-8
+13:29:00
+13:29:20
+Sohan
+13:33:00
+13:33:20
+Dhok Kala Khan
+13:35:30
+13:35:50
+Iqbal Town
+13:36:50
+13:37:10
+Kuri Road
+13:38:10
+13:38:30
+Zia Masjid
+13:39:50
+13:40:10
+Khanna Pul
+13:42:40
+13:43:00
+Fazaia
+13:44:20
+13:44:40
+Gangal
+13:46:50
+13:47:10
+Koral Town
+13:49:50
+13:50:10
+Gulberg
+13:53:00
+13:53:00
+Trip ID
+Start Time
+170454-0
+13:20:00
+stop_name
+arrival_time departure_time
+PIMS
+13:20:00
+13:20:00
+Children Hospital
+13:21:30
+13:21:50
+TNT
+13:25:00
+13:25:20
+H-8
+13:31:00
+13:31:20
+Kach Naar Park I-8
+13:34:00
+13:34:20
+Sohan
+13:38:00
+13:38:20
+Dhok Kala Khan
+13:40:30
+13:40:50
+Iqbal Town
+13:41:50
+13:42:10
+Kuri Road
+13:43:10
+13:43:30
+Zia Masjid
+13:44:50
+13:45:10
+
+--- PAGE 36 ---
+Khanna Pul
+13:47:40
+13:48:00
+Fazaia
+13:49:20
+13:49:40
+Gangal
+13:51:50
+13:52:10
+Koral Town
+13:54:50
+13:55:10
+Gulberg
+13:58:00
+13:58:00
+Trip ID
+Start Time
+170455-0
+13:25:00
+stop_name
+arrival_time departure_time
+PIMS
+13:25:00
+13:25:00
+Children Hospital
+13:26:30
+13:26:50
+TNT
+13:30:00
+13:30:20
+H-8
+13:36:00
+13:36:20
+Kach Naar Park I-8
+13:39:00
+13:39:20
+Sohan
+13:43:00
+13:43:20
+Dhok Kala Khan
+13:45:30
+13:45:50
+Iqbal Town
+13:46:50
+13:47:10
+Kuri Road
+13:48:10
+13:48:30
+Zia Masjid
+13:49:50
+13:50:10
+Khanna Pul
+13:52:40
+13:53:00
+Fazaia
+13:54:20
+13:54:40
+Gangal
+13:56:50
+13:57:10
+Koral Town
+13:59:50
+14:00:10
+Gulberg
+14:03:00
+14:03:00
+Trip ID
+Start Time
+170456-0
+13:30:00
+stop_name
+arrival_time departure_time
+PIMS
+13:30:00
+13:30:00
+Children Hospital
+13:31:30
+13:31:50
+TNT
+13:35:00
+13:35:20
+H-8
+13:41:00
+13:41:20
+Kach Naar Park I-8
+13:44:00
+13:44:20
+Sohan
+13:48:00
+13:48:20
+Dhok Kala Khan
+13:50:30
+13:50:50
+Iqbal Town
+13:51:50
+13:52:10
+Kuri Road
+13:53:10
+13:53:30
+Zia Masjid
+13:54:50
+13:55:10
+Khanna Pul
+13:57:40
+13:58:00
+Fazaia
+13:59:20
+13:59:40
+Gangal
+14:01:50
+14:02:10
+Koral Town
+14:04:50
+14:05:10
+Gulberg
+14:08:00
+14:08:00
+Trip ID
+Start Time
+170457-0
+13:35:00
+stop_name
+arrival_time departure_time
+PIMS
+13:35:00
+13:35:00
+Children Hospital
+13:36:30
+13:36:50
+TNT
+13:40:00
+13:40:20
+
+--- PAGE 37 ---
+H-8
+13:46:00
+13:46:20
+Kach Naar Park I-8
+13:49:00
+13:49:20
+Sohan
+13:53:00
+13:53:20
+Dhok Kala Khan
+13:55:30
+13:55:50
+Iqbal Town
+13:56:50
+13:57:10
+Kuri Road
+13:58:10
+13:58:30
+Zia Masjid
+13:59:50
+14:00:10
+Khanna Pul
+14:02:40
+14:03:00
+Fazaia
+14:04:20
+14:04:40
+Gangal
+14:06:50
+14:07:10
+Koral Town
+14:09:50
+14:10:10
+Gulberg
+14:13:00
+14:13:00
+Trip ID
+Start Time
+170458-0
+13:40:00
+stop_name
+arrival_time departure_time
+PIMS
+13:40:00
+13:40:00
+Children Hospital
+13:41:30
+13:41:50
+TNT
+13:45:00
+13:45:20
+H-8
+13:51:00
+13:51:20
+Kach Naar Park I-8
+13:54:00
+13:54:20
+Sohan
+13:58:00
+13:58:20
+Dhok Kala Khan
+14:00:30
+14:00:50
+Iqbal Town
+14:01:50
+14:02:10
+Kuri Road
+14:03:10
+14:03:30
+Zia Masjid
+14:04:50
+14:05:10
+Khanna Pul
+14:07:40
+14:08:00
+Fazaia
+14:09:20
+14:09:40
+Gangal
+14:11:50
+14:12:10
+Koral Town
+14:14:50
+14:15:10
+Gulberg
+14:18:00
+14:18:00
+Trip ID
+Start Time
+170459-0
+13:45:00
+stop_name
+arrival_time departure_time
+PIMS
+13:45:00
+13:45:00
+Children Hospital
+13:46:30
+13:46:50
+TNT
+13:50:00
+13:50:20
+H-8
+13:56:00
+13:56:20
+Kach Naar Park I-8
+13:59:00
+13:59:20
+Sohan
+14:03:00
+14:03:20
+Dhok Kala Khan
+14:05:30
+14:05:50
+Iqbal Town
+14:06:50
+14:07:10
+Kuri Road
+14:08:10
+14:08:30
+Zia Masjid
+14:09:50
+14:10:10
+Khanna Pul
+14:12:40
+14:13:00
+Fazaia
+14:14:20
+14:14:40
+Gangal
+14:16:50
+14:17:10
+Koral Town
+14:19:50
+14:20:10
+Gulberg
+14:23:00
+14:23:00
+
+--- PAGE 38 ---
+Trip ID
+Start Time
+170460-0
+13:50:00
+stop_name
+arrival_time departure_time
+PIMS
+13:50:00
+13:50:00
+Children Hospital
+13:51:30
+13:51:50
+TNT
+13:55:00
+13:55:20
+H-8
+14:01:00
+14:01:20
+Kach Naar Park I-8
+14:04:00
+14:04:20
+Sohan
+14:08:00
+14:08:20
+Dhok Kala Khan
+14:10:30
+14:10:50
+Iqbal Town
+14:11:50
+14:12:10
+Kuri Road
+14:13:10
+14:13:30
+Zia Masjid
+14:14:50
+14:15:10
+Khanna Pul
+14:17:40
+14:18:00
+Fazaia
+14:19:20
+14:19:40
+Gangal
+14:21:50
+14:22:10
+Koral Town
+14:24:50
+14:25:10
+Gulberg
+14:28:00
+14:28:00
+Trip ID
+Start Time
+170461-0
+13:55:00
+stop_name
+arrival_time departure_time
+PIMS
+13:55:00
+13:55:00
+Children Hospital
+13:56:30
+13:56:50
+TNT
+14:00:00
+14:00:20
+H-8
+14:06:00
+14:06:20
+Kach Naar Park I-8
+14:09:00
+14:09:20
+Sohan
+14:13:00
+14:13:20
+Dhok Kala Khan
+14:15:30
+14:15:50
+Iqbal Town
+14:16:50
+14:17:10
+Kuri Road
+14:18:10
+14:18:30
+Zia Masjid
+14:19:50
+14:20:10
+Khanna Pul
+14:22:40
+14:23:00
+Fazaia
+14:24:20
+14:24:40
+Gangal
+14:26:50
+14:27:10
+Koral Town
+14:29:50
+14:30:10
+Gulberg
+14:33:00
+14:33:00
+Trip ID
+Start Time
+170462-0
+14:00:00
+stop_name
+arrival_time departure_time
+PIMS
+14:00:00
+14:00:00
+Children Hospital
+14:01:30
+14:01:50
+TNT
+14:05:00
+14:05:20
+H-8
+14:11:00
+14:11:20
+Kach Naar Park I-8
+14:14:00
+14:14:20
+Sohan
+14:18:00
+14:18:20
+Dhok Kala Khan
+14:20:30
+14:20:50
+Iqbal Town
+14:21:50
+14:22:10
+
+--- PAGE 39 ---
+Kuri Road
+14:23:10
+14:23:30
+Zia Masjid
+14:24:50
+14:25:10
+Khanna Pul
+14:27:40
+14:28:00
+Fazaia
+14:29:20
+14:29:40
+Gangal
+14:31:50
+14:32:10
+Koral Town
+14:34:50
+14:35:10
+Gulberg
+14:38:00
+14:38:00
+Trip ID
+Start Time
+170463-0
+14:05:00
+stop_name
+arrival_time departure_time
+PIMS
+14:05:00
+14:05:00
+Children Hospital
+14:06:30
+14:06:50
+TNT
+14:10:00
+14:10:20
+H-8
+14:16:00
+14:16:20
+Kach Naar Park I-8
+14:19:00
+14:19:20
+Sohan
+14:23:00
+14:23:20
+Dhok Kala Khan
+14:25:30
+14:25:50
+Iqbal Town
+14:26:50
+14:27:10
+Kuri Road
+14:28:10
+14:28:30
+Zia Masjid
+14:29:50
+14:30:10
+Khanna Pul
+14:32:40
+14:33:00
+Fazaia
+14:34:20
+14:34:40
+Gangal
+14:36:50
+14:37:10
+Koral Town
+14:39:50
+14:40:10
+Gulberg
+14:43:00
+14:43:00
+Trip ID
+Start Time
+170464-0
+14:10:00
+stop_name
+arrival_time departure_time
+PIMS
+14:10:00
+14:10:00
+Children Hospital
+14:11:30
+14:11:50
+TNT
+14:15:00
+14:15:20
+H-8
+14:21:00
+14:21:20
+Kach Naar Park I-8
+14:24:00
+14:24:20
+Sohan
+14:28:00
+14:28:20
+Dhok Kala Khan
+14:30:30
+14:30:50
+Iqbal Town
+14:31:50
+14:32:10
+Kuri Road
+14:33:10
+14:33:30
+Zia Masjid
+14:34:50
+14:35:10
+Khanna Pul
+14:37:40
+14:38:00
+Fazaia
+14:39:20
+14:39:40
+Gangal
+14:41:50
+14:42:10
+Koral Town
+14:44:50
+14:45:10
+Gulberg
+14:48:00
+14:48:00
+Trip ID
+Start Time
+170465-0
+14:15:00
+stop_name
+arrival_time departure_time
+PIMS
+14:15:00
+14:15:00
+
+--- PAGE 40 ---
+Children Hospital
+14:16:30
+14:16:50
+TNT
+14:20:00
+14:20:20
+H-8
+14:26:00
+14:26:20
+Kach Naar Park I-8
+14:29:00
+14:29:20
+Sohan
+14:33:00
+14:33:20
+Dhok Kala Khan
+14:35:30
+14:35:50
+Iqbal Town
+14:36:50
+14:37:10
+Kuri Road
+14:38:10
+14:38:30
+Zia Masjid
+14:39:50
+14:40:10
+Khanna Pul
+14:42:40
+14:43:00
+Fazaia
+14:44:20
+14:44:40
+Gangal
+14:46:50
+14:47:10
+Koral Town
+14:49:50
+14:50:10
+Gulberg
+14:53:00
+14:53:00
+Trip ID
+Start Time
+170466-0
+14:20:00
+stop_name
+arrival_time departure_time
+PIMS
+14:20:00
+14:20:00
+Children Hospital
+14:21:30
+14:21:50
+TNT
+14:25:00
+14:25:20
+H-8
+14:31:00
+14:31:20
+Kach Naar Park I-8
+14:34:00
+14:34:20
+Sohan
+14:38:00
+14:38:20
+Dhok Kala Khan
+14:40:30
+14:40:50
+Iqbal Town
+14:41:50
+14:42:10
+Kuri Road
+14:43:10
+14:43:30
+Zia Masjid
+14:44:50
+14:45:10
+Khanna Pul
+14:47:40
+14:48:00
+Fazaia
+14:49:20
+14:49:40
+Gangal
+14:51:50
+14:52:10
+Koral Town
+14:54:50
+14:55:10
+Gulberg
+14:58:00
+14:58:00
+Trip ID
+Start Time
+170467-0
+14:25:00
+stop_name
+arrival_time departure_time
+PIMS
+14:25:00
+14:25:00
+Children Hospital
+14:26:30
+14:26:50
+TNT
+14:30:00
+14:30:20
+H-8
+14:36:00
+14:36:20
+Kach Naar Park I-8
+14:39:00
+14:39:20
+Sohan
+14:43:00
+14:43:20
+Dhok Kala Khan
+14:45:30
+14:45:50
+Iqbal Town
+14:46:50
+14:47:10
+Kuri Road
+14:48:10
+14:48:30
+Zia Masjid
+14:49:50
+14:50:10
+Khanna Pul
+14:52:40
+14:53:00
+Fazaia
+14:54:20
+14:54:40
+Gangal
+14:56:50
+14:57:10
+
+--- PAGE 41 ---
+Koral Town
+14:59:50
+15:00:10
+Gulberg
+15:03:00
+15:03:00
+Trip ID
+Start Time
+170468-0
+14:30:00
+stop_name
+arrival_time departure_time
+PIMS
+14:30:00
+14:30:00
+Children Hospital
+14:31:30
+14:31:50
+TNT
+14:35:00
+14:35:20
+H-8
+14:41:00
+14:41:20
+Kach Naar Park I-8
+14:44:00
+14:44:20
+Sohan
+14:48:00
+14:48:20
+Dhok Kala Khan
+14:50:30
+14:50:50
+Iqbal Town
+14:51:50
+14:52:10
+Kuri Road
+14:53:10
+14:53:30
+Zia Masjid
+14:54:50
+14:55:10
+Khanna Pul
+14:57:40
+14:58:00
+Fazaia
+14:59:20
+14:59:40
+Gangal
+15:01:50
+15:02:10
+Koral Town
+15:04:50
+15:05:10
+Gulberg
+15:08:00
+15:08:00
+Trip ID
+Start Time
+170469-0
+14:35:00
+stop_name
+arrival_time departure_time
+PIMS
+14:35:00
+14:35:00
+Children Hospital
+14:36:30
+14:36:50
+TNT
+14:40:00
+14:40:20
+H-8
+14:46:00
+14:46:20
+Kach Naar Park I-8
+14:49:00
+14:49:20
+Sohan
+14:53:00
+14:53:20
+Dhok Kala Khan
+14:55:30
+14:55:50
+Iqbal Town
+14:56:50
+14:57:10
+Kuri Road
+14:58:10
+14:58:30
+Zia Masjid
+14:59:50
+15:00:10
+Khanna Pul
+15:02:40
+15:03:00
+Fazaia
+15:04:20
+15:04:40
+Gangal
+15:06:50
+15:07:10
+Koral Town
+15:09:50
+15:10:10
+Gulberg
+15:13:00
+15:13:00
+Trip ID
+Start Time
+170470-0
+14:40:00
+stop_name
+arrival_time departure_time
+PIMS
+14:40:00
+14:40:00
+Children Hospital
+14:41:30
+14:41:50
+TNT
+14:45:00
+14:45:20
+H-8
+14:51:00
+14:51:20
+Kach Naar Park I-8
+14:54:00
+14:54:20
+Sohan
+14:58:00
+14:58:20
+
+--- PAGE 42 ---
+Dhok Kala Khan
+15:00:30
+15:00:50
+Iqbal Town
+15:01:50
+15:02:10
+Kuri Road
+15:03:10
+15:03:30
+Zia Masjid
+15:04:50
+15:05:10
+Khanna Pul
+15:07:40
+15:08:00
+Fazaia
+15:09:20
+15:09:40
+Gangal
+15:11:50
+15:12:10
+Koral Town
+15:14:50
+15:15:10
+Gulberg
+15:18:00
+15:18:00
+Trip ID
+Start Time
+170471-0
+14:45:00
+stop_name
+arrival_time departure_time
+PIMS
+14:45:00
+14:45:00
+Children Hospital
+14:46:30
+14:46:50
+TNT
+14:50:00
+14:50:20
+H-8
+14:56:00
+14:56:20
+Kach Naar Park I-8
+14:59:00
+14:59:20
+Sohan
+15:03:00
+15:03:20
+Dhok Kala Khan
+15:05:30
+15:05:50
+Iqbal Town
+15:06:50
+15:07:10
+Kuri Road
+15:08:10
+15:08:30
+Zia Masjid
+15:09:50
+15:10:10
+Khanna Pul
+15:12:40
+15:13:00
+Fazaia
+15:14:20
+15:14:40
+Gangal
+15:16:50
+15:17:10
+Koral Town
+15:19:50
+15:20:10
+Gulberg
+15:23:00
+15:23:00
+Trip ID
+Start Time
+170472-0
+14:50:00
+stop_name
+arrival_time departure_time
+PIMS
+14:50:00
+14:50:00
+Children Hospital
+14:51:30
+14:51:50
+TNT
+14:55:00
+14:55:20
+H-8
+15:01:00
+15:01:20
+Kach Naar Park I-8
+15:04:00
+15:04:20
+Sohan
+15:08:00
+15:08:20
+Dhok Kala Khan
+15:10:30
+15:10:50
+Iqbal Town
+15:11:50
+15:12:10
+Kuri Road
+15:13:10
+15:13:30
+Zia Masjid
+15:14:50
+15:15:10
+Khanna Pul
+15:17:40
+15:18:00
+Fazaia
+15:19:20
+15:19:40
+Gangal
+15:21:50
+15:22:10
+Koral Town
+15:24:50
+15:25:10
+Gulberg
+15:28:00
+15:28:00
+Trip ID
+Start Time
+170473-0
+14:55:00
+
+--- PAGE 43 ---
+stop_name
+arrival_time departure_time
+PIMS
+14:55:00
+14:55:00
+Children Hospital
+14:56:30
+14:56:50
+TNT
+15:00:00
+15:00:20
+H-8
+15:06:00
+15:06:20
+Kach Naar Park I-8
+15:09:00
+15:09:20
+Sohan
+15:13:00
+15:13:20
+Dhok Kala Khan
+15:15:30
+15:15:50
+Iqbal Town
+15:16:50
+15:17:10
+Kuri Road
+15:18:10
+15:18:30
+Zia Masjid
+15:19:50
+15:20:10
+Khanna Pul
+15:22:40
+15:23:00
+Fazaia
+15:24:20
+15:24:40
+Gangal
+15:26:50
+15:27:10
+Koral Town
+15:29:50
+15:30:10
+Gulberg
+15:33:00
+15:33:00
+Trip ID
+Start Time
+170474-0
+15:00:00
+stop_name
+arrival_time departure_time
+PIMS
+15:00:00
+15:00:00
+Children Hospital
+15:01:30
+15:01:50
+TNT
+15:05:00
+15:05:20
+H-8
+15:11:00
+15:11:20
+Kach Naar Park I-8
+15:14:00
+15:14:20
+Sohan
+15:18:00
+15:18:20
+Dhok Kala Khan
+15:20:30
+15:20:50
+Iqbal Town
+15:21:50
+15:22:10
+Kuri Road
+15:23:10
+15:23:30
+Zia Masjid
+15:24:50
+15:25:10
+Khanna Pul
+15:27:40
+15:28:00
+Fazaia
+15:29:20
+15:29:40
+Gangal
+15:31:50
+15:32:10
+Koral Town
+15:34:50
+15:35:10
+Gulberg
+15:38:00
+15:38:00
+Trip ID
+Start Time
+170475-0
+15:05:00
+stop_name
+arrival_time departure_time
+PIMS
+15:05:00
+15:05:00
+Children Hospital
+15:06:30
+15:06:50
+TNT
+15:10:00
+15:10:20
+H-8
+15:16:00
+15:16:20
+Kach Naar Park I-8
+15:19:00
+15:19:20
+Sohan
+15:23:00
+15:23:20
+Dhok Kala Khan
+15:25:30
+15:25:50
+Iqbal Town
+15:26:50
+15:27:10
+Kuri Road
+15:28:10
+15:28:30
+Zia Masjid
+15:29:50
+15:30:10
+Khanna Pul
+15:32:40
+15:33:00
+
+--- PAGE 44 ---
+Fazaia
+15:34:20
+15:34:40
+Gangal
+15:36:50
+15:37:10
+Koral Town
+15:39:50
+15:40:10
+Gulberg
+15:43:00
+15:43:00
+Trip ID
+Start Time
+170476-0
+15:10:00
+stop_name
+arrival_time departure_time
+PIMS
+15:10:00
+15:10:00
+Children Hospital
+15:11:30
+15:11:50
+TNT
+15:15:00
+15:15:20
+H-8
+15:21:00
+15:21:20
+Kach Naar Park I-8
+15:24:00
+15:24:20
+Sohan
+15:28:00
+15:28:20
+Dhok Kala Khan
+15:30:30
+15:30:50
+Iqbal Town
+15:31:50
+15:32:10
+Kuri Road
+15:33:10
+15:33:30
+Zia Masjid
+15:34:50
+15:35:10
+Khanna Pul
+15:37:40
+15:38:00
+Fazaia
+15:39:20
+15:39:40
+Gangal
+15:41:50
+15:42:10
+Koral Town
+15:44:50
+15:45:10
+Gulberg
+15:48:00
+15:48:00
+Trip ID
+Start Time
+170477-0
+15:15:00
+stop_name
+arrival_time departure_time
+PIMS
+15:15:00
+15:15:00
+Children Hospital
+15:16:30
+15:16:50
+TNT
+15:20:00
+15:20:20
+H-8
+15:26:00
+15:26:20
+Kach Naar Park I-8
+15:29:00
+15:29:20
+Sohan
+15:33:00
+15:33:20
+Dhok Kala Khan
+15:35:30
+15:35:50
+Iqbal Town
+15:36:50
+15:37:10
+Kuri Road
+15:38:10
+15:38:30
+Zia Masjid
+15:39:50
+15:40:10
+Khanna Pul
+15:42:40
+15:43:00
+Fazaia
+15:44:20
+15:44:40
+Gangal
+15:46:50
+15:47:10
+Koral Town
+15:49:50
+15:50:10
+Gulberg
+15:53:00
+15:53:00
+Trip ID
+Start Time
+170478-0
+15:20:00
+stop_name
+arrival_time departure_time
+PIMS
+15:20:00
+15:20:00
+Children Hospital
+15:21:30
+15:21:50
+TNT
+15:25:00
+15:25:20
+H-8
+15:31:00
+15:31:20
+
+--- PAGE 45 ---
+Kach Naar Park I-8
+15:34:00
+15:34:20
+Sohan
+15:38:00
+15:38:20
+Dhok Kala Khan
+15:40:30
+15:40:50
+Iqbal Town
+15:41:50
+15:42:10
+Kuri Road
+15:43:10
+15:43:30
+Zia Masjid
+15:44:50
+15:45:10
+Khanna Pul
+15:47:40
+15:48:00
+Fazaia
+15:49:20
+15:49:40
+Gangal
+15:51:50
+15:52:10
+Koral Town
+15:54:50
+15:55:10
+Gulberg
+15:58:00
+15:58:00
+Trip ID
+Start Time
+170479-0
+15:25:00
+stop_name
+arrival_time departure_time
+PIMS
+15:25:00
+15:25:00
+Children Hospital
+15:26:30
+15:26:50
+TNT
+15:30:00
+15:30:20
+H-8
+15:36:00
+15:36:20
+Kach Naar Park I-8
+15:39:00
+15:39:20
+Sohan
+15:43:00
+15:43:20
+Dhok Kala Khan
+15:45:30
+15:45:50
+Iqbal Town
+15:46:50
+15:47:10
+Kuri Road
+15:48:10
+15:48:30
+Zia Masjid
+15:49:50
+15:50:10
+Khanna Pul
+15:52:40
+15:53:00
+Fazaia
+15:54:20
+15:54:40
+Gangal
+15:56:50
+15:57:10
+Koral Town
+15:59:50
+16:00:10
+Gulberg
+16:03:00
+16:03:00
+Trip ID
+Start Time
+170480-0
+15:30:00
+stop_name
+arrival_time departure_time
+PIMS
+15:30:00
+15:30:00
+Children Hospital
+15:31:30
+15:31:50
+TNT
+15:35:00
+15:35:20
+H-8
+15:41:00
+15:41:20
+Kach Naar Park I-8
+15:44:00
+15:44:20
+Sohan
+15:48:00
+15:48:20
+Dhok Kala Khan
+15:50:30
+15:50:50
+Iqbal Town
+15:51:50
+15:52:10
+Kuri Road
+15:53:10
+15:53:30
+Zia Masjid
+15:54:50
+15:55:10
+Khanna Pul
+15:57:40
+15:58:00
+Fazaia
+15:59:20
+15:59:40
+Gangal
+16:01:50
+16:02:10
+Koral Town
+16:04:50
+16:05:10
+Gulberg
+16:08:00
+16:08:00
+
+--- PAGE 46 ---
+Trip ID
+Start Time
+170481-0
+15:35:00
+stop_name
+arrival_time departure_time
+PIMS
+15:35:00
+15:35:00
+Children Hospital
+15:36:30
+15:36:50
+TNT
+15:40:00
+15:40:20
+H-8
+15:46:00
+15:46:20
+Kach Naar Park I-8
+15:49:00
+15:49:20
+Sohan
+15:53:00
+15:53:20
+Dhok Kala Khan
+15:55:30
+15:55:50
+Iqbal Town
+15:56:50
+15:57:10
+Kuri Road
+15:58:10
+15:58:30
+Zia Masjid
+15:59:50
+16:00:10
+Khanna Pul
+16:02:40
+16:03:00
+Fazaia
+16:04:20
+16:04:40
+Gangal
+16:06:50
+16:07:10
+Koral Town
+16:09:50
+16:10:10
+Gulberg
+16:13:00
+16:13:00
+Trip ID
+Start Time
+170482-0
+15:40:00
+stop_name
+arrival_time departure_time
+PIMS
+15:40:00
+15:40:00
+Children Hospital
+15:41:30
+15:41:50
+TNT
+15:45:00
+15:45:20
+H-8
+15:51:00
+15:51:20
+Kach Naar Park I-8
+15:54:00
+15:54:20
+Sohan
+15:58:00
+15:58:20
+Dhok Kala Khan
+16:00:30
+16:00:50
+Iqbal Town
+16:01:50
+16:02:10
+Kuri Road
+16:03:10
+16:03:30
+Zia Masjid
+16:04:50
+16:05:10
+Khanna Pul
+16:07:40
+16:08:00
+Fazaia
+16:09:20
+16:09:40
+Gangal
+16:11:50
+16:12:10
+Koral Town
+16:14:50
+16:15:10
+Gulberg
+16:18:00
+16:18:00
+Trip ID
+Start Time
+170483-0
+15:45:00
+stop_name
+arrival_time departure_time
+PIMS
+15:45:00
+15:45:00
+Children Hospital
+15:46:30
+15:46:50
+TNT
+15:50:00
+15:50:20
+H-8
+15:56:00
+15:56:20
+Kach Naar Park I-8
+15:59:00
+15:59:20
+Sohan
+16:03:00
+16:03:20
+Dhok Kala Khan
+16:05:30
+16:05:50
+Iqbal Town
+16:06:50
+16:07:10
+Kuri Road
+16:08:10
+16:08:30
+
+--- PAGE 47 ---
+Zia Masjid
+16:09:50
+16:10:10
+Khanna Pul
+16:12:40
+16:13:00
+Fazaia
+16:14:20
+16:14:40
+Gangal
+16:16:50
+16:17:10
+Koral Town
+16:19:50
+16:20:10
+Gulberg
+16:23:00
+16:23:00
+Trip ID
+Start Time
+170484-0
+15:50:00
+stop_name
+arrival_time departure_time
+PIMS
+15:50:00
+15:50:00
+Children Hospital
+15:51:30
+15:51:50
+TNT
+15:55:00
+15:55:20
+H-8
+16:01:00
+16:01:20
+Kach Naar Park I-8
+16:04:00
+16:04:20
+Sohan
+16:08:00
+16:08:20
+Dhok Kala Khan
+16:10:30
+16:10:50
+Iqbal Town
+16:11:50
+16:12:10
+Kuri Road
+16:13:10
+16:13:30
+Zia Masjid
+16:14:50
+16:15:10
+Khanna Pul
+16:17:40
+16:18:00
+Fazaia
+16:19:20
+16:19:40
+Gangal
+16:21:50
+16:22:10
+Koral Town
+16:24:50
+16:25:10
+Gulberg
+16:28:00
+16:28:00
+Trip ID
+Start Time
+170485-0
+15:55:00
+stop_name
+arrival_time departure_time
+PIMS
+15:55:00
+15:55:00
+Children Hospital
+15:56:30
+15:56:50
+TNT
+16:00:00
+16:00:20
+H-8
+16:06:00
+16:06:20
+Kach Naar Park I-8
+16:09:00
+16:09:20
+Sohan
+16:13:00
+16:13:20
+Dhok Kala Khan
+16:15:30
+16:15:50
+Iqbal Town
+16:16:50
+16:17:10
+Kuri Road
+16:18:10
+16:18:30
+Zia Masjid
+16:19:50
+16:20:10
+Khanna Pul
+16:22:40
+16:23:00
+Fazaia
+16:24:20
+16:24:40
+Gangal
+16:26:50
+16:27:10
+Koral Town
+16:29:50
+16:30:10
+Gulberg
+16:33:00
+16:33:00
+Trip ID
+Start Time
+170486-0
+16:00:00
+stop_name
+arrival_time departure_time
+PIMS
+16:00:00
+16:00:00
+Children Hospital
+16:01:30
+16:01:50
+
+--- PAGE 48 ---
+TNT
+16:05:00
+16:05:20
+H-8
+16:11:00
+16:11:20
+Kach Naar Park I-8
+16:14:00
+16:14:20
+Sohan
+16:18:00
+16:18:20
+Dhok Kala Khan
+16:20:30
+16:20:50
+Iqbal Town
+16:21:50
+16:22:10
+Kuri Road
+16:23:10
+16:23:30
+Zia Masjid
+16:24:50
+16:25:10
+Khanna Pul
+16:27:40
+16:28:00
+Fazaia
+16:29:20
+16:29:40
+Gangal
+16:31:50
+16:32:10
+Koral Town
+16:34:50
+16:35:10
+Gulberg
+16:38:00
+16:38:00
+Trip ID
+Start Time
+170487-0
+16:05:00
+stop_name
+arrival_time departure_time
+PIMS
+16:05:00
+16:05:00
+Children Hospital
+16:06:30
+16:06:50
+TNT
+16:10:00
+16:10:20
+H-8
+16:16:00
+16:16:20
+Kach Naar Park I-8
+16:19:00
+16:19:20
+Sohan
+16:23:00
+16:23:20
+Dhok Kala Khan
+16:25:30
+16:25:50
+Iqbal Town
+16:26:50
+16:27:10
+Kuri Road
+16:28:10
+16:28:30
+Zia Masjid
+16:29:50
+16:30:10
+Khanna Pul
+16:32:40
+16:33:00
+Fazaia
+16:34:20
+16:34:40
+Gangal
+16:36:50
+16:37:10
+Koral Town
+16:39:50
+16:40:10
+Gulberg
+16:43:00
+16:43:00
+Trip ID
+Start Time
+170488-0
+16:10:00
+stop_name
+arrival_time departure_time
+PIMS
+16:10:00
+16:10:00
+Children Hospital
+16:11:30
+16:11:50
+TNT
+16:15:00
+16:15:20
+H-8
+16:21:00
+16:21:20
+Kach Naar Park I-8
+16:24:00
+16:24:20
+Sohan
+16:28:00
+16:28:20
+Dhok Kala Khan
+16:30:30
+16:30:50
+Iqbal Town
+16:31:50
+16:32:10
+Kuri Road
+16:33:10
+16:33:30
+Zia Masjid
+16:34:50
+16:35:10
+Khanna Pul
+16:37:40
+16:38:00
+Fazaia
+16:39:20
+16:39:40
+Gangal
+16:41:50
+16:42:10
+Koral Town
+16:44:50
+16:45:10
+
+--- PAGE 49 ---
+Gulberg
+16:48:00
+16:48:00
+Trip ID
+Start Time
+170489-0
+16:15:00
+stop_name
+arrival_time departure_time
+PIMS
+16:15:00
+16:15:00
+Children Hospital
+16:16:30
+16:16:50
+TNT
+16:20:00
+16:20:20
+H-8
+16:26:00
+16:26:20
+Kach Naar Park I-8
+16:29:00
+16:29:20
+Sohan
+16:33:00
+16:33:20
+Dhok Kala Khan
+16:35:30
+16:35:50
+Iqbal Town
+16:36:50
+16:37:10
+Kuri Road
+16:38:10
+16:38:30
+Zia Masjid
+16:39:50
+16:40:10
+Khanna Pul
+16:42:40
+16:43:00
+Fazaia
+16:44:20
+16:44:40
+Gangal
+16:46:50
+16:47:10
+Koral Town
+16:49:50
+16:50:10
+Gulberg
+16:53:00
+16:53:00
+Trip ID
+Start Time
+170490-0
+16:20:00
+stop_name
+arrival_time departure_time
+PIMS
+16:20:00
+16:20:00
+Children Hospital
+16:21:30
+16:21:50
+TNT
+16:25:00
+16:25:20
+H-8
+16:31:00
+16:31:20
+Kach Naar Park I-8
+16:34:00
+16:34:20
+Sohan
+16:38:00
+16:38:20
+Dhok Kala Khan
+16:40:30
+16:40:50
+Iqbal Town
+16:41:50
+16:42:10
+Kuri Road
+16:43:10
+16:43:30
+Zia Masjid
+16:44:50
+16:45:10
+Khanna Pul
+16:47:40
+16:48:00
+Fazaia
+16:49:20
+16:49:40
+Gangal
+16:51:50
+16:52:10
+Koral Town
+16:54:50
+16:55:10
+Gulberg
+16:58:00
+16:58:00
+Trip ID
+Start Time
+170491-0
+16:25:00
+stop_name
+arrival_time departure_time
+PIMS
+16:25:00
+16:25:00
+Children Hospital
+16:26:30
+16:26:50
+TNT
+16:30:00
+16:30:20
+H-8
+16:36:00
+16:36:20
+Kach Naar Park I-8
+16:39:00
+16:39:20
+Sohan
+16:43:00
+16:43:20
+Dhok Kala Khan
+16:45:30
+16:45:50
+
+--- PAGE 50 ---
+Iqbal Town
+16:46:50
+16:47:10
+Kuri Road
+16:48:10
+16:48:30
+Zia Masjid
+16:49:50
+16:50:10
+Khanna Pul
+16:52:40
+16:53:00
+Fazaia
+16:54:20
+16:54:40
+Gangal
+16:56:50
+16:57:10
+Koral Town
+16:59:50
+17:00:10
+Gulberg
+17:03:00
+17:03:00
+Trip ID
+Start Time
+170492-0
+16:30:00
+stop_name
+arrival_time departure_time
+PIMS
+16:30:00
+16:30:00
+Children Hospital
+16:31:30
+16:31:50
+TNT
+16:35:00
+16:35:20
+H-8
+16:41:00
+16:41:20
+Kach Naar Park I-8
+16:44:00
+16:44:20
+Sohan
+16:48:00
+16:48:20
+Dhok Kala Khan
+16:50:30
+16:50:50
+Iqbal Town
+16:51:50
+16:52:10
+Kuri Road
+16:53:10
+16:53:30
+Zia Masjid
+16:54:50
+16:55:10
+Khanna Pul
+16:57:40
+16:58:00
+Fazaia
+16:59:20
+16:59:40
+Gangal
+17:01:50
+17:02:10
+Koral Town
+17:04:50
+17:05:10
+Gulberg
+17:08:00
+17:08:00
+Trip ID
+Start Time
+170493-0
+16:35:00
+stop_name
+arrival_time departure_time
+PIMS
+16:35:00
+16:35:00
+Children Hospital
+16:36:30
+16:36:50
+TNT
+16:40:00
+16:40:20
+H-8
+16:46:00
+16:46:20
+Kach Naar Park I-8
+16:49:00
+16:49:20
+Sohan
+16:53:00
+16:53:20
+Dhok Kala Khan
+16:55:30
+16:55:50
+Iqbal Town
+16:56:50
+16:57:10
+Kuri Road
+16:58:10
+16:58:30
+Zia Masjid
+16:59:50
+17:00:10
+Khanna Pul
+17:02:40
+17:03:00
+Fazaia
+17:04:20
+17:04:40
+Gangal
+17:06:50
+17:07:10
+Koral Town
+17:09:50
+17:10:10
+Gulberg
+17:13:00
+17:13:00
+Trip ID
+Start Time
+170494-0
+16:40:00
+stop_name
+arrival_time departure_time
+
+--- PAGE 51 ---
+PIMS
+16:40:00
+16:40:00
+Children Hospital
+16:41:30
+16:41:50
+TNT
+16:45:00
+16:45:20
+H-8
+16:51:00
+16:51:20
+Kach Naar Park I-8
+16:54:00
+16:54:20
+Sohan
+16:58:00
+16:58:20
+Dhok Kala Khan
+17:00:30
+17:00:50
+Iqbal Town
+17:01:50
+17:02:10
+Kuri Road
+17:03:10
+17:03:30
+Zia Masjid
+17:04:50
+17:05:10
+Khanna Pul
+17:07:40
+17:08:00
+Fazaia
+17:09:20
+17:09:40
+Gangal
+17:11:50
+17:12:10
+Koral Town
+17:14:50
+17:15:10
+Gulberg
+17:18:00
+17:18:00
+Trip ID
+Start Time
+170495-0
+16:45:00
+stop_name
+arrival_time departure_time
+PIMS
+16:45:00
+16:45:00
+Children Hospital
+16:46:30
+16:46:50
+TNT
+16:50:00
+16:50:20
+H-8
+16:56:00
+16:56:20
+Kach Naar Park I-8
+16:59:00
+16:59:20
+Sohan
+17:03:00
+17:03:20
+Dhok Kala Khan
+17:05:30
+17:05:50
+Iqbal Town
+17:06:50
+17:07:10
+Kuri Road
+17:08:10
+17:08:30
+Zia Masjid
+17:09:50
+17:10:10
+Khanna Pul
+17:12:40
+17:13:00
+Fazaia
+17:14:20
+17:14:40
+Gangal
+17:16:50
+17:17:10
+Koral Town
+17:19:50
+17:20:10
+Gulberg
+17:23:00
+17:23:00
+Trip ID
+Start Time
+170496-0
+16:50:00
+stop_name
+arrival_time departure_time
+PIMS
+16:50:00
+16:50:00
+Children Hospital
+16:51:30
+16:51:50
+TNT
+16:55:00
+16:55:20
+H-8
+17:01:00
+17:01:20
+Kach Naar Park I-8
+17:04:00
+17:04:20
+Sohan
+17:08:00
+17:08:20
+Dhok Kala Khan
+17:10:30
+17:10:50
+Iqbal Town
+17:11:50
+17:12:10
+Kuri Road
+17:13:10
+17:13:30
+Zia Masjid
+17:14:50
+17:15:10
+Khanna Pul
+17:17:40
+17:18:00
+Fazaia
+17:19:20
+17:19:40
+
+--- PAGE 52 ---
+Gangal
+17:21:50
+17:22:10
+Koral Town
+17:24:50
+17:25:10
+Gulberg
+17:28:00
+17:28:00
+Trip ID
+Start Time
+170497-0
+16:55:00
+stop_name
+arrival_time departure_time
+PIMS
+16:55:00
+16:55:00
+Children Hospital
+16:56:30
+16:56:50
+TNT
+17:00:00
+17:00:20
+H-8
+17:06:00
+17:06:20
+Kach Naar Park I-8
+17:09:00
+17:09:20
+Sohan
+17:13:00
+17:13:20
+Dhok Kala Khan
+17:15:30
+17:15:50
+Iqbal Town
+17:16:50
+17:17:10
+Kuri Road
+17:18:10
+17:18:30
+Zia Masjid
+17:19:50
+17:20:10
+Khanna Pul
+17:22:40
+17:23:00
+Fazaia
+17:24:20
+17:24:40
+Gangal
+17:26:50
+17:27:10
+Koral Town
+17:29:50
+17:30:10
+Gulberg
+17:33:00
+17:33:00
+Trip ID
+Start Time
+170498-0
+17:00:00
+stop_name
+arrival_time departure_time
+PIMS
+17:00:00
+17:00:00
+Children Hospital
+17:01:30
+17:01:50
+TNT
+17:05:00
+17:05:20
+H-8
+17:11:00
+17:11:20
+Kach Naar Park I-8
+17:14:00
+17:14:20
+Sohan
+17:18:00
+17:18:20
+Dhok Kala Khan
+17:20:30
+17:20:50
+Iqbal Town
+17:21:50
+17:22:10
+Kuri Road
+17:23:10
+17:23:30
+Zia Masjid
+17:24:50
+17:25:10
+Khanna Pul
+17:27:40
+17:28:00
+Fazaia
+17:29:20
+17:29:40
+Gangal
+17:31:50
+17:32:10
+Koral Town
+17:34:50
+17:35:10
+Gulberg
+17:38:00
+17:38:00
+Trip ID
+Start Time
+170499-0
+17:05:00
+stop_name
+arrival_time departure_time
+PIMS
+17:05:00
+17:05:00
+Children Hospital
+17:06:30
+17:06:50
+TNT
+17:10:00
+17:10:20
+H-8
+17:16:00
+17:16:20
+Kach Naar Park I-8
+17:19:00
+17:19:20
+
+--- PAGE 53 ---
+Sohan
+17:23:00
+17:23:20
+Dhok Kala Khan
+17:25:30
+17:25:50
+Iqbal Town
+17:26:50
+17:27:10
+Kuri Road
+17:28:10
+17:28:30
+Zia Masjid
+17:29:50
+17:30:10
+Khanna Pul
+17:32:40
+17:33:00
+Fazaia
+17:34:20
+17:34:40
+Gangal
+17:36:50
+17:37:10
+Koral Town
+17:39:50
+17:40:10
+Gulberg
+17:43:00
+17:43:00
+Trip ID
+Start Time
+170500-0
+17:10:00
+stop_name
+arrival_time departure_time
+PIMS
+17:10:00
+17:10:00
+Children Hospital
+17:11:30
+17:11:50
+TNT
+17:15:00
+17:15:20
+H-8
+17:21:00
+17:21:20
+Kach Naar Park I-8
+17:24:00
+17:24:20
+Sohan
+17:28:00
+17:28:20
+Dhok Kala Khan
+17:30:30
+17:30:50
+Iqbal Town
+17:31:50
+17:32:10
+Kuri Road
+17:33:10
+17:33:30
+Zia Masjid
+17:34:50
+17:35:10
+Khanna Pul
+17:37:40
+17:38:00
+Fazaia
+17:39:20
+17:39:40
+Gangal
+17:41:50
+17:42:10
+Koral Town
+17:44:50
+17:45:10
+Gulberg
+17:48:00
+17:48:00
+Trip ID
+Start Time
+170501-0
+17:15:00
+stop_name
+arrival_time departure_time
+PIMS
+17:15:00
+17:15:00
+Children Hospital
+17:16:30
+17:16:50
+TNT
+17:20:00
+17:20:20
+H-8
+17:26:00
+17:26:20
+Kach Naar Park I-8
+17:29:00
+17:29:20
+Sohan
+17:33:00
+17:33:20
+Dhok Kala Khan
+17:35:30
+17:35:50
+Iqbal Town
+17:36:50
+17:37:10
+Kuri Road
+17:38:10
+17:38:30
+Zia Masjid
+17:39:50
+17:40:10
+Khanna Pul
+17:42:40
+17:43:00
+Fazaia
+17:44:20
+17:44:40
+Gangal
+17:46:50
+17:47:10
+Koral Town
+17:49:50
+17:50:10
+Gulberg
+17:53:00
+17:53:00
+Trip ID
+Start Time
+
+--- PAGE 54 ---
+170502-0
+17:20:00
+stop_name
+arrival_time departure_time
+PIMS
+17:20:00
+17:20:00
+Children Hospital
+17:21:30
+17:21:50
+TNT
+17:25:00
+17:25:20
+H-8
+17:31:00
+17:31:20
+Kach Naar Park I-8
+17:34:00
+17:34:20
+Sohan
+17:38:00
+17:38:20
+Dhok Kala Khan
+17:40:30
+17:40:50
+Iqbal Town
+17:41:50
+17:42:10
+Kuri Road
+17:43:10
+17:43:30
+Zia Masjid
+17:44:50
+17:45:10
+Khanna Pul
+17:47:40
+17:48:00
+Fazaia
+17:49:20
+17:49:40
+Gangal
+17:51:50
+17:52:10
+Koral Town
+17:54:50
+17:55:10
+Gulberg
+17:58:00
+17:58:00
+Trip ID
+Start Time
+170503-0
+17:25:00
+stop_name
+arrival_time departure_time
+PIMS
+17:25:00
+17:25:00
+Children Hospital
+17:26:30
+17:26:50
+TNT
+17:30:00
+17:30:20
+H-8
+17:36:00
+17:36:20
+Kach Naar Park I-8
+17:39:00
+17:39:20
+Sohan
+17:43:00
+17:43:20
+Dhok Kala Khan
+17:45:30
+17:45:50
+Iqbal Town
+17:46:50
+17:47:10
+Kuri Road
+17:48:10
+17:48:30
+Zia Masjid
+17:49:50
+17:50:10
+Khanna Pul
+17:52:40
+17:53:00
+Fazaia
+17:54:20
+17:54:40
+Gangal
+17:56:50
+17:57:10
+Koral Town
+17:59:50
+18:00:10
+Gulberg
+18:03:00
+18:03:00
+Trip ID
+Start Time
+170504-0
+17:30:00
+stop_name
+arrival_time departure_time
+PIMS
+17:30:00
+17:30:00
+Children Hospital
+17:31:30
+17:31:50
+TNT
+17:35:00
+17:35:20
+H-8
+17:41:00
+17:41:20
+Kach Naar Park I-8
+17:44:00
+17:44:20
+Sohan
+17:48:00
+17:48:20
+Dhok Kala Khan
+17:50:30
+17:50:50
+Iqbal Town
+17:51:50
+17:52:10
+Kuri Road
+17:53:10
+17:53:30
+Zia Masjid
+17:54:50
+17:55:10
+
+--- PAGE 55 ---
+Khanna Pul
+17:57:40
+17:58:00
+Fazaia
+17:59:20
+17:59:40
+Gangal
+18:01:50
+18:02:10
+Koral Town
+18:04:50
+18:05:10
+Gulberg
+18:08:00
+18:08:00
+Trip ID
+Start Time
+170505-0
+17:35:00
+stop_name
+arrival_time departure_time
+PIMS
+17:35:00
+17:35:00
+Children Hospital
+17:36:30
+17:36:50
+TNT
+17:40:00
+17:40:20
+H-8
+17:46:00
+17:46:20
+Kach Naar Park I-8
+17:49:00
+17:49:20
+Sohan
+17:53:00
+17:53:20
+Dhok Kala Khan
+17:55:30
+17:55:50
+Iqbal Town
+17:56:50
+17:57:10
+Kuri Road
+17:58:10
+17:58:30
+Zia Masjid
+17:59:50
+18:00:10
+Khanna Pul
+18:02:40
+18:03:00
+Fazaia
+18:04:20
+18:04:40
+Gangal
+18:06:50
+18:07:10
+Koral Town
+18:09:50
+18:10:10
+Gulberg
+18:13:00
+18:13:00
+Trip ID
+Start Time
+170506-0
+17:40:00
+stop_name
+arrival_time departure_time
+PIMS
+17:40:00
+17:40:00
+Children Hospital
+17:41:30
+17:41:50
+TNT
+17:45:00
+17:45:20
+H-8
+17:51:00
+17:51:20
+Kach Naar Park I-8
+17:54:00
+17:54:20
+Sohan
+17:58:00
+17:58:20
+Dhok Kala Khan
+18:00:30
+18:00:50
+Iqbal Town
+18:01:50
+18:02:10
+Kuri Road
+18:03:10
+18:03:30
+Zia Masjid
+18:04:50
+18:05:10
+Khanna Pul
+18:07:40
+18:08:00
+Fazaia
+18:09:20
+18:09:40
+Gangal
+18:11:50
+18:12:10
+Koral Town
+18:14:50
+18:15:10
+Gulberg
+18:18:00
+18:18:00
+Trip ID
+Start Time
+170507-0
+17:45:00
+stop_name
+arrival_time departure_time
+PIMS
+17:45:00
+17:45:00
+Children Hospital
+17:46:30
+17:46:50
+TNT
+17:50:00
+17:50:20
+
+--- PAGE 56 ---
+H-8
+17:56:00
+17:56:20
+Kach Naar Park I-8
+17:59:00
+17:59:20
+Sohan
+18:03:00
+18:03:20
+Dhok Kala Khan
+18:05:30
+18:05:50
+Iqbal Town
+18:06:50
+18:07:10
+Kuri Road
+18:08:10
+18:08:30
+Zia Masjid
+18:09:50
+18:10:10
+Khanna Pul
+18:12:40
+18:13:00
+Fazaia
+18:14:20
+18:14:40
+Gangal
+18:16:50
+18:17:10
+Koral Town
+18:19:50
+18:20:10
+Gulberg
+18:23:00
+18:23:00
+Trip ID
+Start Time
+170508-0
+17:50:00
+stop_name
+arrival_time departure_time
+PIMS
+17:50:00
+17:50:00
+Children Hospital
+17:51:30
+17:51:50
+TNT
+17:55:00
+17:55:20
+H-8
+18:01:00
+18:01:20
+Kach Naar Park I-8
+18:04:00
+18:04:20
+Sohan
+18:08:00
+18:08:20
+Dhok Kala Khan
+18:10:30
+18:10:50
+Iqbal Town
+18:11:50
+18:12:10
+Kuri Road
+18:13:10
+18:13:30
+Zia Masjid
+18:14:50
+18:15:10
+Khanna Pul
+18:17:40
+18:18:00
+Fazaia
+18:19:20
+18:19:40
+Gangal
+18:21:50
+18:22:10
+Koral Town
+18:24:50
+18:25:10
+Gulberg
+18:28:00
+18:28:00
+Trip ID
+Start Time
+170509-0
+17:55:00
+stop_name
+arrival_time departure_time
+PIMS
+17:55:00
+17:55:00
+Children Hospital
+17:56:30
+17:56:50
+TNT
+18:00:00
+18:00:20
+H-8
+18:06:00
+18:06:20
+Kach Naar Park I-8
+18:09:00
+18:09:20
+Sohan
+18:13:00
+18:13:20
+Dhok Kala Khan
+18:15:30
+18:15:50
+Iqbal Town
+18:16:50
+18:17:10
+Kuri Road
+18:18:10
+18:18:30
+Zia Masjid
+18:19:50
+18:20:10
+Khanna Pul
+18:22:40
+18:23:00
+Fazaia
+18:24:20
+18:24:40
+Gangal
+18:26:50
+18:27:10
+Koral Town
+18:29:50
+18:30:10
+Gulberg
+18:33:00
+18:33:00
+
+--- PAGE 57 ---
+Trip ID
+Start Time
+170510-0
+18:00:00
+stop_name
+arrival_time departure_time
+PIMS
+18:00:00
+18:00:00
+Children Hospital
+18:01:30
+18:01:50
+TNT
+18:05:00
+18:05:20
+H-8
+18:11:00
+18:11:20
+Kach Naar Park I-8
+18:14:00
+18:14:20
+Sohan
+18:18:00
+18:18:20
+Dhok Kala Khan
+18:20:30
+18:20:50
+Iqbal Town
+18:21:50
+18:22:10
+Kuri Road
+18:23:10
+18:23:30
+Zia Masjid
+18:24:50
+18:25:10
+Khanna Pul
+18:27:40
+18:28:00
+Fazaia
+18:29:20
+18:29:40
+Gangal
+18:31:50
+18:32:10
+Koral Town
+18:34:50
+18:35:10
+Gulberg
+18:38:00
+18:38:00
+Trip ID
+Start Time
+170511-0
+18:05:00
+stop_name
+arrival_time departure_time
+PIMS
+18:05:00
+18:05:00
+Children Hospital
+18:06:30
+18:06:50
+TNT
+18:10:00
+18:10:20
+H-8
+18:16:00
+18:16:20
+Kach Naar Park I-8
+18:19:00
+18:19:20
+Sohan
+18:23:00
+18:23:20
+Dhok Kala Khan
+18:25:30
+18:25:50
+Iqbal Town
+18:26:50
+18:27:10
+Kuri Road
+18:28:10
+18:28:30
+Zia Masjid
+18:29:50
+18:30:10
+Khanna Pul
+18:32:40
+18:33:00
+Fazaia
+18:34:20
+18:34:40
+Gangal
+18:36:50
+18:37:10
+Koral Town
+18:39:50
+18:40:10
+Gulberg
+18:43:00
+18:43:00
+Trip ID
+Start Time
+170512-0
+18:10:00
+stop_name
+arrival_time departure_time
+PIMS
+18:10:00
+18:10:00
+Children Hospital
+18:11:30
+18:11:50
+TNT
+18:15:00
+18:15:20
+H-8
+18:21:00
+18:21:20
+Kach Naar Park I-8
+18:24:00
+18:24:20
+Sohan
+18:28:00
+18:28:20
+Dhok Kala Khan
+18:30:30
+18:30:50
+Iqbal Town
+18:31:50
+18:32:10
+
+--- PAGE 58 ---
+Kuri Road
+18:33:10
+18:33:30
+Zia Masjid
+18:34:50
+18:35:10
+Khanna Pul
+18:37:40
+18:38:00
+Fazaia
+18:39:20
+18:39:40
+Gangal
+18:41:50
+18:42:10
+Koral Town
+18:44:50
+18:45:10
+Gulberg
+18:48:00
+18:48:00
+Trip ID
+Start Time
+170513-0
+18:15:00
+stop_name
+arrival_time departure_time
+PIMS
+18:15:00
+18:15:00
+Children Hospital
+18:16:30
+18:16:50
+TNT
+18:20:00
+18:20:20
+H-8
+18:26:00
+18:26:20
+Kach Naar Park I-8
+18:29:00
+18:29:20
+Sohan
+18:33:00
+18:33:20
+Dhok Kala Khan
+18:35:30
+18:35:50
+Iqbal Town
+18:36:50
+18:37:10
+Kuri Road
+18:38:10
+18:38:30
+Zia Masjid
+18:39:50
+18:40:10
+Khanna Pul
+18:42:40
+18:43:00
+Fazaia
+18:44:20
+18:44:40
+Gangal
+18:46:50
+18:47:10
+Koral Town
+18:49:50
+18:50:10
+Gulberg
+18:53:00
+18:53:00
+Trip ID
+Start Time
+170514-0
+18:20:00
+stop_name
+arrival_time departure_time
+PIMS
+18:20:00
+18:20:00
+Children Hospital
+18:21:30
+18:21:50
+TNT
+18:25:00
+18:25:20
+H-8
+18:31:00
+18:31:20
+Kach Naar Park I-8
+18:34:00
+18:34:20
+Sohan
+18:38:00
+18:38:20
+Dhok Kala Khan
+18:40:30
+18:40:50
+Iqbal Town
+18:41:50
+18:42:10
+Kuri Road
+18:43:10
+18:43:30
+Zia Masjid
+18:44:50
+18:45:10
+Khanna Pul
+18:47:40
+18:48:00
+Fazaia
+18:49:20
+18:49:40
+Gangal
+18:51:50
+18:52:10
+Koral Town
+18:54:50
+18:55:10
+Gulberg
+18:58:00
+18:58:00
+Trip ID
+Start Time
+170515-0
+18:25:00
+stop_name
+arrival_time departure_time
+PIMS
+18:25:00
+18:25:00
+
+--- PAGE 59 ---
+Children Hospital
+18:26:30
+18:26:50
+TNT
+18:30:00
+18:30:20
+H-8
+18:36:00
+18:36:20
+Kach Naar Park I-8
+18:39:00
+18:39:20
+Sohan
+18:43:00
+18:43:20
+Dhok Kala Khan
+18:45:30
+18:45:50
+Iqbal Town
+18:46:50
+18:47:10
+Kuri Road
+18:48:10
+18:48:30
+Zia Masjid
+18:49:50
+18:50:10
+Khanna Pul
+18:52:40
+18:53:00
+Fazaia
+18:54:20
+18:54:40
+Gangal
+18:56:50
+18:57:10
+Koral Town
+18:59:50
+19:00:10
+Gulberg
+19:03:00
+19:03:00
+Trip ID
+Start Time
+170516-0
+18:30:00
+stop_name
+arrival_time departure_time
+PIMS
+18:30:00
+18:30:00
+Children Hospital
+18:31:30
+18:31:50
+TNT
+18:35:00
+18:35:20
+H-8
+18:41:00
+18:41:20
+Kach Naar Park I-8
+18:44:00
+18:44:20
+Sohan
+18:48:00
+18:48:20
+Dhok Kala Khan
+18:50:30
+18:50:50
+Iqbal Town
+18:51:50
+18:52:10
+Kuri Road
+18:53:10
+18:53:30
+Zia Masjid
+18:54:50
+18:55:10
+Khanna Pul
+18:57:40
+18:58:00
+Fazaia
+18:59:20
+18:59:40
+Gangal
+19:01:50
+19:02:10
+Koral Town
+19:04:50
+19:05:10
+Gulberg
+19:08:00
+19:08:00
+Trip ID
+Start Time
+170517-0
+18:35:00
+stop_name
+arrival_time departure_time
+PIMS
+18:35:00
+18:35:00
+Children Hospital
+18:36:30
+18:36:50
+TNT
+18:40:00
+18:40:20
+H-8
+18:46:00
+18:46:20
+Kach Naar Park I-8
+18:49:00
+18:49:20
+Sohan
+18:53:00
+18:53:20
+Dhok Kala Khan
+18:55:30
+18:55:50
+Iqbal Town
+18:56:50
+18:57:10
+Kuri Road
+18:58:10
+18:58:30
+Zia Masjid
+18:59:50
+19:00:10
+Khanna Pul
+19:02:40
+19:03:00
+Fazaia
+19:04:20
+19:04:40
+Gangal
+19:06:50
+19:07:10
+
+--- PAGE 60 ---
+Koral Town
+19:09:50
+19:10:10
+Gulberg
+19:13:00
+19:13:00
+Trip ID
+Start Time
+170518-0
+18:40:00
+stop_name
+arrival_time departure_time
+PIMS
+18:40:00
+18:40:00
+Children Hospital
+18:41:30
+18:41:50
+TNT
+18:45:00
+18:45:20
+H-8
+18:51:00
+18:51:20
+Kach Naar Park I-8
+18:54:00
+18:54:20
+Sohan
+18:58:00
+18:58:20
+Dhok Kala Khan
+19:00:30
+19:00:50
+Iqbal Town
+19:01:50
+19:02:10
+Kuri Road
+19:03:10
+19:03:30
+Zia Masjid
+19:04:50
+19:05:10
+Khanna Pul
+19:07:40
+19:08:00
+Fazaia
+19:09:20
+19:09:40
+Gangal
+19:11:50
+19:12:10
+Koral Town
+19:14:50
+19:15:10
+Gulberg
+19:18:00
+19:18:00
+Trip ID
+Start Time
+170519-0
+18:45:00
+stop_name
+arrival_time departure_time
+PIMS
+18:45:00
+18:45:00
+Children Hospital
+18:46:30
+18:46:50
+TNT
+18:50:00
+18:50:20
+H-8
+18:56:00
+18:56:20
+Kach Naar Park I-8
+18:59:00
+18:59:20
+Sohan
+19:03:00
+19:03:20
+Dhok Kala Khan
+19:05:30
+19:05:50
+Iqbal Town
+19:06:50
+19:07:10
+Kuri Road
+19:08:10
+19:08:30
+Zia Masjid
+19:09:50
+19:10:10
+Khanna Pul
+19:12:40
+19:13:00
+Fazaia
+19:14:20
+19:14:40
+Gangal
+19:16:50
+19:17:10
+Koral Town
+19:19:50
+19:20:10
+Gulberg
+19:23:00
+19:23:00
+Trip ID
+Start Time
+170520-0
+18:50:00
+stop_name
+arrival_time departure_time
+PIMS
+18:50:00
+18:50:00
+Children Hospital
+18:51:30
+18:51:50
+TNT
+18:55:00
+18:55:20
+H-8
+19:01:00
+19:01:20
+Kach Naar Park I-8
+19:04:00
+19:04:20
+Sohan
+19:08:00
+19:08:20
+
+--- PAGE 61 ---
+Dhok Kala Khan
+19:10:30
+19:10:50
+Iqbal Town
+19:11:50
+19:12:10
+Kuri Road
+19:13:10
+19:13:30
+Zia Masjid
+19:14:50
+19:15:10
+Khanna Pul
+19:17:40
+19:18:00
+Fazaia
+19:19:20
+19:19:40
+Gangal
+19:21:50
+19:22:10
+Koral Town
+19:24:50
+19:25:10
+Gulberg
+19:28:00
+19:28:00
+Trip ID
+Start Time
+170521-0
+18:55:00
+stop_name
+arrival_time departure_time
+PIMS
+18:55:00
+18:55:00
+Children Hospital
+18:56:30
+18:56:50
+TNT
+19:00:00
+19:00:20
+H-8
+19:06:00
+19:06:20
+Kach Naar Park I-8
+19:09:00
+19:09:20
+Sohan
+19:13:00
+19:13:20
+Dhok Kala Khan
+19:15:30
+19:15:50
+Iqbal Town
+19:16:50
+19:17:10
+Kuri Road
+19:18:10
+19:18:30
+Zia Masjid
+19:19:50
+19:20:10
+Khanna Pul
+19:22:40
+19:23:00
+Fazaia
+19:24:20
+19:24:40
+Gangal
+19:26:50
+19:27:10
+Koral Town
+19:29:50
+19:30:10
+Gulberg
+19:33:00
+19:33:00
+Trip ID
+Start Time
+170522-0
+19:00:00
+stop_name
+arrival_time departure_time
+PIMS
+19:00:00
+19:00:00
+Children Hospital
+19:01:30
+19:01:50
+TNT
+19:05:00
+19:05:20
+H-8
+19:11:00
+19:11:20
+Kach Naar Park I-8
+19:14:00
+19:14:20
+Sohan
+19:18:00
+19:18:20
+Dhok Kala Khan
+19:20:30
+19:20:50
+Iqbal Town
+19:21:50
+19:22:10
+Kuri Road
+19:23:10
+19:23:30
+Zia Masjid
+19:24:50
+19:25:10
+Khanna Pul
+19:27:40
+19:28:00
+Fazaia
+19:29:20
+19:29:40
+Gangal
+19:31:50
+19:32:10
+Koral Town
+19:34:50
+19:35:10
+Gulberg
+19:38:00
+19:38:00
+Trip ID
+Start Time
+170523-0
+19:05:00
+
+--- PAGE 62 ---
+stop_name
+arrival_time departure_time
+PIMS
+19:05:00
+19:05:00
+Children Hospital
+19:06:30
+19:06:50
+TNT
+19:10:00
+19:10:20
+H-8
+19:16:00
+19:16:20
+Kach Naar Park I-8
+19:19:00
+19:19:20
+Sohan
+19:23:00
+19:23:20
+Dhok Kala Khan
+19:25:30
+19:25:50
+Iqbal Town
+19:26:50
+19:27:10
+Kuri Road
+19:28:10
+19:28:30
+Zia Masjid
+19:29:50
+19:30:10
+Khanna Pul
+19:32:40
+19:33:00
+Fazaia
+19:34:20
+19:34:40
+Gangal
+19:36:50
+19:37:10
+Koral Town
+19:39:50
+19:40:10
+Gulberg
+19:43:00
+19:43:00
+Trip ID
+Start Time
+170524-0
+19:10:00
+stop_name
+arrival_time departure_time
+PIMS
+19:10:00
+19:10:00
+Children Hospital
+19:11:30
+19:11:50
+TNT
+19:15:00
+19:15:20
+H-8
+19:21:00
+19:21:20
+Kach Naar Park I-8
+19:24:00
+19:24:20
+Sohan
+19:28:00
+19:28:20
+Dhok Kala Khan
+19:30:30
+19:30:50
+Iqbal Town
+19:31:50
+19:32:10
+Kuri Road
+19:33:10
+19:33:30
+Zia Masjid
+19:34:50
+19:35:10
+Khanna Pul
+19:37:40
+19:38:00
+Fazaia
+19:39:20
+19:39:40
+Gangal
+19:41:50
+19:42:10
+Koral Town
+19:44:50
+19:45:10
+Gulberg
+19:48:00
+19:48:00
+Trip ID
+Start Time
+170525-0
+19:15:00
+stop_name
+arrival_time departure_time
+PIMS
+19:15:00
+19:15:00
+Children Hospital
+19:16:30
+19:16:50
+TNT
+19:20:00
+19:20:20
+H-8
+19:26:00
+19:26:20
+Kach Naar Park I-8
+19:29:00
+19:29:20
+Sohan
+19:33:00
+19:33:20
+Dhok Kala Khan
+19:35:30
+19:35:50
+Iqbal Town
+19:36:50
+19:37:10
+Kuri Road
+19:38:10
+19:38:30
+Zia Masjid
+19:39:50
+19:40:10
+Khanna Pul
+19:42:40
+19:43:00
+
+--- PAGE 63 ---
+Fazaia
+19:44:20
+19:44:40
+Gangal
+19:46:50
+19:47:10
+Koral Town
+19:49:50
+19:50:10
+Gulberg
+19:53:00
+19:53:00
+Trip ID
+Start Time
+170526-0
+19:20:00
+stop_name
+arrival_time departure_time
+PIMS
+19:20:00
+19:20:00
+Children Hospital
+19:21:30
+19:21:50
+TNT
+19:25:00
+19:25:20
+H-8
+19:31:00
+19:31:20
+Kach Naar Park I-8
+19:34:00
+19:34:20
+Sohan
+19:38:00
+19:38:20
+Dhok Kala Khan
+19:40:30
+19:40:50
+Iqbal Town
+19:41:50
+19:42:10
+Kuri Road
+19:43:10
+19:43:30
+Zia Masjid
+19:44:50
+19:45:10
+Khanna Pul
+19:47:40
+19:48:00
+Fazaia
+19:49:20
+19:49:40
+Gangal
+19:51:50
+19:52:10
+Koral Town
+19:54:50
+19:55:10
+Gulberg
+19:58:00
+19:58:00
+Trip ID
+Start Time
+170527-0
+19:25:00
+stop_name
+arrival_time departure_time
+PIMS
+19:25:00
+19:25:00
+Children Hospital
+19:26:30
+19:26:50
+TNT
+19:30:00
+19:30:20
+H-8
+19:36:00
+19:36:20
+Kach Naar Park I-8
+19:39:00
+19:39:20
+Sohan
+19:43:00
+19:43:20
+Dhok Kala Khan
+19:45:30
+19:45:50
+Iqbal Town
+19:46:50
+19:47:10
+Kuri Road
+19:48:10
+19:48:30
+Zia Masjid
+19:49:50
+19:50:10
+Khanna Pul
+19:52:40
+19:53:00
+Fazaia
+19:54:20
+19:54:40
+Gangal
+19:56:50
+19:57:10
+Koral Town
+19:59:50
+20:00:10
+Gulberg
+20:03:00
+20:03:00
+Trip ID
+Start Time
+170528-0
+19:30:00
+stop_name
+arrival_time departure_time
+PIMS
+19:30:00
+19:30:00
+Children Hospital
+19:31:30
+19:31:50
+TNT
+19:35:00
+19:35:20
+H-8
+19:41:00
+19:41:20
+
+--- PAGE 64 ---
+Kach Naar Park I-8
+19:44:00
+19:44:20
+Sohan
+19:48:00
+19:48:20
+Dhok Kala Khan
+19:50:30
+19:50:50
+Iqbal Town
+19:51:50
+19:52:10
+Kuri Road
+19:53:10
+19:53:30
+Zia Masjid
+19:54:50
+19:55:10
+Khanna Pul
+19:57:40
+19:58:00
+Fazaia
+19:59:20
+19:59:40
+Gangal
+20:01:50
+20:02:10
+Koral Town
+20:04:50
+20:05:10
+Gulberg
+20:08:00
+20:08:00
+Trip ID
+Start Time
+170529-0
+19:35:00
+stop_name
+arrival_time departure_time
+PIMS
+19:35:00
+19:35:00
+Children Hospital
+19:36:30
+19:36:50
+TNT
+19:40:00
+19:40:20
+H-8
+19:46:00
+19:46:20
+Kach Naar Park I-8
+19:49:00
+19:49:20
+Sohan
+19:53:00
+19:53:20
+Dhok Kala Khan
+19:55:30
+19:55:50
+Iqbal Town
+19:56:50
+19:57:10
+Kuri Road
+19:58:10
+19:58:30
+Zia Masjid
+19:59:50
+20:00:10
+Khanna Pul
+20:02:40
+20:03:00
+Fazaia
+20:04:20
+20:04:40
+Gangal
+20:06:50
+20:07:10
+Koral Town
+20:09:50
+20:10:10
+Gulberg
+20:13:00
+20:13:00
+Trip ID
+Start Time
+170530-0
+19:40:00
+stop_name
+arrival_time departure_time
+PIMS
+19:40:00
+19:40:00
+Children Hospital
+19:41:30
+19:41:50
+TNT
+19:45:00
+19:45:20
+H-8
+19:51:00
+19:51:20
+Kach Naar Park I-8
+19:54:00
+19:54:20
+Sohan
+19:58:00
+19:58:20
+Dhok Kala Khan
+20:00:30
+20:00:50
+Iqbal Town
+20:01:50
+20:02:10
+Kuri Road
+20:03:10
+20:03:30
+Zia Masjid
+20:04:50
+20:05:10
+Khanna Pul
+20:07:40
+20:08:00
+Fazaia
+20:09:20
+20:09:40
+Gangal
+20:11:50
+20:12:10
+Koral Town
+20:14:50
+20:15:10
+Gulberg
+20:18:00
+20:18:00
+
+--- PAGE 65 ---
+Trip ID
+Start Time
+170531-0
+19:45:00
+stop_name
+arrival_time departure_time
+PIMS
+19:45:00
+19:45:00
+Children Hospital
+19:46:30
+19:46:50
+TNT
+19:50:00
+19:50:20
+H-8
+19:56:00
+19:56:20
+Kach Naar Park I-8
+19:59:00
+19:59:20
+Sohan
+20:03:00
+20:03:20
+Dhok Kala Khan
+20:05:30
+20:05:50
+Iqbal Town
+20:06:50
+20:07:10
+Kuri Road
+20:08:10
+20:08:30
+Zia Masjid
+20:09:50
+20:10:10
+Khanna Pul
+20:12:40
+20:13:00
+Fazaia
+20:14:20
+20:14:40
+Gangal
+20:16:50
+20:17:10
+Koral Town
+20:19:50
+20:20:10
+Gulberg
+20:23:00
+20:23:00
+Trip ID
+Start Time
+170532-0
+19:50:00
+stop_name
+arrival_time departure_time
+PIMS
+19:50:00
+19:50:00
+Children Hospital
+19:51:30
+19:51:50
+TNT
+19:55:00
+19:55:20
+H-8
+20:01:00
+20:01:20
+Kach Naar Park I-8
+20:04:00
+20:04:20
+Sohan
+20:08:00
+20:08:20
+Dhok Kala Khan
+20:10:30
+20:10:50
+Iqbal Town
+20:11:50
+20:12:10
+Kuri Road
+20:13:10
+20:13:30
+Zia Masjid
+20:14:50
+20:15:10
+Khanna Pul
+20:17:40
+20:18:00
+Fazaia
+20:19:20
+20:19:40
+Gangal
+20:21:50
+20:22:10
+Koral Town
+20:24:50
+20:25:10
+Gulberg
+20:28:00
+20:28:00
+Trip ID
+Start Time
+170533-0
+19:55:00
+stop_name
+arrival_time departure_time
+PIMS
+19:55:00
+19:55:00
+Children Hospital
+19:56:30
+19:56:50
+TNT
+20:00:00
+20:00:20
+H-8
+20:06:00
+20:06:20
+Kach Naar Park I-8
+20:09:00
+20:09:20
+Sohan
+20:13:00
+20:13:20
+Dhok Kala Khan
+20:15:30
+20:15:50
+Iqbal Town
+20:16:50
+20:17:10
+Kuri Road
+20:18:10
+20:18:30
+
+--- PAGE 66 ---
+Zia Masjid
+20:19:50
+20:20:10
+Khanna Pul
+20:22:40
+20:23:00
+Fazaia
+20:24:20
+20:24:40
+Gangal
+20:26:50
+20:27:10
+Koral Town
+20:29:50
+20:30:10
+Gulberg
+20:33:00
+20:33:00
+Trip ID
+Start Time
+170534-0
+20:00:00
+stop_name
+arrival_time departure_time
+PIMS
+20:00:00
+20:00:00
+Children Hospital
+20:01:30
+20:01:50
+TNT
+20:05:00
+20:05:20
+H-8
+20:11:00
+20:11:20
+Kach Naar Park I-8
+20:14:00
+20:14:20
+Sohan
+20:18:00
+20:18:20
+Dhok Kala Khan
+20:20:30
+20:20:50
+Iqbal Town
+20:21:50
+20:22:10
+Kuri Road
+20:23:10
+20:23:30
+Zia Masjid
+20:24:50
+20:25:10
+Khanna Pul
+20:27:40
+20:28:00
+Fazaia
+20:29:20
+20:29:40
+Gangal
+20:31:50
+20:32:10
+Koral Town
+20:34:50
+20:35:10
+Gulberg
+20:38:00
+20:38:00
+Trip ID
+Start Time
+170535-0
+20:05:00
+stop_name
+arrival_time departure_time
+PIMS
+20:05:00
+20:05:00
+Children Hospital
+20:06:30
+20:06:50
+TNT
+20:10:00
+20:10:20
+H-8
+20:16:00
+20:16:20
+Kach Naar Park I-8
+20:19:00
+20:19:20
+Sohan
+20:23:00
+20:23:20
+Dhok Kala Khan
+20:25:30
+20:25:50
+Iqbal Town
+20:26:50
+20:27:10
+Kuri Road
+20:28:10
+20:28:30
+Zia Masjid
+20:29:50
+20:30:10
+Khanna Pul
+20:32:40
+20:33:00
+Fazaia
+20:34:20
+20:34:40
+Gangal
+20:36:50
+20:37:10
+Koral Town
+20:39:50
+20:40:10
+Gulberg
+20:43:00
+20:43:00
+Trip ID
+Start Time
+170536-0
+20:10:00
+stop_name
+arrival_time departure_time
+PIMS
+20:10:00
+20:10:00
+Children Hospital
+20:11:30
+20:11:50
+
+--- PAGE 67 ---
+TNT
+20:15:00
+20:15:20
+H-8
+20:21:00
+20:21:20
+Kach Naar Park I-8
+20:24:00
+20:24:20
+Sohan
+20:28:00
+20:28:20
+Dhok Kala Khan
+20:30:30
+20:30:50
+Iqbal Town
+20:31:50
+20:32:10
+Kuri Road
+20:33:10
+20:33:30
+Zia Masjid
+20:34:50
+20:35:10
+Khanna Pul
+20:37:40
+20:38:00
+Fazaia
+20:39:20
+20:39:40
+Gangal
+20:41:50
+20:42:10
+Koral Town
+20:44:50
+20:45:10
+Gulberg
+20:48:00
+20:48:00
+Trip ID
+Start Time
+170537-0
+20:15:00
+stop_name
+arrival_time departure_time
+PIMS
+20:15:00
+20:15:00
+Children Hospital
+20:16:30
+20:16:50
+TNT
+20:20:00
+20:20:20
+H-8
+20:26:00
+20:26:20
+Kach Naar Park I-8
+20:29:00
+20:29:20
+Sohan
+20:33:00
+20:33:20
+Dhok Kala Khan
+20:35:30
+20:35:50
+Iqbal Town
+20:36:50
+20:37:10
+Kuri Road
+20:38:10
+20:38:30
+Zia Masjid
+20:39:50
+20:40:10
+Khanna Pul
+20:42:40
+20:43:00
+Fazaia
+20:44:20
+20:44:40
+Gangal
+20:46:50
+20:47:10
+Koral Town
+20:49:50
+20:50:10
+Gulberg
+20:53:00
+20:53:00
+Trip ID
+Start Time
+170538-0
+20:20:00
+stop_name
+arrival_time departure_time
+PIMS
+20:20:00
+20:20:00
+Children Hospital
+20:21:30
+20:21:50
+TNT
+20:25:00
+20:25:20
+H-8
+20:31:00
+20:31:20
+Kach Naar Park I-8
+20:34:00
+20:34:20
+Sohan
+20:38:00
+20:38:20
+Dhok Kala Khan
+20:40:30
+20:40:50
+Iqbal Town
+20:41:50
+20:42:10
+Kuri Road
+20:43:10
+20:43:30
+Zia Masjid
+20:44:50
+20:45:10
+Khanna Pul
+20:47:40
+20:48:00
+Fazaia
+20:49:20
+20:49:40
+Gangal
+20:51:50
+20:52:10
+Koral Town
+20:54:50
+20:55:10
+
+--- PAGE 68 ---
+Gulberg
+20:58:00
+20:58:00
+Trip ID
+Start Time
+170539-0
+20:25:00
+stop_name
+arrival_time departure_time
+PIMS
+20:25:00
+20:25:00
+Children Hospital
+20:26:30
+20:26:50
+TNT
+20:30:00
+20:30:20
+H-8
+20:36:00
+20:36:20
+Kach Naar Park I-8
+20:39:00
+20:39:20
+Sohan
+20:43:00
+20:43:20
+Dhok Kala Khan
+20:45:30
+20:45:50
+Iqbal Town
+20:46:50
+20:47:10
+Kuri Road
+20:48:10
+20:48:30
+Zia Masjid
+20:49:50
+20:50:10
+Khanna Pul
+20:52:40
+20:53:00
+Fazaia
+20:54:20
+20:54:40
+Gangal
+20:56:50
+20:57:10
+Koral Town
+20:59:50
+21:00:10
+Gulberg
+21:03:00
+21:03:00
+Trip ID
+Start Time
+170540-0
+20:30:00
+stop_name
+arrival_time departure_time
+PIMS
+20:30:00
+20:30:00
+Children Hospital
+20:31:30
+20:31:50
+TNT
+20:35:00
+20:35:20
+H-8
+20:41:00
+20:41:20
+Kach Naar Park I-8
+20:44:00
+20:44:20
+Sohan
+20:48:00
+20:48:20
+Dhok Kala Khan
+20:50:30
+20:50:50
+Iqbal Town
+20:51:50
+20:52:10
+Kuri Road
+20:53:10
+20:53:30
+Zia Masjid
+20:54:50
+20:55:10
+Khanna Pul
+20:57:40
+20:58:00
+Fazaia
+20:59:20
+20:59:40
+Gangal
+21:01:50
+21:02:10
+Koral Town
+21:04:50
+21:05:10
+Gulberg
+21:08:00
+21:08:00
+Trip ID
+Start Time
+170541-0
+20:35:00
+stop_name
+arrival_time departure_time
+PIMS
+20:35:00
+20:35:00
+Children Hospital
+20:36:30
+20:36:50
+TNT
+20:40:00
+20:40:20
+H-8
+20:46:00
+20:46:20
+Kach Naar Park I-8
+20:49:00
+20:49:20
+Sohan
+20:53:00
+20:53:20
+Dhok Kala Khan
+20:55:30
+20:55:50
+
+--- PAGE 69 ---
+Iqbal Town
+20:56:50
+20:57:10
+Kuri Road
+20:58:10
+20:58:30
+Zia Masjid
+20:59:50
+21:00:10
+Khanna Pul
+21:02:40
+21:03:00
+Fazaia
+21:04:20
+21:04:40
+Gangal
+21:06:50
+21:07:10
+Koral Town
+21:09:50
+21:10:10
+Gulberg
+21:13:00
+21:13:00
+Trip ID
+Start Time
+170542-0
+20:40:00
+stop_name
+arrival_time departure_time
+PIMS
+20:40:00
+20:40:00
+Children Hospital
+20:41:30
+20:41:50
+TNT
+20:45:00
+20:45:20
+H-8
+20:51:00
+20:51:20
+Kach Naar Park I-8
+20:54:00
+20:54:20
+Sohan
+20:58:00
+20:58:20
+Dhok Kala Khan
+21:00:30
+21:00:50
+Iqbal Town
+21:01:50
+21:02:10
+Kuri Road
+21:03:10
+21:03:30
+Zia Masjid
+21:04:50
+21:05:10
+Khanna Pul
+21:07:40
+21:08:00
+Fazaia
+21:09:20
+21:09:40
+Gangal
+21:11:50
+21:12:10
+Koral Town
+21:14:50
+21:15:10
+Gulberg
+21:18:00
+21:18:00
+Trip ID
+Start Time
+170543-0
+20:45:00
+stop_name
+arrival_time departure_time
+PIMS
+20:45:00
+20:45:00
+Children Hospital
+20:46:30
+20:46:50
+TNT
+20:50:00
+20:50:20
+H-8
+20:56:00
+20:56:20
+Kach Naar Park I-8
+20:59:00
+20:59:20
+Sohan
+21:03:00
+21:03:20
+Dhok Kala Khan
+21:05:30
+21:05:50
+Iqbal Town
+21:06:50
+21:07:10
+Kuri Road
+21:08:10
+21:08:30
+Zia Masjid
+21:09:50
+21:10:10
+Khanna Pul
+21:12:40
+21:13:00
+Fazaia
+21:14:20
+21:14:40
+Gangal
+21:16:50
+21:17:10
+Koral Town
+21:19:50
+21:20:10
+Gulberg
+21:23:00
+21:23:00
+Trip ID
+Start Time
+170544-0
+20:50:00
+stop_name
+arrival_time departure_time
+
+--- PAGE 70 ---
+PIMS
+20:50:00
+20:50:00
+Children Hospital
+20:51:30
+20:51:50
+TNT
+20:55:00
+20:55:20
+H-8
+21:01:00
+21:01:20
+Kach Naar Park I-8
+21:04:00
+21:04:20
+Sohan
+21:08:00
+21:08:20
+Dhok Kala Khan
+21:10:30
+21:10:50
+Iqbal Town
+21:11:50
+21:12:10
+Kuri Road
+21:13:10
+21:13:30
+Zia Masjid
+21:14:50
+21:15:10
+Khanna Pul
+21:17:40
+21:18:00
+Fazaia
+21:19:20
+21:19:40
+Gangal
+21:21:50
+21:22:10
+Koral Town
+21:24:50
+21:25:10
+Gulberg
+21:28:00
+21:28:00
+Trip ID
+Start Time
+170545-0
+20:55:00
+stop_name
+arrival_time departure_time
+PIMS
+20:55:00
+20:55:00
+Children Hospital
+20:56:30
+20:56:50
+TNT
+21:00:00
+21:00:20
+H-8
+21:06:00
+21:06:20
+Kach Naar Park I-8
+21:09:00
+21:09:20
+Sohan
+21:13:00
+21:13:20
+Dhok Kala Khan
+21:15:30
+21:15:50
+Iqbal Town
+21:16:50
+21:17:10
+Kuri Road
+21:18:10
+21:18:30
+Zia Masjid
+21:19:50
+21:20:10
+Khanna Pul
+21:22:40
+21:23:00
+Fazaia
+21:24:20
+21:24:40
+Gangal
+21:26:50
+21:27:10
+Koral Town
+21:29:50
+21:30:10
+Gulberg
+21:33:00
+21:33:00
+Trip ID
+Start Time
+170546-0
+21:00:00
+stop_name
+arrival_time departure_time
+PIMS
+21:00:00
+21:00:00
+Children Hospital
+21:01:30
+21:01:50
+TNT
+21:05:00
+21:05:20
+H-8
+21:11:00
+21:11:20
+Kach Naar Park I-8
+21:14:00
+21:14:20
+Sohan
+21:18:00
+21:18:20
+Dhok Kala Khan
+21:20:30
+21:20:50
+Iqbal Town
+21:21:50
+21:22:10
+Kuri Road
+21:23:10
+21:23:30
+Zia Masjid
+21:24:50
+21:25:10
+Khanna Pul
+21:27:40
+21:28:00
+Fazaia
+21:29:20
+21:29:40
+
+--- PAGE 71 ---
+Gangal
+21:31:50
+21:32:10
+Koral Town
+21:34:50
+21:35:10
+Gulberg
+21:38:00
+21:38:00
+Trip ID
+Start Time
+170547-0
+21:05:00
+stop_name
+arrival_time departure_time
+PIMS
+21:05:00
+21:05:00
+Children Hospital
+21:06:30
+21:06:50
+TNT
+21:10:00
+21:10:20
+H-8
+21:16:00
+21:16:20
+Kach Naar Park I-8
+21:19:00
+21:19:20
+Sohan
+21:23:00
+21:23:20
+Dhok Kala Khan
+21:25:30
+21:25:50
+Iqbal Town
+21:26:50
+21:27:10
+Kuri Road
+21:28:10
+21:28:30
+Zia Masjid
+21:29:50
+21:30:10
+Khanna Pul
+21:32:40
+21:33:00
+Fazaia
+21:34:20
+21:34:40
+Gangal
+21:36:50
+21:37:10
+Koral Town
+21:39:50
+21:40:10
+Gulberg
+21:43:00
+21:43:00
+Trip ID
+Start Time
+170548-0
+21:10:00
+stop_name
+arrival_time departure_time
+PIMS
+21:10:00
+21:10:00
+Children Hospital
+21:11:30
+21:11:50
+TNT
+21:15:00
+21:15:20
+H-8
+21:21:00
+21:21:20
+Kach Naar Park I-8
+21:24:00
+21:24:20
+Sohan
+21:28:00
+21:28:20
+Dhok Kala Khan
+21:30:30
+21:30:50
+Iqbal Town
+21:31:50
+21:32:10
+Kuri Road
+21:33:10
+21:33:30
+Zia Masjid
+21:34:50
+21:35:10
+Khanna Pul
+21:37:40
+21:38:00
+Fazaia
+21:39:20
+21:39:40
+Gangal
+21:41:50
+21:42:10
+Koral Town
+21:44:50
+21:45:10
+Gulberg
+21:48:00
+21:48:00
+Trip ID
+Start Time
+170549-0
+21:15:00
+stop_name
+arrival_time departure_time
+PIMS
+21:15:00
+21:15:00
+Children Hospital
+21:16:30
+21:16:50
+TNT
+21:20:00
+21:20:20
+H-8
+21:26:00
+21:26:20
+Kach Naar Park I-8
+21:29:00
+21:29:20
+
+--- PAGE 72 ---
+Sohan
+21:33:00
+21:33:20
+Dhok Kala Khan
+21:35:30
+21:35:50
+Iqbal Town
+21:36:50
+21:37:10
+Kuri Road
+21:38:10
+21:38:30
+Zia Masjid
+21:39:50
+21:40:10
+Khanna Pul
+21:42:40
+21:43:00
+Fazaia
+21:44:20
+21:44:40
+Gangal
+21:46:50
+21:47:10
+Koral Town
+21:49:50
+21:50:10
+Gulberg
+21:53:00
+21:53:00
+Trip ID
+Start Time
+170550-0
+21:20:00
+stop_name
+arrival_time departure_time
+PIMS
+21:20:00
+21:20:00
+Children Hospital
+21:21:30
+21:21:50
+TNT
+21:25:00
+21:25:20
+H-8
+21:31:00
+21:31:20
+Kach Naar Park I-8
+21:34:00
+21:34:20
+Sohan
+21:38:00
+21:38:20
+Dhok Kala Khan
+21:40:30
+21:40:50
+Iqbal Town
+21:41:50
+21:42:10
+Kuri Road
+21:43:10
+21:43:30
+Zia Masjid
+21:44:50
+21:45:10
+Khanna Pul
+21:47:40
+21:48:00
+Fazaia
+21:49:20
+21:49:40
+Gangal
+21:51:50
+21:52:10
+Koral Town
+21:54:50
+21:55:10
+Gulberg
+21:58:00
+21:58:00
+Trip ID
+Start Time
+170551-0
+21:25:00
+stop_name
+arrival_time departure_time
+PIMS
+21:25:00
+21:25:00
+Children Hospital
+21:26:30
+21:26:50
+TNT
+21:30:00
+21:30:20
+H-8
+21:36:00
+21:36:20
+Kach Naar Park I-8
+21:39:00
+21:39:20
+Sohan
+21:43:00
+21:43:20
+Dhok Kala Khan
+21:45:30
+21:45:50
+Iqbal Town
+21:46:50
+21:47:10
+Kuri Road
+21:48:10
+21:48:30
+Zia Masjid
+21:49:50
+21:50:10
+Khanna Pul
+21:52:40
+21:53:00
+Fazaia
+21:54:20
+21:54:40
+Gangal
+21:56:50
+21:57:10
+Koral Town
+21:59:50
+22:00:10
+Gulberg
+22:03:00
+22:03:00
+Trip ID
+Start Time
+
+--- PAGE 73 ---
+170552-0
+21:30:00
+stop_name
+arrival_time departure_time
+PIMS
+21:30:00
+21:30:00
+Children Hospital
+21:31:30
+21:31:50
+TNT
+21:35:00
+21:35:20
+H-8
+21:41:00
+21:41:20
+Kach Naar Park I-8
+21:44:00
+21:44:20
+Sohan
+21:48:00
+21:48:20
+Dhok Kala Khan
+21:50:30
+21:50:50
+Iqbal Town
+21:51:50
+21:52:10
+Kuri Road
+21:53:10
+21:53:30
+Zia Masjid
+21:54:50
+21:55:10
+Khanna Pul
+21:57:40
+21:58:00
+Fazaia
+21:59:20
+21:59:40
+Gangal
+22:01:50
+22:02:10
+Koral Town
+22:04:50
+22:05:10
+Gulberg
+22:08:00
+22:08:00
+Trip ID
+Start Time
+170553-0
+21:35:00
+stop_name
+arrival_time departure_time
+PIMS
+21:35:00
+21:35:00
+Children Hospital
+21:36:30
+21:36:50
+TNT
+21:40:00
+21:40:20
+H-8
+21:46:00
+21:46:20
+Kach Naar Park I-8
+21:49:00
+21:49:20
+Sohan
+21:53:00
+21:53:20
+Dhok Kala Khan
+21:55:30
+21:55:50
+Iqbal Town
+21:56:50
+21:57:10
+Kuri Road
+21:58:10
+21:58:30
+Zia Masjid
+21:59:50
+22:00:10
+Khanna Pul
+22:02:40
+22:03:00
+Fazaia
+22:04:20
+22:04:40
+Gangal
+22:06:50
+22:07:10
+Koral Town
+22:09:50
+22:10:10
+Gulberg
+22:13:00
+22:13:00
+Trip ID
+Start Time
+170554-0
+21:40:00
+stop_name
+arrival_time departure_time
+PIMS
+21:40:00
+21:40:00
+Children Hospital
+21:41:30
+21:41:50
+TNT
+21:45:00
+21:45:20
+H-8
+21:51:00
+21:51:20
+Kach Naar Park I-8
+21:54:00
+21:54:20
+Sohan
+21:58:00
+21:58:20
+Dhok Kala Khan
+22:00:30
+22:00:50
+Iqbal Town
+22:01:50
+22:02:10
+Kuri Road
+22:03:10
+22:03:30
+Zia Masjid
+22:04:50
+22:05:10
+
+--- PAGE 74 ---
+Khanna Pul
+22:07:40
+22:08:00
+Fazaia
+22:09:20
+22:09:40
+Gangal
+22:11:50
+22:12:10
+Koral Town
+22:14:50
+22:15:10
+Gulberg
+22:18:00
+22:18:00
+Trip ID
+Start Time
+170555-0
+21:45:00
+stop_name
+arrival_time departure_time
+PIMS
+21:45:00
+21:45:00
+Children Hospital
+21:46:30
+21:46:50
+TNT
+21:50:00
+21:50:20
+H-8
+21:56:00
+21:56:20
+Kach Naar Park I-8
+21:59:00
+21:59:20
+Sohan
+22:03:00
+22:03:20
+Dhok Kala Khan
+22:05:30
+22:05:50
+Iqbal Town
+22:06:50
+22:07:10
+Kuri Road
+22:08:10
+22:08:30
+Zia Masjid
+22:09:50
+22:10:10
+Khanna Pul
+22:12:40
+22:13:00
+Fazaia
+22:14:20
+22:14:40
+Gangal
+22:16:50
+22:17:10
+Koral Town
+22:19:50
+22:20:10
+Gulberg
+22:23:00
+22:23:00
+Trip ID
+Start Time
+170556-0
+21:50:00
+stop_name
+arrival_time departure_time
+PIMS
+21:50:00
+21:50:00
+Children Hospital
+21:51:30
+21:51:50
+TNT
+21:55:00
+21:55:20
+H-8
+22:01:00
+22:01:20
+Kach Naar Park I-8
+22:04:00
+22:04:20
+Sohan
+22:08:00
+22:08:20
+Dhok Kala Khan
+22:10:30
+22:10:50
+Iqbal Town
+22:11:50
+22:12:10
+Kuri Road
+22:13:10
+22:13:30
+Zia Masjid
+22:14:50
+22:15:10
+Khanna Pul
+22:17:40
+22:18:00
+Fazaia
+22:19:20
+22:19:40
+Gangal
+22:21:50
+22:22:10
+Koral Town
+22:24:50
+22:25:10
+Gulberg
+22:28:00
+22:28:00
+Trip ID
+Start Time
+170557-0
+21:55:00
+stop_name
+arrival_time departure_time
+PIMS
+21:55:00
+21:55:00
+Children Hospital
+21:56:30
+21:56:50
+TNT
+22:00:00
+22:00:20
+
+--- PAGE 75 ---
+H-8
+22:06:00
+22:06:20
+Kach Naar Park I-8
+22:09:00
+22:09:20
+Sohan
+22:13:00
+22:13:20
+Dhok Kala Khan
+22:15:30
+22:15:50
+Iqbal Town
+22:16:50
+22:17:10
+Kuri Road
+22:18:10
+22:18:30
+Zia Masjid
+22:19:50
+22:20:10
+Khanna Pul
+22:22:40
+22:23:00
+Fazaia
+22:24:20
+22:24:40
+Gangal
+22:26:50
+22:27:10
+Koral Town
+22:29:50
+22:30:10
+Gulberg
+22:33:00
+22:33:00
+Trip ID
+Start Time
+170558-0
+22:00:00
+stop_name
+arrival_time departure_time
+PIMS
+22:00:00
+22:00:00
+Children Hospital
+22:01:30
+22:01:50
+TNT
+22:05:00
+22:05:20
+H-8
+22:11:00
+22:11:20
+Kach Naar Park I-8
+22:14:00
+22:14:20
+Sohan
+22:18:00
+22:18:20
+Dhok Kala Khan
+22:20:30
+22:20:50
+Iqbal Town
+22:21:50
+22:22:10
+Kuri Road
+22:23:10
+22:23:30
+Zia Masjid
+22:24:50
+22:25:10
+Khanna Pul
+22:27:40
+22:28:00
+Fazaia
+22:29:20
+22:29:40
+Gangal
+22:31:50
+22:32:10
+Koral Town
+22:34:50
+22:35:10
+Gulberg
+22:38:00
+22:38:00

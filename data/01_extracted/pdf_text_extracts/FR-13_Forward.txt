@@ -1,0 +1,1227 @@
+--- PAGE 1 ---
+Field
+Value
+Route ID
+10013
+Short Name
+FR-13
+Long Name
+ Golara Morh Station to Fateh Jang
+Direction
+Forward
+Total Trips
+13
+Average Headway (min)
+60
+Trip ID
+Start Time
+175806-0
+06:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 06:00:00
+06:00:00
+N-5 Metro Station
+06:02:15
+06:02:35
+G-15/H-15
+06:04:15
+06:04:35
+G-16/H-16
+06:06:45
+06:07:50
+G-16/1
+06:09:45
+06:10:05
+Masjid Abu Al Qasim
+06:12:25
+06:12:45
+Top City
+06:15:55
+06:16:15
+Mumtaz City
+06:17:35
+06:17:55
+Airport Enclave
+06:20:10
+06:20:30
+Madni Chowk
+06:24:20
+06:24:40
+Dhuma
+06:26:50
+06:27:10
+PECHS
+06:29:50
+06:30:10
+Mohri Patak
+06:33:10
+06:33:30
+Dhok Miskeen
+06:35:30
+06:35:50
+Mangial Link Road 1
+06:39:05
+06:39:25
+Graceland Housing Society 06:42:35
+06:42:55
+Mangial Link Road 2
+06:45:20
+06:45:40
+Mangial Main Stop
+06:48:00
+06:48:20
+Doiyan
+06:49:35
+06:49:55
+Qutbal
+06:52:25
+06:52:45
+Bangu Chowk
+06:54:25
+06:54:45
+Afridi Bagh
+06:56:20
+06:56:40
+Hattar
+06:57:55
+06:58:15
+Prem Nagar Faqeeran
+06:59:25
+06:59:45
+Garhi Hasu Khan
+07:00:40
+07:01:00
+The Avanue 03
+07:02:40
+07:03:00
+Akram City
+07:06:10
+07:06:30
+Civil CT Road
+07:08:00
+07:08:20
+Fateh Jang
+07:10:30
+07:10:50
+Trip ID
+Start Time
+175807-0
+07:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 07:00:00
+07:00:00
+N-5 Metro Station
+07:02:15
+07:02:35
+G-15/H-15
+07:04:15
+07:04:35
+G-16/H-16
+07:06:45
+07:07:50
+G-16/1
+07:09:45
+07:10:05
+Masjid Abu Al Qasim
+07:12:25
+07:12:45
+
+--- PAGE 2 ---
+Top City
+07:15:55
+07:16:15
+Mumtaz City
+07:17:35
+07:17:55
+Airport Enclave
+07:20:10
+07:20:30
+Madni Chowk
+07:24:20
+07:24:40
+Dhuma
+07:26:50
+07:27:10
+PECHS
+07:29:50
+07:30:10
+Mohri Patak
+07:33:10
+07:33:30
+Dhok Miskeen
+07:35:30
+07:35:50
+Mangial Link Road 1
+07:39:05
+07:39:25
+Graceland Housing Society 07:42:35
+07:42:55
+Mangial Link Road 2
+07:45:20
+07:45:40
+Mangial Main Stop
+07:48:00
+07:48:20
+Doiyan
+07:49:35
+07:49:55
+Qutbal
+07:52:25
+07:52:45
+Bangu Chowk
+07:54:25
+07:54:45
+Afridi Bagh
+07:56:20
+07:56:40
+Hattar
+07:57:55
+07:58:15
+Prem Nagar Faqeeran
+07:59:25
+07:59:45
+Garhi Hasu Khan
+08:00:40
+08:01:00
+The Avanue 03
+08:02:40
+08:03:00
+Akram City
+08:06:10
+08:06:30
+Civil CT Road
+08:08:00
+08:08:20
+Fateh Jang
+08:10:30
+08:10:50
+Trip ID
+Start Time
+175808-0
+08:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 08:00:00
+08:00:00
+N-5 Metro Station
+08:02:15
+08:02:35
+G-15/H-15
+08:04:15
+08:04:35
+G-16/H-16
+08:06:45
+08:07:50
+G-16/1
+08:09:45
+08:10:05
+Masjid Abu Al Qasim
+08:12:25
+08:12:45
+Top City
+08:15:55
+08:16:15
+Mumtaz City
+08:17:35
+08:17:55
+Airport Enclave
+08:20:10
+08:20:30
+Madni Chowk
+08:24:20
+08:24:40
+Dhuma
+08:26:50
+08:27:10
+PECHS
+08:29:50
+08:30:10
+Mohri Patak
+08:33:10
+08:33:30
+Dhok Miskeen
+08:35:30
+08:35:50
+Mangial Link Road 1
+08:39:05
+08:39:25
+Graceland Housing Society 08:42:35
+08:42:55
+Mangial Link Road 2
+08:45:20
+08:45:40
+Mangial Main Stop
+08:48:00
+08:48:20
+Doiyan
+08:49:35
+08:49:55
+Qutbal
+08:52:25
+08:52:45
+Bangu Chowk
+08:54:25
+08:54:45
+Afridi Bagh
+08:56:20
+08:56:40
+Hattar
+08:57:55
+08:58:15
+
+--- PAGE 3 ---
+Prem Nagar Faqeeran
+08:59:25
+08:59:45
+Garhi Hasu Khan
+09:00:40
+09:01:00
+The Avanue 03
+09:02:40
+09:03:00
+Akram City
+09:06:10
+09:06:30
+Civil CT Road
+09:08:00
+09:08:20
+Fateh Jang
+09:10:30
+09:10:50
+Trip ID
+Start Time
+175809-0
+09:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 09:00:00
+09:00:00
+N-5 Metro Station
+09:02:15
+09:02:35
+G-15/H-15
+09:04:15
+09:04:35
+G-16/H-16
+09:06:45
+09:07:50
+G-16/1
+09:09:45
+09:10:05
+Masjid Abu Al Qasim
+09:12:25
+09:12:45
+Top City
+09:15:55
+09:16:15
+Mumtaz City
+09:17:35
+09:17:55
+Airport Enclave
+09:20:10
+09:20:30
+Madni Chowk
+09:24:20
+09:24:40
+Dhuma
+09:26:50
+09:27:10
+PECHS
+09:29:50
+09:30:10
+Mohri Patak
+09:33:10
+09:33:30
+Dhok Miskeen
+09:35:30
+09:35:50
+Mangial Link Road 1
+09:39:05
+09:39:25
+Graceland Housing Society 09:42:35
+09:42:55
+Mangial Link Road 2
+09:45:20
+09:45:40
+Mangial Main Stop
+09:48:00
+09:48:20
+Doiyan
+09:49:35
+09:49:55
+Qutbal
+09:52:25
+09:52:45
+Bangu Chowk
+09:54:25
+09:54:45
+Afridi Bagh
+09:56:20
+09:56:40
+Hattar
+09:57:55
+09:58:15
+Prem Nagar Faqeeran
+09:59:25
+09:59:45
+Garhi Hasu Khan
+10:00:40
+10:01:00
+The Avanue 03
+10:02:40
+10:03:00
+Akram City
+10:06:10
+10:06:30
+Civil CT Road
+10:08:00
+10:08:20
+Fateh Jang
+10:10:30
+10:10:50
+Trip ID
+Start Time
+175810-0
+10:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 10:00:00
+10:00:00
+N-5 Metro Station
+10:02:15
+10:02:35
+G-15/H-15
+10:04:15
+10:04:35
+G-16/H-16
+10:06:45
+10:07:50
+G-16/1
+10:09:45
+10:10:05
+Masjid Abu Al Qasim
+10:12:25
+10:12:45
+Top City
+10:15:55
+10:16:15
+
+--- PAGE 4 ---
+Mumtaz City
+10:17:35
+10:17:55
+Airport Enclave
+10:20:10
+10:20:30
+Madni Chowk
+10:24:20
+10:24:40
+Dhuma
+10:26:50
+10:27:10
+PECHS
+10:29:50
+10:30:10
+Mohri Patak
+10:33:10
+10:33:30
+Dhok Miskeen
+10:35:30
+10:35:50
+Mangial Link Road 1
+10:39:05
+10:39:25
+Graceland Housing Society 10:42:35
+10:42:55
+Mangial Link Road 2
+10:45:20
+10:45:40
+Mangial Main Stop
+10:48:00
+10:48:20
+Doiyan
+10:49:35
+10:49:55
+Qutbal
+10:52:25
+10:52:45
+Bangu Chowk
+10:54:25
+10:54:45
+Afridi Bagh
+10:56:20
+10:56:40
+Hattar
+10:57:55
+10:58:15
+Prem Nagar Faqeeran
+10:59:25
+10:59:45
+Garhi Hasu Khan
+11:00:40
+11:01:00
+The Avanue 03
+11:02:40
+11:03:00
+Akram City
+11:06:10
+11:06:30
+Civil CT Road
+11:08:00
+11:08:20
+Fateh Jang
+11:10:30
+11:10:50
+Trip ID
+Start Time
+175811-0
+11:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 11:00:00
+11:00:00
+N-5 Metro Station
+11:02:15
+11:02:35
+G-15/H-15
+11:04:15
+11:04:35
+G-16/H-16
+11:06:45
+11:07:50
+G-16/1
+11:09:45
+11:10:05
+Masjid Abu Al Qasim
+11:12:25
+11:12:45
+Top City
+11:15:55
+11:16:15
+Mumtaz City
+11:17:35
+11:17:55
+Airport Enclave
+11:20:10
+11:20:30
+Madni Chowk
+11:24:20
+11:24:40
+Dhuma
+11:26:50
+11:27:10
+PECHS
+11:29:50
+11:30:10
+Mohri Patak
+11:33:10
+11:33:30
+Dhok Miskeen
+11:35:30
+11:35:50
+Mangial Link Road 1
+11:39:05
+11:39:25
+Graceland Housing Society 11:42:35
+11:42:55
+Mangial Link Road 2
+11:45:20
+11:45:40
+Mangial Main Stop
+11:48:00
+11:48:20
+Doiyan
+11:49:35
+11:49:55
+Qutbal
+11:52:25
+11:52:45
+Bangu Chowk
+11:54:25
+11:54:45
+Afridi Bagh
+11:56:20
+11:56:40
+Hattar
+11:57:55
+11:58:15
+Prem Nagar Faqeeran
+11:59:25
+11:59:45
+
+--- PAGE 5 ---
+Garhi Hasu Khan
+12:00:40
+12:01:00
+The Avanue 03
+12:02:40
+12:03:00
+Akram City
+12:06:10
+12:06:30
+Civil CT Road
+12:08:00
+12:08:20
+Fateh Jang
+12:10:30
+12:10:50
+Trip ID
+Start Time
+175812-0
+12:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 12:00:00
+12:00:00
+N-5 Metro Station
+12:02:15
+12:02:35
+G-15/H-15
+12:04:15
+12:04:35
+G-16/H-16
+12:06:45
+12:07:50
+G-16/1
+12:09:45
+12:10:05
+Masjid Abu Al Qasim
+12:12:25
+12:12:45
+Top City
+12:15:55
+12:16:15
+Mumtaz City
+12:17:35
+12:17:55
+Airport Enclave
+12:20:10
+12:20:30
+Madni Chowk
+12:24:20
+12:24:40
+Dhuma
+12:26:50
+12:27:10
+PECHS
+12:29:50
+12:30:10
+Mohri Patak
+12:33:10
+12:33:30
+Dhok Miskeen
+12:35:30
+12:35:50
+Mangial Link Road 1
+12:39:05
+12:39:25
+Graceland Housing Society 12:42:35
+12:42:55
+Mangial Link Road 2
+12:45:20
+12:45:40
+Mangial Main Stop
+12:48:00
+12:48:20
+Doiyan
+12:49:35
+12:49:55
+Qutbal
+12:52:25
+12:52:45
+Bangu Chowk
+12:54:25
+12:54:45
+Afridi Bagh
+12:56:20
+12:56:40
+Hattar
+12:57:55
+12:58:15
+Prem Nagar Faqeeran
+12:59:25
+12:59:45
+Garhi Hasu Khan
+13:00:40
+13:01:00
+The Avanue 03
+13:02:40
+13:03:00
+Akram City
+13:06:10
+13:06:30
+Civil CT Road
+13:08:00
+13:08:20
+Fateh Jang
+13:10:30
+13:10:50
+Trip ID
+Start Time
+175813-0
+13:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 13:00:00
+13:00:00
+N-5 Metro Station
+13:02:15
+13:02:35
+G-15/H-15
+13:04:15
+13:04:35
+G-16/H-16
+13:06:45
+13:07:50
+G-16/1
+13:09:45
+13:10:05
+Masjid Abu Al Qasim
+13:12:25
+13:12:45
+Top City
+13:15:55
+13:16:15
+Mumtaz City
+13:17:35
+13:17:55
+
+--- PAGE 6 ---
+Airport Enclave
+13:20:10
+13:20:30
+Madni Chowk
+13:24:20
+13:24:40
+Dhuma
+13:26:50
+13:27:10
+PECHS
+13:29:50
+13:30:10
+Mohri Patak
+13:33:10
+13:33:30
+Dhok Miskeen
+13:35:30
+13:35:50
+Mangial Link Road 1
+13:39:05
+13:39:25
+Graceland Housing Society 13:42:35
+13:42:55
+Mangial Link Road 2
+13:45:20
+13:45:40
+Mangial Main Stop
+13:48:00
+13:48:20
+Doiyan
+13:49:35
+13:49:55
+Qutbal
+13:52:25
+13:52:45
+Bangu Chowk
+13:54:25
+13:54:45
+Afridi Bagh
+13:56:20
+13:56:40
+Hattar
+13:57:55
+13:58:15
+Prem Nagar Faqeeran
+13:59:25
+13:59:45
+Garhi Hasu Khan
+14:00:40
+14:01:00
+The Avanue 03
+14:02:40
+14:03:00
+Akram City
+14:06:10
+14:06:30
+Civil CT Road
+14:08:00
+14:08:20
+Fateh Jang
+14:10:30
+14:10:50
+Trip ID
+Start Time
+175814-0
+14:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 14:00:00
+14:00:00
+N-5 Metro Station
+14:02:15
+14:02:35
+G-15/H-15
+14:04:15
+14:04:35
+G-16/H-16
+14:06:45
+14:07:50
+G-16/1
+14:09:45
+14:10:05
+Masjid Abu Al Qasim
+14:12:25
+14:12:45
+Top City
+14:15:55
+14:16:15
+Mumtaz City
+14:17:35
+14:17:55
+Airport Enclave
+14:20:10
+14:20:30
+Madni Chowk
+14:24:20
+14:24:40
+Dhuma
+14:26:50
+14:27:10
+PECHS
+14:29:50
+14:30:10
+Mohri Patak
+14:33:10
+14:33:30
+Dhok Miskeen
+14:35:30
+14:35:50
+Mangial Link Road 1
+14:39:05
+14:39:25
+Graceland Housing Society 14:42:35
+14:42:55
+Mangial Link Road 2
+14:45:20
+14:45:40
+Mangial Main Stop
+14:48:00
+14:48:20
+Doiyan
+14:49:35
+14:49:55
+Qutbal
+14:52:25
+14:52:45
+Bangu Chowk
+14:54:25
+14:54:45
+Afridi Bagh
+14:56:20
+14:56:40
+Hattar
+14:57:55
+14:58:15
+Prem Nagar Faqeeran
+14:59:25
+14:59:45
+Garhi Hasu Khan
+15:00:40
+15:01:00
+
+--- PAGE 7 ---
+The Avanue 03
+15:02:40
+15:03:00
+Akram City
+15:06:10
+15:06:30
+Civil CT Road
+15:08:00
+15:08:20
+Fateh Jang
+15:10:30
+15:10:50
+Trip ID
+Start Time
+175815-0
+15:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 15:00:00
+15:00:00
+N-5 Metro Station
+15:02:15
+15:02:35
+G-15/H-15
+15:04:15
+15:04:35
+G-16/H-16
+15:06:45
+15:07:50
+G-16/1
+15:09:45
+15:10:05
+Masjid Abu Al Qasim
+15:12:25
+15:12:45
+Top City
+15:15:55
+15:16:15
+Mumtaz City
+15:17:35
+15:17:55
+Airport Enclave
+15:20:10
+15:20:30
+Madni Chowk
+15:24:20
+15:24:40
+Dhuma
+15:26:50
+15:27:10
+PECHS
+15:29:50
+15:30:10
+Mohri Patak
+15:33:10
+15:33:30
+Dhok Miskeen
+15:35:30
+15:35:50
+Mangial Link Road 1
+15:39:05
+15:39:25
+Graceland Housing Society 15:42:35
+15:42:55
+Mangial Link Road 2
+15:45:20
+15:45:40
+Mangial Main Stop
+15:48:00
+15:48:20
+Doiyan
+15:49:35
+15:49:55
+Qutbal
+15:52:25
+15:52:45
+Bangu Chowk
+15:54:25
+15:54:45
+Afridi Bagh
+15:56:20
+15:56:40
+Hattar
+15:57:55
+15:58:15
+Prem Nagar Faqeeran
+15:59:25
+15:59:45
+Garhi Hasu Khan
+16:00:40
+16:01:00
+The Avanue 03
+16:02:40
+16:03:00
+Akram City
+16:06:10
+16:06:30
+Civil CT Road
+16:08:00
+16:08:20
+Fateh Jang
+16:10:30
+16:10:50
+Trip ID
+Start Time
+175816-0
+16:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 16:00:00
+16:00:00
+N-5 Metro Station
+16:02:15
+16:02:35
+G-15/H-15
+16:04:15
+16:04:35
+G-16/H-16
+16:06:45
+16:07:50
+G-16/1
+16:09:45
+16:10:05
+Masjid Abu Al Qasim
+16:12:25
+16:12:45
+Top City
+16:15:55
+16:16:15
+Mumtaz City
+16:17:35
+16:17:55
+Airport Enclave
+16:20:10
+16:20:30
+
+--- PAGE 8 ---
+Madni Chowk
+16:24:20
+16:24:40
+Dhuma
+16:26:50
+16:27:10
+PECHS
+16:29:50
+16:30:10
+Mohri Patak
+16:33:10
+16:33:30
+Dhok Miskeen
+16:35:30
+16:35:50
+Mangial Link Road 1
+16:39:05
+16:39:25
+Graceland Housing Society 16:42:35
+16:42:55
+Mangial Link Road 2
+16:45:20
+16:45:40
+Mangial Main Stop
+16:48:00
+16:48:20
+Doiyan
+16:49:35
+16:49:55
+Qutbal
+16:52:25
+16:52:45
+Bangu Chowk
+16:54:25
+16:54:45
+Afridi Bagh
+16:56:20
+16:56:40
+Hattar
+16:57:55
+16:58:15
+Prem Nagar Faqeeran
+16:59:25
+16:59:45
+Garhi Hasu Khan
+17:00:40
+17:01:00
+The Avanue 03
+17:02:40
+17:03:00
+Akram City
+17:06:10
+17:06:30
+Civil CT Road
+17:08:00
+17:08:20
+Fateh Jang
+17:10:30
+17:10:50
+Trip ID
+Start Time
+175817-0
+17:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 17:00:00
+17:00:00
+N-5 Metro Station
+17:02:15
+17:02:35
+G-15/H-15
+17:04:15
+17:04:35
+G-16/H-16
+17:06:45
+17:07:50
+G-16/1
+17:09:45
+17:10:05
+Masjid Abu Al Qasim
+17:12:25
+17:12:45
+Top City
+17:15:55
+17:16:15
+Mumtaz City
+17:17:35
+17:17:55
+Airport Enclave
+17:20:10
+17:20:30
+Madni Chowk
+17:24:20
+17:24:40
+Dhuma
+17:26:50
+17:27:10
+PECHS
+17:29:50
+17:30:10
+Mohri Patak
+17:33:10
+17:33:30
+Dhok Miskeen
+17:35:30
+17:35:50
+Mangial Link Road 1
+17:39:05
+17:39:25
+Graceland Housing Society 17:42:35
+17:42:55
+Mangial Link Road 2
+17:45:20
+17:45:40
+Mangial Main Stop
+17:48:00
+17:48:20
+Doiyan
+17:49:35
+17:49:55
+Qutbal
+17:52:25
+17:52:45
+Bangu Chowk
+17:54:25
+17:54:45
+Afridi Bagh
+17:56:20
+17:56:40
+Hattar
+17:57:55
+17:58:15
+Prem Nagar Faqeeran
+17:59:25
+17:59:45
+Garhi Hasu Khan
+18:00:40
+18:01:00
+The Avanue 03
+18:02:40
+18:03:00
+
+--- PAGE 9 ---
+Akram City
+18:06:10
+18:06:30
+Civil CT Road
+18:08:00
+18:08:20
+Fateh Jang
+18:10:30
+18:10:50
+Trip ID
+Start Time
+175818-0
+18:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh Metro Station 18:00:00
+18:00:00
+N-5 Metro Station
+18:02:15
+18:02:35
+G-15/H-15
+18:04:15
+18:04:35
+G-16/H-16
+18:06:45
+18:07:50
+G-16/1
+18:09:45
+18:10:05
+Masjid Abu Al Qasim
+18:12:25
+18:12:45
+Top City
+18:15:55
+18:16:15
+Mumtaz City
+18:17:35
+18:17:55
+Airport Enclave
+18:20:10
+18:20:30
+Madni Chowk
+18:24:20
+18:24:40
+Dhuma
+18:26:50
+18:27:10
+PECHS
+18:29:50
+18:30:10
+Mohri Patak
+18:33:10
+18:33:30
+Dhok Miskeen
+18:35:30
+18:35:50
+Mangial Link Road 1
+18:39:05
+18:39:25
+Graceland Housing Society 18:42:35
+18:42:55
+Mangial Link Road 2
+18:45:20
+18:45:40
+Mangial Main Stop
+18:48:00
+18:48:20
+Doiyan
+18:49:35
+18:49:55
+Qutbal
+18:52:25
+18:52:45
+Bangu Chowk
+18:54:25
+18:54:45
+Afridi Bagh
+18:56:20
+18:56:40
+Hattar
+18:57:55
+18:58:15
+Prem Nagar Faqeeran
+18:59:25
+18:59:45
+Garhi Hasu Khan
+19:00:40
+19:01:00
+The Avanue 03
+19:02:40
+19:03:00
+Akram City
+19:06:10
+19:06:30
+Civil CT Road
+19:08:00
+19:08:20
+Fateh Jang
+19:10:30
+19:10:50

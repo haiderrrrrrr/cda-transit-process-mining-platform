@@ -1,0 +1,17 @@
+{
+  "missing_files": [],
+  "pdf_count": 21,
+  "source_pdf_files_present": false,
+  "coverage_rows": 21,
+  "all_pdfs_covered": true,
+  "coverage_all_pass": true,
+  "route_count": 21,
+  "event_rows": 26450,
+  "trip_count": 1509,
+  "transition_edge_count": 372,
+  "no_negative_trip_durations": true,
+  "no_negative_transition_durations": true,
+  "xes_version": "1.0",
+  "xes_version_is_1_0": true,
+  "passed": true
+}

@@ -1,0 +1,998 @@
+--- PAGE 1 ---
+Field
+Value
+Route ID
+10001
+Short Name
+FR-01
+Long Name
+Khana Pul to NUST 
+Direction
+Forward
+Total Trips
+17
+Average Headway (min)
+60
+Trip ID
+Start Time
+176064-0
+06:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+06:00:00
+06:00:00
+Police Foundation Metro Station06:01:50
+06:02:10
+NPA Stop
+06:04:40
+06:05:00
+Islamic University
+06:07:20
+06:07:40
+FAST University
+06:10:20
+06:10:40
+PAEC General Hospital
+06:13:00
+06:13:20
+IMC Hospital
+06:15:05
+06:15:25
+Metro CNC
+06:17:45
+06:18:05
+Sabzi Mandi
+06:19:25
+06:19:45
+Mandi Morh
+06:22:15
+06:22:35
+Kurang Road Stop
+06:24:00
+06:24:20
+IESCO
+06:26:00
+06:26:20
+PTCL I-10
+06:27:50
+06:28:10
+Sui Gas Stop
+06:29:35
+06:29:55
+OGTI Stop
+06:35:25
+06:35:45
+CDA Complain Center
+06:39:35
+06:39:55
+MCI Model School
+06:45:00
+06:45:00
+Trip ID
+Start Time
+176065-0
+07:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+07:00:00
+07:00:00
+Police Foundation Metro Station07:01:50
+07:02:10
+NPA Stop
+07:04:40
+07:05:00
+Islamic University
+07:07:20
+07:07:40
+FAST University
+07:10:20
+07:10:40
+PAEC General Hospital
+07:13:00
+07:13:20
+IMC Hospital
+07:15:05
+07:15:25
+Metro CNC
+07:17:45
+07:18:05
+Sabzi Mandi
+07:19:25
+07:19:45
+Mandi Morh
+07:22:15
+07:22:35
+Kurang Road Stop
+07:24:00
+07:24:20
+IESCO
+07:26:00
+07:26:20
+PTCL I-10
+07:27:50
+07:28:10
+Sui Gas Stop
+07:29:35
+07:29:55
+OGTI Stop
+07:35:25
+07:35:45
+CDA Complain Center
+07:39:35
+07:39:55
+MCI Model School
+07:45:00
+07:45:00
+
+--- PAGE 2 ---
+Trip ID
+Start Time
+176066-0
+08:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+08:00:00
+08:00:00
+Police Foundation Metro Station08:01:50
+08:02:10
+NPA Stop
+08:04:40
+08:05:00
+Islamic University
+08:07:20
+08:07:40
+FAST University
+08:10:20
+08:10:40
+PAEC General Hospital
+08:13:00
+08:13:20
+IMC Hospital
+08:15:05
+08:15:25
+Metro CNC
+08:17:45
+08:18:05
+Sabzi Mandi
+08:19:25
+08:19:45
+Mandi Morh
+08:22:15
+08:22:35
+Kurang Road Stop
+08:24:00
+08:24:20
+IESCO
+08:26:00
+08:26:20
+PTCL I-10
+08:27:50
+08:28:10
+Sui Gas Stop
+08:29:35
+08:29:55
+OGTI Stop
+08:35:25
+08:35:45
+CDA Complain Center
+08:39:35
+08:39:55
+MCI Model School
+08:45:00
+08:45:00
+Trip ID
+Start Time
+176067-0
+09:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+09:00:00
+09:00:00
+Police Foundation Metro Station09:01:50
+09:02:10
+NPA Stop
+09:04:40
+09:05:00
+Islamic University
+09:07:20
+09:07:40
+FAST University
+09:10:20
+09:10:40
+PAEC General Hospital
+09:13:00
+09:13:20
+IMC Hospital
+09:15:05
+09:15:25
+Metro CNC
+09:17:45
+09:18:05
+Sabzi Mandi
+09:19:25
+09:19:45
+Mandi Morh
+09:22:15
+09:22:35
+Kurang Road Stop
+09:24:00
+09:24:20
+IESCO
+09:26:00
+09:26:20
+PTCL I-10
+09:27:50
+09:28:10
+Sui Gas Stop
+09:29:35
+09:29:55
+OGTI Stop
+09:35:25
+09:35:45
+CDA Complain Center
+09:39:35
+09:39:55
+MCI Model School
+09:45:00
+09:45:00
+Trip ID
+Start Time
+176068-0
+10:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+10:00:00
+10:00:00
+Police Foundation Metro Station10:01:50
+10:02:10
+NPA Stop
+10:04:40
+10:05:00
+Islamic University
+10:07:20
+10:07:40
+FAST University
+10:10:20
+10:10:40
+
+--- PAGE 3 ---
+PAEC General Hospital
+10:13:00
+10:13:20
+IMC Hospital
+10:15:05
+10:15:25
+Metro CNC
+10:17:45
+10:18:05
+Sabzi Mandi
+10:19:25
+10:19:45
+Mandi Morh
+10:22:15
+10:22:35
+Kurang Road Stop
+10:24:00
+10:24:20
+IESCO
+10:26:00
+10:26:20
+PTCL I-10
+10:27:50
+10:28:10
+Sui Gas Stop
+10:29:35
+10:29:55
+OGTI Stop
+10:35:25
+10:35:45
+CDA Complain Center
+10:39:35
+10:39:55
+MCI Model School
+10:45:00
+10:45:00
+Trip ID
+Start Time
+176069-0
+11:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+11:00:00
+11:00:00
+Police Foundation Metro Station11:01:50
+11:02:10
+NPA Stop
+11:04:40
+11:05:00
+Islamic University
+11:07:20
+11:07:40
+FAST University
+11:10:20
+11:10:40
+PAEC General Hospital
+11:13:00
+11:13:20
+IMC Hospital
+11:15:05
+11:15:25
+Metro CNC
+11:17:45
+11:18:05
+Sabzi Mandi
+11:19:25
+11:19:45
+Mandi Morh
+11:22:15
+11:22:35
+Kurang Road Stop
+11:24:00
+11:24:20
+IESCO
+11:26:00
+11:26:20
+PTCL I-10
+11:27:50
+11:28:10
+Sui Gas Stop
+11:29:35
+11:29:55
+OGTI Stop
+11:35:25
+11:35:45
+CDA Complain Center
+11:39:35
+11:39:55
+MCI Model School
+11:45:00
+11:45:00
+Trip ID
+Start Time
+176070-0
+12:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+12:00:00
+12:00:00
+Police Foundation Metro Station12:01:50
+12:02:10
+NPA Stop
+12:04:40
+12:05:00
+Islamic University
+12:07:20
+12:07:40
+FAST University
+12:10:20
+12:10:40
+PAEC General Hospital
+12:13:00
+12:13:20
+IMC Hospital
+12:15:05
+12:15:25
+Metro CNC
+12:17:45
+12:18:05
+Sabzi Mandi
+12:19:25
+12:19:45
+Mandi Morh
+12:22:15
+12:22:35
+Kurang Road Stop
+12:24:00
+12:24:20
+IESCO
+12:26:00
+12:26:20
+PTCL I-10
+12:27:50
+12:28:10
+
+--- PAGE 4 ---
+Sui Gas Stop
+12:29:35
+12:29:55
+OGTI Stop
+12:35:25
+12:35:45
+CDA Complain Center
+12:39:35
+12:39:55
+MCI Model School
+12:45:00
+12:45:00
+Trip ID
+Start Time
+176071-0
+13:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+13:00:00
+13:00:00
+Police Foundation Metro Station13:01:50
+13:02:10
+NPA Stop
+13:04:40
+13:05:00
+Islamic University
+13:07:20
+13:07:40
+FAST University
+13:10:20
+13:10:40
+PAEC General Hospital
+13:13:00
+13:13:20
+IMC Hospital
+13:15:05
+13:15:25
+Metro CNC
+13:17:45
+13:18:05
+Sabzi Mandi
+13:19:25
+13:19:45
+Mandi Morh
+13:22:15
+13:22:35
+Kurang Road Stop
+13:24:00
+13:24:20
+IESCO
+13:26:00
+13:26:20
+PTCL I-10
+13:27:50
+13:28:10
+Sui Gas Stop
+13:29:35
+13:29:55
+OGTI Stop
+13:35:25
+13:35:45
+CDA Complain Center
+13:39:35
+13:39:55
+MCI Model School
+13:45:00
+13:45:00
+Trip ID
+Start Time
+176072-0
+14:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+14:00:00
+14:00:00
+Police Foundation Metro Station14:01:50
+14:02:10
+NPA Stop
+14:04:40
+14:05:00
+Islamic University
+14:07:20
+14:07:40
+FAST University
+14:10:20
+14:10:40
+PAEC General Hospital
+14:13:00
+14:13:20
+IMC Hospital
+14:15:05
+14:15:25
+Metro CNC
+14:17:45
+14:18:05
+Sabzi Mandi
+14:19:25
+14:19:45
+Mandi Morh
+14:22:15
+14:22:35
+Kurang Road Stop
+14:24:00
+14:24:20
+IESCO
+14:26:00
+14:26:20
+PTCL I-10
+14:27:50
+14:28:10
+Sui Gas Stop
+14:29:35
+14:29:55
+OGTI Stop
+14:35:25
+14:35:45
+CDA Complain Center
+14:39:35
+14:39:55
+MCI Model School
+14:45:00
+14:45:00
+Trip ID
+Start Time
+176073-0
+15:00:00
+stop_name
+arrival_time
+departure_time
+
+--- PAGE 5 ---
+Nust Metro Station
+15:00:00
+15:00:00
+Police Foundation Metro Station15:01:50
+15:02:10
+NPA Stop
+15:04:40
+15:05:00
+Islamic University
+15:07:20
+15:07:40
+FAST University
+15:10:20
+15:10:40
+PAEC General Hospital
+15:13:00
+15:13:20
+IMC Hospital
+15:15:05
+15:15:25
+Metro CNC
+15:17:45
+15:18:05
+Sabzi Mandi
+15:19:25
+15:19:45
+Mandi Morh
+15:22:15
+15:22:35
+Kurang Road Stop
+15:24:00
+15:24:20
+IESCO
+15:26:00
+15:26:20
+PTCL I-10
+15:27:50
+15:28:10
+Sui Gas Stop
+15:29:35
+15:29:55
+OGTI Stop
+15:35:25
+15:35:45
+CDA Complain Center
+15:39:35
+15:39:55
+MCI Model School
+15:45:00
+15:45:00
+Trip ID
+Start Time
+176074-0
+16:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+16:00:00
+16:00:00
+Police Foundation Metro Station16:01:50
+16:02:10
+NPA Stop
+16:04:40
+16:05:00
+Islamic University
+16:07:20
+16:07:40
+FAST University
+16:10:20
+16:10:40
+PAEC General Hospital
+16:13:00
+16:13:20
+IMC Hospital
+16:15:05
+16:15:25
+Metro CNC
+16:17:45
+16:18:05
+Sabzi Mandi
+16:19:25
+16:19:45
+Mandi Morh
+16:22:15
+16:22:35
+Kurang Road Stop
+16:24:00
+16:24:20
+IESCO
+16:26:00
+16:26:20
+PTCL I-10
+16:27:50
+16:28:10
+Sui Gas Stop
+16:29:35
+16:29:55
+OGTI Stop
+16:35:25
+16:35:45
+CDA Complain Center
+16:39:35
+16:39:55
+MCI Model School
+16:45:00
+16:45:00
+Trip ID
+Start Time
+176075-0
+17:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+17:00:00
+17:00:00
+Police Foundation Metro Station17:01:50
+17:02:10
+NPA Stop
+17:04:40
+17:05:00
+Islamic University
+17:07:20
+17:07:40
+FAST University
+17:10:20
+17:10:40
+PAEC General Hospital
+17:13:00
+17:13:20
+IMC Hospital
+17:15:05
+17:15:25
+Metro CNC
+17:17:45
+17:18:05
+
+--- PAGE 6 ---
+Sabzi Mandi
+17:19:25
+17:19:45
+Mandi Morh
+17:22:15
+17:22:35
+Kurang Road Stop
+17:24:00
+17:24:20
+IESCO
+17:26:00
+17:26:20
+PTCL I-10
+17:27:50
+17:28:10
+Sui Gas Stop
+17:29:35
+17:29:55
+OGTI Stop
+17:35:25
+17:35:45
+CDA Complain Center
+17:39:35
+17:39:55
+MCI Model School
+17:45:00
+17:45:00
+Trip ID
+Start Time
+176076-0
+18:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+18:00:00
+18:00:00
+Police Foundation Metro Station18:01:50
+18:02:10
+NPA Stop
+18:04:40
+18:05:00
+Islamic University
+18:07:20
+18:07:40
+FAST University
+18:10:20
+18:10:40
+PAEC General Hospital
+18:13:00
+18:13:20
+IMC Hospital
+18:15:05
+18:15:25
+Metro CNC
+18:17:45
+18:18:05
+Sabzi Mandi
+18:19:25
+18:19:45
+Mandi Morh
+18:22:15
+18:22:35
+Kurang Road Stop
+18:24:00
+18:24:20
+IESCO
+18:26:00
+18:26:20
+PTCL I-10
+18:27:50
+18:28:10
+Sui Gas Stop
+18:29:35
+18:29:55
+OGTI Stop
+18:35:25
+18:35:45
+CDA Complain Center
+18:39:35
+18:39:55
+MCI Model School
+18:45:00
+18:45:00
+Trip ID
+Start Time
+176077-0
+19:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+19:00:00
+19:00:00
+Police Foundation Metro Station19:01:50
+19:02:10
+NPA Stop
+19:04:40
+19:05:00
+Islamic University
+19:07:20
+19:07:40
+FAST University
+19:10:20
+19:10:40
+PAEC General Hospital
+19:13:00
+19:13:20
+IMC Hospital
+19:15:05
+19:15:25
+Metro CNC
+19:17:45
+19:18:05
+Sabzi Mandi
+19:19:25
+19:19:45
+Mandi Morh
+19:22:15
+19:22:35
+Kurang Road Stop
+19:24:00
+19:24:20
+IESCO
+19:26:00
+19:26:20
+PTCL I-10
+19:27:50
+19:28:10
+Sui Gas Stop
+19:29:35
+19:29:55
+OGTI Stop
+19:35:25
+19:35:45
+CDA Complain Center
+19:39:35
+19:39:55
+
+--- PAGE 7 ---
+MCI Model School
+19:45:00
+19:45:00
+Trip ID
+Start Time
+176078-0
+20:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+20:00:00
+20:00:00
+Police Foundation Metro Station20:01:50
+20:02:10
+NPA Stop
+20:04:40
+20:05:00
+Islamic University
+20:07:20
+20:07:40
+FAST University
+20:10:20
+20:10:40
+PAEC General Hospital
+20:13:00
+20:13:20
+IMC Hospital
+20:15:05
+20:15:25
+Metro CNC
+20:17:45
+20:18:05
+Sabzi Mandi
+20:19:25
+20:19:45
+Mandi Morh
+20:22:15
+20:22:35
+Kurang Road Stop
+20:24:00
+20:24:20
+IESCO
+20:26:00
+20:26:20
+PTCL I-10
+20:27:50
+20:28:10
+Sui Gas Stop
+20:29:35
+20:29:55
+OGTI Stop
+20:35:25
+20:35:45
+CDA Complain Center
+20:39:35
+20:39:55
+MCI Model School
+20:45:00
+20:45:00
+Trip ID
+Start Time
+176079-0
+21:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+21:00:00
+21:00:00
+Police Foundation Metro Station21:01:50
+21:02:10
+NPA Stop
+21:04:40
+21:05:00
+Islamic University
+21:07:20
+21:07:40
+FAST University
+21:10:20
+21:10:40
+PAEC General Hospital
+21:13:00
+21:13:20
+IMC Hospital
+21:15:05
+21:15:25
+Metro CNC
+21:17:45
+21:18:05
+Sabzi Mandi
+21:19:25
+21:19:45
+Mandi Morh
+21:22:15
+21:22:35
+Kurang Road Stop
+21:24:00
+21:24:20
+IESCO
+21:26:00
+21:26:20
+PTCL I-10
+21:27:50
+21:28:10
+Sui Gas Stop
+21:29:35
+21:29:55
+OGTI Stop
+21:35:25
+21:35:45
+CDA Complain Center
+21:39:35
+21:39:55
+MCI Model School
+21:45:00
+21:45:00
+Trip ID
+Start Time
+176080-0
+22:00:00
+stop_name
+arrival_time
+departure_time
+Nust Metro Station
+22:00:00
+22:00:00
+Police Foundation Metro Station22:01:50
+22:02:10
+NPA Stop
+22:04:40
+22:05:00
+
+--- PAGE 8 ---
+Islamic University
+22:07:20
+22:07:40
+FAST University
+22:10:20
+22:10:40
+PAEC General Hospital
+22:13:00
+22:13:20
+IMC Hospital
+22:15:05
+22:15:25
+Metro CNC
+22:17:45
+22:18:05
+Sabzi Mandi
+22:19:25
+22:19:45
+Mandi Morh
+22:22:15
+22:22:35
+Kurang Road Stop
+22:24:00
+22:24:20
+IESCO
+22:26:00
+22:26:20
+PTCL I-10
+22:27:50
+22:28:10
+Sui Gas Stop
+22:29:35
+22:29:55
+OGTI Stop
+22:35:25
+22:35:45
+CDA Complain Center
+22:39:35
+22:39:55
+MCI Model School
+22:45:00
+22:45:00

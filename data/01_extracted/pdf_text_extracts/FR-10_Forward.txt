@@ -1,0 +1,1576 @@
+--- PAGE 1 ---
+Field
+Value
+Route ID
+10010
+Short Name
+FR-10
+Long Name
+Golara Morh to Taxila
+Direction
+Forward
+Total Trips
+19
+Average Headway (min)
+50
+Trip ID
+Start Time
+175859-0
+06:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+06:00:00
+06:00:00
+G-13 Metro Station
+06:02:20
+06:02:40
+NUST Metro Station
+06:04:50
+06:05:10
+A.K Bari Road
+06:07:00
+06:07:20
+G-11 Markaz
+06:10:00
+06:10:20
+Hammad Uddin Road
+06:12:20
+06:12:40
+Federal Government College
+06:14:50
+06:15:10
+F-11 Markaz
+06:18:00
+06:18:20
+OPF Girls College
+06:20:30
+06:20:50
+Golra Sharif F-11/3
+06:22:30
+06:22:50
+NPF Housing Society
+06:27:40
+06:28:00
+Multy Stop
+06:29:40
+06:30:00
+Islamabad International Hospital06:33:40
+06:34:00
+D-12 Service Road
+06:35:50
+06:36:10
+IESCO D-12
+06:38:05
+06:38:25
+D-12 Markaz
+06:40:30
+06:40:50
+Shah Allah Ditta
+06:44:45
+06:45:05
+Sangjani
+06:56:35
+06:56:55
+B-17 Gate no. 1
+06:59:45
+07:00:05
+B-17 Gate no. 2
+07:02:05
+07:02:25
+Margalla
+07:04:45
+07:05:05
+Taxila Bypass
+07:07:25
+07:07:45
+Wahdat Colony
+07:10:55
+07:11:15
+Timber Market
+07:12:35
+07:12:55
+Taxila
+07:15:15
+07:15:15
+Trip ID
+Start Time
+175858-0
+06:30:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+06:30:00
+06:30:00
+G-13 Metro Station
+06:32:20
+06:32:40
+NUST Metro Station
+06:34:50
+06:35:10
+A.K Bari Road
+06:37:00
+06:37:20
+G-11 Markaz
+06:40:00
+06:40:20
+Hammad Uddin Road
+06:42:20
+06:42:40
+Federal Government College
+06:44:50
+06:45:10
+F-11 Markaz
+06:48:00
+06:48:20
+OPF Girls College
+06:50:30
+06:50:50
+Golra Sharif F-11/3
+06:52:30
+06:52:50
+
+--- PAGE 2 ---
+NPF Housing Society
+06:57:40
+06:58:00
+Multy Stop
+06:59:40
+07:00:00
+Islamabad International Hospital07:03:40
+07:04:00
+D-12 Service Road
+07:05:50
+07:06:10
+IESCO D-12
+07:08:05
+07:08:25
+D-12 Markaz
+07:10:30
+07:10:50
+Shah Allah Ditta
+07:14:45
+07:15:05
+Sangjani
+07:26:35
+07:26:55
+B-17 Gate no. 1
+07:29:45
+07:30:05
+B-17 Gate no. 2
+07:32:05
+07:32:25
+Margalla
+07:34:45
+07:35:05
+Taxila Bypass
+07:37:25
+07:37:45
+Wahdat Colony
+07:40:55
+07:41:15
+Timber Market
+07:42:35
+07:42:55
+Taxila
+07:45:15
+07:45:15
+Trip ID
+Start Time
+175860-0
+07:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+07:00:00
+07:00:00
+G-13 Metro Station
+07:02:20
+07:02:40
+NUST Metro Station
+07:04:50
+07:05:10
+A.K Bari Road
+07:07:00
+07:07:20
+G-11 Markaz
+07:10:00
+07:10:20
+Hammad Uddin Road
+07:12:20
+07:12:40
+Federal Government College
+07:14:50
+07:15:10
+F-11 Markaz
+07:18:00
+07:18:20
+OPF Girls College
+07:20:30
+07:20:50
+Golra Sharif F-11/3
+07:22:30
+07:22:50
+NPF Housing Society
+07:27:40
+07:28:00
+Multy Stop
+07:29:40
+07:30:00
+Islamabad International Hospital07:33:40
+07:34:00
+D-12 Service Road
+07:35:50
+07:36:10
+IESCO D-12
+07:38:05
+07:38:25
+D-12 Markaz
+07:40:30
+07:40:50
+Shah Allah Ditta
+07:44:45
+07:45:05
+Sangjani
+07:56:35
+07:56:55
+B-17 Gate no. 1
+07:59:45
+08:00:05
+B-17 Gate no. 2
+08:02:05
+08:02:25
+Margalla
+08:04:45
+08:05:05
+Taxila Bypass
+08:07:25
+08:07:45
+Wahdat Colony
+08:10:55
+08:11:15
+Timber Market
+08:12:35
+08:12:55
+Taxila
+08:15:15
+08:15:15
+Trip ID
+Start Time
+175861-0
+07:30:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+07:30:00
+07:30:00
+G-13 Metro Station
+07:32:20
+07:32:40
+
+--- PAGE 3 ---
+NUST Metro Station
+07:34:50
+07:35:10
+A.K Bari Road
+07:37:00
+07:37:20
+G-11 Markaz
+07:40:00
+07:40:20
+Hammad Uddin Road
+07:42:20
+07:42:40
+Federal Government College
+07:44:50
+07:45:10
+F-11 Markaz
+07:48:00
+07:48:20
+OPF Girls College
+07:50:30
+07:50:50
+Golra Sharif F-11/3
+07:52:30
+07:52:50
+NPF Housing Society
+07:57:40
+07:58:00
+Multy Stop
+07:59:40
+08:00:00
+Islamabad International Hospital08:03:40
+08:04:00
+D-12 Service Road
+08:05:50
+08:06:10
+IESCO D-12
+08:08:05
+08:08:25
+D-12 Markaz
+08:10:30
+08:10:50
+Shah Allah Ditta
+08:14:45
+08:15:05
+Sangjani
+08:26:35
+08:26:55
+B-17 Gate no. 1
+08:29:45
+08:30:05
+B-17 Gate no. 2
+08:32:05
+08:32:25
+Margalla
+08:34:45
+08:35:05
+Taxila Bypass
+08:37:25
+08:37:45
+Wahdat Colony
+08:40:55
+08:41:15
+Timber Market
+08:42:35
+08:42:55
+Taxila
+08:45:15
+08:45:15
+Trip ID
+Start Time
+175862-0
+08:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+08:00:00
+08:00:00
+G-13 Metro Station
+08:02:20
+08:02:40
+NUST Metro Station
+08:04:50
+08:05:10
+A.K Bari Road
+08:07:00
+08:07:20
+G-11 Markaz
+08:10:00
+08:10:20
+Hammad Uddin Road
+08:12:20
+08:12:40
+Federal Government College
+08:14:50
+08:15:10
+F-11 Markaz
+08:18:00
+08:18:20
+OPF Girls College
+08:20:30
+08:20:50
+Golra Sharif F-11/3
+08:22:30
+08:22:50
+NPF Housing Society
+08:27:40
+08:28:00
+Multy Stop
+08:29:40
+08:30:00
+Islamabad International Hospital08:33:40
+08:34:00
+D-12 Service Road
+08:35:50
+08:36:10
+IESCO D-12
+08:38:05
+08:38:25
+D-12 Markaz
+08:40:30
+08:40:50
+Shah Allah Ditta
+08:44:45
+08:45:05
+Sangjani
+08:56:35
+08:56:55
+B-17 Gate no. 1
+08:59:45
+09:00:05
+B-17 Gate no. 2
+09:02:05
+09:02:25
+Margalla
+09:04:45
+09:05:05
+Taxila Bypass
+09:07:25
+09:07:45
+Wahdat Colony
+09:10:55
+09:11:15
+
+--- PAGE 4 ---
+Timber Market
+09:12:35
+09:12:55
+Taxila
+09:15:15
+09:15:15
+Trip ID
+Start Time
+175863-0
+09:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+09:00:00
+09:00:00
+G-13 Metro Station
+09:02:20
+09:02:40
+NUST Metro Station
+09:04:50
+09:05:10
+A.K Bari Road
+09:07:00
+09:07:20
+G-11 Markaz
+09:10:00
+09:10:20
+Hammad Uddin Road
+09:12:20
+09:12:40
+Federal Government College
+09:14:50
+09:15:10
+F-11 Markaz
+09:18:00
+09:18:20
+OPF Girls College
+09:20:30
+09:20:50
+Golra Sharif F-11/3
+09:22:30
+09:22:50
+NPF Housing Society
+09:27:40
+09:28:00
+Multy Stop
+09:29:40
+09:30:00
+Islamabad International Hospital09:33:40
+09:34:00
+D-12 Service Road
+09:35:50
+09:36:10
+IESCO D-12
+09:38:05
+09:38:25
+D-12 Markaz
+09:40:30
+09:40:50
+Shah Allah Ditta
+09:44:45
+09:45:05
+Sangjani
+09:56:35
+09:56:55
+B-17 Gate no. 1
+09:59:45
+10:00:05
+B-17 Gate no. 2
+10:02:05
+10:02:25
+Margalla
+10:04:45
+10:05:05
+Taxila Bypass
+10:07:25
+10:07:45
+Wahdat Colony
+10:10:55
+10:11:15
+Timber Market
+10:12:35
+10:12:55
+Taxila
+10:15:15
+10:15:15
+Trip ID
+Start Time
+175864-0
+10:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+10:00:00
+10:00:00
+G-13 Metro Station
+10:02:20
+10:02:40
+NUST Metro Station
+10:04:50
+10:05:10
+A.K Bari Road
+10:07:00
+10:07:20
+G-11 Markaz
+10:10:00
+10:10:20
+Hammad Uddin Road
+10:12:20
+10:12:40
+Federal Government College
+10:14:50
+10:15:10
+F-11 Markaz
+10:18:00
+10:18:20
+OPF Girls College
+10:20:30
+10:20:50
+Golra Sharif F-11/3
+10:22:30
+10:22:50
+NPF Housing Society
+10:27:40
+10:28:00
+Multy Stop
+10:29:40
+10:30:00
+Islamabad International Hospital10:33:40
+10:34:00
+D-12 Service Road
+10:35:50
+10:36:10
+IESCO D-12
+10:38:05
+10:38:25
+
+--- PAGE 5 ---
+D-12 Markaz
+10:40:30
+10:40:50
+Shah Allah Ditta
+10:44:45
+10:45:05
+Sangjani
+10:56:35
+10:56:55
+B-17 Gate no. 1
+10:59:45
+11:00:05
+B-17 Gate no. 2
+11:02:05
+11:02:25
+Margalla
+11:04:45
+11:05:05
+Taxila Bypass
+11:07:25
+11:07:45
+Wahdat Colony
+11:10:55
+11:11:15
+Timber Market
+11:12:35
+11:12:55
+Taxila
+11:15:15
+11:15:15
+Trip ID
+Start Time
+175865-0
+11:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+11:00:00
+11:00:00
+G-13 Metro Station
+11:02:20
+11:02:40
+NUST Metro Station
+11:04:50
+11:05:10
+A.K Bari Road
+11:07:00
+11:07:20
+G-11 Markaz
+11:10:00
+11:10:20
+Hammad Uddin Road
+11:12:20
+11:12:40
+Federal Government College
+11:14:50
+11:15:10
+F-11 Markaz
+11:18:00
+11:18:20
+OPF Girls College
+11:20:30
+11:20:50
+Golra Sharif F-11/3
+11:22:30
+11:22:50
+NPF Housing Society
+11:27:40
+11:28:00
+Multy Stop
+11:29:40
+11:30:00
+Islamabad International Hospital11:33:40
+11:34:00
+D-12 Service Road
+11:35:50
+11:36:10
+IESCO D-12
+11:38:05
+11:38:25
+D-12 Markaz
+11:40:30
+11:40:50
+Shah Allah Ditta
+11:44:45
+11:45:05
+Sangjani
+11:56:35
+11:56:55
+B-17 Gate no. 1
+11:59:45
+12:00:05
+B-17 Gate no. 2
+12:02:05
+12:02:25
+Margalla
+12:04:45
+12:05:05
+Taxila Bypass
+12:07:25
+12:07:45
+Wahdat Colony
+12:10:55
+12:11:15
+Timber Market
+12:12:35
+12:12:55
+Taxila
+12:15:15
+12:15:15
+Trip ID
+Start Time
+175866-0
+12:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+12:00:00
+12:00:00
+G-13 Metro Station
+12:02:20
+12:02:40
+NUST Metro Station
+12:04:50
+12:05:10
+A.K Bari Road
+12:07:00
+12:07:20
+G-11 Markaz
+12:10:00
+12:10:20
+Hammad Uddin Road
+12:12:20
+12:12:40
+Federal Government College
+12:14:50
+12:15:10
+
+--- PAGE 6 ---
+F-11 Markaz
+12:18:00
+12:18:20
+OPF Girls College
+12:20:30
+12:20:50
+Golra Sharif F-11/3
+12:22:30
+12:22:50
+NPF Housing Society
+12:27:40
+12:28:00
+Multy Stop
+12:29:40
+12:30:00
+Islamabad International Hospital12:33:40
+12:34:00
+D-12 Service Road
+12:35:50
+12:36:10
+IESCO D-12
+12:38:05
+12:38:25
+D-12 Markaz
+12:40:30
+12:40:50
+Shah Allah Ditta
+12:44:45
+12:45:05
+Sangjani
+12:56:35
+12:56:55
+B-17 Gate no. 1
+12:59:45
+13:00:05
+B-17 Gate no. 2
+13:02:05
+13:02:25
+Margalla
+13:04:45
+13:05:05
+Taxila Bypass
+13:07:25
+13:07:45
+Wahdat Colony
+13:10:55
+13:11:15
+Timber Market
+13:12:35
+13:12:55
+Taxila
+13:15:15
+13:15:15
+Trip ID
+Start Time
+175867-0
+12:30:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+12:30:00
+12:30:00
+G-13 Metro Station
+12:32:20
+12:32:40
+NUST Metro Station
+12:34:50
+12:35:10
+A.K Bari Road
+12:37:00
+12:37:20
+G-11 Markaz
+12:40:00
+12:40:20
+Hammad Uddin Road
+12:42:20
+12:42:40
+Federal Government College
+12:44:50
+12:45:10
+F-11 Markaz
+12:48:00
+12:48:20
+OPF Girls College
+12:50:30
+12:50:50
+Golra Sharif F-11/3
+12:52:30
+12:52:50
+NPF Housing Society
+12:57:40
+12:58:00
+Multy Stop
+12:59:40
+13:00:00
+Islamabad International Hospital13:03:40
+13:04:00
+D-12 Service Road
+13:05:50
+13:06:10
+IESCO D-12
+13:08:05
+13:08:25
+D-12 Markaz
+13:10:30
+13:10:50
+Shah Allah Ditta
+13:14:45
+13:15:05
+Sangjani
+13:26:35
+13:26:55
+B-17 Gate no. 1
+13:29:45
+13:30:05
+B-17 Gate no. 2
+13:32:05
+13:32:25
+Margalla
+13:34:45
+13:35:05
+Taxila Bypass
+13:37:25
+13:37:45
+Wahdat Colony
+13:40:55
+13:41:15
+Timber Market
+13:42:35
+13:42:55
+Taxila
+13:45:15
+13:45:15
+Trip ID
+Start Time
+175868-0
+13:00:00
+
+--- PAGE 7 ---
+stop_name
+arrival_time
+departure_time
+Golra Morh
+13:00:00
+13:00:00
+G-13 Metro Station
+13:02:20
+13:02:40
+NUST Metro Station
+13:04:50
+13:05:10
+A.K Bari Road
+13:07:00
+13:07:20
+G-11 Markaz
+13:10:00
+13:10:20
+Hammad Uddin Road
+13:12:20
+13:12:40
+Federal Government College
+13:14:50
+13:15:10
+F-11 Markaz
+13:18:00
+13:18:20
+OPF Girls College
+13:20:30
+13:20:50
+Golra Sharif F-11/3
+13:22:30
+13:22:50
+NPF Housing Society
+13:27:40
+13:28:00
+Multy Stop
+13:29:40
+13:30:00
+Islamabad International Hospital13:33:40
+13:34:00
+D-12 Service Road
+13:35:50
+13:36:10
+IESCO D-12
+13:38:05
+13:38:25
+D-12 Markaz
+13:40:30
+13:40:50
+Shah Allah Ditta
+13:44:45
+13:45:05
+Sangjani
+13:56:35
+13:56:55
+B-17 Gate no. 1
+13:59:45
+14:00:05
+B-17 Gate no. 2
+14:02:05
+14:02:25
+Margalla
+14:04:45
+14:05:05
+Taxila Bypass
+14:07:25
+14:07:45
+Wahdat Colony
+14:10:55
+14:11:15
+Timber Market
+14:12:35
+14:12:55
+Taxila
+14:15:15
+14:15:15
+Trip ID
+Start Time
+175869-0
+14:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+14:00:00
+14:00:00
+G-13 Metro Station
+14:02:20
+14:02:40
+NUST Metro Station
+14:04:50
+14:05:10
+A.K Bari Road
+14:07:00
+14:07:20
+G-11 Markaz
+14:10:00
+14:10:20
+Hammad Uddin Road
+14:12:20
+14:12:40
+Federal Government College
+14:14:50
+14:15:10
+F-11 Markaz
+14:18:00
+14:18:20
+OPF Girls College
+14:20:30
+14:20:50
+Golra Sharif F-11/3
+14:22:30
+14:22:50
+NPF Housing Society
+14:27:40
+14:28:00
+Multy Stop
+14:29:40
+14:30:00
+Islamabad International Hospital14:33:40
+14:34:00
+D-12 Service Road
+14:35:50
+14:36:10
+IESCO D-12
+14:38:05
+14:38:25
+D-12 Markaz
+14:40:30
+14:40:50
+Shah Allah Ditta
+14:44:45
+14:45:05
+Sangjani
+14:56:35
+14:56:55
+B-17 Gate no. 1
+14:59:45
+15:00:05
+B-17 Gate no. 2
+15:02:05
+15:02:25
+
+--- PAGE 8 ---
+Margalla
+15:04:45
+15:05:05
+Taxila Bypass
+15:07:25
+15:07:45
+Wahdat Colony
+15:10:55
+15:11:15
+Timber Market
+15:12:35
+15:12:55
+Taxila
+15:15:15
+15:15:15
+Trip ID
+Start Time
+175870-0
+15:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+15:00:00
+15:00:00
+G-13 Metro Station
+15:02:20
+15:02:40
+NUST Metro Station
+15:04:50
+15:05:10
+A.K Bari Road
+15:07:00
+15:07:20
+G-11 Markaz
+15:10:00
+15:10:20
+Hammad Uddin Road
+15:12:20
+15:12:40
+Federal Government College
+15:14:50
+15:15:10
+F-11 Markaz
+15:18:00
+15:18:20
+OPF Girls College
+15:20:30
+15:20:50
+Golra Sharif F-11/3
+15:22:30
+15:22:50
+NPF Housing Society
+15:27:40
+15:28:00
+Multy Stop
+15:29:40
+15:30:00
+Islamabad International Hospital15:33:40
+15:34:00
+D-12 Service Road
+15:35:50
+15:36:10
+IESCO D-12
+15:38:05
+15:38:25
+D-12 Markaz
+15:40:30
+15:40:50
+Shah Allah Ditta
+15:44:45
+15:45:05
+Sangjani
+15:56:35
+15:56:55
+B-17 Gate no. 1
+15:59:45
+16:00:05
+B-17 Gate no. 2
+16:02:05
+16:02:25
+Margalla
+16:04:45
+16:05:05
+Taxila Bypass
+16:07:25
+16:07:45
+Wahdat Colony
+16:10:55
+16:11:15
+Timber Market
+16:12:35
+16:12:55
+Taxila
+16:15:15
+16:15:15
+Trip ID
+Start Time
+175871-0
+16:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+16:00:00
+16:00:00
+G-13 Metro Station
+16:02:20
+16:02:40
+NUST Metro Station
+16:04:50
+16:05:10
+A.K Bari Road
+16:07:00
+16:07:20
+G-11 Markaz
+16:10:00
+16:10:20
+Hammad Uddin Road
+16:12:20
+16:12:40
+Federal Government College
+16:14:50
+16:15:10
+F-11 Markaz
+16:18:00
+16:18:20
+OPF Girls College
+16:20:30
+16:20:50
+Golra Sharif F-11/3
+16:22:30
+16:22:50
+NPF Housing Society
+16:27:40
+16:28:00
+Multy Stop
+16:29:40
+16:30:00
+
+--- PAGE 9 ---
+Islamabad International Hospital16:33:40
+16:34:00
+D-12 Service Road
+16:35:50
+16:36:10
+IESCO D-12
+16:38:05
+16:38:25
+D-12 Markaz
+16:40:30
+16:40:50
+Shah Allah Ditta
+16:44:45
+16:45:05
+Sangjani
+16:56:35
+16:56:55
+B-17 Gate no. 1
+16:59:45
+17:00:05
+B-17 Gate no. 2
+17:02:05
+17:02:25
+Margalla
+17:04:45
+17:05:05
+Taxila Bypass
+17:07:25
+17:07:45
+Wahdat Colony
+17:10:55
+17:11:15
+Timber Market
+17:12:35
+17:12:55
+Taxila
+17:15:15
+17:15:15
+Trip ID
+Start Time
+175872-0
+17:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+17:00:00
+17:00:00
+G-13 Metro Station
+17:02:20
+17:02:40
+NUST Metro Station
+17:04:50
+17:05:10
+A.K Bari Road
+17:07:00
+17:07:20
+G-11 Markaz
+17:10:00
+17:10:20
+Hammad Uddin Road
+17:12:20
+17:12:40
+Federal Government College
+17:14:50
+17:15:10
+F-11 Markaz
+17:18:00
+17:18:20
+OPF Girls College
+17:20:30
+17:20:50
+Golra Sharif F-11/3
+17:22:30
+17:22:50
+NPF Housing Society
+17:27:40
+17:28:00
+Multy Stop
+17:29:40
+17:30:00
+Islamabad International Hospital17:33:40
+17:34:00
+D-12 Service Road
+17:35:50
+17:36:10
+IESCO D-12
+17:38:05
+17:38:25
+D-12 Markaz
+17:40:30
+17:40:50
+Shah Allah Ditta
+17:44:45
+17:45:05
+Sangjani
+17:56:35
+17:56:55
+B-17 Gate no. 1
+17:59:45
+18:00:05
+B-17 Gate no. 2
+18:02:05
+18:02:25
+Margalla
+18:04:45
+18:05:05
+Taxila Bypass
+18:07:25
+18:07:45
+Wahdat Colony
+18:10:55
+18:11:15
+Timber Market
+18:12:35
+18:12:55
+Taxila
+18:15:15
+18:15:15
+Trip ID
+Start Time
+175873-0
+18:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+18:00:00
+18:00:00
+G-13 Metro Station
+18:02:20
+18:02:40
+NUST Metro Station
+18:04:50
+18:05:10
+A.K Bari Road
+18:07:00
+18:07:20
+
+--- PAGE 10 ---
+G-11 Markaz
+18:10:00
+18:10:20
+Hammad Uddin Road
+18:12:20
+18:12:40
+Federal Government College
+18:14:50
+18:15:10
+F-11 Markaz
+18:18:00
+18:18:20
+OPF Girls College
+18:20:30
+18:20:50
+Golra Sharif F-11/3
+18:22:30
+18:22:50
+NPF Housing Society
+18:27:40
+18:28:00
+Multy Stop
+18:29:40
+18:30:00
+Islamabad International Hospital18:33:40
+18:34:00
+D-12 Service Road
+18:35:50
+18:36:10
+IESCO D-12
+18:38:05
+18:38:25
+D-12 Markaz
+18:40:30
+18:40:50
+Shah Allah Ditta
+18:44:45
+18:45:05
+Sangjani
+18:56:35
+18:56:55
+B-17 Gate no. 1
+18:59:45
+19:00:05
+B-17 Gate no. 2
+19:02:05
+19:02:25
+Margalla
+19:04:45
+19:05:05
+Taxila Bypass
+19:07:25
+19:07:45
+Wahdat Colony
+19:10:55
+19:11:15
+Timber Market
+19:12:35
+19:12:55
+Taxila
+19:15:15
+19:15:15
+Trip ID
+Start Time
+175874-0
+19:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+19:00:00
+19:00:00
+G-13 Metro Station
+19:02:20
+19:02:40
+NUST Metro Station
+19:04:50
+19:05:10
+A.K Bari Road
+19:07:00
+19:07:20
+G-11 Markaz
+19:10:00
+19:10:20
+Hammad Uddin Road
+19:12:20
+19:12:40
+Federal Government College
+19:14:50
+19:15:10
+F-11 Markaz
+19:18:00
+19:18:20
+OPF Girls College
+19:20:30
+19:20:50
+Golra Sharif F-11/3
+19:22:30
+19:22:50
+NPF Housing Society
+19:27:40
+19:28:00
+Multy Stop
+19:29:40
+19:30:00
+Islamabad International Hospital19:33:40
+19:34:00
+D-12 Service Road
+19:35:50
+19:36:10
+IESCO D-12
+19:38:05
+19:38:25
+D-12 Markaz
+19:40:30
+19:40:50
+Shah Allah Ditta
+19:44:45
+19:45:05
+Sangjani
+19:56:35
+19:56:55
+B-17 Gate no. 1
+19:59:45
+20:00:05
+B-17 Gate no. 2
+20:02:05
+20:02:25
+Margalla
+20:04:45
+20:05:05
+Taxila Bypass
+20:07:25
+20:07:45
+Wahdat Colony
+20:10:55
+20:11:15
+Timber Market
+20:12:35
+20:12:55
+Taxila
+20:15:15
+20:15:15
+
+--- PAGE 11 ---
+Trip ID
+Start Time
+175875-0
+20:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+20:00:00
+20:00:00
+G-13 Metro Station
+20:02:20
+20:02:40
+NUST Metro Station
+20:04:50
+20:05:10
+A.K Bari Road
+20:07:00
+20:07:20
+G-11 Markaz
+20:10:00
+20:10:20
+Hammad Uddin Road
+20:12:20
+20:12:40
+Federal Government College
+20:14:50
+20:15:10
+F-11 Markaz
+20:18:00
+20:18:20
+OPF Girls College
+20:20:30
+20:20:50
+Golra Sharif F-11/3
+20:22:30
+20:22:50
+NPF Housing Society
+20:27:40
+20:28:00
+Multy Stop
+20:29:40
+20:30:00
+Islamabad International Hospital20:33:40
+20:34:00
+D-12 Service Road
+20:35:50
+20:36:10
+IESCO D-12
+20:38:05
+20:38:25
+D-12 Markaz
+20:40:30
+20:40:50
+Shah Allah Ditta
+20:44:45
+20:45:05
+Sangjani
+20:56:35
+20:56:55
+B-17 Gate no. 1
+20:59:45
+21:00:05
+B-17 Gate no. 2
+21:02:05
+21:02:25
+Margalla
+21:04:45
+21:05:05
+Taxila Bypass
+21:07:25
+21:07:45
+Wahdat Colony
+21:10:55
+21:11:15
+Timber Market
+21:12:35
+21:12:55
+Taxila
+21:15:15
+21:15:15
+Trip ID
+Start Time
+175876-0
+21:00:00
+stop_name
+arrival_time
+departure_time
+Golra Morh
+21:00:00
+21:00:00
+G-13 Metro Station
+21:02:20
+21:02:40
+NUST Metro Station
+21:04:50
+21:05:10
+A.K Bari Road
+21:07:00
+21:07:20
+G-11 Markaz
+21:10:00
+21:10:20
+Hammad Uddin Road
+21:12:20
+21:12:40
+Federal Government College
+21:14:50
+21:15:10
+F-11 Markaz
+21:18:00
+21:18:20
+OPF Girls College
+21:20:30
+21:20:50
+Golra Sharif F-11/3
+21:22:30
+21:22:50
+NPF Housing Society
+21:27:40
+21:28:00
+Multy Stop
+21:29:40
+21:30:00
+Islamabad International Hospital21:33:40
+21:34:00
+D-12 Service Road
+21:35:50
+21:36:10
+IESCO D-12
+21:38:05
+21:38:25
+D-12 Markaz
+21:40:30
+21:40:50
+Shah Allah Ditta
+21:44:45
+21:45:05
+
+--- PAGE 12 ---
+Sangjani
+21:56:35
+21:56:55
+B-17 Gate no. 1
+21:59:45
+22:00:05
+B-17 Gate no. 2
+22:02:05
+22:02:25
+Margalla
+22:04:45
+22:05:05
+Taxila Bypass
+22:07:25
+22:07:45
+Wahdat Colony
+22:10:55
+22:11:15
+Timber Market
+22:12:35
+22:12:55
+Taxila
+22:15:15
+22:15:15

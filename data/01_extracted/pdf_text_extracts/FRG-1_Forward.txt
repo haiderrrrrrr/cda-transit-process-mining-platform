@@ -1,0 +1,7376 @@
+--- PAGE 1 ---
+Field
+Value
+Route ID
+20001
+Short Name
+FRG-1
+Long Name
+ PIMS - Barakahu
+Direction
+Forward
+Total Trips
+196
+Average Headway (min 5
+Trip ID
+Start Time
+169971-0
+05:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+05:45:00
+05:45:00
+Children Hospital
+05:46:30
+05:46:50
+TNT
+05:50:00
+05:50:20
+CDA
+05:55:40
+05:56:00
+Abpara
+05:58:30
+05:58:50
+Foreign Affairs Office
+06:01:30
+06:01:50
+Lake View Park
+06:06:50
+06:07:10
+Malpur
+06:09:40
+06:10:00
+Shahdara
+06:12:50
+06:13:10
+Barakahu
+06:15:00
+06:15:00
+Trip ID
+Start Time
+169972-0
+05:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+05:50:00
+05:50:00
+Children Hospital
+05:51:30
+05:51:50
+TNT
+05:55:00
+05:55:20
+CDA
+06:00:40
+06:01:00
+Abpara
+06:03:30
+06:03:50
+Foreign Affairs Office
+06:06:30
+06:06:50
+Lake View Park
+06:11:50
+06:12:10
+Malpur
+06:14:40
+06:15:00
+Shahdara
+06:17:50
+06:18:10
+Barakahu
+06:20:00
+06:20:00
+Trip ID
+Start Time
+169973-0
+05:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+05:55:00
+05:55:00
+Children Hospital
+05:56:30
+05:56:50
+TNT
+06:00:00
+06:00:20
+CDA
+06:05:40
+06:06:00
+Abpara
+06:08:30
+06:08:50
+Foreign Affairs Office
+06:11:30
+06:11:50
+Lake View Park
+06:16:50
+06:17:10
+Malpur
+06:19:40
+06:20:00
+Shahdara
+06:22:50
+06:23:10
+Barakahu
+06:25:00
+06:25:00
+
+--- PAGE 2 ---
+Trip ID
+Start Time
+169974-0
+06:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:00:00
+06:00:00
+Children Hospital
+06:01:30
+06:01:50
+TNT
+06:05:00
+06:05:20
+CDA
+06:10:40
+06:11:00
+Abpara
+06:13:30
+06:13:50
+Foreign Affairs Office
+06:16:30
+06:16:50
+Lake View Park
+06:21:50
+06:22:10
+Malpur
+06:24:40
+06:25:00
+Shahdara
+06:27:50
+06:28:10
+Barakahu
+06:30:00
+06:30:00
+Trip ID
+Start Time
+169975-0
+06:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:05:00
+06:05:00
+Children Hospital
+06:06:30
+06:06:50
+TNT
+06:10:00
+06:10:20
+CDA
+06:15:40
+06:16:00
+Abpara
+06:18:30
+06:18:50
+Foreign Affairs Office
+06:21:30
+06:21:50
+Lake View Park
+06:26:50
+06:27:10
+Malpur
+06:29:40
+06:30:00
+Shahdara
+06:32:50
+06:33:10
+Barakahu
+06:35:00
+06:35:00
+Trip ID
+Start Time
+169976-0
+06:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:10:00
+06:10:00
+Children Hospital
+06:11:30
+06:11:50
+TNT
+06:15:00
+06:15:20
+CDA
+06:20:40
+06:21:00
+Abpara
+06:23:30
+06:23:50
+Foreign Affairs Office
+06:26:30
+06:26:50
+Lake View Park
+06:31:50
+06:32:10
+Malpur
+06:34:40
+06:35:00
+Shahdara
+06:37:50
+06:38:10
+Barakahu
+06:40:00
+06:40:00
+Trip ID
+Start Time
+169977-0
+06:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:15:00
+06:15:00
+Children Hospital
+06:16:30
+06:16:50
+TNT
+06:20:00
+06:20:20
+CDA
+06:25:40
+06:26:00
+Abpara
+06:28:30
+06:28:50
+
+--- PAGE 3 ---
+Foreign Affairs Office
+06:31:30
+06:31:50
+Lake View Park
+06:36:50
+06:37:10
+Malpur
+06:39:40
+06:40:00
+Shahdara
+06:42:50
+06:43:10
+Barakahu
+06:45:00
+06:45:00
+Trip ID
+Start Time
+169978-0
+06:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:20:00
+06:20:00
+Children Hospital
+06:21:30
+06:21:50
+TNT
+06:25:00
+06:25:20
+CDA
+06:30:40
+06:31:00
+Abpara
+06:33:30
+06:33:50
+Foreign Affairs Office
+06:36:30
+06:36:50
+Lake View Park
+06:41:50
+06:42:10
+Malpur
+06:44:40
+06:45:00
+Shahdara
+06:47:50
+06:48:10
+Barakahu
+06:50:00
+06:50:00
+Trip ID
+Start Time
+169979-0
+06:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:25:00
+06:25:00
+Children Hospital
+06:26:30
+06:26:50
+TNT
+06:30:00
+06:30:20
+CDA
+06:35:40
+06:36:00
+Abpara
+06:38:30
+06:38:50
+Foreign Affairs Office
+06:41:30
+06:41:50
+Lake View Park
+06:46:50
+06:47:10
+Malpur
+06:49:40
+06:50:00
+Shahdara
+06:52:50
+06:53:10
+Barakahu
+06:55:00
+06:55:00
+Trip ID
+Start Time
+169980-0
+06:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:30:00
+06:30:00
+Children Hospital
+06:31:30
+06:31:50
+TNT
+06:35:00
+06:35:20
+CDA
+06:40:40
+06:41:00
+Abpara
+06:43:30
+06:43:50
+Foreign Affairs Office
+06:46:30
+06:46:50
+Lake View Park
+06:51:50
+06:52:10
+Malpur
+06:54:40
+06:55:00
+Shahdara
+06:57:50
+06:58:10
+Barakahu
+07:00:00
+07:00:00
+Trip ID
+Start Time
+169981-0
+06:35:00
+
+--- PAGE 4 ---
+stop_name
+arrival_time
+departure_time
+PIMS
+06:35:00
+06:35:00
+Children Hospital
+06:36:30
+06:36:50
+TNT
+06:40:00
+06:40:20
+CDA
+06:45:40
+06:46:00
+Abpara
+06:48:30
+06:48:50
+Foreign Affairs Office
+06:51:30
+06:51:50
+Lake View Park
+06:56:50
+06:57:10
+Malpur
+06:59:40
+07:00:00
+Shahdara
+07:02:50
+07:03:10
+Barakahu
+07:05:00
+07:05:00
+Trip ID
+Start Time
+169982-0
+06:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:40:00
+06:40:00
+Children Hospital
+06:41:30
+06:41:50
+TNT
+06:45:00
+06:45:20
+CDA
+06:50:40
+06:51:00
+Abpara
+06:53:30
+06:53:50
+Foreign Affairs Office
+06:56:30
+06:56:50
+Lake View Park
+07:01:50
+07:02:10
+Malpur
+07:04:40
+07:05:00
+Shahdara
+07:07:50
+07:08:10
+Barakahu
+07:10:00
+07:10:00
+Trip ID
+Start Time
+169983-0
+06:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:45:00
+06:45:00
+Children Hospital
+06:46:30
+06:46:50
+TNT
+06:50:00
+06:50:20
+CDA
+06:55:40
+06:56:00
+Abpara
+06:58:30
+06:58:50
+Foreign Affairs Office
+07:01:30
+07:01:50
+Lake View Park
+07:06:50
+07:07:10
+Malpur
+07:09:40
+07:10:00
+Shahdara
+07:12:50
+07:13:10
+Barakahu
+07:15:00
+07:15:00
+Trip ID
+Start Time
+169984-0
+06:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:50:00
+06:50:00
+Children Hospital
+06:51:30
+06:51:50
+TNT
+06:55:00
+06:55:20
+CDA
+07:00:40
+07:01:00
+Abpara
+07:03:30
+07:03:50
+Foreign Affairs Office
+07:06:30
+07:06:50
+Lake View Park
+07:11:50
+07:12:10
+
+--- PAGE 5 ---
+Malpur
+07:14:40
+07:15:00
+Shahdara
+07:17:50
+07:18:10
+Barakahu
+07:20:00
+07:20:00
+Trip ID
+Start Time
+169985-0
+06:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+06:55:00
+06:55:00
+Children Hospital
+06:56:30
+06:56:50
+TNT
+07:00:00
+07:00:20
+CDA
+07:05:40
+07:06:00
+Abpara
+07:08:30
+07:08:50
+Foreign Affairs Office
+07:11:30
+07:11:50
+Lake View Park
+07:16:50
+07:17:10
+Malpur
+07:19:40
+07:20:00
+Shahdara
+07:22:50
+07:23:10
+Barakahu
+07:25:00
+07:25:00
+Trip ID
+Start Time
+169986-0
+07:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:00:00
+07:00:00
+Children Hospital
+07:01:30
+07:01:50
+TNT
+07:05:00
+07:05:20
+CDA
+07:10:40
+07:11:00
+Abpara
+07:13:30
+07:13:50
+Foreign Affairs Office
+07:16:30
+07:16:50
+Lake View Park
+07:21:50
+07:22:10
+Malpur
+07:24:40
+07:25:00
+Shahdara
+07:27:50
+07:28:10
+Barakahu
+07:30:00
+07:30:00
+Trip ID
+Start Time
+169987-0
+07:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:05:00
+07:05:00
+Children Hospital
+07:06:30
+07:06:50
+TNT
+07:10:00
+07:10:20
+CDA
+07:15:40
+07:16:00
+Abpara
+07:18:30
+07:18:50
+Foreign Affairs Office
+07:21:30
+07:21:50
+Lake View Park
+07:26:50
+07:27:10
+Malpur
+07:29:40
+07:30:00
+Shahdara
+07:32:50
+07:33:10
+Barakahu
+07:35:00
+07:35:00
+Trip ID
+Start Time
+169988-0
+07:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:10:00
+07:10:00
+
+--- PAGE 6 ---
+Children Hospital
+07:11:30
+07:11:50
+TNT
+07:15:00
+07:15:20
+CDA
+07:20:40
+07:21:00
+Abpara
+07:23:30
+07:23:50
+Foreign Affairs Office
+07:26:30
+07:26:50
+Lake View Park
+07:31:50
+07:32:10
+Malpur
+07:34:40
+07:35:00
+Shahdara
+07:37:50
+07:38:10
+Barakahu
+07:40:00
+07:40:00
+Trip ID
+Start Time
+169989-0
+07:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:15:00
+07:15:00
+Children Hospital
+07:16:30
+07:16:50
+TNT
+07:20:00
+07:20:20
+CDA
+07:25:40
+07:26:00
+Abpara
+07:28:30
+07:28:50
+Foreign Affairs Office
+07:31:30
+07:31:50
+Lake View Park
+07:36:50
+07:37:10
+Malpur
+07:39:40
+07:40:00
+Shahdara
+07:42:50
+07:43:10
+Barakahu
+07:45:00
+07:45:00
+Trip ID
+Start Time
+169990-0
+07:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:20:00
+07:20:00
+Children Hospital
+07:21:30
+07:21:50
+TNT
+07:25:00
+07:25:20
+CDA
+07:30:40
+07:31:00
+Abpara
+07:33:30
+07:33:50
+Foreign Affairs Office
+07:36:30
+07:36:50
+Lake View Park
+07:41:50
+07:42:10
+Malpur
+07:44:40
+07:45:00
+Shahdara
+07:47:50
+07:48:10
+Barakahu
+07:50:00
+07:50:00
+Trip ID
+Start Time
+169991-0
+07:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:25:00
+07:25:00
+Children Hospital
+07:26:30
+07:26:50
+TNT
+07:30:00
+07:30:20
+CDA
+07:35:40
+07:36:00
+Abpara
+07:38:30
+07:38:50
+Foreign Affairs Office
+07:41:30
+07:41:50
+Lake View Park
+07:46:50
+07:47:10
+Malpur
+07:49:40
+07:50:00
+Shahdara
+07:52:50
+07:53:10
+
+--- PAGE 7 ---
+Barakahu
+07:55:00
+07:55:00
+Trip ID
+Start Time
+169992-0
+07:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:30:00
+07:30:00
+Children Hospital
+07:31:30
+07:31:50
+TNT
+07:35:00
+07:35:20
+CDA
+07:40:40
+07:41:00
+Abpara
+07:43:30
+07:43:50
+Foreign Affairs Office
+07:46:30
+07:46:50
+Lake View Park
+07:51:50
+07:52:10
+Malpur
+07:54:40
+07:55:00
+Shahdara
+07:57:50
+07:58:10
+Barakahu
+08:00:00
+08:00:00
+Trip ID
+Start Time
+169993-0
+07:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:35:00
+07:35:00
+Children Hospital
+07:36:30
+07:36:50
+TNT
+07:40:00
+07:40:20
+CDA
+07:45:40
+07:46:00
+Abpara
+07:48:30
+07:48:50
+Foreign Affairs Office
+07:51:30
+07:51:50
+Lake View Park
+07:56:50
+07:57:10
+Malpur
+07:59:40
+08:00:00
+Shahdara
+08:02:50
+08:03:10
+Barakahu
+08:05:00
+08:05:00
+Trip ID
+Start Time
+169994-0
+07:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:40:00
+07:40:00
+Children Hospital
+07:41:30
+07:41:50
+TNT
+07:45:00
+07:45:20
+CDA
+07:50:40
+07:51:00
+Abpara
+07:53:30
+07:53:50
+Foreign Affairs Office
+07:56:30
+07:56:50
+Lake View Park
+08:01:50
+08:02:10
+Malpur
+08:04:40
+08:05:00
+Shahdara
+08:07:50
+08:08:10
+Barakahu
+08:10:00
+08:10:00
+Trip ID
+Start Time
+169995-0
+07:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:45:00
+07:45:00
+Children Hospital
+07:46:30
+07:46:50
+TNT
+07:50:00
+07:50:20
+
+--- PAGE 8 ---
+CDA
+07:55:40
+07:56:00
+Abpara
+07:58:30
+07:58:50
+Foreign Affairs Office
+08:01:30
+08:01:50
+Lake View Park
+08:06:50
+08:07:10
+Malpur
+08:09:40
+08:10:00
+Shahdara
+08:12:50
+08:13:10
+Barakahu
+08:15:00
+08:15:00
+Trip ID
+Start Time
+169996-0
+07:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:50:00
+07:50:00
+Children Hospital
+07:51:30
+07:51:50
+TNT
+07:55:00
+07:55:20
+CDA
+08:00:40
+08:01:00
+Abpara
+08:03:30
+08:03:50
+Foreign Affairs Office
+08:06:30
+08:06:50
+Lake View Park
+08:11:50
+08:12:10
+Malpur
+08:14:40
+08:15:00
+Shahdara
+08:17:50
+08:18:10
+Barakahu
+08:20:00
+08:20:00
+Trip ID
+Start Time
+169997-0
+07:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+07:55:00
+07:55:00
+Children Hospital
+07:56:30
+07:56:50
+TNT
+08:00:00
+08:00:20
+CDA
+08:05:40
+08:06:00
+Abpara
+08:08:30
+08:08:50
+Foreign Affairs Office
+08:11:30
+08:11:50
+Lake View Park
+08:16:50
+08:17:10
+Malpur
+08:19:40
+08:20:00
+Shahdara
+08:22:50
+08:23:10
+Barakahu
+08:25:00
+08:25:00
+Trip ID
+Start Time
+169998-0
+08:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:00:00
+08:00:00
+Children Hospital
+08:01:30
+08:01:50
+TNT
+08:05:00
+08:05:20
+CDA
+08:10:40
+08:11:00
+Abpara
+08:13:30
+08:13:50
+Foreign Affairs Office
+08:16:30
+08:16:50
+Lake View Park
+08:21:50
+08:22:10
+Malpur
+08:24:40
+08:25:00
+Shahdara
+08:27:50
+08:28:10
+Barakahu
+08:30:00
+08:30:00
+
+--- PAGE 9 ---
+Trip ID
+Start Time
+169999-0
+08:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:05:00
+08:05:00
+Children Hospital
+08:06:30
+08:06:50
+TNT
+08:10:00
+08:10:20
+CDA
+08:15:40
+08:16:00
+Abpara
+08:18:30
+08:18:50
+Foreign Affairs Office
+08:21:30
+08:21:50
+Lake View Park
+08:26:50
+08:27:10
+Malpur
+08:29:40
+08:30:00
+Shahdara
+08:32:50
+08:33:10
+Barakahu
+08:35:00
+08:35:00
+Trip ID
+Start Time
+170000-0
+08:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:10:00
+08:10:00
+Children Hospital
+08:11:30
+08:11:50
+TNT
+08:15:00
+08:15:20
+CDA
+08:20:40
+08:21:00
+Abpara
+08:23:30
+08:23:50
+Foreign Affairs Office
+08:26:30
+08:26:50
+Lake View Park
+08:31:50
+08:32:10
+Malpur
+08:34:40
+08:35:00
+Shahdara
+08:37:50
+08:38:10
+Barakahu
+08:40:00
+08:40:00
+Trip ID
+Start Time
+170001-0
+08:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:15:00
+08:15:00
+Children Hospital
+08:16:30
+08:16:50
+TNT
+08:20:00
+08:20:20
+CDA
+08:25:40
+08:26:00
+Abpara
+08:28:30
+08:28:50
+Foreign Affairs Office
+08:31:30
+08:31:50
+Lake View Park
+08:36:50
+08:37:10
+Malpur
+08:39:40
+08:40:00
+Shahdara
+08:42:50
+08:43:10
+Barakahu
+08:45:00
+08:45:00
+Trip ID
+Start Time
+170002-0
+08:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:20:00
+08:20:00
+Children Hospital
+08:21:30
+08:21:50
+TNT
+08:25:00
+08:25:20
+CDA
+08:30:40
+08:31:00
+Abpara
+08:33:30
+08:33:50
+
+--- PAGE 10 ---
+Foreign Affairs Office
+08:36:30
+08:36:50
+Lake View Park
+08:41:50
+08:42:10
+Malpur
+08:44:40
+08:45:00
+Shahdara
+08:47:50
+08:48:10
+Barakahu
+08:50:00
+08:50:00
+Trip ID
+Start Time
+170003-0
+08:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:25:00
+08:25:00
+Children Hospital
+08:26:30
+08:26:50
+TNT
+08:30:00
+08:30:20
+CDA
+08:35:40
+08:36:00
+Abpara
+08:38:30
+08:38:50
+Foreign Affairs Office
+08:41:30
+08:41:50
+Lake View Park
+08:46:50
+08:47:10
+Malpur
+08:49:40
+08:50:00
+Shahdara
+08:52:50
+08:53:10
+Barakahu
+08:55:00
+08:55:00
+Trip ID
+Start Time
+170004-0
+08:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:30:00
+08:30:00
+Children Hospital
+08:31:30
+08:31:50
+TNT
+08:35:00
+08:35:20
+CDA
+08:40:40
+08:41:00
+Abpara
+08:43:30
+08:43:50
+Foreign Affairs Office
+08:46:30
+08:46:50
+Lake View Park
+08:51:50
+08:52:10
+Malpur
+08:54:40
+08:55:00
+Shahdara
+08:57:50
+08:58:10
+Barakahu
+09:00:00
+09:00:00
+Trip ID
+Start Time
+170005-0
+08:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:35:00
+08:35:00
+Children Hospital
+08:36:30
+08:36:50
+TNT
+08:40:00
+08:40:20
+CDA
+08:45:40
+08:46:00
+Abpara
+08:48:30
+08:48:50
+Foreign Affairs Office
+08:51:30
+08:51:50
+Lake View Park
+08:56:50
+08:57:10
+Malpur
+08:59:40
+09:00:00
+Shahdara
+09:02:50
+09:03:10
+Barakahu
+09:05:00
+09:05:00
+Trip ID
+Start Time
+170006-0
+08:40:00
+
+--- PAGE 11 ---
+stop_name
+arrival_time
+departure_time
+PIMS
+08:40:00
+08:40:00
+Children Hospital
+08:41:30
+08:41:50
+TNT
+08:45:00
+08:45:20
+CDA
+08:50:40
+08:51:00
+Abpara
+08:53:30
+08:53:50
+Foreign Affairs Office
+08:56:30
+08:56:50
+Lake View Park
+09:01:50
+09:02:10
+Malpur
+09:04:40
+09:05:00
+Shahdara
+09:07:50
+09:08:10
+Barakahu
+09:10:00
+09:10:00
+Trip ID
+Start Time
+170007-0
+08:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:45:00
+08:45:00
+Children Hospital
+08:46:30
+08:46:50
+TNT
+08:50:00
+08:50:20
+CDA
+08:55:40
+08:56:00
+Abpara
+08:58:30
+08:58:50
+Foreign Affairs Office
+09:01:30
+09:01:50
+Lake View Park
+09:06:50
+09:07:10
+Malpur
+09:09:40
+09:10:00
+Shahdara
+09:12:50
+09:13:10
+Barakahu
+09:15:00
+09:15:00
+Trip ID
+Start Time
+170008-0
+08:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:50:00
+08:50:00
+Children Hospital
+08:51:30
+08:51:50
+TNT
+08:55:00
+08:55:20
+CDA
+09:00:40
+09:01:00
+Abpara
+09:03:30
+09:03:50
+Foreign Affairs Office
+09:06:30
+09:06:50
+Lake View Park
+09:11:50
+09:12:10
+Malpur
+09:14:40
+09:15:00
+Shahdara
+09:17:50
+09:18:10
+Barakahu
+09:20:00
+09:20:00
+Trip ID
+Start Time
+170009-0
+08:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+08:55:00
+08:55:00
+Children Hospital
+08:56:30
+08:56:50
+TNT
+09:00:00
+09:00:20
+CDA
+09:05:40
+09:06:00
+Abpara
+09:08:30
+09:08:50
+Foreign Affairs Office
+09:11:30
+09:11:50
+Lake View Park
+09:16:50
+09:17:10
+
+--- PAGE 12 ---
+Malpur
+09:19:40
+09:20:00
+Shahdara
+09:22:50
+09:23:10
+Barakahu
+09:25:00
+09:25:00
+Trip ID
+Start Time
+170010-0
+09:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:00:00
+09:00:00
+Children Hospital
+09:01:30
+09:01:50
+TNT
+09:05:00
+09:05:20
+CDA
+09:10:40
+09:11:00
+Abpara
+09:13:30
+09:13:50
+Foreign Affairs Office
+09:16:30
+09:16:50
+Lake View Park
+09:21:50
+09:22:10
+Malpur
+09:24:40
+09:25:00
+Shahdara
+09:27:50
+09:28:10
+Barakahu
+09:30:00
+09:30:00
+Trip ID
+Start Time
+170011-0
+09:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:05:00
+09:05:00
+Children Hospital
+09:06:30
+09:06:50
+TNT
+09:10:00
+09:10:20
+CDA
+09:15:40
+09:16:00
+Abpara
+09:18:30
+09:18:50
+Foreign Affairs Office
+09:21:30
+09:21:50
+Lake View Park
+09:26:50
+09:27:10
+Malpur
+09:29:40
+09:30:00
+Shahdara
+09:32:50
+09:33:10
+Barakahu
+09:35:00
+09:35:00
+Trip ID
+Start Time
+170012-0
+09:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:10:00
+09:10:00
+Children Hospital
+09:11:30
+09:11:50
+TNT
+09:15:00
+09:15:20
+CDA
+09:20:40
+09:21:00
+Abpara
+09:23:30
+09:23:50
+Foreign Affairs Office
+09:26:30
+09:26:50
+Lake View Park
+09:31:50
+09:32:10
+Malpur
+09:34:40
+09:35:00
+Shahdara
+09:37:50
+09:38:10
+Barakahu
+09:40:00
+09:40:00
+Trip ID
+Start Time
+170013-0
+09:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:15:00
+09:15:00
+
+--- PAGE 13 ---
+Children Hospital
+09:16:30
+09:16:50
+TNT
+09:20:00
+09:20:20
+CDA
+09:25:40
+09:26:00
+Abpara
+09:28:30
+09:28:50
+Foreign Affairs Office
+09:31:30
+09:31:50
+Lake View Park
+09:36:50
+09:37:10
+Malpur
+09:39:40
+09:40:00
+Shahdara
+09:42:50
+09:43:10
+Barakahu
+09:45:00
+09:45:00
+Trip ID
+Start Time
+170014-0
+09:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:20:00
+09:20:00
+Children Hospital
+09:21:30
+09:21:50
+TNT
+09:25:00
+09:25:20
+CDA
+09:30:40
+09:31:00
+Abpara
+09:33:30
+09:33:50
+Foreign Affairs Office
+09:36:30
+09:36:50
+Lake View Park
+09:41:50
+09:42:10
+Malpur
+09:44:40
+09:45:00
+Shahdara
+09:47:50
+09:48:10
+Barakahu
+09:50:00
+09:50:00
+Trip ID
+Start Time
+170015-0
+09:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:25:00
+09:25:00
+Children Hospital
+09:26:30
+09:26:50
+TNT
+09:30:00
+09:30:20
+CDA
+09:35:40
+09:36:00
+Abpara
+09:38:30
+09:38:50
+Foreign Affairs Office
+09:41:30
+09:41:50
+Lake View Park
+09:46:50
+09:47:10
+Malpur
+09:49:40
+09:50:00
+Shahdara
+09:52:50
+09:53:10
+Barakahu
+09:55:00
+09:55:00
+Trip ID
+Start Time
+170016-0
+09:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:30:00
+09:30:00
+Children Hospital
+09:31:30
+09:31:50
+TNT
+09:35:00
+09:35:20
+CDA
+09:40:40
+09:41:00
+Abpara
+09:43:30
+09:43:50
+Foreign Affairs Office
+09:46:30
+09:46:50
+Lake View Park
+09:51:50
+09:52:10
+Malpur
+09:54:40
+09:55:00
+Shahdara
+09:57:50
+09:58:10
+
+--- PAGE 14 ---
+Barakahu
+10:00:00
+10:00:00
+Trip ID
+Start Time
+170017-0
+09:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:35:00
+09:35:00
+Children Hospital
+09:36:30
+09:36:50
+TNT
+09:40:00
+09:40:20
+CDA
+09:45:40
+09:46:00
+Abpara
+09:48:30
+09:48:50
+Foreign Affairs Office
+09:51:30
+09:51:50
+Lake View Park
+09:56:50
+09:57:10
+Malpur
+09:59:40
+10:00:00
+Shahdara
+10:02:50
+10:03:10
+Barakahu
+10:05:00
+10:05:00
+Trip ID
+Start Time
+170018-0
+09:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:40:00
+09:40:00
+Children Hospital
+09:41:30
+09:41:50
+TNT
+09:45:00
+09:45:20
+CDA
+09:50:40
+09:51:00
+Abpara
+09:53:30
+09:53:50
+Foreign Affairs Office
+09:56:30
+09:56:50
+Lake View Park
+10:01:50
+10:02:10
+Malpur
+10:04:40
+10:05:00
+Shahdara
+10:07:50
+10:08:10
+Barakahu
+10:10:00
+10:10:00
+Trip ID
+Start Time
+170019-0
+09:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:45:00
+09:45:00
+Children Hospital
+09:46:30
+09:46:50
+TNT
+09:50:00
+09:50:20
+CDA
+09:55:40
+09:56:00
+Abpara
+09:58:30
+09:58:50
+Foreign Affairs Office
+10:01:30
+10:01:50
+Lake View Park
+10:06:50
+10:07:10
+Malpur
+10:09:40
+10:10:00
+Shahdara
+10:12:50
+10:13:10
+Barakahu
+10:15:00
+10:15:00
+Trip ID
+Start Time
+170020-0
+09:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:50:00
+09:50:00
+Children Hospital
+09:51:30
+09:51:50
+TNT
+09:55:00
+09:55:20
+
+--- PAGE 15 ---
+CDA
+10:00:40
+10:01:00
+Abpara
+10:03:30
+10:03:50
+Foreign Affairs Office
+10:06:30
+10:06:50
+Lake View Park
+10:11:50
+10:12:10
+Malpur
+10:14:40
+10:15:00
+Shahdara
+10:17:50
+10:18:10
+Barakahu
+10:20:00
+10:20:00
+Trip ID
+Start Time
+170021-0
+09:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:55:00
+09:55:00
+Children Hospital
+09:56:30
+09:56:50
+TNT
+10:00:00
+10:00:20
+CDA
+10:05:40
+10:06:00
+Abpara
+10:08:30
+10:08:50
+Foreign Affairs Office
+10:11:30
+10:11:50
+Lake View Park
+10:16:50
+10:17:10
+Malpur
+10:19:40
+10:20:00
+Shahdara
+10:22:50
+10:23:10
+Barakahu
+10:25:00
+10:25:00
+Trip ID
+Start Time
+170022-0
+10:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:00:00
+10:00:00
+Children Hospital
+10:01:30
+10:01:50
+TNT
+10:05:00
+10:05:20
+CDA
+10:10:40
+10:11:00
+Abpara
+10:13:30
+10:13:50
+Foreign Affairs Office
+10:16:30
+10:16:50
+Lake View Park
+10:21:50
+10:22:10
+Malpur
+10:24:40
+10:25:00
+Shahdara
+10:27:50
+10:28:10
+Barakahu
+10:30:00
+10:30:00
+Trip ID
+Start Time
+170023-0
+10:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:05:00
+10:05:00
+Children Hospital
+10:06:30
+10:06:50
+TNT
+10:10:00
+10:10:20
+CDA
+10:15:40
+10:16:00
+Abpara
+10:18:30
+10:18:50
+Foreign Affairs Office
+10:21:30
+10:21:50
+Lake View Park
+10:26:50
+10:27:10
+Malpur
+10:29:40
+10:30:00
+Shahdara
+10:32:50
+10:33:10
+Barakahu
+10:35:00
+10:35:00
+
+--- PAGE 16 ---
+Trip ID
+Start Time
+170024-0
+10:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:10:00
+10:10:00
+Children Hospital
+10:11:30
+10:11:50
+TNT
+10:15:00
+10:15:20
+CDA
+10:20:40
+10:21:00
+Abpara
+10:23:30
+10:23:50
+Foreign Affairs Office
+10:26:30
+10:26:50
+Lake View Park
+10:31:50
+10:32:10
+Malpur
+10:34:40
+10:35:00
+Shahdara
+10:37:50
+10:38:10
+Barakahu
+10:40:00
+10:40:00
+Trip ID
+Start Time
+170025-0
+10:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:15:00
+10:15:00
+Children Hospital
+10:16:30
+10:16:50
+TNT
+10:20:00
+10:20:20
+CDA
+10:25:40
+10:26:00
+Abpara
+10:28:30
+10:28:50
+Foreign Affairs Office
+10:31:30
+10:31:50
+Lake View Park
+10:36:50
+10:37:10
+Malpur
+10:39:40
+10:40:00
+Shahdara
+10:42:50
+10:43:10
+Barakahu
+10:45:00
+10:45:00
+Trip ID
+Start Time
+170026-0
+10:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:20:00
+10:20:00
+Children Hospital
+10:21:30
+10:21:50
+TNT
+10:25:00
+10:25:20
+CDA
+10:30:40
+10:31:00
+Abpara
+10:33:30
+10:33:50
+Foreign Affairs Office
+10:36:30
+10:36:50
+Lake View Park
+10:41:50
+10:42:10
+Malpur
+10:44:40
+10:45:00
+Shahdara
+10:47:50
+10:48:10
+Barakahu
+10:50:00
+10:50:00
+Trip ID
+Start Time
+170027-0
+10:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:25:00
+10:25:00
+Children Hospital
+10:26:30
+10:26:50
+TNT
+10:30:00
+10:30:20
+CDA
+10:35:40
+10:36:00
+Abpara
+10:38:30
+10:38:50
+
+--- PAGE 17 ---
+Foreign Affairs Office
+10:41:30
+10:41:50
+Lake View Park
+10:46:50
+10:47:10
+Malpur
+10:49:40
+10:50:00
+Shahdara
+10:52:50
+10:53:10
+Barakahu
+10:55:00
+10:55:00
+Trip ID
+Start Time
+170028-0
+10:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:30:00
+10:30:00
+Children Hospital
+10:31:30
+10:31:50
+TNT
+10:35:00
+10:35:20
+CDA
+10:40:40
+10:41:00
+Abpara
+10:43:30
+10:43:50
+Foreign Affairs Office
+10:46:30
+10:46:50
+Lake View Park
+10:51:50
+10:52:10
+Malpur
+10:54:40
+10:55:00
+Shahdara
+10:57:50
+10:58:10
+Barakahu
+11:00:00
+11:00:00
+Trip ID
+Start Time
+170029-0
+10:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:35:00
+10:35:00
+Children Hospital
+10:36:30
+10:36:50
+TNT
+10:40:00
+10:40:20
+CDA
+10:45:40
+10:46:00
+Abpara
+10:48:30
+10:48:50
+Foreign Affairs Office
+10:51:30
+10:51:50
+Lake View Park
+10:56:50
+10:57:10
+Malpur
+10:59:40
+11:00:00
+Shahdara
+11:02:50
+11:03:10
+Barakahu
+11:05:00
+11:05:00
+Trip ID
+Start Time
+170030-0
+10:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:40:00
+10:40:00
+Children Hospital
+10:41:30
+10:41:50
+TNT
+10:45:00
+10:45:20
+CDA
+10:50:40
+10:51:00
+Abpara
+10:53:30
+10:53:50
+Foreign Affairs Office
+10:56:30
+10:56:50
+Lake View Park
+11:01:50
+11:02:10
+Malpur
+11:04:40
+11:05:00
+Shahdara
+11:07:50
+11:08:10
+Barakahu
+11:10:00
+11:10:00
+Trip ID
+Start Time
+170031-0
+10:45:00
+
+--- PAGE 18 ---
+stop_name
+arrival_time
+departure_time
+PIMS
+10:45:00
+10:45:00
+Children Hospital
+10:46:30
+10:46:50
+TNT
+10:50:00
+10:50:20
+CDA
+10:55:40
+10:56:00
+Abpara
+10:58:30
+10:58:50
+Foreign Affairs Office
+11:01:30
+11:01:50
+Lake View Park
+11:06:50
+11:07:10
+Malpur
+11:09:40
+11:10:00
+Shahdara
+11:12:50
+11:13:10
+Barakahu
+11:15:00
+11:15:00
+Trip ID
+Start Time
+170032-0
+10:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:50:00
+10:50:00
+Children Hospital
+10:51:30
+10:51:50
+TNT
+10:55:00
+10:55:20
+CDA
+11:00:40
+11:01:00
+Abpara
+11:03:30
+11:03:50
+Foreign Affairs Office
+11:06:30
+11:06:50
+Lake View Park
+11:11:50
+11:12:10
+Malpur
+11:14:40
+11:15:00
+Shahdara
+11:17:50
+11:18:10
+Barakahu
+11:20:00
+11:20:00
+Trip ID
+Start Time
+170033-0
+10:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:55:00
+10:55:00
+Children Hospital
+10:56:30
+10:56:50
+TNT
+11:00:00
+11:00:20
+CDA
+11:05:40
+11:06:00
+Abpara
+11:08:30
+11:08:50
+Foreign Affairs Office
+11:11:30
+11:11:50
+Lake View Park
+11:16:50
+11:17:10
+Malpur
+11:19:40
+11:20:00
+Shahdara
+11:22:50
+11:23:10
+Barakahu
+11:25:00
+11:25:00
+Trip ID
+Start Time
+170034-0
+11:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:00:00
+11:00:00
+Children Hospital
+11:01:30
+11:01:50
+TNT
+11:05:00
+11:05:20
+CDA
+11:10:40
+11:11:00
+Abpara
+11:13:30
+11:13:50
+Foreign Affairs Office
+11:16:30
+11:16:50
+Lake View Park
+11:21:50
+11:22:10
+
+--- PAGE 19 ---
+Malpur
+11:24:40
+11:25:00
+Shahdara
+11:27:50
+11:28:10
+Barakahu
+11:30:00
+11:30:00
+Trip ID
+Start Time
+170035-0
+11:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:05:00
+11:05:00
+Children Hospital
+11:06:30
+11:06:50
+TNT
+11:10:00
+11:10:20
+CDA
+11:15:40
+11:16:00
+Abpara
+11:18:30
+11:18:50
+Foreign Affairs Office
+11:21:30
+11:21:50
+Lake View Park
+11:26:50
+11:27:10
+Malpur
+11:29:40
+11:30:00
+Shahdara
+11:32:50
+11:33:10
+Barakahu
+11:35:00
+11:35:00
+Trip ID
+Start Time
+170036-0
+11:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:10:00
+11:10:00
+Children Hospital
+11:11:30
+11:11:50
+TNT
+11:15:00
+11:15:20
+CDA
+11:20:40
+11:21:00
+Abpara
+11:23:30
+11:23:50
+Foreign Affairs Office
+11:26:30
+11:26:50
+Lake View Park
+11:31:50
+11:32:10
+Malpur
+11:34:40
+11:35:00
+Shahdara
+11:37:50
+11:38:10
+Barakahu
+11:40:00
+11:40:00
+Trip ID
+Start Time
+170037-0
+11:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:15:00
+11:15:00
+Children Hospital
+11:16:30
+11:16:50
+TNT
+11:20:00
+11:20:20
+CDA
+11:25:40
+11:26:00
+Abpara
+11:28:30
+11:28:50
+Foreign Affairs Office
+11:31:30
+11:31:50
+Lake View Park
+11:36:50
+11:37:10
+Malpur
+11:39:40
+11:40:00
+Shahdara
+11:42:50
+11:43:10
+Barakahu
+11:45:00
+11:45:00
+Trip ID
+Start Time
+170038-0
+11:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:20:00
+11:20:00
+
+--- PAGE 20 ---
+Children Hospital
+11:21:30
+11:21:50
+TNT
+11:25:00
+11:25:20
+CDA
+11:30:40
+11:31:00
+Abpara
+11:33:30
+11:33:50
+Foreign Affairs Office
+11:36:30
+11:36:50
+Lake View Park
+11:41:50
+11:42:10
+Malpur
+11:44:40
+11:45:00
+Shahdara
+11:47:50
+11:48:10
+Barakahu
+11:50:00
+11:50:00
+Trip ID
+Start Time
+170039-0
+11:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:25:00
+11:25:00
+Children Hospital
+11:26:30
+11:26:50
+TNT
+11:30:00
+11:30:20
+CDA
+11:35:40
+11:36:00
+Abpara
+11:38:30
+11:38:50
+Foreign Affairs Office
+11:41:30
+11:41:50
+Lake View Park
+11:46:50
+11:47:10
+Malpur
+11:49:40
+11:50:00
+Shahdara
+11:52:50
+11:53:10
+Barakahu
+11:55:00
+11:55:00
+Trip ID
+Start Time
+170040-0
+11:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:30:00
+11:30:00
+Children Hospital
+11:31:30
+11:31:50
+TNT
+11:35:00
+11:35:20
+CDA
+11:40:40
+11:41:00
+Abpara
+11:43:30
+11:43:50
+Foreign Affairs Office
+11:46:30
+11:46:50
+Lake View Park
+11:51:50
+11:52:10
+Malpur
+11:54:40
+11:55:00
+Shahdara
+11:57:50
+11:58:10
+Barakahu
+12:00:00
+12:00:00
+Trip ID
+Start Time
+170041-0
+11:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:35:00
+11:35:00
+Children Hospital
+11:36:30
+11:36:50
+TNT
+11:40:00
+11:40:20
+CDA
+11:45:40
+11:46:00
+Abpara
+11:48:30
+11:48:50
+Foreign Affairs Office
+11:51:30
+11:51:50
+Lake View Park
+11:56:50
+11:57:10
+Malpur
+11:59:40
+12:00:00
+Shahdara
+12:02:50
+12:03:10
+
+--- PAGE 21 ---
+Barakahu
+12:05:00
+12:05:00
+Trip ID
+Start Time
+170042-0
+11:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:40:00
+11:40:00
+Children Hospital
+11:41:30
+11:41:50
+TNT
+11:45:00
+11:45:20
+CDA
+11:50:40
+11:51:00
+Abpara
+11:53:30
+11:53:50
+Foreign Affairs Office
+11:56:30
+11:56:50
+Lake View Park
+12:01:50
+12:02:10
+Malpur
+12:04:40
+12:05:00
+Shahdara
+12:07:50
+12:08:10
+Barakahu
+12:10:00
+12:10:00
+Trip ID
+Start Time
+170043-0
+11:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:45:00
+11:45:00
+Children Hospital
+11:46:30
+11:46:50
+TNT
+11:50:00
+11:50:20
+CDA
+11:55:40
+11:56:00
+Abpara
+11:58:30
+11:58:50
+Foreign Affairs Office
+12:01:30
+12:01:50
+Lake View Park
+12:06:50
+12:07:10
+Malpur
+12:09:40
+12:10:00
+Shahdara
+12:12:50
+12:13:10
+Barakahu
+12:15:00
+12:15:00
+Trip ID
+Start Time
+170044-0
+11:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:50:00
+11:50:00
+Children Hospital
+11:51:30
+11:51:50
+TNT
+11:55:00
+11:55:20
+CDA
+12:00:40
+12:01:00
+Abpara
+12:03:30
+12:03:50
+Foreign Affairs Office
+12:06:30
+12:06:50
+Lake View Park
+12:11:50
+12:12:10
+Malpur
+12:14:40
+12:15:00
+Shahdara
+12:17:50
+12:18:10
+Barakahu
+12:20:00
+12:20:00
+Trip ID
+Start Time
+170045-0
+11:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:55:00
+11:55:00
+Children Hospital
+11:56:30
+11:56:50
+TNT
+12:00:00
+12:00:20
+
+--- PAGE 22 ---
+CDA
+12:05:40
+12:06:00
+Abpara
+12:08:30
+12:08:50
+Foreign Affairs Office
+12:11:30
+12:11:50
+Lake View Park
+12:16:50
+12:17:10
+Malpur
+12:19:40
+12:20:00
+Shahdara
+12:22:50
+12:23:10
+Barakahu
+12:25:00
+12:25:00
+Trip ID
+Start Time
+170046-0
+12:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:00:00
+12:00:00
+Children Hospital
+12:01:30
+12:01:50
+TNT
+12:05:00
+12:05:20
+CDA
+12:10:40
+12:11:00
+Abpara
+12:13:30
+12:13:50
+Foreign Affairs Office
+12:16:30
+12:16:50
+Lake View Park
+12:21:50
+12:22:10
+Malpur
+12:24:40
+12:25:00
+Shahdara
+12:27:50
+12:28:10
+Barakahu
+12:30:00
+12:30:00
+Trip ID
+Start Time
+170047-0
+12:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:05:00
+12:05:00
+Children Hospital
+12:06:30
+12:06:50
+TNT
+12:10:00
+12:10:20
+CDA
+12:15:40
+12:16:00
+Abpara
+12:18:30
+12:18:50
+Foreign Affairs Office
+12:21:30
+12:21:50
+Lake View Park
+12:26:50
+12:27:10
+Malpur
+12:29:40
+12:30:00
+Shahdara
+12:32:50
+12:33:10
+Barakahu
+12:35:00
+12:35:00
+Trip ID
+Start Time
+170048-0
+12:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:10:00
+12:10:00
+Children Hospital
+12:11:30
+12:11:50
+TNT
+12:15:00
+12:15:20
+CDA
+12:20:40
+12:21:00
+Abpara
+12:23:30
+12:23:50
+Foreign Affairs Office
+12:26:30
+12:26:50
+Lake View Park
+12:31:50
+12:32:10
+Malpur
+12:34:40
+12:35:00
+Shahdara
+12:37:50
+12:38:10
+Barakahu
+12:40:00
+12:40:00
+
+--- PAGE 23 ---
+Trip ID
+Start Time
+170049-0
+12:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:15:00
+12:15:00
+Children Hospital
+12:16:30
+12:16:50
+TNT
+12:20:00
+12:20:20
+CDA
+12:25:40
+12:26:00
+Abpara
+12:28:30
+12:28:50
+Foreign Affairs Office
+12:31:30
+12:31:50
+Lake View Park
+12:36:50
+12:37:10
+Malpur
+12:39:40
+12:40:00
+Shahdara
+12:42:50
+12:43:10
+Barakahu
+12:45:00
+12:45:00
+Trip ID
+Start Time
+170050-0
+12:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:20:00
+12:20:00
+Children Hospital
+12:21:30
+12:21:50
+TNT
+12:25:00
+12:25:20
+CDA
+12:30:40
+12:31:00
+Abpara
+12:33:30
+12:33:50
+Foreign Affairs Office
+12:36:30
+12:36:50
+Lake View Park
+12:41:50
+12:42:10
+Malpur
+12:44:40
+12:45:00
+Shahdara
+12:47:50
+12:48:10
+Barakahu
+12:50:00
+12:50:00
+Trip ID
+Start Time
+170051-0
+12:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:25:00
+12:25:00
+Children Hospital
+12:26:30
+12:26:50
+TNT
+12:30:00
+12:30:20
+CDA
+12:35:40
+12:36:00
+Abpara
+12:38:30
+12:38:50
+Foreign Affairs Office
+12:41:30
+12:41:50
+Lake View Park
+12:46:50
+12:47:10
+Malpur
+12:49:40
+12:50:00
+Shahdara
+12:52:50
+12:53:10
+Barakahu
+12:55:00
+12:55:00
+Trip ID
+Start Time
+170052-0
+12:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:30:00
+12:30:00
+Children Hospital
+12:31:30
+12:31:50
+TNT
+12:35:00
+12:35:20
+CDA
+12:40:40
+12:41:00
+Abpara
+12:43:30
+12:43:50
+
+--- PAGE 24 ---
+Foreign Affairs Office
+12:46:30
+12:46:50
+Lake View Park
+12:51:50
+12:52:10
+Malpur
+12:54:40
+12:55:00
+Shahdara
+12:57:50
+12:58:10
+Barakahu
+13:00:00
+13:00:00
+Trip ID
+Start Time
+170053-0
+12:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:35:00
+12:35:00
+Children Hospital
+12:36:30
+12:36:50
+TNT
+12:40:00
+12:40:20
+CDA
+12:45:40
+12:46:00
+Abpara
+12:48:30
+12:48:50
+Foreign Affairs Office
+12:51:30
+12:51:50
+Lake View Park
+12:56:50
+12:57:10
+Malpur
+12:59:40
+13:00:00
+Shahdara
+13:02:50
+13:03:10
+Barakahu
+13:05:00
+13:05:00
+Trip ID
+Start Time
+170054-0
+12:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:40:00
+12:40:00
+Children Hospital
+12:41:30
+12:41:50
+TNT
+12:45:00
+12:45:20
+CDA
+12:50:40
+12:51:00
+Abpara
+12:53:30
+12:53:50
+Foreign Affairs Office
+12:56:30
+12:56:50
+Lake View Park
+13:01:50
+13:02:10
+Malpur
+13:04:40
+13:05:00
+Shahdara
+13:07:50
+13:08:10
+Barakahu
+13:10:00
+13:10:00
+Trip ID
+Start Time
+170055-0
+12:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:45:00
+12:45:00
+Children Hospital
+12:46:30
+12:46:50
+TNT
+12:50:00
+12:50:20
+CDA
+12:55:40
+12:56:00
+Abpara
+12:58:30
+12:58:50
+Foreign Affairs Office
+13:01:30
+13:01:50
+Lake View Park
+13:06:50
+13:07:10
+Malpur
+13:09:40
+13:10:00
+Shahdara
+13:12:50
+13:13:10
+Barakahu
+13:15:00
+13:15:00
+Trip ID
+Start Time
+170056-0
+12:50:00
+
+--- PAGE 25 ---
+stop_name
+arrival_time
+departure_time
+PIMS
+12:50:00
+12:50:00
+Children Hospital
+12:51:30
+12:51:50
+TNT
+12:55:00
+12:55:20
+CDA
+13:00:40
+13:01:00
+Abpara
+13:03:30
+13:03:50
+Foreign Affairs Office
+13:06:30
+13:06:50
+Lake View Park
+13:11:50
+13:12:10
+Malpur
+13:14:40
+13:15:00
+Shahdara
+13:17:50
+13:18:10
+Barakahu
+13:20:00
+13:20:00
+Trip ID
+Start Time
+170057-0
+12:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:55:00
+12:55:00
+Children Hospital
+12:56:30
+12:56:50
+TNT
+13:00:00
+13:00:20
+CDA
+13:05:40
+13:06:00
+Abpara
+13:08:30
+13:08:50
+Foreign Affairs Office
+13:11:30
+13:11:50
+Lake View Park
+13:16:50
+13:17:10
+Malpur
+13:19:40
+13:20:00
+Shahdara
+13:22:50
+13:23:10
+Barakahu
+13:25:00
+13:25:00
+Trip ID
+Start Time
+170058-0
+13:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:00:00
+13:00:00
+Children Hospital
+13:01:30
+13:01:50
+TNT
+13:05:00
+13:05:20
+CDA
+13:10:40
+13:11:00
+Abpara
+13:13:30
+13:13:50
+Foreign Affairs Office
+13:16:30
+13:16:50
+Lake View Park
+13:21:50
+13:22:10
+Malpur
+13:24:40
+13:25:00
+Shahdara
+13:27:50
+13:28:10
+Barakahu
+13:30:00
+13:30:00
+Trip ID
+Start Time
+170059-0
+13:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:05:00
+13:05:00
+Children Hospital
+13:06:30
+13:06:50
+TNT
+13:10:00
+13:10:20
+CDA
+13:15:40
+13:16:00
+Abpara
+13:18:30
+13:18:50
+Foreign Affairs Office
+13:21:30
+13:21:50
+Lake View Park
+13:26:50
+13:27:10
+
+--- PAGE 26 ---
+Malpur
+13:29:40
+13:30:00
+Shahdara
+13:32:50
+13:33:10
+Barakahu
+13:35:00
+13:35:00
+Trip ID
+Start Time
+170060-0
+13:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:10:00
+13:10:00
+Children Hospital
+13:11:30
+13:11:50
+TNT
+13:15:00
+13:15:20
+CDA
+13:20:40
+13:21:00
+Abpara
+13:23:30
+13:23:50
+Foreign Affairs Office
+13:26:30
+13:26:50
+Lake View Park
+13:31:50
+13:32:10
+Malpur
+13:34:40
+13:35:00
+Shahdara
+13:37:50
+13:38:10
+Barakahu
+13:40:00
+13:40:00
+Trip ID
+Start Time
+170061-0
+13:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:15:00
+13:15:00
+Children Hospital
+13:16:30
+13:16:50
+TNT
+13:20:00
+13:20:20
+CDA
+13:25:40
+13:26:00
+Abpara
+13:28:30
+13:28:50
+Foreign Affairs Office
+13:31:30
+13:31:50
+Lake View Park
+13:36:50
+13:37:10
+Malpur
+13:39:40
+13:40:00
+Shahdara
+13:42:50
+13:43:10
+Barakahu
+13:45:00
+13:45:00
+Trip ID
+Start Time
+170062-0
+13:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:20:00
+13:20:00
+Children Hospital
+13:21:30
+13:21:50
+TNT
+13:25:00
+13:25:20
+CDA
+13:30:40
+13:31:00
+Abpara
+13:33:30
+13:33:50
+Foreign Affairs Office
+13:36:30
+13:36:50
+Lake View Park
+13:41:50
+13:42:10
+Malpur
+13:44:40
+13:45:00
+Shahdara
+13:47:50
+13:48:10
+Barakahu
+13:50:00
+13:50:00
+Trip ID
+Start Time
+170063-0
+13:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:25:00
+13:25:00
+
+--- PAGE 27 ---
+Children Hospital
+13:26:30
+13:26:50
+TNT
+13:30:00
+13:30:20
+CDA
+13:35:40
+13:36:00
+Abpara
+13:38:30
+13:38:50
+Foreign Affairs Office
+13:41:30
+13:41:50
+Lake View Park
+13:46:50
+13:47:10
+Malpur
+13:49:40
+13:50:00
+Shahdara
+13:52:50
+13:53:10
+Barakahu
+13:55:00
+13:55:00
+Trip ID
+Start Time
+170064-0
+13:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:30:00
+13:30:00
+Children Hospital
+13:31:30
+13:31:50
+TNT
+13:35:00
+13:35:20
+CDA
+13:40:40
+13:41:00
+Abpara
+13:43:30
+13:43:50
+Foreign Affairs Office
+13:46:30
+13:46:50
+Lake View Park
+13:51:50
+13:52:10
+Malpur
+13:54:40
+13:55:00
+Shahdara
+13:57:50
+13:58:10
+Barakahu
+14:00:00
+14:00:00
+Trip ID
+Start Time
+170065-0
+13:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:35:00
+13:35:00
+Children Hospital
+13:36:30
+13:36:50
+TNT
+13:40:00
+13:40:20
+CDA
+13:45:40
+13:46:00
+Abpara
+13:48:30
+13:48:50
+Foreign Affairs Office
+13:51:30
+13:51:50
+Lake View Park
+13:56:50
+13:57:10
+Malpur
+13:59:40
+14:00:00
+Shahdara
+14:02:50
+14:03:10
+Barakahu
+14:05:00
+14:05:00
+Trip ID
+Start Time
+170066-0
+13:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:40:00
+13:40:00
+Children Hospital
+13:41:30
+13:41:50
+TNT
+13:45:00
+13:45:20
+CDA
+13:50:40
+13:51:00
+Abpara
+13:53:30
+13:53:50
+Foreign Affairs Office
+13:56:30
+13:56:50
+Lake View Park
+14:01:50
+14:02:10
+Malpur
+14:04:40
+14:05:00
+Shahdara
+14:07:50
+14:08:10
+
+--- PAGE 28 ---
+Barakahu
+14:10:00
+14:10:00
+Trip ID
+Start Time
+170067-0
+13:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:45:00
+13:45:00
+Children Hospital
+13:46:30
+13:46:50
+TNT
+13:50:00
+13:50:20
+CDA
+13:55:40
+13:56:00
+Abpara
+13:58:30
+13:58:50
+Foreign Affairs Office
+14:01:30
+14:01:50
+Lake View Park
+14:06:50
+14:07:10
+Malpur
+14:09:40
+14:10:00
+Shahdara
+14:12:50
+14:13:10
+Barakahu
+14:15:00
+14:15:00
+Trip ID
+Start Time
+170068-0
+13:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:50:00
+13:50:00
+Children Hospital
+13:51:30
+13:51:50
+TNT
+13:55:00
+13:55:20
+CDA
+14:00:40
+14:01:00
+Abpara
+14:03:30
+14:03:50
+Foreign Affairs Office
+14:06:30
+14:06:50
+Lake View Park
+14:11:50
+14:12:10
+Malpur
+14:14:40
+14:15:00
+Shahdara
+14:17:50
+14:18:10
+Barakahu
+14:20:00
+14:20:00
+Trip ID
+Start Time
+170069-0
+13:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:55:00
+13:55:00
+Children Hospital
+13:56:30
+13:56:50
+TNT
+14:00:00
+14:00:20
+CDA
+14:05:40
+14:06:00
+Abpara
+14:08:30
+14:08:50
+Foreign Affairs Office
+14:11:30
+14:11:50
+Lake View Park
+14:16:50
+14:17:10
+Malpur
+14:19:40
+14:20:00
+Shahdara
+14:22:50
+14:23:10
+Barakahu
+14:25:00
+14:25:00
+Trip ID
+Start Time
+170070-0
+14:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:00:00
+14:00:00
+Children Hospital
+14:01:30
+14:01:50
+TNT
+14:05:00
+14:05:20
+
+--- PAGE 29 ---
+CDA
+14:10:40
+14:11:00
+Abpara
+14:13:30
+14:13:50
+Foreign Affairs Office
+14:16:30
+14:16:50
+Lake View Park
+14:21:50
+14:22:10
+Malpur
+14:24:40
+14:25:00
+Shahdara
+14:27:50
+14:28:10
+Barakahu
+14:30:00
+14:30:00
+Trip ID
+Start Time
+170071-0
+14:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:05:00
+14:05:00
+Children Hospital
+14:06:30
+14:06:50
+TNT
+14:10:00
+14:10:20
+CDA
+14:15:40
+14:16:00
+Abpara
+14:18:30
+14:18:50
+Foreign Affairs Office
+14:21:30
+14:21:50
+Lake View Park
+14:26:50
+14:27:10
+Malpur
+14:29:40
+14:30:00
+Shahdara
+14:32:50
+14:33:10
+Barakahu
+14:35:00
+14:35:00
+Trip ID
+Start Time
+170072-0
+14:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:10:00
+14:10:00
+Children Hospital
+14:11:30
+14:11:50
+TNT
+14:15:00
+14:15:20
+CDA
+14:20:40
+14:21:00
+Abpara
+14:23:30
+14:23:50
+Foreign Affairs Office
+14:26:30
+14:26:50
+Lake View Park
+14:31:50
+14:32:10
+Malpur
+14:34:40
+14:35:00
+Shahdara
+14:37:50
+14:38:10
+Barakahu
+14:40:00
+14:40:00
+Trip ID
+Start Time
+170073-0
+14:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:15:00
+14:15:00
+Children Hospital
+14:16:30
+14:16:50
+TNT
+14:20:00
+14:20:20
+CDA
+14:25:40
+14:26:00
+Abpara
+14:28:30
+14:28:50
+Foreign Affairs Office
+14:31:30
+14:31:50
+Lake View Park
+14:36:50
+14:37:10
+Malpur
+14:39:40
+14:40:00
+Shahdara
+14:42:50
+14:43:10
+Barakahu
+14:45:00
+14:45:00
+
+--- PAGE 30 ---
+Trip ID
+Start Time
+170074-0
+14:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:20:00
+14:20:00
+Children Hospital
+14:21:30
+14:21:50
+TNT
+14:25:00
+14:25:20
+CDA
+14:30:40
+14:31:00
+Abpara
+14:33:30
+14:33:50
+Foreign Affairs Office
+14:36:30
+14:36:50
+Lake View Park
+14:41:50
+14:42:10
+Malpur
+14:44:40
+14:45:00
+Shahdara
+14:47:50
+14:48:10
+Barakahu
+14:50:00
+14:50:00
+Trip ID
+Start Time
+170075-0
+14:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:25:00
+14:25:00
+Children Hospital
+14:26:30
+14:26:50
+TNT
+14:30:00
+14:30:20
+CDA
+14:35:40
+14:36:00
+Abpara
+14:38:30
+14:38:50
+Foreign Affairs Office
+14:41:30
+14:41:50
+Lake View Park
+14:46:50
+14:47:10
+Malpur
+14:49:40
+14:50:00
+Shahdara
+14:52:50
+14:53:10
+Barakahu
+14:55:00
+14:55:00
+Trip ID
+Start Time
+170076-0
+14:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:30:00
+14:30:00
+Children Hospital
+14:31:30
+14:31:50
+TNT
+14:35:00
+14:35:20
+CDA
+14:40:40
+14:41:00
+Abpara
+14:43:30
+14:43:50
+Foreign Affairs Office
+14:46:30
+14:46:50
+Lake View Park
+14:51:50
+14:52:10
+Malpur
+14:54:40
+14:55:00
+Shahdara
+14:57:50
+14:58:10
+Barakahu
+15:00:00
+15:00:00
+Trip ID
+Start Time
+170077-0
+14:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:35:00
+14:35:00
+Children Hospital
+14:36:30
+14:36:50
+TNT
+14:40:00
+14:40:20
+CDA
+14:45:40
+14:46:00
+Abpara
+14:48:30
+14:48:50
+
+--- PAGE 31 ---
+Foreign Affairs Office
+14:51:30
+14:51:50
+Lake View Park
+14:56:50
+14:57:10
+Malpur
+14:59:40
+15:00:00
+Shahdara
+15:02:50
+15:03:10
+Barakahu
+15:05:00
+15:05:00
+Trip ID
+Start Time
+170078-0
+14:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:40:00
+14:40:00
+Children Hospital
+14:41:30
+14:41:50
+TNT
+14:45:00
+14:45:20
+CDA
+14:50:40
+14:51:00
+Abpara
+14:53:30
+14:53:50
+Foreign Affairs Office
+14:56:30
+14:56:50
+Lake View Park
+15:01:50
+15:02:10
+Malpur
+15:04:40
+15:05:00
+Shahdara
+15:07:50
+15:08:10
+Barakahu
+15:10:00
+15:10:00
+Trip ID
+Start Time
+170079-0
+14:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:45:00
+14:45:00
+Children Hospital
+14:46:30
+14:46:50
+TNT
+14:50:00
+14:50:20
+CDA
+14:55:40
+14:56:00
+Abpara
+14:58:30
+14:58:50
+Foreign Affairs Office
+15:01:30
+15:01:50
+Lake View Park
+15:06:50
+15:07:10
+Malpur
+15:09:40
+15:10:00
+Shahdara
+15:12:50
+15:13:10
+Barakahu
+15:15:00
+15:15:00
+Trip ID
+Start Time
+170080-0
+14:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:50:00
+14:50:00
+Children Hospital
+14:51:30
+14:51:50
+TNT
+14:55:00
+14:55:20
+CDA
+15:00:40
+15:01:00
+Abpara
+15:03:30
+15:03:50
+Foreign Affairs Office
+15:06:30
+15:06:50
+Lake View Park
+15:11:50
+15:12:10
+Malpur
+15:14:40
+15:15:00
+Shahdara
+15:17:50
+15:18:10
+Barakahu
+15:20:00
+15:20:00
+Trip ID
+Start Time
+170081-0
+14:55:00
+
+--- PAGE 32 ---
+stop_name
+arrival_time
+departure_time
+PIMS
+14:55:00
+14:55:00
+Children Hospital
+14:56:30
+14:56:50
+TNT
+15:00:00
+15:00:20
+CDA
+15:05:40
+15:06:00
+Abpara
+15:08:30
+15:08:50
+Foreign Affairs Office
+15:11:30
+15:11:50
+Lake View Park
+15:16:50
+15:17:10
+Malpur
+15:19:40
+15:20:00
+Shahdara
+15:22:50
+15:23:10
+Barakahu
+15:25:00
+15:25:00
+Trip ID
+Start Time
+170082-0
+15:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:00:00
+15:00:00
+Children Hospital
+15:01:30
+15:01:50
+TNT
+15:05:00
+15:05:20
+CDA
+15:10:40
+15:11:00
+Abpara
+15:13:30
+15:13:50
+Foreign Affairs Office
+15:16:30
+15:16:50
+Lake View Park
+15:21:50
+15:22:10
+Malpur
+15:24:40
+15:25:00
+Shahdara
+15:27:50
+15:28:10
+Barakahu
+15:30:00
+15:30:00
+Trip ID
+Start Time
+170083-0
+15:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:05:00
+15:05:00
+Children Hospital
+15:06:30
+15:06:50
+TNT
+15:10:00
+15:10:20
+CDA
+15:15:40
+15:16:00
+Abpara
+15:18:30
+15:18:50
+Foreign Affairs Office
+15:21:30
+15:21:50
+Lake View Park
+15:26:50
+15:27:10
+Malpur
+15:29:40
+15:30:00
+Shahdara
+15:32:50
+15:33:10
+Barakahu
+15:35:00
+15:35:00
+Trip ID
+Start Time
+170084-0
+15:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:10:00
+15:10:00
+Children Hospital
+15:11:30
+15:11:50
+TNT
+15:15:00
+15:15:20
+CDA
+15:20:40
+15:21:00
+Abpara
+15:23:30
+15:23:50
+Foreign Affairs Office
+15:26:30
+15:26:50
+Lake View Park
+15:31:50
+15:32:10
+
+--- PAGE 33 ---
+Malpur
+15:34:40
+15:35:00
+Shahdara
+15:37:50
+15:38:10
+Barakahu
+15:40:00
+15:40:00
+Trip ID
+Start Time
+170085-0
+15:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:15:00
+15:15:00
+Children Hospital
+15:16:30
+15:16:50
+TNT
+15:20:00
+15:20:20
+CDA
+15:25:40
+15:26:00
+Abpara
+15:28:30
+15:28:50
+Foreign Affairs Office
+15:31:30
+15:31:50
+Lake View Park
+15:36:50
+15:37:10
+Malpur
+15:39:40
+15:40:00
+Shahdara
+15:42:50
+15:43:10
+Barakahu
+15:45:00
+15:45:00
+Trip ID
+Start Time
+170086-0
+15:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:20:00
+15:20:00
+Children Hospital
+15:21:30
+15:21:50
+TNT
+15:25:00
+15:25:20
+CDA
+15:30:40
+15:31:00
+Abpara
+15:33:30
+15:33:50
+Foreign Affairs Office
+15:36:30
+15:36:50
+Lake View Park
+15:41:50
+15:42:10
+Malpur
+15:44:40
+15:45:00
+Shahdara
+15:47:50
+15:48:10
+Barakahu
+15:50:00
+15:50:00
+Trip ID
+Start Time
+170087-0
+15:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:25:00
+15:25:00
+Children Hospital
+15:26:30
+15:26:50
+TNT
+15:30:00
+15:30:20
+CDA
+15:35:40
+15:36:00
+Abpara
+15:38:30
+15:38:50
+Foreign Affairs Office
+15:41:30
+15:41:50
+Lake View Park
+15:46:50
+15:47:10
+Malpur
+15:49:40
+15:50:00
+Shahdara
+15:52:50
+15:53:10
+Barakahu
+15:55:00
+15:55:00
+Trip ID
+Start Time
+170088-0
+15:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:30:00
+15:30:00
+
+--- PAGE 34 ---
+Children Hospital
+15:31:30
+15:31:50
+TNT
+15:35:00
+15:35:20
+CDA
+15:40:40
+15:41:00
+Abpara
+15:43:30
+15:43:50
+Foreign Affairs Office
+15:46:30
+15:46:50
+Lake View Park
+15:51:50
+15:52:10
+Malpur
+15:54:40
+15:55:00
+Shahdara
+15:57:50
+15:58:10
+Barakahu
+16:00:00
+16:00:00
+Trip ID
+Start Time
+170089-0
+15:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:35:00
+15:35:00
+Children Hospital
+15:36:30
+15:36:50
+TNT
+15:40:00
+15:40:20
+CDA
+15:45:40
+15:46:00
+Abpara
+15:48:30
+15:48:50
+Foreign Affairs Office
+15:51:30
+15:51:50
+Lake View Park
+15:56:50
+15:57:10
+Malpur
+15:59:40
+16:00:00
+Shahdara
+16:02:50
+16:03:10
+Barakahu
+16:05:00
+16:05:00
+Trip ID
+Start Time
+170090-0
+15:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:40:00
+15:40:00
+Children Hospital
+15:41:30
+15:41:50
+TNT
+15:45:00
+15:45:20
+CDA
+15:50:40
+15:51:00
+Abpara
+15:53:30
+15:53:50
+Foreign Affairs Office
+15:56:30
+15:56:50
+Lake View Park
+16:01:50
+16:02:10
+Malpur
+16:04:40
+16:05:00
+Shahdara
+16:07:50
+16:08:10
+Barakahu
+16:10:00
+16:10:00
+Trip ID
+Start Time
+170091-0
+15:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:45:00
+15:45:00
+Children Hospital
+15:46:30
+15:46:50
+TNT
+15:50:00
+15:50:20
+CDA
+15:55:40
+15:56:00
+Abpara
+15:58:30
+15:58:50
+Foreign Affairs Office
+16:01:30
+16:01:50
+Lake View Park
+16:06:50
+16:07:10
+Malpur
+16:09:40
+16:10:00
+Shahdara
+16:12:50
+16:13:10
+
+--- PAGE 35 ---
+Barakahu
+16:15:00
+16:15:00
+Trip ID
+Start Time
+170092-0
+15:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:50:00
+15:50:00
+Children Hospital
+15:51:30
+15:51:50
+TNT
+15:55:00
+15:55:20
+CDA
+16:00:40
+16:01:00
+Abpara
+16:03:30
+16:03:50
+Foreign Affairs Office
+16:06:30
+16:06:50
+Lake View Park
+16:11:50
+16:12:10
+Malpur
+16:14:40
+16:15:00
+Shahdara
+16:17:50
+16:18:10
+Barakahu
+16:20:00
+16:20:00
+Trip ID
+Start Time
+170093-0
+15:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:55:00
+15:55:00
+Children Hospital
+15:56:30
+15:56:50
+TNT
+16:00:00
+16:00:20
+CDA
+16:05:40
+16:06:00
+Abpara
+16:08:30
+16:08:50
+Foreign Affairs Office
+16:11:30
+16:11:50
+Lake View Park
+16:16:50
+16:17:10
+Malpur
+16:19:40
+16:20:00
+Shahdara
+16:22:50
+16:23:10
+Barakahu
+16:25:00
+16:25:00
+Trip ID
+Start Time
+170094-0
+16:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:00:00
+16:00:00
+Children Hospital
+16:01:30
+16:01:50
+TNT
+16:05:00
+16:05:20
+CDA
+16:10:40
+16:11:00
+Abpara
+16:13:30
+16:13:50
+Foreign Affairs Office
+16:16:30
+16:16:50
+Lake View Park
+16:21:50
+16:22:10
+Malpur
+16:24:40
+16:25:00
+Shahdara
+16:27:50
+16:28:10
+Barakahu
+16:30:00
+16:30:00
+Trip ID
+Start Time
+170095-0
+16:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:05:00
+16:05:00
+Children Hospital
+16:06:30
+16:06:50
+TNT
+16:10:00
+16:10:20
+
+--- PAGE 36 ---
+CDA
+16:15:40
+16:16:00
+Abpara
+16:18:30
+16:18:50
+Foreign Affairs Office
+16:21:30
+16:21:50
+Lake View Park
+16:26:50
+16:27:10
+Malpur
+16:29:40
+16:30:00
+Shahdara
+16:32:50
+16:33:10
+Barakahu
+16:35:00
+16:35:00
+Trip ID
+Start Time
+170096-0
+16:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:10:00
+16:10:00
+Children Hospital
+16:11:30
+16:11:50
+TNT
+16:15:00
+16:15:20
+CDA
+16:20:40
+16:21:00
+Abpara
+16:23:30
+16:23:50
+Foreign Affairs Office
+16:26:30
+16:26:50
+Lake View Park
+16:31:50
+16:32:10
+Malpur
+16:34:40
+16:35:00
+Shahdara
+16:37:50
+16:38:10
+Barakahu
+16:40:00
+16:40:00
+Trip ID
+Start Time
+170097-0
+16:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:15:00
+16:15:00
+Children Hospital
+16:16:30
+16:16:50
+TNT
+16:20:00
+16:20:20
+CDA
+16:25:40
+16:26:00
+Abpara
+16:28:30
+16:28:50
+Foreign Affairs Office
+16:31:30
+16:31:50
+Lake View Park
+16:36:50
+16:37:10
+Malpur
+16:39:40
+16:40:00
+Shahdara
+16:42:50
+16:43:10
+Barakahu
+16:45:00
+16:45:00
+Trip ID
+Start Time
+170098-0
+16:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:20:00
+16:20:00
+Children Hospital
+16:21:30
+16:21:50
+TNT
+16:25:00
+16:25:20
+CDA
+16:30:40
+16:31:00
+Abpara
+16:33:30
+16:33:50
+Foreign Affairs Office
+16:36:30
+16:36:50
+Lake View Park
+16:41:50
+16:42:10
+Malpur
+16:44:40
+16:45:00
+Shahdara
+16:47:50
+16:48:10
+Barakahu
+16:50:00
+16:50:00
+
+--- PAGE 37 ---
+Trip ID
+Start Time
+170099-0
+16:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:25:00
+16:25:00
+Children Hospital
+16:26:30
+16:26:50
+TNT
+16:30:00
+16:30:20
+CDA
+16:35:40
+16:36:00
+Abpara
+16:38:30
+16:38:50
+Foreign Affairs Office
+16:41:30
+16:41:50
+Lake View Park
+16:46:50
+16:47:10
+Malpur
+16:49:40
+16:50:00
+Shahdara
+16:52:50
+16:53:10
+Barakahu
+16:55:00
+16:55:00
+Trip ID
+Start Time
+170100-0
+16:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:30:00
+16:30:00
+Children Hospital
+16:31:30
+16:31:50
+TNT
+16:35:00
+16:35:20
+CDA
+16:40:40
+16:41:00
+Abpara
+16:43:30
+16:43:50
+Foreign Affairs Office
+16:46:30
+16:46:50
+Lake View Park
+16:51:50
+16:52:10
+Malpur
+16:54:40
+16:55:00
+Shahdara
+16:57:50
+16:58:10
+Barakahu
+17:00:00
+17:00:00
+Trip ID
+Start Time
+170101-0
+16:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:35:00
+16:35:00
+Children Hospital
+16:36:30
+16:36:50
+TNT
+16:40:00
+16:40:20
+CDA
+16:45:40
+16:46:00
+Abpara
+16:48:30
+16:48:50
+Foreign Affairs Office
+16:51:30
+16:51:50
+Lake View Park
+16:56:50
+16:57:10
+Malpur
+16:59:40
+17:00:00
+Shahdara
+17:02:50
+17:03:10
+Barakahu
+17:05:00
+17:05:00
+Trip ID
+Start Time
+170102-0
+16:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:40:00
+16:40:00
+Children Hospital
+16:41:30
+16:41:50
+TNT
+16:45:00
+16:45:20
+CDA
+16:50:40
+16:51:00
+Abpara
+16:53:30
+16:53:50
+
+--- PAGE 38 ---
+Foreign Affairs Office
+16:56:30
+16:56:50
+Lake View Park
+17:01:50
+17:02:10
+Malpur
+17:04:40
+17:05:00
+Shahdara
+17:07:50
+17:08:10
+Barakahu
+17:10:00
+17:10:00
+Trip ID
+Start Time
+170103-0
+16:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:45:00
+16:45:00
+Children Hospital
+16:46:30
+16:46:50
+TNT
+16:50:00
+16:50:20
+CDA
+16:55:40
+16:56:00
+Abpara
+16:58:30
+16:58:50
+Foreign Affairs Office
+17:01:30
+17:01:50
+Lake View Park
+17:06:50
+17:07:10
+Malpur
+17:09:40
+17:10:00
+Shahdara
+17:12:50
+17:13:10
+Barakahu
+17:15:00
+17:15:00
+Trip ID
+Start Time
+170104-0
+16:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:50:00
+16:50:00
+Children Hospital
+16:51:30
+16:51:50
+TNT
+16:55:00
+16:55:20
+CDA
+17:00:40
+17:01:00
+Abpara
+17:03:30
+17:03:50
+Foreign Affairs Office
+17:06:30
+17:06:50
+Lake View Park
+17:11:50
+17:12:10
+Malpur
+17:14:40
+17:15:00
+Shahdara
+17:17:50
+17:18:10
+Barakahu
+17:20:00
+17:20:00
+Trip ID
+Start Time
+170105-0
+16:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:55:00
+16:55:00
+Children Hospital
+16:56:30
+16:56:50
+TNT
+17:00:00
+17:00:20
+CDA
+17:05:40
+17:06:00
+Abpara
+17:08:30
+17:08:50
+Foreign Affairs Office
+17:11:30
+17:11:50
+Lake View Park
+17:16:50
+17:17:10
+Malpur
+17:19:40
+17:20:00
+Shahdara
+17:22:50
+17:23:10
+Barakahu
+17:25:00
+17:25:00
+Trip ID
+Start Time
+170106-0
+17:00:00
+
+--- PAGE 39 ---
+stop_name
+arrival_time
+departure_time
+PIMS
+17:00:00
+17:00:00
+Children Hospital
+17:01:30
+17:01:50
+TNT
+17:05:00
+17:05:20
+CDA
+17:10:40
+17:11:00
+Abpara
+17:13:30
+17:13:50
+Foreign Affairs Office
+17:16:30
+17:16:50
+Lake View Park
+17:21:50
+17:22:10
+Malpur
+17:24:40
+17:25:00
+Shahdara
+17:27:50
+17:28:10
+Barakahu
+17:30:00
+17:30:00
+Trip ID
+Start Time
+170107-0
+17:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:05:00
+17:05:00
+Children Hospital
+17:06:30
+17:06:50
+TNT
+17:10:00
+17:10:20
+CDA
+17:15:40
+17:16:00
+Abpara
+17:18:30
+17:18:50
+Foreign Affairs Office
+17:21:30
+17:21:50
+Lake View Park
+17:26:50
+17:27:10
+Malpur
+17:29:40
+17:30:00
+Shahdara
+17:32:50
+17:33:10
+Barakahu
+17:35:00
+17:35:00
+Trip ID
+Start Time
+170108-0
+17:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:10:00
+17:10:00
+Children Hospital
+17:11:30
+17:11:50
+TNT
+17:15:00
+17:15:20
+CDA
+17:20:40
+17:21:00
+Abpara
+17:23:30
+17:23:50
+Foreign Affairs Office
+17:26:30
+17:26:50
+Lake View Park
+17:31:50
+17:32:10
+Malpur
+17:34:40
+17:35:00
+Shahdara
+17:37:50
+17:38:10
+Barakahu
+17:40:00
+17:40:00
+Trip ID
+Start Time
+170109-0
+17:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:15:00
+17:15:00
+Children Hospital
+17:16:30
+17:16:50
+TNT
+17:20:00
+17:20:20
+CDA
+17:25:40
+17:26:00
+Abpara
+17:28:30
+17:28:50
+Foreign Affairs Office
+17:31:30
+17:31:50
+Lake View Park
+17:36:50
+17:37:10
+
+--- PAGE 40 ---
+Malpur
+17:39:40
+17:40:00
+Shahdara
+17:42:50
+17:43:10
+Barakahu
+17:45:00
+17:45:00
+Trip ID
+Start Time
+170110-0
+17:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:20:00
+17:20:00
+Children Hospital
+17:21:30
+17:21:50
+TNT
+17:25:00
+17:25:20
+CDA
+17:30:40
+17:31:00
+Abpara
+17:33:30
+17:33:50
+Foreign Affairs Office
+17:36:30
+17:36:50
+Lake View Park
+17:41:50
+17:42:10
+Malpur
+17:44:40
+17:45:00
+Shahdara
+17:47:50
+17:48:10
+Barakahu
+17:50:00
+17:50:00
+Trip ID
+Start Time
+170111-0
+17:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:25:00
+17:25:00
+Children Hospital
+17:26:30
+17:26:50
+TNT
+17:30:00
+17:30:20
+CDA
+17:35:40
+17:36:00
+Abpara
+17:38:30
+17:38:50
+Foreign Affairs Office
+17:41:30
+17:41:50
+Lake View Park
+17:46:50
+17:47:10
+Malpur
+17:49:40
+17:50:00
+Shahdara
+17:52:50
+17:53:10
+Barakahu
+17:55:00
+17:55:00
+Trip ID
+Start Time
+170112-0
+17:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:30:00
+17:30:00
+Children Hospital
+17:31:30
+17:31:50
+TNT
+17:35:00
+17:35:20
+CDA
+17:40:40
+17:41:00
+Abpara
+17:43:30
+17:43:50
+Foreign Affairs Office
+17:46:30
+17:46:50
+Lake View Park
+17:51:50
+17:52:10
+Malpur
+17:54:40
+17:55:00
+Shahdara
+17:57:50
+17:58:10
+Barakahu
+18:00:00
+18:00:00
+Trip ID
+Start Time
+170113-0
+17:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:35:00
+17:35:00
+
+--- PAGE 41 ---
+Children Hospital
+17:36:30
+17:36:50
+TNT
+17:40:00
+17:40:20
+CDA
+17:45:40
+17:46:00
+Abpara
+17:48:30
+17:48:50
+Foreign Affairs Office
+17:51:30
+17:51:50
+Lake View Park
+17:56:50
+17:57:10
+Malpur
+17:59:40
+18:00:00
+Shahdara
+18:02:50
+18:03:10
+Barakahu
+18:05:00
+18:05:00
+Trip ID
+Start Time
+170114-0
+17:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:40:00
+17:40:00
+Children Hospital
+17:41:30
+17:41:50
+TNT
+17:45:00
+17:45:20
+CDA
+17:50:40
+17:51:00
+Abpara
+17:53:30
+17:53:50
+Foreign Affairs Office
+17:56:30
+17:56:50
+Lake View Park
+18:01:50
+18:02:10
+Malpur
+18:04:40
+18:05:00
+Shahdara
+18:07:50
+18:08:10
+Barakahu
+18:10:00
+18:10:00
+Trip ID
+Start Time
+170115-0
+17:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:45:00
+17:45:00
+Children Hospital
+17:46:30
+17:46:50
+TNT
+17:50:00
+17:50:20
+CDA
+17:55:40
+17:56:00
+Abpara
+17:58:30
+17:58:50
+Foreign Affairs Office
+18:01:30
+18:01:50
+Lake View Park
+18:06:50
+18:07:10
+Malpur
+18:09:40
+18:10:00
+Shahdara
+18:12:50
+18:13:10
+Barakahu
+18:15:00
+18:15:00
+Trip ID
+Start Time
+170116-0
+17:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:50:00
+17:50:00
+Children Hospital
+17:51:30
+17:51:50
+TNT
+17:55:00
+17:55:20
+CDA
+18:00:40
+18:01:00
+Abpara
+18:03:30
+18:03:50
+Foreign Affairs Office
+18:06:30
+18:06:50
+Lake View Park
+18:11:50
+18:12:10
+Malpur
+18:14:40
+18:15:00
+Shahdara
+18:17:50
+18:18:10
+
+--- PAGE 42 ---
+Barakahu
+18:20:00
+18:20:00
+Trip ID
+Start Time
+170117-0
+17:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:55:00
+17:55:00
+Children Hospital
+17:56:30
+17:56:50
+TNT
+18:00:00
+18:00:20
+CDA
+18:05:40
+18:06:00
+Abpara
+18:08:30
+18:08:50
+Foreign Affairs Office
+18:11:30
+18:11:50
+Lake View Park
+18:16:50
+18:17:10
+Malpur
+18:19:40
+18:20:00
+Shahdara
+18:22:50
+18:23:10
+Barakahu
+18:25:00
+18:25:00
+Trip ID
+Start Time
+170118-0
+18:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:00:00
+18:00:00
+Children Hospital
+18:01:30
+18:01:50
+TNT
+18:05:00
+18:05:20
+CDA
+18:10:40
+18:11:00
+Abpara
+18:13:30
+18:13:50
+Foreign Affairs Office
+18:16:30
+18:16:50
+Lake View Park
+18:21:50
+18:22:10
+Malpur
+18:24:40
+18:25:00
+Shahdara
+18:27:50
+18:28:10
+Barakahu
+18:30:00
+18:30:00
+Trip ID
+Start Time
+170119-0
+18:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:05:00
+18:05:00
+Children Hospital
+18:06:30
+18:06:50
+TNT
+18:10:00
+18:10:20
+CDA
+18:15:40
+18:16:00
+Abpara
+18:18:30
+18:18:50
+Foreign Affairs Office
+18:21:30
+18:21:50
+Lake View Park
+18:26:50
+18:27:10
+Malpur
+18:29:40
+18:30:00
+Shahdara
+18:32:50
+18:33:10
+Barakahu
+18:35:00
+18:35:00
+Trip ID
+Start Time
+170120-0
+18:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:10:00
+18:10:00
+Children Hospital
+18:11:30
+18:11:50
+TNT
+18:15:00
+18:15:20
+
+--- PAGE 43 ---
+CDA
+18:20:40
+18:21:00
+Abpara
+18:23:30
+18:23:50
+Foreign Affairs Office
+18:26:30
+18:26:50
+Lake View Park
+18:31:50
+18:32:10
+Malpur
+18:34:40
+18:35:00
+Shahdara
+18:37:50
+18:38:10
+Barakahu
+18:40:00
+18:40:00
+Trip ID
+Start Time
+170121-0
+18:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:15:00
+18:15:00
+Children Hospital
+18:16:30
+18:16:50
+TNT
+18:20:00
+18:20:20
+CDA
+18:25:40
+18:26:00
+Abpara
+18:28:30
+18:28:50
+Foreign Affairs Office
+18:31:30
+18:31:50
+Lake View Park
+18:36:50
+18:37:10
+Malpur
+18:39:40
+18:40:00
+Shahdara
+18:42:50
+18:43:10
+Barakahu
+18:45:00
+18:45:00
+Trip ID
+Start Time
+170122-0
+18:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:20:00
+18:20:00
+Children Hospital
+18:21:30
+18:21:50
+TNT
+18:25:00
+18:25:20
+CDA
+18:30:40
+18:31:00
+Abpara
+18:33:30
+18:33:50
+Foreign Affairs Office
+18:36:30
+18:36:50
+Lake View Park
+18:41:50
+18:42:10
+Malpur
+18:44:40
+18:45:00
+Shahdara
+18:47:50
+18:48:10
+Barakahu
+18:50:00
+18:50:00
+Trip ID
+Start Time
+170123-0
+18:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:25:00
+18:25:00
+Children Hospital
+18:26:30
+18:26:50
+TNT
+18:30:00
+18:30:20
+CDA
+18:35:40
+18:36:00
+Abpara
+18:38:30
+18:38:50
+Foreign Affairs Office
+18:41:30
+18:41:50
+Lake View Park
+18:46:50
+18:47:10
+Malpur
+18:49:40
+18:50:00
+Shahdara
+18:52:50
+18:53:10
+Barakahu
+18:55:00
+18:55:00
+
+--- PAGE 44 ---
+Trip ID
+Start Time
+170124-0
+18:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:30:00
+18:30:00
+Children Hospital
+18:31:30
+18:31:50
+TNT
+18:35:00
+18:35:20
+CDA
+18:40:40
+18:41:00
+Abpara
+18:43:30
+18:43:50
+Foreign Affairs Office
+18:46:30
+18:46:50
+Lake View Park
+18:51:50
+18:52:10
+Malpur
+18:54:40
+18:55:00
+Shahdara
+18:57:50
+18:58:10
+Barakahu
+19:00:00
+19:00:00
+Trip ID
+Start Time
+170125-0
+18:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:35:00
+18:35:00
+Children Hospital
+18:36:30
+18:36:50
+TNT
+18:40:00
+18:40:20
+CDA
+18:45:40
+18:46:00
+Abpara
+18:48:30
+18:48:50
+Foreign Affairs Office
+18:51:30
+18:51:50
+Lake View Park
+18:56:50
+18:57:10
+Malpur
+18:59:40
+19:00:00
+Shahdara
+19:02:50
+19:03:10
+Barakahu
+19:05:00
+19:05:00
+Trip ID
+Start Time
+170126-0
+18:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:40:00
+18:40:00
+Children Hospital
+18:41:30
+18:41:50
+TNT
+18:45:00
+18:45:20
+CDA
+18:50:40
+18:51:00
+Abpara
+18:53:30
+18:53:50
+Foreign Affairs Office
+18:56:30
+18:56:50
+Lake View Park
+19:01:50
+19:02:10
+Malpur
+19:04:40
+19:05:00
+Shahdara
+19:07:50
+19:08:10
+Barakahu
+19:10:00
+19:10:00
+Trip ID
+Start Time
+170127-0
+18:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:45:00
+18:45:00
+Children Hospital
+18:46:30
+18:46:50
+TNT
+18:50:00
+18:50:20
+CDA
+18:55:40
+18:56:00
+Abpara
+18:58:30
+18:58:50
+
+--- PAGE 45 ---
+Foreign Affairs Office
+19:01:30
+19:01:50
+Lake View Park
+19:06:50
+19:07:10
+Malpur
+19:09:40
+19:10:00
+Shahdara
+19:12:50
+19:13:10
+Barakahu
+19:15:00
+19:15:00
+Trip ID
+Start Time
+170128-0
+18:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:50:00
+18:50:00
+Children Hospital
+18:51:30
+18:51:50
+TNT
+18:55:00
+18:55:20
+CDA
+19:00:40
+19:01:00
+Abpara
+19:03:30
+19:03:50
+Foreign Affairs Office
+19:06:30
+19:06:50
+Lake View Park
+19:11:50
+19:12:10
+Malpur
+19:14:40
+19:15:00
+Shahdara
+19:17:50
+19:18:10
+Barakahu
+19:20:00
+19:20:00
+Trip ID
+Start Time
+170129-0
+18:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+18:55:00
+18:55:00
+Children Hospital
+18:56:30
+18:56:50
+TNT
+19:00:00
+19:00:20
+CDA
+19:05:40
+19:06:00
+Abpara
+19:08:30
+19:08:50
+Foreign Affairs Office
+19:11:30
+19:11:50
+Lake View Park
+19:16:50
+19:17:10
+Malpur
+19:19:40
+19:20:00
+Shahdara
+19:22:50
+19:23:10
+Barakahu
+19:25:00
+19:25:00
+Trip ID
+Start Time
+170130-0
+19:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:00:00
+19:00:00
+Children Hospital
+19:01:30
+19:01:50
+TNT
+19:05:00
+19:05:20
+CDA
+19:10:40
+19:11:00
+Abpara
+19:13:30
+19:13:50
+Foreign Affairs Office
+19:16:30
+19:16:50
+Lake View Park
+19:21:50
+19:22:10
+Malpur
+19:24:40
+19:25:00
+Shahdara
+19:27:50
+19:28:10
+Barakahu
+19:30:00
+19:30:00
+Trip ID
+Start Time
+170131-0
+19:05:00
+
+--- PAGE 46 ---
+stop_name
+arrival_time
+departure_time
+PIMS
+19:05:00
+19:05:00
+Children Hospital
+19:06:30
+19:06:50
+TNT
+19:10:00
+19:10:20
+CDA
+19:15:40
+19:16:00
+Abpara
+19:18:30
+19:18:50
+Foreign Affairs Office
+19:21:30
+19:21:50
+Lake View Park
+19:26:50
+19:27:10
+Malpur
+19:29:40
+19:30:00
+Shahdara
+19:32:50
+19:33:10
+Barakahu
+19:35:00
+19:35:00
+Trip ID
+Start Time
+170132-0
+19:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:10:00
+19:10:00
+Children Hospital
+19:11:30
+19:11:50
+TNT
+19:15:00
+19:15:20
+CDA
+19:20:40
+19:21:00
+Abpara
+19:23:30
+19:23:50
+Foreign Affairs Office
+19:26:30
+19:26:50
+Lake View Park
+19:31:50
+19:32:10
+Malpur
+19:34:40
+19:35:00
+Shahdara
+19:37:50
+19:38:10
+Barakahu
+19:40:00
+19:40:00
+Trip ID
+Start Time
+170133-0
+19:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:15:00
+19:15:00
+Children Hospital
+19:16:30
+19:16:50
+TNT
+19:20:00
+19:20:20
+CDA
+19:25:40
+19:26:00
+Abpara
+19:28:30
+19:28:50
+Foreign Affairs Office
+19:31:30
+19:31:50
+Lake View Park
+19:36:50
+19:37:10
+Malpur
+19:39:40
+19:40:00
+Shahdara
+19:42:50
+19:43:10
+Barakahu
+19:45:00
+19:45:00
+Trip ID
+Start Time
+170134-0
+19:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:20:00
+19:20:00
+Children Hospital
+19:21:30
+19:21:50
+TNT
+19:25:00
+19:25:20
+CDA
+19:30:40
+19:31:00
+Abpara
+19:33:30
+19:33:50
+Foreign Affairs Office
+19:36:30
+19:36:50
+Lake View Park
+19:41:50
+19:42:10
+
+--- PAGE 47 ---
+Malpur
+19:44:40
+19:45:00
+Shahdara
+19:47:50
+19:48:10
+Barakahu
+19:50:00
+19:50:00
+Trip ID
+Start Time
+170135-0
+19:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:25:00
+19:25:00
+Children Hospital
+19:26:30
+19:26:50
+TNT
+19:30:00
+19:30:20
+CDA
+19:35:40
+19:36:00
+Abpara
+19:38:30
+19:38:50
+Foreign Affairs Office
+19:41:30
+19:41:50
+Lake View Park
+19:46:50
+19:47:10
+Malpur
+19:49:40
+19:50:00
+Shahdara
+19:52:50
+19:53:10
+Barakahu
+19:55:00
+19:55:00
+Trip ID
+Start Time
+170136-0
+19:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:30:00
+19:30:00
+Children Hospital
+19:31:30
+19:31:50
+TNT
+19:35:00
+19:35:20
+CDA
+19:40:40
+19:41:00
+Abpara
+19:43:30
+19:43:50
+Foreign Affairs Office
+19:46:30
+19:46:50
+Lake View Park
+19:51:50
+19:52:10
+Malpur
+19:54:40
+19:55:00
+Shahdara
+19:57:50
+19:58:10
+Barakahu
+20:00:00
+20:00:00
+Trip ID
+Start Time
+170137-0
+19:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:35:00
+19:35:00
+Children Hospital
+19:36:30
+19:36:50
+TNT
+19:40:00
+19:40:20
+CDA
+19:45:40
+19:46:00
+Abpara
+19:48:30
+19:48:50
+Foreign Affairs Office
+19:51:30
+19:51:50
+Lake View Park
+19:56:50
+19:57:10
+Malpur
+19:59:40
+20:00:00
+Shahdara
+20:02:50
+20:03:10
+Barakahu
+20:05:00
+20:05:00
+Trip ID
+Start Time
+170138-0
+19:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:40:00
+19:40:00
+
+--- PAGE 48 ---
+Children Hospital
+19:41:30
+19:41:50
+TNT
+19:45:00
+19:45:20
+CDA
+19:50:40
+19:51:00
+Abpara
+19:53:30
+19:53:50
+Foreign Affairs Office
+19:56:30
+19:56:50
+Lake View Park
+20:01:50
+20:02:10
+Malpur
+20:04:40
+20:05:00
+Shahdara
+20:07:50
+20:08:10
+Barakahu
+20:10:00
+20:10:00
+Trip ID
+Start Time
+170139-0
+19:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:45:00
+19:45:00
+Children Hospital
+19:46:30
+19:46:50
+TNT
+19:50:00
+19:50:20
+CDA
+19:55:40
+19:56:00
+Abpara
+19:58:30
+19:58:50
+Foreign Affairs Office
+20:01:30
+20:01:50
+Lake View Park
+20:06:50
+20:07:10
+Malpur
+20:09:40
+20:10:00
+Shahdara
+20:12:50
+20:13:10
+Barakahu
+20:15:00
+20:15:00
+Trip ID
+Start Time
+170140-0
+19:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:50:00
+19:50:00
+Children Hospital
+19:51:30
+19:51:50
+TNT
+19:55:00
+19:55:20
+CDA
+20:00:40
+20:01:00
+Abpara
+20:03:30
+20:03:50
+Foreign Affairs Office
+20:06:30
+20:06:50
+Lake View Park
+20:11:50
+20:12:10
+Malpur
+20:14:40
+20:15:00
+Shahdara
+20:17:50
+20:18:10
+Barakahu
+20:20:00
+20:20:00
+Trip ID
+Start Time
+170141-0
+19:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+19:55:00
+19:55:00
+Children Hospital
+19:56:30
+19:56:50
+TNT
+20:00:00
+20:00:20
+CDA
+20:05:40
+20:06:00
+Abpara
+20:08:30
+20:08:50
+Foreign Affairs Office
+20:11:30
+20:11:50
+Lake View Park
+20:16:50
+20:17:10
+Malpur
+20:19:40
+20:20:00
+Shahdara
+20:22:50
+20:23:10
+
+--- PAGE 49 ---
+Barakahu
+20:25:00
+20:25:00
+Trip ID
+Start Time
+170142-0
+20:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:00:00
+20:00:00
+Children Hospital
+20:01:30
+20:01:50
+TNT
+20:05:00
+20:05:20
+CDA
+20:10:40
+20:11:00
+Abpara
+20:13:30
+20:13:50
+Foreign Affairs Office
+20:16:30
+20:16:50
+Lake View Park
+20:21:50
+20:22:10
+Malpur
+20:24:40
+20:25:00
+Shahdara
+20:27:50
+20:28:10
+Barakahu
+20:30:00
+20:30:00
+Trip ID
+Start Time
+170143-0
+20:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:05:00
+20:05:00
+Children Hospital
+20:06:30
+20:06:50
+TNT
+20:10:00
+20:10:20
+CDA
+20:15:40
+20:16:00
+Abpara
+20:18:30
+20:18:50
+Foreign Affairs Office
+20:21:30
+20:21:50
+Lake View Park
+20:26:50
+20:27:10
+Malpur
+20:29:40
+20:30:00
+Shahdara
+20:32:50
+20:33:10
+Barakahu
+20:35:00
+20:35:00
+Trip ID
+Start Time
+170144-0
+20:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:10:00
+20:10:00
+Children Hospital
+20:11:30
+20:11:50
+TNT
+20:15:00
+20:15:20
+CDA
+20:20:40
+20:21:00
+Abpara
+20:23:30
+20:23:50
+Foreign Affairs Office
+20:26:30
+20:26:50
+Lake View Park
+20:31:50
+20:32:10
+Malpur
+20:34:40
+20:35:00
+Shahdara
+20:37:50
+20:38:10
+Barakahu
+20:40:00
+20:40:00
+Trip ID
+Start Time
+170145-0
+20:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:15:00
+20:15:00
+Children Hospital
+20:16:30
+20:16:50
+TNT
+20:20:00
+20:20:20
+
+--- PAGE 50 ---
+CDA
+20:25:40
+20:26:00
+Abpara
+20:28:30
+20:28:50
+Foreign Affairs Office
+20:31:30
+20:31:50
+Lake View Park
+20:36:50
+20:37:10
+Malpur
+20:39:40
+20:40:00
+Shahdara
+20:42:50
+20:43:10
+Barakahu
+20:45:00
+20:45:00
+Trip ID
+Start Time
+170146-0
+20:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:20:00
+20:20:00
+Children Hospital
+20:21:30
+20:21:50
+TNT
+20:25:00
+20:25:20
+CDA
+20:30:40
+20:31:00
+Abpara
+20:33:30
+20:33:50
+Foreign Affairs Office
+20:36:30
+20:36:50
+Lake View Park
+20:41:50
+20:42:10
+Malpur
+20:44:40
+20:45:00
+Shahdara
+20:47:50
+20:48:10
+Barakahu
+20:50:00
+20:50:00
+Trip ID
+Start Time
+170147-0
+20:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:25:00
+20:25:00
+Children Hospital
+20:26:30
+20:26:50
+TNT
+20:30:00
+20:30:20
+CDA
+20:35:40
+20:36:00
+Abpara
+20:38:30
+20:38:50
+Foreign Affairs Office
+20:41:30
+20:41:50
+Lake View Park
+20:46:50
+20:47:10
+Malpur
+20:49:40
+20:50:00
+Shahdara
+20:52:50
+20:53:10
+Barakahu
+20:55:00
+20:55:00
+Trip ID
+Start Time
+170148-0
+20:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:30:00
+20:30:00
+Children Hospital
+20:31:30
+20:31:50
+TNT
+20:35:00
+20:35:20
+CDA
+20:40:40
+20:41:00
+Abpara
+20:43:30
+20:43:50
+Foreign Affairs Office
+20:46:30
+20:46:50
+Lake View Park
+20:51:50
+20:52:10
+Malpur
+20:54:40
+20:55:00
+Shahdara
+20:57:50
+20:58:10
+Barakahu
+21:00:00
+21:00:00
+
+--- PAGE 51 ---
+Trip ID
+Start Time
+170149-0
+20:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:35:00
+20:35:00
+Children Hospital
+20:36:30
+20:36:50
+TNT
+20:40:00
+20:40:20
+CDA
+20:45:40
+20:46:00
+Abpara
+20:48:30
+20:48:50
+Foreign Affairs Office
+20:51:30
+20:51:50
+Lake View Park
+20:56:50
+20:57:10
+Malpur
+20:59:40
+21:00:00
+Shahdara
+21:02:50
+21:03:10
+Barakahu
+21:05:00
+21:05:00
+Trip ID
+Start Time
+170150-0
+20:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:40:00
+20:40:00
+Children Hospital
+20:41:30
+20:41:50
+TNT
+20:45:00
+20:45:20
+CDA
+20:50:40
+20:51:00
+Abpara
+20:53:30
+20:53:50
+Foreign Affairs Office
+20:56:30
+20:56:50
+Lake View Park
+21:01:50
+21:02:10
+Malpur
+21:04:40
+21:05:00
+Shahdara
+21:07:50
+21:08:10
+Barakahu
+21:10:00
+21:10:00
+Trip ID
+Start Time
+170151-0
+20:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:45:00
+20:45:00
+Children Hospital
+20:46:30
+20:46:50
+TNT
+20:50:00
+20:50:20
+CDA
+20:55:40
+20:56:00
+Abpara
+20:58:30
+20:58:50
+Foreign Affairs Office
+21:01:30
+21:01:50
+Lake View Park
+21:06:50
+21:07:10
+Malpur
+21:09:40
+21:10:00
+Shahdara
+21:12:50
+21:13:10
+Barakahu
+21:15:00
+21:15:00
+Trip ID
+Start Time
+170152-0
+20:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:50:00
+20:50:00
+Children Hospital
+20:51:30
+20:51:50
+TNT
+20:55:00
+20:55:20
+CDA
+21:00:40
+21:01:00
+Abpara
+21:03:30
+21:03:50
+
+--- PAGE 52 ---
+Foreign Affairs Office
+21:06:30
+21:06:50
+Lake View Park
+21:11:50
+21:12:10
+Malpur
+21:14:40
+21:15:00
+Shahdara
+21:17:50
+21:18:10
+Barakahu
+21:20:00
+21:20:00
+Trip ID
+Start Time
+170153-0
+20:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+20:55:00
+20:55:00
+Children Hospital
+20:56:30
+20:56:50
+TNT
+21:00:00
+21:00:20
+CDA
+21:05:40
+21:06:00
+Abpara
+21:08:30
+21:08:50
+Foreign Affairs Office
+21:11:30
+21:11:50
+Lake View Park
+21:16:50
+21:17:10
+Malpur
+21:19:40
+21:20:00
+Shahdara
+21:22:50
+21:23:10
+Barakahu
+21:25:00
+21:25:00
+Trip ID
+Start Time
+170154-0
+21:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:00:00
+21:00:00
+Children Hospital
+21:01:30
+21:01:50
+TNT
+21:05:00
+21:05:20
+CDA
+21:10:40
+21:11:00
+Abpara
+21:13:30
+21:13:50
+Foreign Affairs Office
+21:16:30
+21:16:50
+Lake View Park
+21:21:50
+21:22:10
+Malpur
+21:24:40
+21:25:00
+Shahdara
+21:27:50
+21:28:10
+Barakahu
+21:30:00
+21:30:00
+Trip ID
+Start Time
+170155-0
+21:05:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:05:00
+21:05:00
+Children Hospital
+21:06:30
+21:06:50
+TNT
+21:10:00
+21:10:20
+CDA
+21:15:40
+21:16:00
+Abpara
+21:18:30
+21:18:50
+Foreign Affairs Office
+21:21:30
+21:21:50
+Lake View Park
+21:26:50
+21:27:10
+Malpur
+21:29:40
+21:30:00
+Shahdara
+21:32:50
+21:33:10
+Barakahu
+21:35:00
+21:35:00
+Trip ID
+Start Time
+170156-0
+21:10:00
+
+--- PAGE 53 ---
+stop_name
+arrival_time
+departure_time
+PIMS
+21:10:00
+21:10:00
+Children Hospital
+21:11:30
+21:11:50
+TNT
+21:15:00
+21:15:20
+CDA
+21:20:40
+21:21:00
+Abpara
+21:23:30
+21:23:50
+Foreign Affairs Office
+21:26:30
+21:26:50
+Lake View Park
+21:31:50
+21:32:10
+Malpur
+21:34:40
+21:35:00
+Shahdara
+21:37:50
+21:38:10
+Barakahu
+21:40:00
+21:40:00
+Trip ID
+Start Time
+170157-0
+21:15:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:15:00
+21:15:00
+Children Hospital
+21:16:30
+21:16:50
+TNT
+21:20:00
+21:20:20
+CDA
+21:25:40
+21:26:00
+Abpara
+21:28:30
+21:28:50
+Foreign Affairs Office
+21:31:30
+21:31:50
+Lake View Park
+21:36:50
+21:37:10
+Malpur
+21:39:40
+21:40:00
+Shahdara
+21:42:50
+21:43:10
+Barakahu
+21:45:00
+21:45:00
+Trip ID
+Start Time
+170158-0
+21:20:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:20:00
+21:20:00
+Children Hospital
+21:21:30
+21:21:50
+TNT
+21:25:00
+21:25:20
+CDA
+21:30:40
+21:31:00
+Abpara
+21:33:30
+21:33:50
+Foreign Affairs Office
+21:36:30
+21:36:50
+Lake View Park
+21:41:50
+21:42:10
+Malpur
+21:44:40
+21:45:00
+Shahdara
+21:47:50
+21:48:10
+Barakahu
+21:50:00
+21:50:00
+Trip ID
+Start Time
+170159-0
+21:25:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:25:00
+21:25:00
+Children Hospital
+21:26:30
+21:26:50
+TNT
+21:30:00
+21:30:20
+CDA
+21:35:40
+21:36:00
+Abpara
+21:38:30
+21:38:50
+Foreign Affairs Office
+21:41:30
+21:41:50
+Lake View Park
+21:46:50
+21:47:10
+
+--- PAGE 54 ---
+Malpur
+21:49:40
+21:50:00
+Shahdara
+21:52:50
+21:53:10
+Barakahu
+21:55:00
+21:55:00
+Trip ID
+Start Time
+170160-0
+21:30:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:30:00
+21:30:00
+Children Hospital
+21:31:30
+21:31:50
+TNT
+21:35:00
+21:35:20
+CDA
+21:40:40
+21:41:00
+Abpara
+21:43:30
+21:43:50
+Foreign Affairs Office
+21:46:30
+21:46:50
+Lake View Park
+21:51:50
+21:52:10
+Malpur
+21:54:40
+21:55:00
+Shahdara
+21:57:50
+21:58:10
+Barakahu
+22:00:00
+22:00:00
+Trip ID
+Start Time
+170161-0
+21:35:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:35:00
+21:35:00
+Children Hospital
+21:36:30
+21:36:50
+TNT
+21:40:00
+21:40:20
+CDA
+21:45:40
+21:46:00
+Abpara
+21:48:30
+21:48:50
+Foreign Affairs Office
+21:51:30
+21:51:50
+Lake View Park
+21:56:50
+21:57:10
+Malpur
+21:59:40
+22:00:00
+Shahdara
+22:02:50
+22:03:10
+Barakahu
+22:05:00
+22:05:00
+Trip ID
+Start Time
+170162-0
+21:40:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:40:00
+21:40:00
+Children Hospital
+21:41:30
+21:41:50
+TNT
+21:45:00
+21:45:20
+CDA
+21:50:40
+21:51:00
+Abpara
+21:53:30
+21:53:50
+Foreign Affairs Office
+21:56:30
+21:56:50
+Lake View Park
+22:01:50
+22:02:10
+Malpur
+22:04:40
+22:05:00
+Shahdara
+22:07:50
+22:08:10
+Barakahu
+22:10:00
+22:10:00
+Trip ID
+Start Time
+170163-0
+21:45:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:45:00
+21:45:00
+
+--- PAGE 55 ---
+Children Hospital
+21:46:30
+21:46:50
+TNT
+21:50:00
+21:50:20
+CDA
+21:55:40
+21:56:00
+Abpara
+21:58:30
+21:58:50
+Foreign Affairs Office
+22:01:30
+22:01:50
+Lake View Park
+22:06:50
+22:07:10
+Malpur
+22:09:40
+22:10:00
+Shahdara
+22:12:50
+22:13:10
+Barakahu
+22:15:00
+22:15:00
+Trip ID
+Start Time
+170164-0
+21:50:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:50:00
+21:50:00
+Children Hospital
+21:51:30
+21:51:50
+TNT
+21:55:00
+21:55:20
+CDA
+22:00:40
+22:01:00
+Abpara
+22:03:30
+22:03:50
+Foreign Affairs Office
+22:06:30
+22:06:50
+Lake View Park
+22:11:50
+22:12:10
+Malpur
+22:14:40
+22:15:00
+Shahdara
+22:17:50
+22:18:10
+Barakahu
+22:20:00
+22:20:00
+Trip ID
+Start Time
+170165-0
+21:55:00
+stop_name
+arrival_time
+departure_time
+PIMS
+21:55:00
+21:55:00
+Children Hospital
+21:56:30
+21:56:50
+TNT
+22:00:00
+22:00:20
+CDA
+22:05:40
+22:06:00
+Abpara
+22:08:30
+22:08:50
+Foreign Affairs Office
+22:11:30
+22:11:50
+Lake View Park
+22:16:50
+22:17:10
+Malpur
+22:19:40
+22:20:00
+Shahdara
+22:22:50
+22:23:10
+Barakahu
+22:25:00
+22:25:00
+Trip ID
+Start Time
+170166-0
+22:00:00
+stop_name
+arrival_time
+departure_time
+PIMS
+22:00:00
+22:00:00
+Children Hospital
+22:01:30
+22:01:50
+TNT
+22:05:00
+22:05:20
+CDA
+22:10:40
+22:11:00
+Abpara
+22:13:30
+22:13:50
+Foreign Affairs Office
+22:16:30
+22:16:50
+Lake View Park
+22:21:50
+22:22:10
+Malpur
+22:24:40
+22:25:00
+Shahdara
+22:27:50
+22:28:10
+
+--- PAGE 56 ---
+Barakahu
+22:30:00
+22:30:00

@@ -1,0 +1,7 @@
+{
+  "xes_path": "C:\\Users\\haide\\Desktop\\Process Mining Project\\data\\02_event_logs\\cda_transit_event_log.xes",
+  "valid_pm4py_import": true,
+  "num_traces": 1509,
+  "num_events": 26450,
+  "xes_version_required": "1.0"
+}

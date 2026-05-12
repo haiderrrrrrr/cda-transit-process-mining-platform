@@ -1,0 +1,313 @@
+from_stop,to_stop,from_stop_normalized,to_stop_normalized,case_frequency,avg_duration_seconds,min_duration_seconds,max_duration_seconds,routes,avg_duration_label
+A.K Bari Road,G-11 Markaz,a k bari road,g 11 markaz,19,160.0,160,160,FR-10,2 min 40 sec
+A.K Bari Road,Police Foundation Metro Station,a k bari road,police foundation metro station,97,190.0,190,190,FR-07,3 min 10 sec
+Abpara,Foreign Affairs Office,abpara,foreign affairs office,405,160.0,160,160,"FR-08A, FRG-1",2 min 40 sec
+Abpara,Shakarparian Park,abpara,shakarparian park,9,370.0,370,370,ST-02,6 min 10 sec
+Abpara Market,Youth Hostel,abpara market,youth hostel,97,120.0,120,120,FR-04,2 min 0 sec
+Afridi Bagh,Hattar,afridi bagh,hattar,13,75.0,75,75,FR-13,1 min 15 sec
+Ahmad Nagar,Shah Wali Colony Road,ahmad nagar,shah wali colony road,12,50.0,50,50,FR-12,0 min 50 sec
+Airport Enclave,Madni Chowk,airport enclave,madni chowk,13,230.0,230,230,FR-13,3 min 50 sec
+Aiwan e Sadar Colony,Muslim Colony,aiwan e sadar colony,muslim colony,97,80.0,80,80,FR-04,1 min 20 sec
+Akbar Niazi Hospital,Phulgran,akbar niazi hospital,phulgran,65,40.0,40,40,FR-14A,0 min 40 sec
+Akram City,Civil CT Road,akram city,civil ct road,13,90.0,90,90,FR-13,1 min 30 sec
+Al Wadi Colony,Satra Meel,al wadi colony,satra meel,65,80.0,80,80,FR-14A,1 min 20 sec
+Askari Cement Factory Road,Dhok Dhollian,askari cement factory road,dhok dhollian,12,80.0,80,80,FR-12,1 min 20 sec
+Athal Chowk,Barakahu Bazar,athal chowk,barakahu bazar,65,160.0,160,160,FR-14A,2 min 40 sec
+B-17 Gate no. 1,B-17 Gate no. 2,b 17 gate no 1,b 17 gate no 2,19,120.0,120,120,FR-10,2 min 0 sec
+B-17 Gate no. 2,Margalla,b 17 gate no 2,margalla,19,140.0,140,140,FR-10,2 min 20 sec
+Babul Quaid,Quaid Azam University,babul quaid,quaid azam university,33,160.0,160,160,FR-04A,2 min 40 sec
+Bahria University,Naval Complex,bahria university,naval complex,106,105.0,105,105,"FR-03A, ST-01",1 min 45 sec
+Bahtar Morh,Wah Model Town Phase 01,bahtar morh,wah model town phase 01,12,50.0,50,50,FR-12,0 min 50 sec
+Bangu Chowk,Afridi Bagh,bangu chowk,afridi bagh,13,95.0,95,95,FR-13,1 min 35 sec
+Bank Colony,Salai Centre,bank colony,salai centre,97,90.0,90,90,FR-04,1 min 30 sec
+Bar Council,A.K Bari Road,bar council,a k bari road,97,50.0,50,50,FR-07,0 min 50 sec
+Barakahu,Shahdara,barakahu,shahdara,65,130.0,130,130,FR-14,2 min 10 sec
+Barakahu Bazar,Bhera Pull,barakahu bazar,bhera pull,65,130.0,130,130,FR-14A,2 min 10 sec
+Barakahu Terminal,Mangu Town,barakahu terminal,mangu town,65,50.0,50,50,FR-14A,0 min 50 sec
+Bari Imam,Muhallah Noori Bagh,bari imam,muhallah noori bagh,33,100.0,100,100,FR-04A,1 min 40 sec
+Basti,Sabri Gali,basti,sabri gali,12,90.0,90,90,FR-12,1 min 30 sec
+Bhera Pull,Nai Abadi,bhera pull,nai abadi,65,130.0,130,130,FR-14A,2 min 10 sec
+British Homes,Pir Wadhai Morh,british homes,pir wadhai morh,65,76.0,76,76,FR-09,1 min 16 sec
+C-Type Quaid-e-Azam Colony,Babul Quaid,c type quaid e azam colony,babul quaid,33,90.0,90,90,FR-04A,1 min 30 sec
+CDA,Abpara,cda,abpara,414,138.3816425120773,80,150,"FR-08A, FRG-1, ST-02",2 min 18 sec
+CDA Complain Center,MCI Model School,cda complain center,mci model school,17,305.0,305,305,FR-01,5 min 5 sec
+CDA Stop,Pully Stop,cda stop,pully stop,130,105.0,105,105,"FR-09, FR-14",1 min 45 sec
+COMSATS University,Tamma Stop,comsats university,tamma stop,266,58.27067669172932,5,70,"FR-08A, FR-08C, ST-02",0 min 58 sec
+CTTI,Social Security Hospital,ctti,social security hospital,65,98.0,98,98,FR-09,1 min 38 sec
+Carriage Factory,Westridge,carriage factory,westridge,65,90.0,90,90,FR-09,1 min 30 sec
+Chaman Metro Station,G-9/4,chaman metro station,g 9 4,97,96.0,96,96,FR-07,1 min 36 sec
+Chaman Metro Station,Taqwa Market,chaman metro station,taqwa market,17,80.0,80,80,FR-06,1 min 20 sec
+Chatta Bakhtawar,Gulshan Al Huda Community,chatta bakhtawar,gulshan al huda community,257,83.73540856031128,80,100,"FR-08A, FR-08C",1 min 24 sec
+Chatta Bakhtawar,Hostel City,chatta bakhtawar,hostel city,9,130.0,130,130,ST-02,2 min 10 sec
+Children Hospital,NORI Hospital,children hospital,nori hospital,97,159.0,159,159,FR-07,2 min 39 sec
+Children Hospital,Rescue 15,children hospital,rescue 15,97,108.0,108,108,FR-04,1 min 48 sec
+Children Hospital,TNT,children hospital,tnt,649,204.6224961479199,170,240,"FR-08A, FR-08C, FRB-01, FRG-1",3 min 25 sec
+Chishtiabad,Golra Morh,chishtiabad,golra morh,65,125.0,125,125,FR-09,2 min 5 sec
+Civil CT Road,Fateh Jang,civil ct road,fateh jang,13,130.0,130,130,FR-13,2 min 10 sec
+Col. Ammanullah Road,Athal Chowk,col ammanullah road,athal chowk,65,110.0,110,110,FR-14A,1 min 50 sec
+College Morh,G-10 Markaz,college morh,g 10 markaz,97,150.0,150,150,FR-07,2 min 30 sec
+Commmunity Health Center,D-Type Quaid e Azam Colony,commmunity health center,d type quaid e azam colony,33,95.0,95,95,FR-04A,1 min 35 sec
+D-12 Markaz,D-12,d 12 markaz,d 12,193,50.0,50,50,FR-05,0 min 50 sec
+D-12 Markaz,Shah Allah Ditta,d 12 markaz,shah allah ditta,19,235.0,235,235,FR-10,3 min 55 sec
+D-12 Service Road,IESCO D-12,d 12 service road,iesco d 12,212,115.0,115,115,"FR-05, FR-10",1 min 55 sec
+D-Type Quaid e Azam Colony,C-Type Quaid-e-Azam Colony,d type quaid e azam colony,c type quaid e azam colony,33,75.0,75,75,FR-04A,1 min 15 sec
+DHA Gate 07,SUPARCO,dha gate 07,suparco,33,105.0,105,105,FR-15,1 min 45 sec
+DHA Gate 08,DHA Gate 07,dha gate 08,dha gate 07,33,90.0,90,90,FR-15,1 min 30 sec
+Dental Hospital,G-8 Markaz,dental hospital,g 8 markaz,97,10.0,10,10,FR-07,0 min 10 sec
+Development Park,Chaman Metro Station,development park,chaman metro station,97,109.0,109,109,FR-07,1 min 49 sec
+Dhok Badam,Punjab College,dhok badam,punjab college,65,40.0,40,40,FR-14A,0 min 40 sec
+Dhok Dhollian,WAPDA Colony,dhok dhollian,wapda colony,12,80.0,80,80,FR-12,1 min 20 sec
+Dhok Kala Khan,Iqbal Town,dhok kala khan,iqbal town,196,60.0,60,60,FRB-01,1 min 0 sec
+Dhok Kala Khan,Sohan,dhok kala khan,sohan,65,170.0,170,170,FR-09,2 min 50 sec
+Dhok Miskeen,Mangial Link Road 1,dhok miskeen,mangial link road 1,13,195.0,195,195,FR-13,3 min 15 sec
+Dhokri Stop,Kashmir Chowk,dhokri stop,kashmir chowk,65,71.0,71,71,FR-14,1 min 11 sec
+Dhuma,PECHS,dhuma,pechs,13,160.0,160,160,FR-13,2 min 40 sec
+Diplomatic Enclave Gate 4,Aiwan e Sadar Colony,diplomatic enclave gate 4,aiwan e sadar colony,97,102.0,102,102,FR-04,1 min 42 sec
+Doiyan,Qutbal,doiyan,qutbal,13,150.0,150,150,FR-13,2 min 30 sec
+E-11/2 / FECHS / Islamabad International Hospita,D-12 Service Road,e 11 2 fechs islamabad international hospita,d 12 service road,193,100.0,100,100,FR-05,1 min 40 sec
+F-10 Markaz,IMCB F10/4,f 10 markaz,imcb f10 4,17,115.0,115,115,FR-06,1 min 55 sec
+F-10/F-11 Chowk,Major Road,f 10 f 11 chowk,major road,17,80.0,80,80,FR-06,1 min 20 sec
+F-11 Markaz,OPF Girls College,f 11 markaz,opf girls college,36,111.11111111111111,90,130,"FR-06, FR-10",1 min 51 sec
+F-7 Markaz,Flower Market,f 7 markaz,flower market,97,73.0,73,73,FR-03A,1 min 13 sec
+F-8 Markaz,F-9 Park,f 8 markaz,f 9 park,106,120.0,120,120,"FR-03A, ST-01",2 min 0 sec
+F-9 Park,Shaheen Chowk,f 9 park,shaheen chowk,123,80.85365853658537,55,85,"FR-03A, FR-06, ST-01",1 min 21 sec
+FAST University,PAEC General Hospital,fast university,paec general hospital,17,140.0,140,140,FR-01,2 min 20 sec
+Faisal Masjid,Parveen Shakir Road,faisal masjid,parveen shakir road,106,160.0,160,160,"FR-03A, ST-01",2 min 40 sec
+Faisal Morh F-7/F-8,Katchery,faisal morh f 7 f 8,katchery,9,160.0,160,160,ST-01,2 min 40 sec
+Faizabad,ITP Driving License Centre,faizabad,itp driving license centre,48,150.0,150,150,FR-08C,2 min 30 sec
+Faizabad Metro Station,IJP Metro Station,faizabad metro station,ijp metro station,130,240.0,240,240,"FR-09, FR-14",4 min 0 sec
+Fauji Colony,Carriage Factory,fauji colony,carriage factory,65,80.0,80,80,FR-09,1 min 20 sec
+Fazaia,Gangal,fazaia,gangal,229,126.39737991266375,105,130,"FR-15, FRB-01",2 min 6 sec
+Fazaia Housing Scheme,PAF Hospital,fazaia housing scheme,paf hospital,17,110.0,110,110,FR-06,1 min 50 sec
+Federal Government College,F-11 Markaz,federal government college,f 11 markaz,19,170.0,170,170,FR-10,2 min 50 sec
+Foreign Affairs Office,Kashmir Chowk,foreign affairs office,kashmir chowk,209,100.0,100,100,FR-08A,1 min 40 sec
+Foreign Affairs Office,Lake View Park,foreign affairs office,lake view park,196,300.0,300,300,FRG-1,5 min 0 sec
+G-10 Markaz,PHA Flats,g 10 markaz,pha flats,97,150.0,150,150,FR-07,2 min 30 sec
+G-10 Metro Station,Sunday Bazar,g 10 metro station,sunday bazar,193,70.0,70,70,FR-05,1 min 10 sec
+G-10/G-11,Institute of Modern Studies,g 10 g 11,institute of modern studies,97,55.0,55,55,FR-07,0 min 55 sec
+G-11 Markaz,Hammad Uddin Road,g 11 markaz,hammad uddin road,19,120.0,120,120,FR-10,2 min 0 sec
+G-11 Markaz,Mehrabad,g 11 markaz,mehrabad,97,222.0,222,222,FR-07,3 min 42 sec
+G-13 Metro Station,NUST Metro Station,g 13 metro station,nust metro station,19,130.0,130,130,FR-10,2 min 10 sec
+G-15/H-15,G-16/H-16,g 15 h 15,g 16 h 16,13,130.0,130,130,FR-13,2 min 10 sec
+G-16/1,Masjid Abu Al Qasim,g 16 1,masjid abu al qasim,13,140.0,140,140,FR-13,2 min 20 sec
+G-16/H-16,G-16/1,g 16 h 16,g 16 1,13,115.0,115,115,FR-13,1 min 55 sec
+G-6/1.2,Melody Market,g 6 1 2,melody market,97,108.0,108,108,FR-04,1 min 48 sec
+G-8 Markaz,Development Park,g 8 markaz,development park,97,20.0,20,20,FR-07,0 min 20 sec
+G-9 Markaz,G-9/3,g 9 markaz,g 9 3,17,130.0,130,130,FR-06,2 min 10 sec
+G-9 Markaz,Police Flats,g 9 markaz,police flats,97,95.0,95,95,FR-07,1 min 35 sec
+G-9/1 and G-9/4,G-9 Markaz,g 9 1 and g 9 4,g 9 markaz,17,60.0,60,60,FR-06,1 min 0 sec
+G-9/3,F-9 Park,g 9 3,f 9 park,17,130.0,130,130,FR-06,2 min 10 sec
+G-9/4,Karachi Company,g 9 4,karachi company,97,100.0,100,100,FR-07,1 min 40 sec
+G-9/4 Park,Karachi Company,g 9 4 park,karachi company,17,40.0,40,40,FR-06,0 min 40 sec
+G10/G11,Sumbal Road,g10 g11,sumbal road,193,145.0,145,145,FR-05,2 min 25 sec
+Gangal,Koral Town,gangal,koral town,229,153.51528384279476,115,160,"FR-15, FRB-01",2 min 34 sec
+Garden Avenue,Margalla Town,garden avenue,margalla town,65,110.0,110,110,FR-14,1 min 50 sec
+Garden Avenue,Rawal Town,garden avenue,rawal town,48,70.0,70,70,FR-08C,1 min 10 sec
+Garhi Hasu Khan,The Avanue 03,garhi hasu khan,the avanue 03,13,100.0,100,100,FR-13,1 min 40 sec
+Golra Morh,G-13 Metro Station,golra morh,g 13 metro station,19,140.0,140,140,FR-10,2 min 20 sec
+Golra Morh,Home of Military Transport,golra morh,home of military transport,65,170.0,170,170,FR-09,2 min 50 sec
+Golra Morh,IMCG I-14/3,golra morh,imcg i 14 3,19,120.0,120,120,FR-11,2 min 0 sec
+Golra Morh Metro Station,N-5 Metro Station,golra morh metro station,n 5 metro station,13,135.0,135,135,FR-13,2 min 15 sec
+Golra Morh Metro Station,N5 Metro Station,golra morh metro station,n5 metro station,19,290.0,290,290,FR-11,4 min 50 sec
+Golra Sharif F-11/3,Golra sharif,golra sharif f 11 3,golra sharif,17,115.0,115,115,FR-06,1 min 55 sec
+Golra Sharif F-11/3,NPF Housing Society,golra sharif f 11 3,npf housing society,19,290.0,290,290,FR-10,4 min 50 sec
+Graceland Housing Society,Mangial Link Road 2,graceland housing society,mangial link road 2,13,145.0,145,145,FR-13,2 min 25 sec
+Green Avenue,Chatta Bakhtawar,green avenue,chatta bakhtawar,266,72.63157894736842,60,130,"FR-08A, FR-08C, ST-02",1 min 13 sec
+Gulberg,Pagh Chowk,gulberg,pagh chowk,33,105.0,105,105,FR-15,1 min 45 sec
+Gulshan Al Huda Community,Hostel City,gulshan al huda community,hostel city,257,53.735408560311285,50,70,"FR-08A, FR-08C",0 min 54 sec
+Gulshan e Anwar,Jinnah Colony,gulshan e anwar,jinnah colony,12,80.0,80,80,FR-12,1 min 20 sec
+H-8,Kach Naar Park I-8,h 8,kach naar park i 8,244,155.08196721311475,135,160,"FR-08C, FRB-01",2 min 35 sec
+Hammad Uddin Road,Federal Government College,hammad uddin road,federal government college,19,130.0,130,130,FR-10,2 min 10 sec
+Hassan Abdal,Tipu Sultan Shaheed Chowk,hassan abdal,tipu sultan shaheed chowk,12,50.0,50,50,FR-12,0 min 50 sec
+Hattar,Prem Nagar Faqeeran,hattar,prem nagar faqeeran,13,70.0,70,70,FR-13,1 min 10 sec
+Home of Military Transport,Golra Morh Metro Station,home of military transport,golra morh metro station,65,180.0,180,180,FR-09,3 min 0 sec
+Hostel City,COMSATS University,hostel city,comsats university,266,91.8796992481203,55,100,"FR-08A, FR-08C, ST-02",1 min 32 sec
+I-14 Markaz,I-14/1 Park,i 14 markaz,i 14 1 park,19,80.0,80,80,FR-11,1 min 20 sec
+I-14/1 Park,Rafiullah Shaheed Chowk,i 14 1 park,rafiullah shaheed chowk,19,70.0,70,70,FR-11,1 min 10 sec
+ICB College,NADRA Chowk,icb college,nadra chowk,97,30.0,30,30,FR-04,0 min 30 sec
+IESCO,PTCL I-10,iesco,ptcl i 10,17,90.0,90,90,FR-01,1 min 30 sec
+IESCO D-12,D-12 Markaz,iesco d 12,d 12 markaz,212,84.03301886792453,80,125,"FR-05, FR-10",1 min 24 sec
+IJP Metro Station,Pindora Chungi,ijp metro station,pindora chungi,130,230.0,230,230,"FR-09, FR-14",3 min 50 sec
+IMC Hospital,Metro CNC,imc hospital,metro cnc,17,140.0,140,140,FR-01,2 min 20 sec
+IMCB F10/4,IMCG F-10/2,imcb f10 4,imcg f 10 2,17,110.0,110,110,FR-06,1 min 50 sec
+IMCG F-10/2,F-10/F-11 Chowk,imcg f 10 2,f 10 f 11 chowk,17,80.0,80,80,FR-06,1 min 20 sec
+IMCG I-14/3,RIPHAH International University,imcg i 14 3,riphah international university,19,100.0,100,100,FR-11,1 min 40 sec
+ITP Driving License Centre,Margalla Town,itp driving license centre,margalla town,48,135.0,135,135,FR-08C,2 min 15 sec
+ITP Driving License Centre,Sohan,itp driving license centre,sohan,65,400.0,400,400,FR-14,6 min 40 sec
+Ibn-e-Sina Metro Station,Chaman Metro Station,ibn e sina metro station,chaman metro station,17,60.0,60,60,FR-06,1 min 0 sec
+Institute of Modern Studies,G-11 Markaz,institute of modern studies,g 11 markaz,97,90.0,90,90,FR-07,1 min 30 sec
+Iqbal Hall,G-6/1.2,iqbal hall,g 6 1 2,97,194.0,194,194,FR-04,3 min 14 sec
+Iqbal Town,Dhok Kala Khan,iqbal town,dhok kala khan,65,95.0,95,95,FR-09,1 min 35 sec
+Iqbal Town,Kuri Road,iqbal town,kuri road,196,60.0,60,60,FRB-01,1 min 0 sec
+Islamabad International Hospital,D-12 Service Road,islamabad international hospital,d 12 service road,19,110.0,110,110,FR-10,1 min 50 sec
+Islamic University,FAST University,islamic university,fast university,17,160.0,160,160,FR-01,2 min 40 sec
+Jinnah Colony,New City Phase 01,jinnah colony,new city phase 01,12,95.0,95,95,FR-12,1 min 35 sec
+Kaak Pul,DHA Gate 08,kaak pul,dha gate 08,33,115.0,115,115,FR-15,1 min 55 sec
+Kach Naar Park I-8,Faizabad,kach naar park i 8,faizabad,48,130.0,130,130,FR-08C,2 min 10 sec
+Kach Naar Park I-8,Sohan,kach naar park i 8,sohan,196,220.0,220,220,FRB-01,3 min 40 sec
+Karachi Company,G-9 Markaz,karachi company,g 9 markaz,97,50.0,50,50,FR-07,0 min 50 sec
+Karachi Company,G-9/1 and G-9/4,karachi company,g 9 1 and g 9 4,17,65.0,65,65,FR-06,1 min 5 sec
+Kashmir Chowk,Rawal Dam Chowk,kashmir chowk,rawal dam chowk,274,152.37226277372264,150,160,"FR-08A, FR-14",2 min 32 sec
+Katarian Chungi,Katarian Pull,katarian chungi,katarian pull,130,76.0,76,76,"FR-09, FR-14",1 min 16 sec
+Katarian Pull,CDA Stop,katarian pull,cda stop,130,113.0,113,113,"FR-09, FR-14",1 min 53 sec
+Katchery,F-8 Markaz,katchery,f 8 markaz,106,105.0,105,105,"FR-03A, ST-01",1 min 45 sec
+Khanna Pul,Fazaia,khanna pul,fazaia,229,81.4410480349345,80,90,"FR-15, FRB-01",1 min 21 sec
+Khanna Pul,Zia Masjid,khanna pul,zia masjid,65,290.0,290,290,FR-09,4 min 50 sec
+Khayaban e Iqbal,NPF Housing Society,khayaban e iqbal,npf housing society,193,160.0,160,160,FR-05,2 min 40 sec
+Kohinoor Mill,Chishtiabad,kohinoor mill,chishtiabad,65,120.0,120,120,FR-09,2 min 0 sec
+Kohinoor Mill Colony,Kohinoor Mill,kohinoor mill colony,kohinoor mill,65,110.0,110,110,FR-09,1 min 50 sec
+Kohsar Road,F-7 Markaz,kohsar road,f 7 markaz,97,117.0,117,117,FR-03A,1 min 57 sec
+Kohsar Road/F-7 Marka,Murghzar Zoo,kohsar road f 7 marka,murghzar zoo,9,160.0,160,160,ST-01,2 min 40 sec
+Koral Town,Gulberg,koral town,gulberg,229,158.47161572052403,90,170,"FR-15, FRB-01",2 min 38 sec
+Kurang Road Stop,IESCO,kurang road stop,iesco,17,100.0,100,100,FR-01,1 min 40 sec
+Kuri Road,Iqbal Town,kuri road,iqbal town,65,100.0,100,100,FR-09,1 min 40 sec
+Kuri Road,Zia Masjid,kuri road,zia masjid,196,80.0,80,80,FRB-01,1 min 20 sec
+Lake View Park,Dhokri Stop,lake view park,dhokri stop,65,220.0,220,220,FR-14,3 min 40 sec
+Lake View Park,Malpur,lake view park,malpur,196,150.0,150,150,FRG-1,2 min 30 sec
+Lodges Park,Sukh Chayn Park,lodges park,sukh chayn park,97,60.0,60,60,FR-04,1 min 0 sec
+Losar Sharfoo,New City Phase 02,losar sharfoo,new city phase 02,12,115.0,115,115,FR-12,1 min 55 sec
+Madni Chowk,Dhuma,madni chowk,dhuma,13,130.0,130,130,FR-13,2 min 10 sec
+Major Road,PTCL F-11,major road,ptcl f 11,17,40.0,40,40,FR-06,0 min 40 sec
+Malakand Stop,Basti,malakand stop,basti,12,70.0,70,70,FR-12,1 min 10 sec
+Malpur,Lake View Park,malpur,lake view park,65,125.0,125,125,FR-14,2 min 5 sec
+Malpur,Shahdara,malpur,shahdara,196,170.0,170,170,FRG-1,2 min 50 sec
+Mandi Morh,Fauji Colony,mandi morh,fauji colony,65,95.0,95,95,FR-09,1 min 35 sec
+Mandi Morh,Kurang Road Stop,mandi morh,kurang road stop,17,85.0,85,85,FR-01,1 min 25 sec
+Mangial Link Road 1,Graceland Housing Society,mangial link road 1,graceland housing society,13,190.0,190,190,FR-13,3 min 10 sec
+Mangial Link Road 2,Mangial Main Stop,mangial link road 2,mangial main stop,13,140.0,140,140,FR-13,2 min 20 sec
+Mangial Main Stop,Doiyan,mangial main stop,doiyan,13,75.0,75,75,FR-13,1 min 15 sec
+Mangu Town,Col. Ammanullah Road,mangu town,col ammanullah road,65,70.0,70,70,FR-14A,1 min 10 sec
+Margalla,Taxila Bypass,margalla,taxila bypass,19,140.0,140,140,FR-10,2 min 20 sec
+Margalla Town,Garden Avenue,margalla town,garden avenue,48,115.0,115,115,FR-08C,1 min 55 sec
+Margalla Town,ITP Driving License Centre,margalla town,itp driving license centre,65,140.0,140,140,FR-14,2 min 20 sec
+Maroof International Hospital,F-10 Markaz,maroof international hospital,f 10 markaz,17,110.0,110,110,FR-06,1 min 50 sec
+Masjid Abu Al Qasim,Top City,masjid abu al qasim,top city,13,190.0,190,190,FR-13,3 min 10 sec
+Mehrabad,NUST Metro Station,mehrabad,nust metro station,97,324.0,324,324,FR-07,5 min 24 sec
+Melody Market,Abpara Market,melody market,abpara market,97,150.0,150,150,FR-04,2 min 30 sec
+Metro CNC,Sabzi Mandi,metro cnc,sabzi mandi,17,80.0,80,80,FR-01,1 min 20 sec
+Metropolitan Corporation,ICB College,metropolitan corporation,icb college,97,99.0,99,99,FR-04,1 min 39 sec
+Ministry of Foreign Affairs,Radio Pakistan,ministry of foreign affairs,radio pakistan,97,82.0,82,82,FR-04,1 min 22 sec
+Mohri Patak,Dhok Miskeen,mohri patak,dhok miskeen,13,120.0,120,120,FR-13,2 min 0 sec
+Motorway Chowk,NUST EME College,motorway chowk,nust eme college,19,125.0,125,125,FR-11,2 min 5 sec
+Muhallah Noori Bagh,Commmunity Health Center,muhallah noori bagh,commmunity health center,33,80.0,80,80,FR-04A,1 min 20 sec
+Multy Stop,Islamabad International Hospital,multy stop,islamabad international hospital,19,220.0,220,220,FR-10,3 min 40 sec
+Multy Stop/Islamabad Gardens,E-11/2 / FECHS / Islamabad International Hospita,multy stop islamabad gardens,e 11 2 fechs islamabad international hospita,193,170.0,170,170,FR-05,2 min 50 sec
+Mumtaz City,Airport Enclave,mumtaz city,airport enclave,13,135.0,135,135,FR-13,2 min 15 sec
+Murghzar Zoo,Daman e Koh,murghzar zoo,daman e koh,9,570.0,570,570,ST-01,9 min 30 sec
+Muslim Colony,Bari Imam,muslim colony,bari imam,97,248.0,248,248,FR-04,4 min 8 sec
+N-5 Metro Station,G-15/H-15,n 5 metro station,g 15 h 15,13,100.0,100,100,FR-13,1 min 40 sec
+N.A.R.C Colony,N.I.H Allergy Center,n a r c colony,n i h allergy center,48,120.0,120,120,FR-08C,2 min 0 sec
+N.I.H Allergy Center,Shahzad Town,n i h allergy center,shahzad town,48,80.0,80,80,FR-08C,1 min 20 sec
+N5 Metro Station,Motorway Chowk,n5 metro station,motorway chowk,19,50.0,50,50,FR-11,0 min 50 sec
+NADRA Chowk,Lodges Park,nadra chowk,lodges park,97,60.0,60,60,FR-04,1 min 0 sec
+NARC Colony,NIH Allergy Center,narc colony,nih allergy center,218,80.0,80,80,"FR-08A, ST-02",1 min 20 sec
+NIH Allergy Center,Shahzad Town,nih allergy center,shahzad town,218,120.0,120,120,"FR-08A, ST-02",2 min 0 sec
+NORI Hospital,Dental Hospital,nori hospital,dental hospital,97,120.0,120,120,FR-07,2 min 0 sec
+NPA Stop,Islamic University,npa stop,islamic university,17,140.0,140,140,FR-01,2 min 20 sec
+NPF Housing Society,Multy Stop,npf housing society,multy stop,19,100.0,100,100,FR-10,1 min 40 sec
+NPF Housing Society,Multy Stop/Islamabad Gardens,npf housing society,multy stop islamabad gardens,193,100.0,100,100,FR-05,1 min 40 sec
+NUST EME College,Golra Morh,nust eme college,golra morh,19,130.0,130,130,FR-11,2 min 10 sec
+NUST Metro Station,A.K Bari Road,nust metro station,a k bari road,19,110.0,110,110,FR-10,1 min 50 sec
+NUST Metro Station,Bar Council,nust metro station,bar council,97,130.0,130,130,FR-07,2 min 10 sec
+NUST Metro Station,Police Foundation,nust metro station,police foundation,193,200.0,200,200,FR-05,3 min 20 sec
+NUST Metro Station,Police Foundation Metro Station,nust metro station,police foundation metro station,17,110.0,110,110,FR-01,1 min 50 sec
+Nai Abadi,Traders Colony,nai abadi,traders colony,65,120.0,120,120,FR-14A,2 min 0 sec
+National Library,Secretariate Police Station,national library,secretariate police station,97,35.0,35,35,FR-04,0 min 35 sec
+Naval Complex,Faisal Masjid,naval complex,faisal masjid,106,175.0,175,175,"FR-03A, ST-01",2 min 55 sec
+Nawab Abad,Wah Cantt Barrier No 2,nawab abad,wah cantt barrier no 2,12,110.0,110,110,FR-12,1 min 50 sec
+New City Phase 01,Losar Sharfoo,new city phase 01,losar sharfoo,12,80.0,80,80,FR-12,1 min 20 sec
+New City Phase 02,Bahtar Morh,new city phase 02,bahtar morh,12,115.0,115,115,FR-12,1 min 55 sec
+OGTI Stop,CDA Complain Center,ogti stop,cda complain center,17,230.0,230,230,FR-01,3 min 50 sec
+OPF Girls College,Golra Sharif F-11/3,opf girls college,golra sharif f 11 3,36,81.11111111111111,60,100,"FR-06, FR-10",1 min 21 sec
+PAEC General Hospital,IMC Hospital,paec general hospital,imc hospital,17,105.0,105,105,FR-01,1 min 45 sec
+PAF Hospital,Pakistan gate,paf hospital,pakistan gate,17,80.0,80,80,FR-06,1 min 20 sec
+PECHS,Mohri Patak,pechs,mohri patak,13,180.0,180,180,FR-13,3 min 0 sec
+PHA Flats,Tanki Stop,pha flats,tanki stop,97,50.0,50,50,FR-07,0 min 50 sec
+PIMS,Children Hospital,pims,children hospital,392,90.0,90,90,"FRB-01, FRG-1",1 min 30 sec
+PIMS,TNT,pims,tnt,9,220.0,220,220,ST-02,3 min 40 sec
+PIMS Hospital,Children Hospital,pims hospital,children hospital,451,72.25720620842571,20,220,"FR-04, FR-07, FR-08A, FR-08C",1 min 12 sec
+PIMS Hospital,Faisal Morh F-7/F-8,pims hospital,faisal morh f 7 f 8,9,220.0,220,220,ST-01,3 min 40 sec
+PIMS Hospital,PIMS Metro Station,pims hospital,pims metro station,97,140.0,140,140,FR-03A,2 min 20 sec
+PIMS Metro Station,Katchery,pims metro station,katchery,97,220.0,220,220,FR-03A,3 min 40 sec
+PTCL F-11,F-11 Markaz,ptcl f 11,f 11 markaz,17,45.0,45,45,FR-06,0 min 45 sec
+PTCL I-10,Sui Gas Stop,ptcl i 10,sui gas stop,17,85.0,85,85,FR-01,1 min 25 sec
+PWD Housing Society,Soan Gardens E Block,pwd housing society,soan gardens e block,33,90.0,90,90,FR-15,1 min 30 sec
+Pagh Chowk,PWD Housing Society,pagh chowk,pwd housing society,33,115.0,115,115,FR-15,1 min 55 sec
+Pakistan gate,Maroof International Hospital,pakistan gate,maroof international hospital,17,110.0,110,110,FR-06,1 min 50 sec
+Park View City,Green Avenue,park view city,green avenue,266,115.01127819548873,60,130,"FR-08A, FR-08C, ST-02",1 min 55 sec
+Parveen Shakir Road,Kohsar Road,parveen shakir road,kohsar road,97,100.0,100,100,FR-03A,1 min 40 sec
+Parveen Shakir Road,Kohsar Road/F-7 Marka,parveen shakir road,kohsar road f 7 marka,9,140.0,140,140,ST-01,2 min 20 sec
+Phulgran,Dhok Badam,phulgran,dhok badam,65,40.0,40,40,FR-14A,0 min 40 sec
+Pims Metro Station,Tipu Market G-8,pims metro station,tipu market g 8,17,160.0,160,160,FR-06,2 min 40 sec
+Pindora Chungi,Katarian Chungi,pindora chungi,katarian chungi,130,69.5,69,70,"FR-09, FR-14",1 min 10 sec
+Pir Wadhai Morh,Kohinoor Mill Colony,pir wadhai morh,kohinoor mill colony,65,130.0,130,130,FR-09,2 min 10 sec
+Police Flats,College Morh,police flats,college morh,97,150.0,150,150,FR-07,2 min 30 sec
+Police Foundation,G-10 Metro Station,police foundation,g 10 metro station,193,130.0,130,130,FR-05,2 min 10 sec
+Police Foundation Metro Station,NPA Stop,police foundation metro station,npa stop,17,150.0,150,150,FR-01,2 min 30 sec
+Prem Nagar Faqeeran,Garhi Hasu Khan,prem nagar faqeeran,garhi hasu khan,13,55.0,55,55,FR-13,0 min 55 sec
+Pully Stop,Iqbal Hall,pully stop,iqbal hall,97,108.0,108,108,FR-04,1 min 48 sec
+Pully Stop,Mandi Morh,pully stop,mandi morh,130,160.0,160,160,"FR-09, FR-14",2 min 40 sec
+Punjab College,Al Wadi Colony,punjab college,al wadi colony,65,10.0,10,10,FR-14A,0 min 10 sec
+Qutbal,Bangu Chowk,qutbal,bangu chowk,13,100.0,100,100,FR-13,1 min 40 sec
+RIPHAH International University,I-14 Markaz,riphah international university,i 14 markaz,19,75.0,75,75,FR-11,1 min 15 sec
+Radio Pakistan,National Library,radio pakistan,national library,97,80.0,80,80,FR-04,1 min 20 sec
+Rawal Dam Chowk,Garden Avenue,rawal dam chowk,garden avenue,65,130.0,130,130,FR-14,2 min 10 sec
+Rawal Dam Chowk,Rawal Town,rawal dam chowk,rawal town,209,60.0,60,60,FR-08A,1 min 0 sec
+Rawal Dam Colony,N.A.R.C Colony,rawal dam colony,n a r c colony,48,80.0,80,80,FR-08C,1 min 20 sec
+Rawal Dam Colony,NARC Colony,rawal dam colony,narc colony,218,130.0,130,130,"FR-08A, ST-02",2 min 10 sec
+Rawal Town,School Board Stop,rawal town,school board stop,266,70.0,70,70,"FR-08A, FR-08C, ST-02",1 min 10 sec
+Rescue 15,Bank Colony,rescue 15,bank colony,97,105.0,105,105,FR-04,1 min 45 sec
+River Gardens,Kaak Pul,river gardens,kaak pul,33,105.0,105,105,FR-15,1 min 45 sec
+SUPARCO,T- Chowk,suparco,t chowk,33,115.0,115,115,FR-15,1 min 55 sec
+Sabri Gali,Wah Cantt Barrier 03,sabri gali,wah cantt barrier 03,12,40.0,40,40,FR-12,0 min 40 sec
+Sabzi Mandi,Mandi Morh,sabzi mandi,mandi morh,17,150.0,150,150,FR-01,2 min 30 sec
+Salai Centre,Sitara Market,salai centre,sitara market,97,108.0,108,108,FR-04,1 min 48 sec
+Sangjani,B-17 Gate no. 1,sangjani,b 17 gate no 1,19,170.0,170,170,FR-10,2 min 50 sec
+School Board Stop,Rawal Dam Colony,school board stop,rawal dam colony,266,80.82706766917293,70,130,"FR-08A, FR-08C, ST-02",1 min 21 sec
+Secretariate Police Station,Diplomatic Enclave Gate 4,secretariate police station,diplomatic enclave gate 4,97,134.0,134,134,FR-04,2 min 14 sec
+Shah Allah Ditta,Sangjani,shah allah ditta,sangjani,19,690.0,690,690,FR-10,11 min 30 sec
+Shah Wali Colony Road,Wah Gardens,shah wali colony road,wah gardens,12,65.0,65,65,FR-12,1 min 5 sec
+Shahdara,Barakahu,shahdara,barakahu,196,110.0,110,110,FRG-1,1 min 50 sec
+Shahdara,Malpur,shahdara,malpur,65,140.0,140,140,FR-14,2 min 20 sec
+Shaheen Chowk,Bahria University,shaheen chowk,bahria university,106,180.0,180,180,"FR-03A, ST-01",3 min 0 sec
+Shaheen Chowk,Fazaia Housing Scheme,shaheen chowk,fazaia housing scheme,17,55.0,55,55,FR-06,0 min 55 sec
+Shahzad Town,Park View City,shahzad town,park view city,266,89.02255639097744,80,130,"FR-08A, FR-08C, ST-02",1 min 29 sec
+Shakarparian Park,Rawal Town,shakarparian park,rawal town,9,790.0,790,790,ST-02,13 min 10 sec
+Sitara Market,Pully Stop,sitara market,pully stop,97,152.0,152,152,FR-04,2 min 32 sec
+Soan Gardens E Block,Soan Gardens G Block,soan gardens e block,soan gardens g block,33,105.0,105,105,FR-15,1 min 45 sec
+Soan Gardens G Block,Soan Gardens H Block,soan gardens g block,soan gardens h block,33,115.0,115,115,FR-15,1 min 55 sec
+Soan Gardens H Block,River Gardens,soan gardens h block,river gardens,33,90.0,90,90,FR-15,1 min 30 sec
+Social Security Hospital,British Homes,social security hospital,british homes,65,60.0,60,60,FR-09,1 min 0 sec
+Sohan,Dhok Kala Khan,sohan,dhok kala khan,196,130.0,130,130,FRB-01,2 min 10 sec
+Sohan,Faizabad Metro Station,sohan,faizabad metro station,130,220.0,220,220,"FR-09, FR-14",3 min 40 sec
+Sui Gas Stop,OGTI Stop,sui gas stop,ogti stop,17,330.0,330,330,FR-01,5 min 30 sec
+Sukh Chayn Park,Ministry of Foreign Affairs,sukh chayn park,ministry of foreign affairs,97,238.0,238,238,FR-04,3 min 58 sec
+Sumbal Road,Khayaban e Iqbal,sumbal road,khayaban e iqbal,193,125.0,125,125,FR-05,2 min 5 sec
+Sunday Bazar,G10/G11,sunday bazar,g10 g11,193,140.0,140,140,FR-05,2 min 20 sec
+Swedish College,Malakand Stop,swedish college,malakand stop,12,90.0,90,90,FR-12,1 min 30 sec
+TNT,CDA,tnt,cda,196,320.0,320,320,FRG-1,5 min 20 sec
+TNT,H-8,tnt,h 8,244,300.655737704918,140,340,"FR-08C, FRB-01",5 min 1 sec
+TNT,Zero Point,tnt,zero point,218,120.0,120,120,"FR-08A, ST-02",2 min 0 sec
+Tamma Stop,Capt. Naeem Tufail Shaheed Chow,tamma stop,capt naeem tufail shaheed chow,266,75.48872180451127,55,80,"FR-08A, FR-08C, ST-02",1 min 15 sec
+Tanki Stop,G-10/G-11,tanki stop,g 10 g 11,97,50.0,50,50,FR-07,0 min 50 sec
+Taqwa Market,G-9/4 Park,taqwa market,g 9 4 park,17,50.0,50,50,FR-06,0 min 50 sec
+Taxila Bypass,Wahdat Colony,taxila bypass,wahdat colony,19,190.0,190,190,FR-10,3 min 10 sec
+Taxila Chowk,University of Wah,taxila chowk,university of wah,12,140.0,140,140,FR-12,2 min 20 sec
+The Avanue 03,Akram City,the avanue 03,akram city,13,190.0,190,190,FR-13,3 min 10 sec
+Timber Market,Taxila,timber market,taxila,19,140.0,140,140,FR-10,2 min 20 sec
+Tipu Market G-8,Ibn-e-Sina Metro Station,tipu market g 8,ibn e sina metro station,17,70.0,70,70,FR-06,1 min 10 sec
+Top City,Mumtaz City,top city,mumtaz city,13,80.0,80,80,FR-13,1 min 20 sec
+Traders Colony,Akbar Niazi Hospital,traders colony,akbar niazi hospital,65,80.0,80,80,FR-14A,1 min 20 sec
+University of Wah,Nawab Abad,university of wah,nawab abad,12,110.0,110,110,FR-12,1 min 50 sec
+WAPDA Colony,Hassan Abdal,wapda colony,hassan abdal,12,90.0,90,90,FR-12,1 min 30 sec
+Wah Cantt Barrier 03,Ahmad Nagar,wah cantt barrier 03,ahmad nagar,12,50.0,50,50,FR-12,0 min 50 sec
+Wah Cantt Barrier No 2,Gulshan e Anwar,wah cantt barrier no 2,gulshan e anwar,12,80.0,80,80,FR-12,1 min 20 sec
+Wah Gardens,Askari Cement Factory Road,wah gardens,askari cement factory road,12,115.0,115,115,FR-12,1 min 55 sec
+Wah Model Town Phase 01,Wah Model Town Phase 02,wah model town phase 01,wah model town phase 02,12,100.0,100,100,FR-12,1 min 40 sec
+Wah Model Town Phase 02,Swedish College,wah model town phase 02,swedish college,12,55.0,55,55,FR-12,0 min 55 sec
+Wahdat Colony,Timber Market,wahdat colony,timber market,19,80.0,80,80,FR-10,1 min 20 sec
+Westridge,CTTI,westridge,ctti,65,77.0,77,77,FR-09,1 min 17 sec
+Youth Hostel,Metropolitan Corporation,youth hostel,metropolitan corporation,97,260.0,260,260,FR-04,4 min 20 sec
+Zero Point,CDA,zero point,cda,218,120.8256880733945,120,140,"FR-08A, ST-02",2 min 1 sec
+Zia Masjid,Khanna Pul,zia masjid,khanna pul,196,150.0,150,150,FRB-01,2 min 30 sec
+Zia Masjid,Kuri Road,zia masjid,kuri road,65,120.0,120,120,FR-09,2 min 0 sec

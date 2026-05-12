@@ -1,0 +1,425 @@
+--- PAGE 1 ---
+Field
+Value
+Route ID
+11001
+Short Name
+ST-01
+Long Name
+ PIMS Hospital- Daman e Koh
+Direction
+Forward
+Total Trips
+9
+Average Headway (min)60
+Trip ID
+Start Time
+175280-0
+09:10:00
+stop_name
+arrival_time
+departure_time
+PIMS Hospital
+09:10:00
+09:10:00
+Faisal Morh F-7/F-8
+09:13:40
+09:14:00
+Katchery
+09:16:40
+09:17:00
+F-8 Markaz
+09:18:45
+09:19:05
+F-9 Park
+09:21:05
+09:21:25
+Shaheen Chowk
+09:22:50
+09:23:10
+Bahria University
+09:26:10
+09:26:30
+Naval Complex
+09:28:15
+09:28:35
+Faisal Masjid
+09:31:30
+09:31:50
+Parveen Shakir Road
+09:34:30
+09:34:50
+Kohsar Road/F-7 Marka 09:37:10
+09:37:30
+Murghzar Zoo
+09:40:10
+09:40:30
+Daman e Koh
+09:50:00
+09:50:00
+Trip ID
+Start Time
+175272-0
+10:10:00
+stop_name
+arrival_time
+departure_time
+PIMS Hospital
+10:10:00
+10:10:00
+Faisal Morh F-7/F-8
+10:13:40
+10:14:00
+Katchery
+10:16:40
+10:17:00
+F-8 Markaz
+10:18:45
+10:19:05
+F-9 Park
+10:21:05
+10:21:25
+Shaheen Chowk
+10:22:50
+10:23:10
+Bahria University
+10:26:10
+10:26:30
+Naval Complex
+10:28:15
+10:28:35
+Faisal Masjid
+10:31:30
+10:31:50
+Parveen Shakir Road
+10:34:30
+10:34:50
+Kohsar Road/F-7 Marka 10:37:10
+10:37:30
+Murghzar Zoo
+10:40:10
+10:40:30
+Daman e Koh
+10:50:00
+10:50:00
+Trip ID
+Start Time
+175273-0
+11:10:00
+stop_name
+arrival_time
+departure_time
+PIMS Hospital
+11:10:00
+11:10:00
+Faisal Morh F-7/F-8
+11:13:40
+11:14:00
+Katchery
+11:16:40
+11:17:00
+F-8 Markaz
+11:18:45
+11:19:05
+F-9 Park
+11:21:05
+11:21:25
+
+--- PAGE 2 ---
+Shaheen Chowk
+11:22:50
+11:23:10
+Bahria University
+11:26:10
+11:26:30
+Naval Complex
+11:28:15
+11:28:35
+Faisal Masjid
+11:31:30
+11:31:50
+Parveen Shakir Road
+11:34:30
+11:34:50
+Kohsar Road/F-7 Marka 11:37:10
+11:37:30
+Murghzar Zoo
+11:40:10
+11:40:30
+Daman e Koh
+11:50:00
+11:50:00
+Trip ID
+Start Time
+175274-0
+12:10:00
+stop_name
+arrival_time
+departure_time
+PIMS Hospital
+12:10:00
+12:10:00
+Faisal Morh F-7/F-8
+12:13:40
+12:14:00
+Katchery
+12:16:40
+12:17:00
+F-8 Markaz
+12:18:45
+12:19:05
+F-9 Park
+12:21:05
+12:21:25
+Shaheen Chowk
+12:22:50
+12:23:10
+Bahria University
+12:26:10
+12:26:30
+Naval Complex
+12:28:15
+12:28:35
+Faisal Masjid
+12:31:30
+12:31:50
+Parveen Shakir Road
+12:34:30
+12:34:50
+Kohsar Road/F-7 Marka 12:37:10
+12:37:30
+Murghzar Zoo
+12:40:10
+12:40:30
+Daman e Koh
+12:50:00
+12:50:00
+Trip ID
+Start Time
+175275-0
+13:10:00
+stop_name
+arrival_time
+departure_time
+PIMS Hospital
+13:10:00
+13:10:00
+Faisal Morh F-7/F-8
+13:13:40
+13:14:00
+Katchery
+13:16:40
+13:17:00
+F-8 Markaz
+13:18:45
+13:19:05
+F-9 Park
+13:21:05
+13:21:25
+Shaheen Chowk
+13:22:50
+13:23:10
+Bahria University
+13:26:10
+13:26:30
+Naval Complex
+13:28:15
+13:28:35
+Faisal Masjid
+13:31:30
+13:31:50
+Parveen Shakir Road
+13:34:30
+13:34:50
+Kohsar Road/F-7 Marka 13:37:10
+13:37:30
+Murghzar Zoo
+13:40:10
+13:40:30
+Daman e Koh
+13:50:00
+13:50:00
+Trip ID
+Start Time
+175276-0
+14:10:00
+stop_name
+arrival_time
+departure_time
+PIMS Hospital
+14:10:00
+14:10:00
+Faisal Morh F-7/F-8
+14:13:40
+14:14:00
+Katchery
+14:16:40
+14:17:00
+F-8 Markaz
+14:18:45
+14:19:05
+
+--- PAGE 3 ---
+F-9 Park
+14:21:05
+14:21:25
+Shaheen Chowk
+14:22:50
+14:23:10
+Bahria University
+14:26:10
+14:26:30
+Naval Complex
+14:28:15
+14:28:35
+Faisal Masjid
+14:31:30
+14:31:50
+Parveen Shakir Road
+14:34:30
+14:34:50
+Kohsar Road/F-7 Marka 14:37:10
+14:37:30
+Murghzar Zoo
+14:40:10
+14:40:30
+Daman e Koh
+14:50:00
+14:50:00
+Trip ID
+Start Time
+175277-0
+15:10:00
+stop_name
+arrival_time
+departure_time
+PIMS Hospital
+15:10:00
+15:10:00
+Faisal Morh F-7/F-8
+15:13:40
+15:14:00
+Katchery
+15:16:40
+15:17:00
+F-8 Markaz
+15:18:45
+15:19:05
+F-9 Park
+15:21:05
+15:21:25
+Shaheen Chowk
+15:22:50
+15:23:10
+Bahria University
+15:26:10
+15:26:30
+Naval Complex
+15:28:15
+15:28:35
+Faisal Masjid
+15:31:30
+15:31:50
+Parveen Shakir Road
+15:34:30
+15:34:50
+Kohsar Road/F-7 Marka 15:37:10
+15:37:30
+Murghzar Zoo
+15:40:10
+15:40:30
+Daman e Koh
+15:50:00
+15:50:00
+Trip ID
+Start Time
+175278-0
+16:10:00
+stop_name
+arrival_time
+departure_time
+PIMS Hospital
+16:10:00
+16:10:00
+Faisal Morh F-7/F-8
+16:13:40
+16:14:00
+Katchery
+16:16:40
+16:17:00
+F-8 Markaz
+16:18:45
+16:19:05
+F-9 Park
+16:21:05
+16:21:25
+Shaheen Chowk
+16:22:50
+16:23:10
+Bahria University
+16:26:10
+16:26:30
+Naval Complex
+16:28:15
+16:28:35
+Faisal Masjid
+16:31:30
+16:31:50
+Parveen Shakir Road
+16:34:30
+16:34:50
+Kohsar Road/F-7 Marka 16:37:10
+16:37:30
+Murghzar Zoo
+16:40:10
+16:40:30
+Daman e Koh
+16:50:00
+16:50:00
+Trip ID
+Start Time
+175279-0
+17:10:00
+stop_name
+arrival_time
+departure_time
+PIMS Hospital
+17:10:00
+17:10:00
+Faisal Morh F-7/F-8
+17:13:40
+17:14:00
+Katchery
+17:16:40
+17:17:00
+
+--- PAGE 4 ---
+F-8 Markaz
+17:18:45
+17:19:05
+F-9 Park
+17:21:05
+17:21:25
+Shaheen Chowk
+17:22:50
+17:23:10
+Bahria University
+17:26:10
+17:26:30
+Naval Complex
+17:28:15
+17:28:35
+Faisal Masjid
+17:31:30
+17:31:50
+Parveen Shakir Road
+17:34:30
+17:34:50
+Kohsar Road/F-7 Marka 17:37:10
+17:37:30
+Murghzar Zoo
+17:40:10
+17:40:30
+Daman e Koh
+17:50:00
+17:50:00

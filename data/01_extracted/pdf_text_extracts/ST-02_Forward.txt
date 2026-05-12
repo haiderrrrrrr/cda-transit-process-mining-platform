@@ -1,0 +1,590 @@
+--- PAGE 1 ---
+Field
+Value
+Route ID
+11002
+Short Name
+ST-02
+Long Name
+10220 - PIMS-10238 - Capt. Naeem Tufail Shaheed Chowk
+Direction
+Forward
+Total Trips
+9
+Average Headway (min)
+60
+Trip ID
+Start Time
+175263-0
+09:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+09:10:00
+09:10:00
+TNT
+09:13:40
+09:14:00
+Zero Point
+09:16:00
+09:16:20
+CDA
+09:18:40
+09:19:00
+Abpara
+09:20:20
+09:20:40
+Shakarparian Park
+09:26:50
+09:27:10
+Rawal Town
+09:40:20
+09:40:40
+School Board Stop
+09:41:50
+09:42:10
+Rawal Dam Colony
+09:43:20
+09:43:40
+NARC Colony
+09:45:50
+09:46:10
+NIH Allergy Center
+09:47:30
+09:47:50
+Shahzad Town
+09:49:50
+09:50:10
+Park View City
+09:51:30
+09:51:50
+Green Avenue
+09:54:00
+09:54:20
+Chatta Bakhtawar
+09:55:20
+09:55:40
+Hostel City
+09:57:50
+09:58:10
+COMSATS University
+09:59:50
+10:00:10
+Tamma Stop
+10:01:20
+10:01:40
+Capt. Naeem Tufail Shaheed Chow 10:03:00
+10:03:00
+Trip ID
+Start Time
+175264-0
+10:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+10:10:00
+10:10:00
+TNT
+10:13:40
+10:14:00
+Zero Point
+10:16:00
+10:16:20
+CDA
+10:18:40
+10:19:00
+Abpara
+10:20:20
+10:20:40
+Shakarparian Park
+10:26:50
+10:27:10
+Rawal Town
+10:40:20
+10:40:40
+School Board Stop
+10:41:50
+10:42:10
+Rawal Dam Colony
+10:43:20
+10:43:40
+NARC Colony
+10:45:50
+10:46:10
+NIH Allergy Center
+10:47:30
+10:47:50
+Shahzad Town
+10:49:50
+10:50:10
+Park View City
+10:51:30
+10:51:50
+Green Avenue
+10:54:00
+10:54:20
+Chatta Bakhtawar
+10:55:20
+10:55:40
+Hostel City
+10:57:50
+10:58:10
+
+--- PAGE 2 ---
+COMSATS University
+10:59:50
+11:00:10
+Tamma Stop
+11:01:20
+11:01:40
+Capt. Naeem Tufail Shaheed Chow 11:03:00
+11:03:00
+Trip ID
+Start Time
+175265-0
+11:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+11:10:00
+11:10:00
+TNT
+11:13:40
+11:14:00
+Zero Point
+11:16:00
+11:16:20
+CDA
+11:18:40
+11:19:00
+Abpara
+11:20:20
+11:20:40
+Shakarparian Park
+11:26:50
+11:27:10
+Rawal Town
+11:40:20
+11:40:40
+School Board Stop
+11:41:50
+11:42:10
+Rawal Dam Colony
+11:43:20
+11:43:40
+NARC Colony
+11:45:50
+11:46:10
+NIH Allergy Center
+11:47:30
+11:47:50
+Shahzad Town
+11:49:50
+11:50:10
+Park View City
+11:51:30
+11:51:50
+Green Avenue
+11:54:00
+11:54:20
+Chatta Bakhtawar
+11:55:20
+11:55:40
+Hostel City
+11:57:50
+11:58:10
+COMSATS University
+11:59:50
+12:00:10
+Tamma Stop
+12:01:20
+12:01:40
+Capt. Naeem Tufail Shaheed Chow 12:03:00
+12:03:00
+Trip ID
+Start Time
+175266-0
+12:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+12:10:00
+12:10:00
+TNT
+12:13:40
+12:14:00
+Zero Point
+12:16:00
+12:16:20
+CDA
+12:18:40
+12:19:00
+Abpara
+12:20:20
+12:20:40
+Shakarparian Park
+12:26:50
+12:27:10
+Rawal Town
+12:40:20
+12:40:40
+School Board Stop
+12:41:50
+12:42:10
+Rawal Dam Colony
+12:43:20
+12:43:40
+NARC Colony
+12:45:50
+12:46:10
+NIH Allergy Center
+12:47:30
+12:47:50
+Shahzad Town
+12:49:50
+12:50:10
+Park View City
+12:51:30
+12:51:50
+Green Avenue
+12:54:00
+12:54:20
+Chatta Bakhtawar
+12:55:20
+12:55:40
+Hostel City
+12:57:50
+12:58:10
+COMSATS University
+12:59:50
+13:00:10
+Tamma Stop
+13:01:20
+13:01:40
+Capt. Naeem Tufail Shaheed Chow 13:03:00
+13:03:00
+
+--- PAGE 3 ---
+Trip ID
+Start Time
+175267-0
+13:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+13:10:00
+13:10:00
+TNT
+13:13:40
+13:14:00
+Zero Point
+13:16:00
+13:16:20
+CDA
+13:18:40
+13:19:00
+Abpara
+13:20:20
+13:20:40
+Shakarparian Park
+13:26:50
+13:27:10
+Rawal Town
+13:40:20
+13:40:40
+School Board Stop
+13:41:50
+13:42:10
+Rawal Dam Colony
+13:43:20
+13:43:40
+NARC Colony
+13:45:50
+13:46:10
+NIH Allergy Center
+13:47:30
+13:47:50
+Shahzad Town
+13:49:50
+13:50:10
+Park View City
+13:51:30
+13:51:50
+Green Avenue
+13:54:00
+13:54:20
+Chatta Bakhtawar
+13:55:20
+13:55:40
+Hostel City
+13:57:50
+13:58:10
+COMSATS University
+13:59:50
+14:00:10
+Tamma Stop
+14:01:20
+14:01:40
+Capt. Naeem Tufail Shaheed Chow 14:03:00
+14:03:00
+Trip ID
+Start Time
+175268-0
+14:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+14:10:00
+14:10:00
+TNT
+14:13:40
+14:14:00
+Zero Point
+14:16:00
+14:16:20
+CDA
+14:18:40
+14:19:00
+Abpara
+14:20:20
+14:20:40
+Shakarparian Park
+14:26:50
+14:27:10
+Rawal Town
+14:40:20
+14:40:40
+School Board Stop
+14:41:50
+14:42:10
+Rawal Dam Colony
+14:43:20
+14:43:40
+NARC Colony
+14:45:50
+14:46:10
+NIH Allergy Center
+14:47:30
+14:47:50
+Shahzad Town
+14:49:50
+14:50:10
+Park View City
+14:51:30
+14:51:50
+Green Avenue
+14:54:00
+14:54:20
+Chatta Bakhtawar
+14:55:20
+14:55:40
+Hostel City
+14:57:50
+14:58:10
+COMSATS University
+14:59:50
+15:00:10
+Tamma Stop
+15:01:20
+15:01:40
+Capt. Naeem Tufail Shaheed Chow 15:03:00
+15:03:00
+Trip ID
+Start Time
+175269-0
+15:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+15:10:00
+15:10:00
+
+--- PAGE 4 ---
+TNT
+15:13:40
+15:14:00
+Zero Point
+15:16:00
+15:16:20
+CDA
+15:18:40
+15:19:00
+Abpara
+15:20:20
+15:20:40
+Shakarparian Park
+15:26:50
+15:27:10
+Rawal Town
+15:40:20
+15:40:40
+School Board Stop
+15:41:50
+15:42:10
+Rawal Dam Colony
+15:43:20
+15:43:40
+NARC Colony
+15:45:50
+15:46:10
+NIH Allergy Center
+15:47:30
+15:47:50
+Shahzad Town
+15:49:50
+15:50:10
+Park View City
+15:51:30
+15:51:50
+Green Avenue
+15:54:00
+15:54:20
+Chatta Bakhtawar
+15:55:20
+15:55:40
+Hostel City
+15:57:50
+15:58:10
+COMSATS University
+15:59:50
+16:00:10
+Tamma Stop
+16:01:20
+16:01:40
+Capt. Naeem Tufail Shaheed Chow 16:03:00
+16:03:00
+Trip ID
+Start Time
+175270-0
+16:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+16:10:00
+16:10:00
+TNT
+16:13:40
+16:14:00
+Zero Point
+16:16:00
+16:16:20
+CDA
+16:18:40
+16:19:00
+Abpara
+16:20:20
+16:20:40
+Shakarparian Park
+16:26:50
+16:27:10
+Rawal Town
+16:40:20
+16:40:40
+School Board Stop
+16:41:50
+16:42:10
+Rawal Dam Colony
+16:43:20
+16:43:40
+NARC Colony
+16:45:50
+16:46:10
+NIH Allergy Center
+16:47:30
+16:47:50
+Shahzad Town
+16:49:50
+16:50:10
+Park View City
+16:51:30
+16:51:50
+Green Avenue
+16:54:00
+16:54:20
+Chatta Bakhtawar
+16:55:20
+16:55:40
+Hostel City
+16:57:50
+16:58:10
+COMSATS University
+16:59:50
+17:00:10
+Tamma Stop
+17:01:20
+17:01:40
+Capt. Naeem Tufail Shaheed Chow 17:03:00
+17:03:00
+Trip ID
+Start Time
+175271-0
+17:10:00
+stop_name
+arrival_time
+departure_time
+PIMS
+17:10:00
+17:10:00
+TNT
+17:13:40
+17:14:00
+Zero Point
+17:16:00
+17:16:20
+CDA
+17:18:40
+17:19:00
+Abpara
+17:20:20
+17:20:40
+
+--- PAGE 5 ---
+Shakarparian Park
+17:26:50
+17:27:10
+Rawal Town
+17:40:20
+17:40:40
+School Board Stop
+17:41:50
+17:42:10
+Rawal Dam Colony
+17:43:20
+17:43:40
+NARC Colony
+17:45:50
+17:46:10
+NIH Allergy Center
+17:47:30
+17:47:50
+Shahzad Town
+17:49:50
+17:50:10
+Park View City
+17:51:30
+17:51:50
+Green Avenue
+17:54:00
+17:54:20
+Chatta Bakhtawar
+17:55:20
+17:55:40
+Hostel City
+17:57:50
+17:58:10
+COMSATS University
+17:59:50
+18:00:10
+Tamma Stop
+18:01:20
+18:01:40
+Capt. Naeem Tufail Shaheed Chow 18:03:00
+18:03:00
